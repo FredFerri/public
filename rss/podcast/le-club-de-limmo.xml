@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+ <channel>
+  <title>BX1 - Le Club de l’Immo</title>
+  <link>https://bx1plus.be/</link>
+  <description></description>
+  <itunes:summary></itunes:summary>
+  <copyright>BX1 - 2025. Tous droits réservés.</copyright>
+  <image>
+   <url></url>
+   <title></title>
+  </image>
+  <itunes:author>BX1</itunes:author>
+  <itunes:owner>
+   <itunes:name>BX1+</itunes:name>
+   <itunes:email>web@bx1.be</itunes:email>
+  </itunes:owner>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:category text="News"/>
+  <language>fr</language>
+  <lastBuildDate>Tue, 15 Apr 2025 13:15:21 +0200</lastBuildDate>
+  <itunes:image href=""/>
+  <item>
+   <title>Le Club de l&amp;#8217;Immo &amp;#8211; 09/04/2025</title>
+   <guid>750055</guid>
+   <link>https://bx1.be/?p=750055</link>
+   <pubDate></pubDate>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href=""/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ECI00001.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>Le Club de l'immo - 09/04/2025</itunes:summary>
+   <description>Le Club de l'immo - 09/04/2025</description>
+  </item>
+ </channel>
+</rss>

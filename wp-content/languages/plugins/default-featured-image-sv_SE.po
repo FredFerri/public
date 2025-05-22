@@ -1,0 +1,50 @@
+# Translation of Plugins - Default featured image - Development (trunk) in Swedish
+# This file is distributed under the same license as the Plugins - Default featured image - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-22 14:42:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Default featured image - Development (trunk)\n"
+
+#. Author URI of the plugin
+msgid "https://janw.me/"
+msgstr "https://janw.me/"
+
+#. Author of the plugin
+msgid "Jan Willem Oostendorp"
+msgstr "Jan Willem Oostendorp"
+
+#. Description of the plugin
+msgid "Allows users to select a default featured image in the media settings"
+msgstr "Tillåter användare att välja utvald standardbild i medieinställningarna."
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/extend/plugins/default-featured-image/"
+msgstr "http://wordpress.org/extend/plugins/default-featured-image/"
+
+#: set-default-featured-image.php:225
+msgid "Settings"
+msgstr "Inställningar"
+
+#: set-default-featured-image.php:185
+msgid "Set default featured image"
+msgstr "Ställ in en utvald bild som standard"
+
+#: set-default-featured-image.php:152 set-default-featured-image.php:153
+msgid "Don't use a default featured image"
+msgstr "Använd inte en utvald bild som standard"
+
+#: set-default-featured-image.php:146 set-default-featured-image.php:148
+#: set-default-featured-image.php:184
+msgid "Select default featured image"
+msgstr "Välj en utvald bild som standard"
+
+#. Plugin Name of the plugin
+#: set-default-featured-image.php:125
+msgid "Default featured image"
+msgstr "Default featured image"

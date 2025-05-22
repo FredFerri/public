@@ -1,0 +1,548 @@
+# Translation of Plugins - Dear Flipbook &#8211; PDF Flipbook, 3D Flipbook, PDF embed, PDF viewer - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Dear Flipbook &#8211; PDF Flipbook, 3D Flipbook, PDF embed, PDF viewer - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-01-20 08:26:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Dear Flipbook &#8211; PDF Flipbook, 3D Flipbook, PDF embed, PDF viewer - Stable (latest release)\n"
+
+#: inc/settings.php:100
+msgid "General"
+msgstr "Allgemein"
+
+#: 3d-flipbook-dflip-lite.php:437
+msgid "Choose the Viewer Type. Flipbook or normal viewer"
+msgstr "Wähle den Betrachtertyp. Flipbook oder normal"
+
+#: 3d-flipbook-dflip-lite.php:436
+msgid "Viewer Type"
+msgstr "Betrachtertyp"
+
+#: 3d-flipbook-dflip-lite.php:434
+msgid "Slider"
+msgstr "Slider"
+
+#: 3d-flipbook-dflip-lite.php:432
+msgid "Vertical Reader"
+msgstr "Vertikaler Reader"
+
+#: inc/settings.php:345
+msgid "Settings updated."
+msgstr "Einstellungen wurden aktualisiert."
+
+#: inc/settings.php:113
+msgid "Update Settings"
+msgstr "Einstellungen aktualisieren"
+
+#: inc/settings.php:101
+msgid "Advanced"
+msgstr "Erweitert"
+
+#: inc/settings.php:80
+msgid "Global Settings"
+msgstr "Globale Einstellungen"
+
+#: inc/settings.php:80
+msgid "dFlip Global Settings"
+msgstr "Globale dFlip-Einstellungen"
+
+#: inc/post-type.php:216
+msgid "Last Modified"
+msgstr "Zuletzt geändert"
+
+#: inc/post-type.php:62
+msgid "Description."
+msgstr "Beschreibung."
+
+#: inc/post-type.php:57
+msgid "No dFlip Books found in Trash."
+msgstr "Keine dFlip Books im Papierkorb gefunden."
+
+#: inc/post-type.php:56
+msgid "No dFlip-Books found."
+msgstr "Keine dFlip Books gefunden."
+
+#: inc/post-type.php:55
+msgid "Parent dFlip Books:"
+msgstr "Übergeordnete dFlip Books:"
+
+#: inc/post-type.php:54
+msgid "Search dFlip Books"
+msgstr "dFlip Books durchsuchen"
+
+#: inc/post-type.php:53
+msgid "All Books"
+msgstr "Alle Books"
+
+#: inc/post-type.php:52
+msgid "View dFlip Book"
+msgstr "dFlip Book anzeigen"
+
+#: inc/post-type.php:51
+msgid "Edit dFlip Book"
+msgstr "dFlip Book bearbeiten"
+
+#: inc/post-type.php:50
+msgid "New dFlip Book"
+msgstr "Neues dFlip book"
+
+#: inc/post-type.php:48 inc/post-type.php:49
+msgid "Add New Book"
+msgstr "Neues dFlip Book hinzufügen"
+
+#: inc/post-type.php:46
+msgid "dFlip Books"
+msgstr "dFlip Books"
+
+#: inc/post-type.php:44 inc/post-type.php:45 inc/post-type.php:47
+msgid "dFlip Book"
+msgstr "dFlip Book"
+
+#: inc/metaboxes.php:478
+msgid "Create a tree structure bookmark/outline of your book for easy access:<br>%s"
+msgstr "Erstelle ein Lesezeichen/Inhaltsverzeichnis deines Books in einer Baumstruktur für einen einfachen Zugriff:<br>%s"
+
+#: inc/metaboxes.php:339
+msgid "Content"
+msgstr "Inhalt"
+
+#: inc/metaboxes.php:330
+msgid "Title"
+msgstr "Titel"
+
+#: inc/metaboxes.php:309
+msgid "Add New Page"
+msgstr "Neue Seite hinzufügen"
+
+#: inc/metaboxes.php:304
+msgid "Add or remove pages as per your requirement. Plus reorder them in the order needed."
+msgstr "Füge Seiten nach deinem Bedarf hinzu oder entferne sie. Außerdem kannst du sie in der gewünschten Reihenfolge neu anordnen."
+
+#: inc/metaboxes.php:300
+msgid "Custom Pages"
+msgstr "Individuelle Seiten"
+
+#: inc/metaboxes.php:231
+msgid "Outline"
+msgstr "Inhaltsverzeichnis"
+
+#: 3d-flipbook-dflip-lite.php:433 inc/metaboxes.php:230
+msgid "Flipbook"
+msgstr "Flipbook"
+
+#: inc/metaboxes.php:229
+msgid "General/Layout"
+msgstr "Allgemein/Layout"
+
+#: inc/metaboxes.php:228
+msgid "Source"
+msgstr "Quelle"
+
+#: inc/metaboxes.php:110
+msgid "Useful Links"
+msgstr "Nützliche Links"
+
+#: inc/metaboxes.php:108 inc/post-type.php:215
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/metaboxes.php:106
+msgid "dFlip Settings"
+msgstr "dFlip-Einstellungen"
+
+#: inc/metaboxes.php:104
+msgid "More Features in FULL VERSION!"
+msgstr "Mehr Funktionen in der VOLLVERSION!"
+
+#: 3d-flipbook-dflip-lite.php:421
+msgid "Autoplay Duration"
+msgstr "Dauer der automatischen Wiedergabe"
+
+#: 3d-flipbook-dflip-lite.php:416
+msgid "Enable AutoPlay automatically when flipbook loads"
+msgstr "Automatische Wiedergabe automatisch aktiveren, wenn Flipbook geladen wird"
+
+#: 3d-flipbook-dflip-lite.php:415
+msgid "Enable AutoPlay Automatically"
+msgstr "Automatische Wiedergabe automatisch aktivieren"
+
+#: 3d-flipbook-dflip-lite.php:404
+msgid "Enable AutoPlay in Flipbook"
+msgstr "Automatische Wiedergabe im Flipbook aktivieren"
+
+#: 3d-flipbook-dflip-lite.php:403
+msgid "Enable AutoPlay"
+msgstr "Automatische Wiedergabe aktivieren"
+
+#: 3d-flipbook-dflip-lite.php:375
+msgid "Choose the size of image to be generated."
+msgstr "Wähle die Größe des zu generierenden Bildes."
+
+#: 3d-flipbook-dflip-lite.php:374
+msgid "Page Render Size"
+msgstr "Seiten-Rendergröße"
+
+#: 3d-flipbook-dflip-lite.php:361
+msgid "Choose where you want to display the controls bar or not display at all."
+msgstr "Wähle aus, wo die Kontrollleiste angezeigt werden soll, oder ob sie überhaupt nicht angezeigt werden soll."
+
+#: 3d-flipbook-dflip-lite.php:360
+msgid "Controls Position"
+msgstr "Position der Steuerung"
+
+#: 3d-flipbook-dflip-lite.php:357
+msgid "Hidden"
+msgstr "Versteckt"
+
+#: 3d-flipbook-dflip-lite.php:356
+msgid "Top"
+msgstr "Oben"
+
+#: 3d-flipbook-dflip-lite.php:355
+msgid "Bottom"
+msgstr "Unten"
+
+#: 3d-flipbook-dflip-lite.php:349
+msgid "Choose how the single page will behave. If set to Auto, then in mobiles single page mode will be in Booklet mode."
+msgstr "Lege fest, wie sich die einzelne Seite verhalten soll. Wenn du Auto wählst, wird der Einzelseitenmodus auf dem Handy zum Broschürenmodus."
+
+#: 3d-flipbook-dflip-lite.php:345
+msgid "Booklet Mode"
+msgstr "Broschürenmodus"
+
+#: 3d-flipbook-dflip-lite.php:344
+msgid "Normal Zoom"
+msgstr "Normaler Zoom"
+
+#: 3d-flipbook-dflip-lite.php:337
+msgid "Choose whether Layout is single page mode or double internal. Recommended Auto if PDF file"
+msgstr "Wähle aus, ob das Layout im Einzelseitenmodus oder im Doppelseitenmodus erfolgen soll. Empfohlen: Auto, wenn PDF-Datei"
+
+#: 3d-flipbook-dflip-lite.php:336
+msgid "Page Size"
+msgstr "Seitengröße"
+
+#: 3d-flipbook-dflip-lite.php:333
+msgid "Double Internal Page"
+msgstr "Doppelte Innenseite"
+
+#: 3d-flipbook-dflip-lite.php:325
+msgid "Choose whether you want single mode or double page mode. Recommended Auto"
+msgstr "Wähle aus, ob du den Einzel- oder den Doppelseitenmodus möchtest. Empfohlen Auto"
+
+#: 3d-flipbook-dflip-lite.php:324
+msgid "Page Mode"
+msgstr "Seitenmodus"
+
+#: 3d-flipbook-dflip-lite.php:321
+msgid "Double Page"
+msgstr "Doppelseite"
+
+#: 3d-flipbook-dflip-lite.php:320 3d-flipbook-dflip-lite.php:332
+msgid "Single Page"
+msgstr "Einzelseite"
+
+#: 3d-flipbook-dflip-lite.php:319 3d-flipbook-dflip-lite.php:331
+#: 3d-flipbook-dflip-lite.php:343
+msgid "Auto"
+msgstr "Automatisch"
+
+#: 3d-flipbook-dflip-lite.php:313
+msgid "Choose if thumbnail will be auto enabled on start.Note : Either thumbnail or outline will be active at a time.)"
+msgstr "Wähle aus, ob das Vorschaubild beim Start automatisch aktiviert werden soll (Hinweis: Entweder das Vorschaubild oder das Inhaltsverzeichnis sind zu einem Zeitpunkt aktiv)."
+
+#: 3d-flipbook-dflip-lite.php:312
+msgid "Auto Enable Thumbnail"
+msgstr "Vorschaubild automatisch aktivieren"
+
+#: 3d-flipbook-dflip-lite.php:303
+msgid "Choose if outline will be auto enabled on start."
+msgstr "Lege fest, ob das Inhaltsverzeichnis beim Start automatisch aktiviert werden soll."
+
+#: 3d-flipbook-dflip-lite.php:302
+msgid "Auto Enable Outline"
+msgstr "Inhaltsverzeichnis automatisch aktivieren"
+
+#: 3d-flipbook-dflip-lite.php:292
+msgid "Choose if PDF Outline will overwritten."
+msgstr "Wähle aus, ob das PDF-Inhaltsverzeichnis überschrieben werden soll."
+
+#: 3d-flipbook-dflip-lite.php:291
+msgid "Overwrite PDF Outline"
+msgstr "PDF-Inhaltsverzeichnis überschreiben"
+
+#: 3d-flipbook-dflip-lite.php:280
+msgid "Select Thumb"
+msgstr "Vorschaubild auswählen"
+
+#: 3d-flipbook-dflip-lite.php:279
+msgid "Select PDF Thumb Image"
+msgstr "PDF-Vorschaubild auswählen"
+
+#: 3d-flipbook-dflip-lite.php:276
+msgid "Choose an image file for PDF thumb."
+msgstr "Miniaturbild als PDF-Vorschaubild auswählen"
+
+#: 3d-flipbook-dflip-lite.php:275
+msgid "PDF Thumbnail Image"
+msgstr "PDF-Vorschaubild"
+
+#: 3d-flipbook-dflip-lite.php:269
+msgid "Select PDF"
+msgstr "PDF auswählen"
+
+#: 3d-flipbook-dflip-lite.php:266 3d-flipbook-dflip-lite.php:268
+msgid "Select a PDF File"
+msgstr "Eine PDF-Datei auswählen"
+
+#: 3d-flipbook-dflip-lite.php:265
+msgid "Choose a PDF File to use as source for the book."
+msgstr "Wähle eine PDF-Datei aus, die du als Quelle für dein Book verwenden möchtest."
+
+#: 3d-flipbook-dflip-lite.php:260
+msgid "Choose the source of this book. \"PDF\" for pdf files. \"Images\" for image files."
+msgstr "Wähle die Quelle des Buches. „PDF“ für PDF-Dateien. „Bilder“ für Bilddateien."
+
+#: 3d-flipbook-dflip-lite.php:259
+msgid "Book Source Type"
+msgstr "Quelltyp des Books"
+
+#: 3d-flipbook-dflip-lite.php:257
+msgid "Images"
+msgstr "Bilder"
+
+#: 3d-flipbook-dflip-lite.php:256 3d-flipbook-dflip-lite.php:264
+msgid "PDF File"
+msgstr "PDF-Datei"
+
+#: 3d-flipbook-dflip-lite.php:251
+msgid "Left to Right or Right to Left."
+msgstr "Von links nach rechts oder von rechts nach links."
+
+#: 3d-flipbook-dflip-lite.php:250
+msgid "Direction"
+msgstr "Richtung"
+
+#: 3d-flipbook-dflip-lite.php:248
+msgid "Right to Left"
+msgstr "Rechts nach links"
+
+#: 3d-flipbook-dflip-lite.php:247
+msgid "Left to Right"
+msgstr "Links nach rechts"
+
+#: 3d-flipbook-dflip-lite.php:242
+msgid "Choose which pages to act as hard.(Only in CSS mode)"
+msgstr "Wähle aus, welche Seiten als fest gelten sollen. (Nur im CSS-Modus)"
+
+#: 3d-flipbook-dflip-lite.php:241
+msgid "Hard Pages"
+msgstr "Feste Seiten"
+
+#: 3d-flipbook-dflip-lite.php:238
+msgid "None"
+msgstr "Nichts"
+
+#: 3d-flipbook-dflip-lite.php:237
+msgid "All Pages"
+msgstr "Alle Seiten"
+
+#: 3d-flipbook-dflip-lite.php:236
+msgid "Cover Pages"
+msgstr "Titelseiten"
+
+#: 3d-flipbook-dflip-lite.php:230
+msgid "Choose the mode of display. WebGL for realistic 3d"
+msgstr "Art der Darstellung wählen. WebGL für realistisches 3D"
+
+#: 3d-flipbook-dflip-lite.php:229
+msgid "3D or 2D"
+msgstr "3D oder 2D"
+
+#: 3d-flipbook-dflip-lite.php:227
+msgid "CSS 3D/2D"
+msgstr "CSS 3D/2D"
+
+#: 3d-flipbook-dflip-lite.php:226
+msgid "WebGL 3D"
+msgstr "WebGL 3D"
+
+#: 3d-flipbook-dflip-lite.php:208
+msgid "Enable PDF download"
+msgstr "PDF-Download aktivieren"
+
+#: 3d-flipbook-dflip-lite.php:207
+msgid "Enable Download"
+msgstr "Download aktivieren"
+
+#: 3d-flipbook-dflip-lite.php:197
+msgid "Sound will play from the start."
+msgstr "Der Ton wird von Anfang an gespielt."
+
+#: 3d-flipbook-dflip-lite.php:196
+msgid "Auto Enable Sound"
+msgstr "Ton automatisch aktivieren"
+
+#: 3d-flipbook-dflip-lite.php:193 3d-flipbook-dflip-lite.php:204
+#: 3d-flipbook-dflip-lite.php:288 3d-flipbook-dflip-lite.php:299
+#: 3d-flipbook-dflip-lite.php:309 3d-flipbook-dflip-lite.php:400
+#: 3d-flipbook-dflip-lite.php:412
+msgid "False"
+msgstr "Falsch"
+
+#: 3d-flipbook-dflip-lite.php:192 3d-flipbook-dflip-lite.php:203
+#: 3d-flipbook-dflip-lite.php:287 3d-flipbook-dflip-lite.php:298
+#: 3d-flipbook-dflip-lite.php:308 3d-flipbook-dflip-lite.php:399
+#: 3d-flipbook-dflip-lite.php:411
+msgid "True"
+msgstr "Wahr"
+
+#: 3d-flipbook-dflip-lite.php:191 3d-flipbook-dflip-lite.php:202
+#: 3d-flipbook-dflip-lite.php:225 3d-flipbook-dflip-lite.php:235
+#: 3d-flipbook-dflip-lite.php:318 3d-flipbook-dflip-lite.php:342
+#: 3d-flipbook-dflip-lite.php:354 3d-flipbook-dflip-lite.php:366
+#: 3d-flipbook-dflip-lite.php:398 3d-flipbook-dflip-lite.php:410
+#: 3d-flipbook-dflip-lite.php:431
+msgid "Global Setting"
+msgstr "Globale Einstellung"
+
+#: 3d-flipbook-dflip-lite.php:178 3d-flipbook-dflip-lite.php:422
+msgid "Time in milliseconds eg:<code>1000</code>for 1second"
+msgstr "Zeit in Millisekunden, z. B.: <code>1000</code>für 1 Sekunde"
+
+#: 3d-flipbook-dflip-lite.php:177
+msgid "Flip Duration"
+msgstr "Dauer des Umblätterns"
+
+#: 3d-flipbook-dflip-lite.php:164
+msgid "Height of the flipbook container when in embed mode."
+msgstr "Höhe des Flipbook-Containers im Modus „Einbetten“."
+
+#: 3d-flipbook-dflip-lite.php:163
+msgid "Container Height"
+msgstr "Containerhöhe"
+
+#: 3d-flipbook-dflip-lite.php:159
+msgid "Select Image"
+msgstr "Bild auswählen"
+
+#: 3d-flipbook-dflip-lite.php:158
+msgid "Select Background Image"
+msgstr "Hintergrundbild auswählen"
+
+#: 3d-flipbook-dflip-lite.php:156 3d-flipbook-dflip-lite.php:277
+msgid "Select an image"
+msgstr "Bild auswählen"
+
+#: 3d-flipbook-dflip-lite.php:155
+msgid "Background image JPEG or PNG format:"
+msgstr "Hintergrundbild im JPEG- oder PNG-Format:"
+
+#: 3d-flipbook-dflip-lite.php:154
+msgid "Background Image"
+msgstr "Hintergrundbild"
+
+#: 3d-flipbook-dflip-lite.php:147
+msgid "Background color in hexadecimal format eg:<code>#FFF</code> or <code>#666666</code>"
+msgstr "Hintergrundfarbe in Hexadezimalformat, z. B.: <code>#FFF</code> oder <code>#666666</code>"
+
+#: 3d-flipbook-dflip-lite.php:146
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#: 3d-flipbook-dflip-lite.php:130
+msgid "DearFlip: Loading "
+msgstr "DearFlip: lädt "
+
+#: 3d-flipbook-dflip-lite.php:129
+msgid "Check out this site {{url}}"
+msgstr "Diese Website anschauen {{url}}"
+
+#: 3d-flipbook-dflip-lite.php:128
+msgid "I wanted you to see this FlipBook"
+msgstr "Ich wollte, dass du dieses Flipbook siehst"
+
+#: 3d-flipbook-dflip-lite.php:127
+msgid "Share"
+msgstr "Teilen"
+
+#: 3d-flipbook-dflip-lite.php:126
+msgid "Goto Last Page"
+msgstr "Zur letzten Seite gehen"
+
+#: 3d-flipbook-dflip-lite.php:125
+msgid "Goto First Page"
+msgstr "Zur ersten Seite gehen"
+
+#: 3d-flipbook-dflip-lite.php:124
+msgid "Download PDF File"
+msgstr "PDF-Datei herunterladen"
+
+#: 3d-flipbook-dflip-lite.php:123
+msgid "Double Page Mode"
+msgstr "Doppelseitenmodus"
+
+#: 3d-flipbook-dflip-lite.php:122 3d-flipbook-dflip-lite.php:348
+msgid "Single Page Mode"
+msgstr "Einzelseitenmodus"
+
+#: 3d-flipbook-dflip-lite.php:121
+msgid "Toggle Help"
+msgstr "Hilfe umschalten"
+
+#: 3d-flipbook-dflip-lite.php:120
+msgid "Zoom Out"
+msgstr "Herauszoomen"
+
+#: 3d-flipbook-dflip-lite.php:119
+msgid "Zoom In"
+msgstr "Hereinzoomen"
+
+#: 3d-flipbook-dflip-lite.php:118
+msgid "Toggle Fullscreen"
+msgstr "Vollbild umschalten"
+
+#: 3d-flipbook-dflip-lite.php:117
+msgid "Next Page"
+msgstr "Nächste Seite"
+
+#: 3d-flipbook-dflip-lite.php:116
+msgid "Previous Page"
+msgstr "Vorherige Seite"
+
+#: 3d-flipbook-dflip-lite.php:115
+msgid "Toggle Outline/Bookmark"
+msgstr "Inhaltsverzeichnis/Lesezeichen umschalten"
+
+#: 3d-flipbook-dflip-lite.php:114
+msgid "Toggle Thumbnails"
+msgstr "Vorschaubilder umschalten"
+
+#: 3d-flipbook-dflip-lite.php:113
+msgid "Turn on/off Sound"
+msgstr "Ton ein-/ausschalten"
+
+#. Author URI of the plugin
+#: 3d-flipbook-dflip-lite.php
+msgid "https://dearflip.com/go/wp-lite-author"
+msgstr "https://dearflip.com/go/wp-lite-author"
+
+#. Author of the plugin
+#: 3d-flipbook-dflip-lite.php
+msgid "DearHive"
+msgstr "DearHive"
+
+#. Description of the plugin
+#: 3d-flipbook-dflip-lite.php
+msgid "Realistic 3D Flip-books for WordPress <a href=\"https://dearflip.com/go/wp-lite-full-version\" >Get Full Version Here</a><strong> NOTE : Deactivate this lite version before activating Full Version</strong>"
+msgstr "Realistische 3D Flipbooks für WordPress <a href=\"https://dearflip.com/go/wp-lite-full-version\" >Zur Vollversion</a><strong> HINWEIS : Deaktiviere diese Lite-Version, bevor du die Vollversion aktivierst.</strong>"
+
+#. Plugin Name of the plugin
+#: 3d-flipbook-dflip-lite.php
+msgid "3D FlipBook : Dflip Lite"
+msgstr "3D FlipBook : Dflip Lite"

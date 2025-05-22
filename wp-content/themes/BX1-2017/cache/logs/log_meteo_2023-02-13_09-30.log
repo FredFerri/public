@@ -1,0 +1,748 @@
+________________________________________________
+|             CALL API : START                |
+________________________________________________
+
+Informations : 
+Called API: meteo - 13 February 2023, 09:30
+Method: GETMETEO - Timeout : 300 - Cache : 1
+URL CALLED : https://rmipro.meteo.be/products/bx1/5373bc0393d004fc/web_forecast
+-------------------------
+________________________________________________
+|             CALL API : START                |
+________________________________________________
+
+Informations : 
+Called API: meteo - 13 February 2023, 09:30
+Method: GETMETEO - Timeout : 300 - Cache : 1
+URL CALLED : https://rmipro.meteo.be/products/bx1/5373bc0393d004fc/web_forecast
+-------------------------
+<?xml version='1.0' encoding='UTF-8'?>
+<meteo>
+  <generationDate>13/02/2023 07:58</generationDate>
+  <forecast date="20230213" period="PM">
+    <titledate>13/02/23</titledate>
+    <titleday>lundi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMax>11 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMax>11 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMax>12 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMax>11 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMax>12 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMax>9 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20230213" period="NIGHT">
+    <titledate>13/02/23</titledate>
+    <titleday>lundi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMin>1 </tempMin>
+      <weathertype>TNN1</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMin>0 </tempMin>
+      <weathertype>TNN1</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMin>2 </tempMin>
+      <weathertype>TNN1</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMin>-1 </tempMin>
+      <weathertype>TNN1</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMin>2 </tempMin>
+      <weathertype>TNN1</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMin>0 </tempMin>
+      <weathertype>TNN27</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20230214" period="AM">
+    <titledate>14/02/23</titledate>
+    <titleday>mardi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMax>5 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMax>6 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMax>7 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMax>6 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMax>7 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMax>6 </tempMax>
+      <weathertype>TJ27</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20230214" period="PM">
+    <titledate>14/02/23</titledate>
+    <titleday>mardi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMax>11 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMax>11 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMax>12 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMax>11 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMax>12 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMax>9 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20230215" period="DAY">
+    <titledate>15/02/23</titledate>
+    <titleday>mercredi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMin>6 </tempMin>
+      <tempMax>10 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMin>5 </tempMin>
+      <tempMax>11 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMin>5 </tempMin>
+      <tempMax>11 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMin>1 </tempMin>
+      <tempMax>9 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMin>5 </tempMin>
+      <tempMax>13 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMin>1 </tempMin>
+      <tempMax>9 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20230216" period="DAY">
+    <titledate>16/02/23</titledate>
+    <titleday>jeudi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMin>9 </tempMin>
+      <tempMax>10 </tempMax>
+      <weathertype>TJ10</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMin>9 </tempMin>
+      <tempMax>10 </tempMax>
+      <weathertype>TJ10</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMin>9 </tempMin>
+      <tempMax>10 </tempMax>
+      <weathertype>TJ10</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMin>5 </tempMin>
+      <tempMax>6 </tempMax>
+      <weathertype>TJ10</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMin>8 </tempMin>
+      <tempMax>10 </tempMax>
+      <weathertype>TJ10</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMin>5 </tempMin>
+      <tempMax>6 </tempMax>
+      <weathertype>TJ10</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20230217" period="DAY">
+    <titledate>17/02/23</titledate>
+    <titleday>vendredi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMin>8 </tempMin>
+      <tempMax>12 </tempMax>
+      <weathertype>TJ6</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMin>8 </tempMin>
+      <tempMax>13 </tempMax>
+      <weathertype>TJ6</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMin>8 </tempMin>
+      <tempMax>13 </tempMax>
+      <weathertype>TJ6</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMin>5 </tempMin>
+      <tempMax>9 </tempMax>
+      <weathertype>TJ6</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMin>7 </tempMin>
+      <tempMax>13 </tempMax>
+      <weathertype>TJ6</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMin>5 </tempMin>
+      <tempMax>9 </tempMax>
+      <weathertype>TJ6</weathertype>
+    </data>
+  </forecast>
+  <forecast_foreign date="20230213" period="DAY">
+    <titledate>13/02/23</titledate>
+    <titleday>lundi</titleday>
+    <data>
+      <city>Paris</city>
+      <temp>4 </temp>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Londres</city>
+      <temp>6 </temp>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Amsterdam</city>
+      <temp>7 </temp>
+      <weathertype>TJ1</weathertype>
+    </data>
+  </forecast_foreign>
+  <forecast_foreign date="20230214" period="DAY">
+    <titledate>14/02/23</titledate>
+    <titleday>mardi</titleday>
+    <data>
+      <city>Paris</city>
+      <temp>4 </temp>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Londres</city>
+      <temp>6 </temp>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Amsterdam</city>
+      <temp>6 </temp>
+      <weathertype>TJ1</weathertype>
+    </data>
+  </forecast_foreign>
+  <Ephemerides>
+    <Ephemeride>
+      <titledate>13/02/23</titledate>
+      <titleday>lundi</titleday>
+      <data>
+        <sunRise>07:58</sunRise>
+        <sunSet>17:56</sunSet>
+        <gain>4 </gain>
+      </data>
+    </Ephemeride>
+    <Ephemeride>
+      <titledate>14/02/23</titledate>
+      <titleday>mardi</titleday>
+      <data>
+        <sunRise>07:56</sunRise>
+        <sunSet>17:58</sunSet>
+        <gain>4 </gain>
+      </data>
+    </Ephemeride>
+    <Ephemeride>
+      <titledate>15/02/23</titledate>
+      <titleday>mercredi</titleday>
+      <data>
+        <sunRise>07:54</sunRise>
+        <sunSet>18:00</sunSet>
+        <gain>4 </gain>
+      </data>
+    </Ephemeride>
+    <Ephemeride>
+      <titledate>16/02/23</titledate>
+      <titleday>jeudi</titleday>
+      <data>
+        <sunRise>07:52</sunRise>
+        <sunSet>18:02</sunSet>
+        <gain>4 </gain>
+      </data>
+    </Ephemeride>
+  </Ephemerides>
+  <indices>
+    <indice>
+      <titledate>13/02/23</titledate>
+      <titleday>lundi</titleday>
+      <data>
+        <value>7</value>
+        <evaluation>très médiocre</evaluation>
+      </data>
+    </indice>
+    <indice>
+      <titledate>14/02/23</titledate>
+      <titleday>mardi</titleday>
+      <data>
+        <value>8</value>
+        <evaluation>mauvaise</evaluation>
+      </data>
+    </indice>
+    <indice>
+      <titledate>15/02/23</titledate>
+      <titleday>mercredi</titleday>
+      <data>
+        <value>6</value>
+        <evaluation>médiocre</evaluation>
+      </data>
+    </indice>
+  </indices>
+</meteo>
+
+--- ENF OF RECEIVED DATA ---
+
+<?xml version='1.0' encoding='UTF-8'?>
+<meteo>
+  <generationDate>13/02/2023 07:58</generationDate>
+  <forecast date="20230213" period="PM">
+    <titledate>13/02/23</titledate>
+    <titleday>lundi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMax>11 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMax>11 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMax>12 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMax>11 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMax>12 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMax>9 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20230213" period="NIGHT">
+    <titledate>13/02/23</titledate>
+    <titleday>lundi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMin>1 </tempMin>
+      <weathertype>TNN1</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMin>0 </tempMin>
+      <weathertype>TNN1</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMin>2 </tempMin>
+      <weathertype>TNN1</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMin>-1 </tempMin>
+      <weathertype>TNN1</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMin>2 </tempMin>
+      <weathertype>TNN1</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMin>0 </tempMin>
+      <weathertype>TNN27</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20230214" period="AM">
+    <titledate>14/02/23</titledate>
+    <titleday>mardi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMax>5 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMax>6 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMax>7 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMax>6 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMax>7 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMax>6 </tempMax>
+      <weathertype>TJ27</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20230214" period="PM">
+    <titledate>14/02/23</titledate>
+    <titleday>mardi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMax>11 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMax>11 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMax>12 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMax>11 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMax>12 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMax>9 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20230215" period="DAY">
+    <titledate>15/02/23</titledate>
+    <titleday>mercredi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMin>6 </tempMin>
+      <tempMax>10 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMin>5 </tempMin>
+      <tempMax>11 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMin>5 </tempMin>
+      <tempMax>11 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMin>1 </tempMin>
+      <tempMax>9 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMin>5 </tempMin>
+      <tempMax>13 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMin>1 </tempMin>
+      <tempMax>9 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20230216" period="DAY">
+    <titledate>16/02/23</titledate>
+    <titleday>jeudi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMin>9 </tempMin>
+      <tempMax>10 </tempMax>
+      <weathertype>TJ10</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMin>9 </tempMin>
+      <tempMax>10 </tempMax>
+      <weathertype>TJ10</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMin>9 </tempMin>
+      <tempMax>10 </tempMax>
+      <weathertype>TJ10</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMin>5 </tempMin>
+      <tempMax>6 </tempMax>
+      <weathertype>TJ10</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMin>8 </tempMin>
+      <tempMax>10 </tempMax>
+      <weathertype>TJ10</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMin>5 </tempMin>
+      <tempMax>6 </tempMax>
+      <weathertype>TJ10</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20230217" period="DAY">
+    <titledate>17/02/23</titledate>
+    <titleday>vendredi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMin>8 </tempMin>
+      <tempMax>12 </tempMax>
+      <weathertype>TJ6</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMin>8 </tempMin>
+      <tempMax>13 </tempMax>
+      <weathertype>TJ6</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMin>8 </tempMin>
+      <tempMax>13 </tempMax>
+      <weathertype>TJ6</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMin>5 </tempMin>
+      <tempMax>9 </tempMax>
+      <weathertype>TJ6</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMin>7 </tempMin>
+      <tempMax>13 </tempMax>
+      <weathertype>TJ6</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMin>5 </tempMin>
+      <tempMax>9 </tempMax>
+      <weathertype>TJ6</weathertype>
+    </data>
+  </forecast>
+  <forecast_foreign date="20230213" period="DAY">
+    <titledate>13/02/23</titledate>
+    <titleday>lundi</titleday>
+    <data>
+      <city>Paris</city>
+      <temp>4 </temp>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Londres</city>
+      <temp>6 </temp>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Amsterdam</city>
+      <temp>7 </temp>
+      <weathertype>TJ1</weathertype>
+    </data>
+  </forecast_foreign>
+  <forecast_foreign date="20230214" period="DAY">
+    <titledate>14/02/23</titledate>
+    <titleday>mardi</titleday>
+    <data>
+      <city>Paris</city>
+      <temp>4 </temp>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Londres</city>
+      <temp>6 </temp>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Amsterdam</city>
+      <temp>6 </temp>
+      <weathertype>TJ1</weathertype>
+    </data>
+  </forecast_foreign>
+  <Ephemerides>
+    <Ephemeride>
+      <titledate>13/02/23</titledate>
+      <titleday>lundi</titleday>
+      <data>
+        <sunRise>07:58</sunRise>
+        <sunSet>17:56</sunSet>
+        <gain>4 </gain>
+      </data>
+    </Ephemeride>
+    <Ephemeride>
+      <titledate>14/02/23</titledate>
+      <titleday>mardi</titleday>
+      <data>
+        <sunRise>07:56</sunRise>
+        <sunSet>17:58</sunSet>
+        <gain>4 </gain>
+      </data>
+    </Ephemeride>
+    <Ephemeride>
+      <titledate>15/02/23</titledate>
+      <titleday>mercredi</titleday>
+      <data>
+        <sunRise>07:54</sunRise>
+        <sunSet>18:00</sunSet>
+        <gain>4 </gain>
+      </data>
+    </Ephemeride>
+    <Ephemeride>
+      <titledate>16/02/23</titledate>
+      <titleday>jeudi</titleday>
+      <data>
+        <sunRise>07:52</sunRise>
+        <sunSet>18:02</sunSet>
+        <gain>4 </gain>
+      </data>
+    </Ephemeride>
+  </Ephemerides>
+  <indices>
+    <indice>
+      <titledate>13/02/23</titledate>
+      <titleday>lundi</titleday>
+      <data>
+        <value>7</value>
+        <evaluation>très médiocre</evaluation>
+      </data>
+    </indice>
+    <indice>
+      <titledate>14/02/23</titledate>
+      <titleday>mardi</titleday>
+      <data>
+        <value>8</value>
+        <evaluation>mauvaise</evaluation>
+      </data>
+    </indice>
+    <indice>
+      <titledate>15/02/23</titledate>
+      <titleday>mercredi</titleday>
+      <data>
+        <value>6</value>
+        <evaluation>médiocre</evaluation>
+      </data>
+    </indice>
+  </indices>
+</meteo>
+
+--- ENF OF RECEIVED DATA ---
+

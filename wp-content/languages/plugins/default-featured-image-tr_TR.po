@@ -1,0 +1,48 @@
+# Translation of Plugins - Default featured image - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - Default featured image - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-24 22:12:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - Default featured image - Stable (latest release)\n"
+
+#. Author of the plugin/theme
+msgid "Jan Willem Oostendorp"
+msgstr "Jan Willem Oostendorp"
+
+#. Description of the plugin/theme
+msgid "Allows users to select a default featured image in the media settings"
+msgstr "Ortam ayarkarından varsayılan öne çıkarılmış görseli belirleyebilmeleri için kullanıcılara izin ver "
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/default-featured-image/"
+msgstr "http://wordpress.org/extend/plugins/default-featured-image/"
+
+#: set-default-featured-image.php:189
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: set-default-featured-image.php:153
+msgid "Set default featured image"
+msgstr "Varsayılan öne çıkarılmış görseli ayarla"
+
+#: set-default-featured-image.php:130 set-default-featured-image.php:131
+msgid "Don't use a default featured image"
+msgstr "Varsayılan öne çıkarılmış görseli kullanma"
+
+#: set-default-featured-image.php:125 set-default-featured-image.php:127
+#: set-default-featured-image.php:152
+msgid "Select default featured image"
+msgstr "Varsayılan öne çıkarılmış görseli seç"
+
+#. #-#-#-#-#  default-featured-image-code.pot (Default featured image 1.6.1) 
+#. #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: set-default-featured-image.php:104
+msgid "Default featured image"
+msgstr "Varsayılan öne çıkarılmış görsel"

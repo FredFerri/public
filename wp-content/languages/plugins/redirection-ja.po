@@ -1,0 +1,2515 @@
+# Translation of Plugins - Redirection - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Redirection - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-02-07 14:03:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Redirection - Stable (latest release)\n"
+
+#: redirection-strings.php:750 redirection.js:2
+msgid "REST API 404"
+msgstr "REST API 404"
+
+#: redirection-strings.php:746 redirection.js:2
+msgid "Your REST API appears to be cached and this will cause problems. Please exclude your REST API from your caching system."
+msgstr "お使いの REST API はキャッシュされているようで、これが問題を引き起こしています。REST API を、利用中のキャッシュのシステムから除外してください。"
+
+#: redirection-strings.php:738 redirection.js:2
+msgid "Your REST API is showing a deprecated PHP error. Please fix this error."
+msgstr "お使いの REST API は、PHP の非推奨（Deprecated）エラーを出しています。このエラーを修正してください。"
+
+#: redirection-strings.php:732 redirection.js:2
+msgid "Your server configuration is blocking access to the REST API."
+msgstr "サーバーは REST API のアクセスをブロックするように設定されています。"
+
+#: redirection-strings.php:730 redirection.js:2
+msgid "Can you access your {{api}}REST API{{/api}} without it redirecting?."
+msgstr "リダイレクトなしでお使いの {{api}}REST API{{/api}} にアクセスできますか ?"
+
+#: redirection-strings.php:729 redirection.js:2
+msgid "You will will need to fix this on your site. Redirection is not causing the error."
+msgstr "ご自身でサイトを修復してください。Redirection はエラーを発生させていません。"
+
+#: redirection-strings.php:719 redirection.js:2
+msgid "Add Permalink"
+msgstr "パーマリンクを追加"
+
+#: redirection-strings.php:718 redirection.js:2
+msgid "No migrated permalinks"
+msgstr "パーマリンク移行なし"
+
+#: redirection-strings.php:717 redirection.js:2
+msgid "Permalinks"
+msgstr "パーマリンク"
+
+#: redirection-strings.php:716 redirection.js:2
+msgid "Note: this is in beta and will only migrate posts. Certain permalinks will not work. If yours does not work then you will need to wait until it is out of beta."
+msgstr "これはベータ版であり投稿を移行するのにしか使えません。特定のパーマリンクでは動作しません。もしこの機能が動作しなかった場合は、ベータ版を脱するまでお待ちください。"
+
+#: redirection-strings.php:715 redirection.js:2
+msgid "Enter old permalinks structures to automatically migrate them to your current one."
+msgstr "以前のパーマリンク構造を入力すると自動的に現在のものに移行します。"
+
+#: redirection-strings.php:714 redirection.js:2
+msgid "Permalink Migration"
+msgstr "パーマリンクの移行"
+
+#: redirection-strings.php:681 redirection.js:2
+msgid "(beta) Enable caching of redirects via WordPress object cache. Can improve performance. Requires an object cache."
+msgstr "（ベータ版）WordPress オブジェクトキャッシュを介してリダイレクトのキャッシュを有効にします。パフォーマンスが向上することがあります。オブジェクトキャッシュが必須です。"
+
+#: redirection-strings.php:678 redirection.js:2
+msgid "HTTP Cache Header"
+msgstr "HTTP キャッシュヘッダー"
+
+#: redirection-strings.php:651 redirection.js:2
+msgid "Decide how Redirection updates itself, if needed."
+msgstr "必要であれば、Redirection がどのように自身を更新するかを決めてください。"
+
+#: redirection-strings.php:650 redirection.js:2
+msgid "Data Upgrade"
+msgstr "データのアップグレード"
+
+#: redirection-strings.php:642 redirection.js:2
+msgid "Advanced"
+msgstr "拡張設定"
+
+#: redirection-strings.php:641 redirection.js:2
+msgid "Automatically upgrade on admin pages"
+msgstr "管理ページで自動的にアップグレード"
+
+#: redirection-strings.php:640 redirection.js:2
+msgid "Upgrade manually when prompted"
+msgstr "必要に応じて手動でアップグレード"
+
+#: redirection-strings.php:606 redirection.js:2
+msgid "Nothing to display."
+msgstr "まだ何もありません。"
+
+#: redirection-strings.php:599 redirection.js:2
+msgid "%1d of %1d selected. {{all}}Clear All.{{/all}}"
+msgstr "%1d / %1d 選択中です。 {{all}}すべて解除{{/all}}"
+
+#: redirection-strings.php:598 redirection.js:2
+msgid "%1d of %1d selected. {{all}}Select All.{{/all}}"
+msgstr "%1d / %1d 選択中です。{{all}}すべて選択{{/all}}"
+
+#: redirection-strings.php:526 redirection.js:2
+msgid "Sometimes your browser can cache a URL, making it hard to know if it's working as expected. Use this service from {{link}}redirect.li{{/link}} to get accurate results."
+msgstr "ブラウザはしばしばURLをキャッシュしており、意図している動作になっているかわかりにくくなっていることがあります。{{link}}redirect.li{{/link}} を利用して正確な結果をご覧ください。"
+
+#: redirection-strings.php:362 redirection-strings.php:423 redirection.js:2
+msgid "Search exact URL"
+msgstr "完全一致で URL を検索する"
+
+#: redirection-strings.php:286 redirection.js:2
+msgid "Version %s installed! Please read the {{url}}release notes{{/url}} for details."
+msgstr "バージョン %s がインストールされました！詳細は{{url}}リリースノート{{/url}}をご確認ください。"
+
+#: redirection-strings.php:223 redirection.js:2
+msgid "Manual Setup"
+msgstr "手動セットアップ"
+
+#: redirection-strings.php:188 redirection.js:2
+msgid "Importing failed."
+msgstr "インポートに失敗しました。"
+
+#: redirection-strings.php:187 redirection.js:2
+msgid "Import finished."
+msgstr "インポートが終了しました。"
+
+#: redirection-strings.php:178 redirection.js:2
+msgid "Ready to begin! 🎉"
+msgstr "準備完了です！🎉"
+
+#: redirection-strings.php:177 redirection.js:2
+msgid "Please take a moment to consult the {{support}}support site{{/support}} for information about how to use Redirection."
+msgstr "{{support}}サポートサイト{{/support}} を閲覧し、Redirectionの使い方に関する情報をご確認ください。"
+
+#: redirection-strings.php:176 redirection.js:2
+msgid "Redirection is now installed!"
+msgstr "Redirection がインストールされました！"
+
+#: redirection-strings.php:175 redirection.js:2
+msgid "Installation Complete"
+msgstr "インストール完了"
+
+#: redirection-strings.php:160 redirection.js:2
+msgid "The Redirection database does not appear to exist. Have you run the above SQL?"
+msgstr "Redirection のデータベースが存在しないようです。上記のSQLを実行しましたか？"
+
+#: redirection-strings.php:120 redirection.js:2
+msgid "Wildcards are not supported. You need to use a {{link}}regular expression{{/link}}."
+msgstr "ワイルドカードには対応していません。{{link}}正規表現{{/link}}を利用してください。"
+
+#: redirection-strings.php:119 redirection.js:2
+msgid "To match {{code}}?{{/code}} you need to escape it with {{code}}\\?{{/code}}"
+msgstr "{{code}}?{{/code}} に適合させるには {{code}}\\?{{/code}} のようにエスケープする必要があります。"
+
+#: redirection-strings.php:118 redirection.js:2
+msgid "The caret {{code}}^{{/code}} should be at the start. For example: {{code}}%(example)s{{/code}}"
+msgstr "キャレット（{{code}}^{{/code}}）を最初に置いてください。例: {{code}}%(example)s{{/code}}"
+
+#: redirection-strings.php:116 redirection.js:2
+msgid "Please add migrated permalinks to the Site page under the \"Permalink Migration\" section."
+msgstr "移行後のパーマリンクを、サイトページの「パーマリンクの移行」セクションに追加してください。"
+
+#: redirection-strings.php:92 redirection-strings.php:658 redirection.js:2
+msgid "Exact match in any order"
+msgstr "順番にかかわらず完全一致"
+
+#: redirection-strings.php:46 redirection.js:2
+msgid "Something went wrong obtaining this information. It may work in the future."
+msgstr "情報の取得中に問題が発生しました。将来的に動作するようになるかもしれません。"
+
+#: redirection-strings.php:44 redirection.js:2
+msgid "View full redirect.li results."
+msgstr "redirect.li の結果を見る"
+
+#: redirection-strings.php:43 redirection.js:2
+msgid "If your browser is behaving differently then you should clear your browser cache."
+msgstr "ブラウザがいつもと違う挙動をしている場合、キャッシュの削除ををお勧めします。"
+
+#: redirection-strings.php:42 redirection.js:2
+msgid "If this is not expected then this {{support}}support page{{/support}} may help."
+msgstr "これが意図したものでない場合、{{support}}サポートページ{{/support}} を参考にしてください。"
+
+#: redirection-strings.php:41 redirection.js:2
+msgid "Unable to check that URL. It may not be valid or accessible."
+msgstr "URLの確認に失敗しました。正常でないか、アクセスできません。"
+
+#: redirection-strings.php:40 redirection.js:2
+msgid "Page was loaded."
+msgstr "ページは読み込まれました。"
+
+#: redirection-strings.php:39 redirection.js:2
+msgid "Redirected by an unknown agent. {{support}}What does this mean?{{/support}}."
+msgstr "未知の機能によりリダイレクトされました。{{support}}どういうことですか？{{/support}}"
+
+#: redirection-strings.php:38 redirection.js:2
+msgid "Redirected by %1s. {{support}}What does this mean?{{/support}}."
+msgstr "%1s によりリダイレクトされました。 {{support}}どういうことですか？{{/support}}"
+
+#: redirection-strings.php:36 redirection.js:2
+msgid "Matches your redirect"
+msgstr "リダイレクトに一致"
+
+#: redirection-strings.php:35 redirection-strings.php:37 redirection.js:2
+msgid "Redirected by Redirection."
+msgstr "Redirection によりリダイレクトされました。"
+
+#: redirection-strings.php:34 redirection.js:2
+msgid "An error page was returned. This is unlikely to be a problem with Redirection. {{support}}What does this mean?{{/support}}."
+msgstr "エラーページが返されました。これは Redirection による問題ではない可能性が高いです。 {{support}}どういうことですか？{{/support}}"
+
+#: redirection-strings.php:33 redirection.js:2
+msgid "Something is wrong with the server. This is not a problem with Redirection and you will need to resolve the error yourself."
+msgstr "サーバーに問題が発生しました。これはRedirectionのエラーではないため、ご自身でご確認ください。"
+
+#: redirection-strings.php:32
+msgid "An unknown errorm"
+msgstr "未知のエラー"
+
+#: redirection-strings.php:5 redirection.js:2
+msgid "Are you sure want to delete all %d matching items?"
+msgstr "本当に一致する %d 件の項目をすべて削除してもよいですか ?"
+
+#: models/fixer.php:91
+msgid "Too many regular expressions may impact site performance"
+msgstr "多量の正規表現はサイトのパフォーマンスに影響を及ぼす可能性があります"
+
+#: models/fixer.php:89
+msgid "Regular Expressions"
+msgstr "正規表現"
+
+#: redirection-strings.php:758 redirection.js:2
+msgid "Your admin pages are being cached. Clear this cache and try again. There may be multiple caches involved."
+msgstr "管理画面のページがキャッシュされています。このキャッシュを消去し再度お試しください。複数のキャッシュが関与している可能性があります。"
+
+#: redirection-strings.php:755 redirection.js:2
+msgid "This is usually fixed by doing one of the following:"
+msgstr "これは、以下のいずれかを行うことで通常は解決されます:"
+
+#: redirection-strings.php:754 redirection.js:2
+msgid "You are using an old or cached session"
+msgstr "古いか、キャッシュされたセッションを使用中です"
+
+#: redirection-strings.php:749 redirection.js:2
+msgid "Please review your data and try again."
+msgstr "データを確認してもう一度お試しください。"
+
+#: redirection-strings.php:748 redirection.js:2
+msgid "There was a problem making a request to your site. This could indicate you provided data that did not match requirements, or that the plugin sent a bad request."
+msgstr "このサイトへのリクエストに問題がありました。これは、要件に一致しないデータを提供したか、プラグインが不正なリクエストを送信したことを示しています。"
+
+#: redirection-strings.php:747 redirection.js:2
+msgid "Bad data"
+msgstr "不正なデータ"
+
+#: redirection-strings.php:742 redirection.js:2
+msgid "WordPress returned an unexpected message. This could be a PHP error from another plugin, or data inserted by your theme."
+msgstr "WordPress が予期しないメッセージを返しました。これは、他のプラグインから発生した PHP エラーや、テーマによって挿入されたデータが原因である可能性があります。"
+
+#: redirection-strings.php:741 redirection.js:2
+msgid "Your WordPress REST API has been disabled. You will need to enable it to continue."
+msgstr "WordPress REST API が無効化されています。続行するには有効化する必要があります。"
+
+#: redirection-strings.php:737 redirection.js:2
+msgid "An unknown error occurred."
+msgstr "未知のエラーが発生しました。"
+
+#: redirection-strings.php:735 redirection.js:2
+msgid "Your REST API is being redirected. Please remove the redirection for the API."
+msgstr "REST API はリダイレクトされています。API のリダイレクトを削除してください。"
+
+#: redirection-strings.php:733 redirection.js:2
+msgid "A security plugin or firewall is blocking access. You will need to whitelist the REST API."
+msgstr "セキュリティ プラグインまたはファイアウォールがアクセスをブロックしています。REST API をホワイトリストに追加してください。"
+
+#: redirection-strings.php:731 redirection.js:2
+msgid "Check your {{link}}Site Health{{/link}} and fix any issues."
+msgstr "{{link}}サイトヘルス{{/link}} をご確認の上問題を修正してください。"
+
+#: redirection-strings.php:728 redirection.js:2
+msgid "Your WordPress REST API is returning a 404 page. This is almost certainly an external plugin or server configuration issue."
+msgstr "WordPress REST API が404ページを返しています。これは外部プラグインかサーバーの設定による問題である可能性が高いです。"
+
+#: redirection-strings.php:724 redirection.js:2
+msgid "Debug Information"
+msgstr "デバッグ情報"
+
+#: redirection-strings.php:723 redirection.js:2
+msgid "Show debug"
+msgstr "デバッグを表示"
+
+#: redirection-strings.php:548 redirection.js:2
+msgid "View Data"
+msgstr "データを表示"
+
+#: redirection-strings.php:636 redirection.js:2
+msgid "Redirection stores no user identifiable information other than what is configured above. It is your responsibility to ensure your site meets any applicable {{link}}privacy requirements{{/link}}."
+msgstr "Redirection では、上記で設定された情報以外にユーザーを特定できる情報を保存することはありません。あなたのサイトが{{link}}プライバシーポリシー{{/link}}を満たしているかどうかの確認は、あなた自身の責任となります。"
+
+#: redirection-strings.php:635 redirection.js:2
+msgid "Capture HTTP header information with logs (except cookies). It may include user information, and could increase your log size."
+msgstr "HTTP ヘッダー情報を取得 (クッキーを除く) 。ユーザー情報が含まれる可能性があり、ログのサイズが肥大化する可能性があります。"
+
+#: redirection-strings.php:634 redirection.js:2
+msgid "Track redirect hits and date of last access. Contains no user information."
+msgstr "リダイレクトヒットと最終アクセス日時を追跡。ユーザー情報を含みません。"
+
+#: redirection-strings.php:633 redirection.js:2
+msgid "Log \"external\" redirects - those not from Redirection. This can increase your log size and contains no user information."
+msgstr "Redirection 以外で実行されたリダイレクトのログを保存。ログのサイズが肥大化し、ユーザー情報は含みません。"
+
+#: redirection-strings.php:632 redirection.js:2
+msgid "Logging"
+msgstr "ログ"
+
+#: redirection-strings.php:631 redirection.js:2
+msgid "(IP logging level)"
+msgstr "(IP ロギングレベル)"
+
+#: redirection-strings.php:429 redirection.js:2
+msgid "Are you sure you want to delete the selected items?"
+msgstr "本当に選択されたものを削除してもよいですか？"
+
+#: redirection-strings.php:378 redirection.js:2
+msgid "View Redirect"
+msgstr "リダイレクトを表示"
+
+#: redirection-strings.php:376 redirection.js:2
+msgid "RSS"
+msgstr "RSS"
+
+#: redirection-strings.php:370 redirection-strings.php:400 redirection.js:2
+msgid "Group by user agent"
+msgstr "ユーザーエージェントでグループ分け"
+
+#: redirection-strings.php:367 redirection-strings.php:427 redirection.js:2
+msgid "Search domain"
+msgstr "ドメインを検索"
+
+#: redirection-strings.php:335 redirection-strings.php:355
+#: redirection-strings.php:373 redirection.js:2
+msgid "Redirect By"
+msgstr "リダイレクトシステム"
+
+#: redirection-strings.php:332 redirection-strings.php:353
+#: redirection-strings.php:387 redirection-strings.php:414 redirection.js:2
+msgid "Domain"
+msgstr "ドメイン"
+
+#: redirection-strings.php:331 redirection-strings.php:352
+#: redirection-strings.php:372 redirection-strings.php:386
+#: redirection-strings.php:413 redirection-strings.php:420 redirection.js:2
+msgid "Method"
+msgstr "メソッド"
+
+#: redirection-strings.php:260 redirection.js:2
+msgid "If that did not help then {{strong}}create an issue{{/strong}} or send it in an {{strong}}email{{/strong}}."
+msgstr "もしそれでも解決しない場合は、{{strong}}issue を作成{{/strong}}するか、{{strong}}メールで連絡{{/strong}}してください。"
+
+#: redirection-strings.php:259 redirection.js:2
+msgid "Please check the {{link}}support site{{/link}} before proceeding further."
+msgstr "先に進む前に {{link}}サポートサイト{{/link}} をご確認ください。"
+
+#: redirection-strings.php:153 redirection.js:2
+msgid "Something went wrong when installing Redirection."
+msgstr "Redirection のインストール中に問題が発生しました。"
+
+#: redirection-strings.php:128 redirection.js:2
+msgid "Redirect Source"
+msgstr "リダイレクト元"
+
+#: redirection-strings.php:127 redirection.js:2
+msgid "Request Headers"
+msgstr "リクエストヘッダー"
+
+#: redirection-strings.php:95 redirection.js:2
+msgid "Exclude from logs"
+msgstr "ログから除外する"
+
+#: redirection-strings.php:722 redirection.js:2
+msgid "Relocate to domain"
+msgstr "ドメインに引っ越し"
+
+#: redirection-strings.php:721 redirection.js:2
+msgid "Want to redirect the entire site? Enter a domain to redirect everything, except WordPress login and admin. Enabling this option will disable any site aliases or canonical settings."
+msgstr "サイト全体のリダイレクトをお望みですか？ドメインを入力して、WordPress ログイン画面と管理画面以外のすべてをリダイレクトできます。このオプションを有効化するとほかのエイリアス設定やカノニカル設定が無効化されます。"
+
+#: redirection-strings.php:720 redirection.js:2
+msgid "Relocate Site"
+msgstr "サイトを引っ越し"
+
+#: redirection-strings.php:707 redirection.js:2
+msgid "Add CORS Presets"
+msgstr "CORS プリセットを追加"
+
+#: redirection-strings.php:706 redirection.js:2
+msgid "Add Security Presets"
+msgstr "セキュリティプリセットを追加"
+
+#: redirection-strings.php:705 redirection.js:2
+msgid "Add Header"
+msgstr "ヘッダーを追加"
+
+#: redirection-strings.php:700 redirection.js:2
+msgid "You should update your site URL to match your canonical settings: {{code}}%(current)s{{/code}} ⇒ {{code}}%(site)s{{/code}}"
+msgstr "サイト URL は canonical の設定に合わせて更新する必要があります: {{code}}%(current)s{{/code}} ⇒ {{code}}%(site)s{{/code}}"
+
+#: redirection-strings.php:699 redirection.js:2
+msgid "Preferred domain"
+msgstr "優先ドメイン"
+
+#: redirection-strings.php:698 redirection.js:2
+msgid "{{strong}}Warning{{/strong}}: ensure your HTTPS is working before forcing a redirect."
+msgstr "{{strong}}警告{{/strong}}: リダイレクトを強制する前にHTTPSが動作しているかご確認ください。"
+
+#: redirection-strings.php:697 redirection.js:2
+msgid "Force a redirect from HTTP to HTTPS - {{code}}%(site)s{{/code}} ⇒ {{code}}%(siteHTTPS)s{{/code}}"
+msgstr "HTTP から HTTPS へのリダイレクトを強制 - {{code}}%(site)s{{/code}} ⇒ {{code}}%(siteHTTPS)s{{/code}}"
+
+#: redirection-strings.php:696 redirection.js:2
+msgid "Canonical Settings"
+msgstr "カノニカル設定"
+
+#: redirection-strings.php:695 redirection.js:2
+msgid "Add www to domain - {{code}}%(site)s{{/code}} ⇒ {{code}}%(siteWWW)s{{/code}}"
+msgstr "ドメインに www を追加 - {{code}}%(site)s{{/code}} ⇒ {{code}}%(siteWWW)s{{/code}}"
+
+#: redirection-strings.php:694 redirection.js:2
+msgid "Remove www from domain - {{code}}%(siteWWW)s{{/code}} ⇒ {{code}}%(site)s{{/code}}"
+msgstr "ドメインから www を削除 - {{code}}%(siteWWW)s{{/code}} ⇒ {{code}}%(site)s{{/code}}"
+
+#: redirection-strings.php:693 redirection.js:2
+msgid "Don't set a preferred domain - {{code}}%(site)s{{/code}}"
+msgstr "優先ドメインを設定しない - {{code}}%(site)s{{/code}}"
+
+#: redirection-strings.php:692 redirection.js:2
+msgid "Add Alias"
+msgstr "エイリアスを追加"
+
+#: redirection-strings.php:691 redirection.js:2
+msgid "No aliases"
+msgstr "エイリアスなし"
+
+#: redirection-strings.php:690 redirection.js:2
+msgid "Alias"
+msgstr "エイリアス"
+
+#: redirection-strings.php:689 redirection.js:2
+msgid "Aliased Domain"
+msgstr "エイリアスされたドメイン"
+
+#: redirection-strings.php:688 redirection.js:2
+msgid "You will need to configure your system (DNS and server) to pass requests for these domains to this WordPress install."
+msgstr "この WordPress のインストールにこれらのドメインの要求を渡すシステム (DNS とサーバー) を構成する必要があります。"
+
+#: redirection-strings.php:687 redirection.js:2
+msgid "A site alias is another domain that you want to be redirected to this site. For example, an old domain, or a subdomain. This will redirect all URLs, including WordPress login and admin."
+msgstr "サイト エイリアスは、このサイトにリダイレクトしたい他のドメインのことを指します。例えば、古いドメインやサブドメインなどです。この設定では、WordPress のログイン画面や管理画面を含め、すべてのURLをリダイレクトします。"
+
+#: redirection-strings.php:686 redirection.js:2
+msgid "Site Aliases"
+msgstr "サイトエイリアス"
+
+#: redirection-strings.php:524 redirection.js:2
+msgid "The companion plugin Search Regex allows you to search and replace data on your site. It also supports Redirection, and is handy if you want to bulk update a lot of redirects."
+msgstr "連携プラグインの 「Search Regex」を使用すると、サイト上のデータを検索して置換することができます。また、このプラグインは Redirection をサポートしており、大量のリダイレクトを一括更新する際に便利です。"
+
+#: redirection-strings.php:523 redirection.js:2
+msgid "Need to search and replace?"
+msgstr "検索置換が必要ですか ?"
+
+#: redirection-strings.php:512 redirection.js:2
+msgid "Options on this page can cause problems if used incorrectly. You can {{link}}temporarily disable them{{/link}} to make changes."
+msgstr "このページの設定は、正しく扱わないと問題が発生することがあります。 {{link}}リダイレクトを一時的に停止{{/link}}することで設定の変更を行えます。"
+
+#: redirection-strings.php:186 redirection.js:2
+msgid "Please wait, importing."
+msgstr "お待ち下さい。インポート中です。"
+
+#: redirection-strings.php:174 redirection-strings.php:183
+#: redirection-strings.php:190 redirection-strings.php:202 redirection.js:2
+msgid "Continue"
+msgstr "次へ"
+
+#: redirection-strings.php:182 redirection.js:2
+msgid "The following plugins have been detected."
+msgstr "次のプラグインが検出されました。"
+
+#: redirection-strings.php:181 redirection.js:2
+msgid "WordPress automatically creates redirects when you change a post URL. Importing these into Redirection will allow you to manage and monitor them."
+msgstr "WordPress は投稿の URL が変わった際に自動でリダイレクトを作成します。これらを Redirection にインポートすることであなたが管理できるようになります。"
+
+#: redirection-strings.php:180 redirection.js:2
+msgid "Importing existing redirects from WordPress or other plugins is a good way to get started with Redirection. Check each set of redirects you wish to import."
+msgstr "WordPress や別のプラグインからリダイレクトをインポートするのは、Redirection の上手な始め方です。インポートしたいリダイレクトを選んでください。"
+
+#: redirection-strings.php:179 redirection-strings.php:185 redirection.js:2
+msgid "Import Existing Redirects"
+msgstr "既存のリダイレクトをインポート"
+
+#: redirection-strings.php:213 redirection.js:2
+msgid "That's all there is to it - you are now redirecting! Note that the above is just an example."
+msgstr "たったそれだけで… リダイレクトは完成です！上記はただの例であることに留意してください。"
+
+#: redirection-strings.php:121 redirection.js:2
+msgid "If you want to redirect everything please use a site relocation or alias from the Site page."
+msgstr "もしサイト全体のリダイレクトを希望する場合は、サイトページの「サイトを引っ越し」または「サイトエイリアス」を使用してください。"
+
+#: redirection-strings.php:761 redirection.js:2
+msgid "Value"
+msgstr "値"
+
+#: redirection-strings.php:760 redirection.js:2
+msgid "Values"
+msgstr "値"
+
+#: redirection-strings.php:759 redirection.js:2
+msgid "All"
+msgstr "すべて"
+
+#: redirection-strings.php:713 redirection.js:2
+msgid "Note that some HTTP headers are set by your server and cannot be changed."
+msgstr "HTTPヘッダーの中には、サーバーによって設定され、変更できないものがあることにご留意ください。"
+
+#: redirection-strings.php:712 redirection.js:2
+msgid "No headers"
+msgstr "ヘッダーなし"
+
+#: redirection-strings.php:711 redirection.js:2
+msgid "Header"
+msgstr "ヘッダー"
+
+#: redirection-strings.php:710 redirection.js:2
+msgid "Location"
+msgstr "地域"
+
+#: redirection-strings.php:709 redirection.js:2
+msgid "Site headers are added across your site, including redirects. Redirect headers are only added to redirects."
+msgstr "サイトヘッダーはリダイレクトを含むサイト全体に適用されます。リダイレクトヘッダーはリダイレクトにのみ適用されます。"
+
+#: redirection-strings.php:708 redirection.js:2
+msgid "HTTP Headers"
+msgstr "HTTP ヘッダー"
+
+#: redirection-strings.php:704 redirection.js:2
+msgid "Custom Header"
+msgstr "カスタムヘッダー"
+
+#: redirection-strings.php:703 redirection.js:2
+msgid "General"
+msgstr "一般"
+
+#: redirection-strings.php:702 redirection.js:2
+msgid "Redirect"
+msgstr "リダイレクト"
+
+#: redirection-strings.php:270 redirection-strings.php:279
+#: redirection-strings.php:701 redirection.js:2
+msgid "Site"
+msgstr "サイト"
+
+#: redirection-strings.php:685 redirection.js:2
+msgid "Ignore & Pass Query"
+msgstr "無視してクエリーを渡す"
+
+#: redirection-strings.php:684 redirection.js:2
+msgid "Ignore Query"
+msgstr "クエリーを無視"
+
+#: redirection-strings.php:683 redirection.js:2
+msgid "Exact Query"
+msgstr "完全一致クエリー"
+
+#: redirection-strings.php:503 redirection.js:2
+msgid "Search title"
+msgstr "タイトル検索"
+
+#: redirection-strings.php:500 redirection.js:2
+msgid "Not accessed in last year"
+msgstr "過去1年間アクセスされていない"
+
+#: redirection-strings.php:499 redirection.js:2
+msgid "Not accessed in last month"
+msgstr "過去1ヶ月アクセスされていない"
+
+#: redirection-strings.php:498 redirection.js:2
+msgid "Never accessed"
+msgstr "一度もアクセスされていない"
+
+#: redirection-strings.php:497 redirection.js:2
+msgid "Last Accessed"
+msgstr "前回のアクセス"
+
+#: redirection-strings.php:421 redirection-strings.php:496 redirection.js:2
+msgid "HTTP Status Code"
+msgstr "HTTP ステータスコード"
+
+#: redirection-strings.php:493 redirection.js:2
+msgid "Plain"
+msgstr "基本"
+
+#: redirection-strings.php:491 redirection.js:2
+msgid "URL match"
+msgstr "URL 一致"
+
+#: redirection-strings.php:472 redirection.js:2
+msgid "Source"
+msgstr "ソース"
+
+#: redirection-strings.php:463 redirection.js:2
+msgid "Code"
+msgstr "コード"
+
+#: redirection-strings.php:462 redirection-strings.php:483
+#: redirection-strings.php:495 redirection.js:2
+msgid "Action Type"
+msgstr "操作タイプ"
+
+#: redirection-strings.php:461 redirection-strings.php:478
+#: redirection-strings.php:494 redirection.js:2
+msgid "Match Type"
+msgstr "一致タイプ"
+
+#: redirection-strings.php:366 redirection-strings.php:502 redirection.js:2
+msgid "Search target URL"
+msgstr "検索対象 URL"
+
+#: redirection-strings.php:365 redirection-strings.php:426 redirection.js:2
+msgid "Search IP"
+msgstr "IP を検索"
+
+#: redirection-strings.php:364 redirection-strings.php:425 redirection.js:2
+msgid "Search user agent"
+msgstr "ユーザーエージェントを検索"
+
+#: redirection-strings.php:363 redirection-strings.php:424 redirection.js:2
+msgid "Search referrer"
+msgstr "リファラーを検索"
+
+#: redirection-strings.php:361 redirection-strings.php:422
+#: redirection-strings.php:501 redirection.js:2
+msgid "Search URL"
+msgstr "URL を検索"
+
+#: redirection-strings.php:613 redirection.js:2
+msgid "Filter on: %(type)s"
+msgstr "フィルター: %(type)"
+
+#: redirection-strings.php:233 redirection-strings.php:490 redirection.js:2
+msgid "Disabled"
+msgstr "無効"
+
+#: redirection-strings.php:232 redirection-strings.php:489 redirection.js:2
+msgid "Enabled"
+msgstr "有効"
+
+#: redirection-strings.php:229 redirection-strings.php:343
+#: redirection-strings.php:404 redirection-strings.php:486 redirection.js:2
+msgid "Compact Display"
+msgstr "小さい画面"
+
+#: redirection-strings.php:228 redirection-strings.php:342
+#: redirection-strings.php:403 redirection-strings.php:485 redirection.js:2
+msgid "Standard Display"
+msgstr "標準画面"
+
+#: redirection-strings.php:226 redirection-strings.php:231
+#: redirection-strings.php:235 redirection-strings.php:459
+#: redirection-strings.php:482 redirection-strings.php:488 redirection.js:2
+msgid "Status"
+msgstr "ステータス"
+
+#: redirection-strings.php:19 redirection.js:2
+msgid "Pre-defined"
+msgstr "事前定義済み"
+
+#: redirection-strings.php:18 redirection.js:2
+msgid "Custom Display"
+msgstr "手動インストール"
+
+#: redirection-strings.php:230 redirection-strings.php:344
+#: redirection-strings.php:405 redirection-strings.php:487 redirection.js:2
+msgid "Display All"
+msgstr "すべて表示"
+
+#: redirection-strings.php:125 redirection.js:2
+msgid "Your URL appears to contain a domain inside the path: {{code}}%(relative)s{{/code}}. Did you mean to use {{code}}%(absolute)s{{/code}} instead?"
+msgstr "あなたのURLはパスの中にドメインを含んでいるようです: {{code}}%(relative)s{{/code}}。{{code}}%(absolute)s{{/code}}を使うつもりでしたか ?"
+
+#: redirection-strings.php:585 redirection.js:2
+msgid "Comma separated list of languages to match against (i.e. da, en-GB)"
+msgstr "一致させる言語のコンマ区切りリスト (例: da, en-GB)"
+
+#: redirection-strings.php:584 redirection.js:2
+msgid "Language"
+msgstr "言語"
+
+#: redirection-strings.php:87 redirection.js:2
+msgid "504 - Gateway Timeout"
+msgstr "504 - Gateway Timeout（時間切れ）"
+
+#: redirection-strings.php:86 redirection.js:2
+msgid "503 - Service Unavailable"
+msgstr "503 - Service Unavailable（サービス利用不可）"
+
+#: redirection-strings.php:85 redirection.js:2
+msgid "502 - Bad Gateway"
+msgstr "502 - Bad Gateway（通信異常）"
+
+#: redirection-strings.php:84 redirection.js:2
+msgid "501 - Not implemented"
+msgstr "501 - Not implemented（未実装）"
+
+#: redirection-strings.php:83 redirection.js:2
+msgid "500 - Internal Server Error"
+msgstr "500 - Internal Server Error（サーバー内部エラー）"
+
+#: redirection-strings.php:82 redirection.js:2
+msgid "451 - Unavailable For Legal Reasons"
+msgstr "451 - Unavailable For Legal Reasons（検閲により利用不可）"
+
+#: matches/language.php:17 redirection-strings.php:64 redirection.js:2
+msgid "URL and language"
+msgstr "URL と言語"
+
+#: redirection-strings.php:757 redirection.js:2
+msgid "Log out, clear your browser cache, and log in again - your browser has cached an old session."
+msgstr "ログアウトし、ブラウザのキャッシュを削除してからログインしなおしてください。お使いのブラウザはキャッシュされた古いセッションを表示しています。"
+
+#: redirection-strings.php:756 redirection.js:2
+msgid "Reload the page - your current session is old."
+msgstr "このページを再読み込みしてください。古いセッションが表示されています。"
+
+#: redirection-strings.php:647 redirection.js:2
+msgid "Unable to save .htaccess file"
+msgstr ".htaccess ファイルを保存できません"
+
+#: redirection-strings.php:646 redirection.js:2
+msgid "Redirects added to an Apache group can be saved to an {{code}}.htaccess{{/code}} file by adding the full path here. For reference, your WordPress is installed to {{code}}%(installed)s{{/code}}."
+msgstr "Apache グループに追加されたリダイレクトは、ここにフルパスを追加することで {{code}}.htaccess{{/code}} ファイルに保存することができます。参考までに、WordPress は {{code}}%(installed)s{{/code}} にインストールされています。"
+
+#: redirection-strings.php:124 redirection.js:2
+msgid "Your target URL contains the invalid character {{code}}%(invalid)s{{/code}}"
+msgstr "ターゲット URL に無効な文字 {{code}}%(invalid)s{{/code}} が含まれています"
+
+#: redirection-strings.php:268 redirection.js:2
+msgid "If you are using WordPress 5.2 or newer then look at your {{link}}Site Health{{/link}} and resolve any issues."
+msgstr "WordPress 5.2 以降をお使いの場合は、{{link}}サイトヘルス{{/link}} をご覧の上で問題を解決してください。"
+
+#: redirection-strings.php:163 redirection.js:2
+msgid "If you do not complete the manual install you will be returned here."
+msgstr "手動インストールを完了しない場合は、ここに戻ります。"
+
+#: redirection-strings.php:158 redirection.js:2
+msgid "Click \"Finished! 🎉\" when finished."
+msgstr "完了後、「完了 !🎉”」をクリックしてください。"
+
+#: redirection-strings.php:157 redirection.js:2
+msgid "If your site needs special database permissions, or you would rather do it yourself, you can manually run the following SQL."
+msgstr "お使いのサイトが特別なデータベースの権限を必要としている場合や、ご自身で行いたい場合は、手動で以下のSQLを実行することもできます。"
+
+#: redirection-strings.php:156 redirection.js:2
+msgid "Manual Install"
+msgstr "手動インストール"
+
+#: database/database-status.php:160
+msgid "Insufficient database permissions detected. Please give your database user appropriate permissions."
+msgstr "データベースの権限が不足しています。データベースユーザーに適切な権限を付与してください。"
+
+#: redirection-strings.php:538 redirection.js:2
+msgid "This information is provided for debugging purposes. Be careful making any changes."
+msgstr "次の情報はデバッグ目的で表示しています。変更を加える際には注意してください。"
+
+#: redirection-strings.php:537 redirection.js:2
+msgid "Plugin Debug"
+msgstr "プラグインをデバッグ"
+
+#: redirection-strings.php:535 redirection.js:2
+msgid "Redirection communicates with WordPress through the WordPress REST API. This is a standard part of WordPress, and you will experience problems if you cannot use it."
+msgstr "Redirection は WordPress と WordPress REST API を介してやり取りを行います。WordPress が提供する標準機能を使用しているため、利用できない場合は不具合が生じます。"
+
+#: redirection-strings.php:517 redirection.js:2
+msgid "IP Headers"
+msgstr "IP ヘッダー"
+
+#: redirection-strings.php:515 redirection.js:2
+msgid "Do not change unless advised to do so!"
+msgstr "指示があるまで変更しないでください !"
+
+#: redirection-strings.php:514 redirection.js:2
+msgid "Database version"
+msgstr "データベースバージョン"
+
+#: redirection-strings.php:316 redirection.js:2
+msgid "Complete data (JSON)"
+msgstr "すべてのデータ (JSON 形式)"
+
+#: redirection-strings.php:311 redirection.js:2
+msgid "Export to CSV, Apache .htaccess, Nginx, or Redirection JSON. The JSON format contains full information, and other formats contain partial information appropriate to the format."
+msgstr "CSV, Apache .htaccess, Nginx, Redirection JSON 形式でエクスポートできます。JSON 形式はすべての設定を含んでおり、他のフォーマットでは、それぞれの形式に適した部分的な情報を出力します。"
+
+#: redirection-strings.php:309 redirection.js:2
+msgid "CSV does not include all information, and everything is imported/exported as \"URL only\" matches. Use the JSON format for a full set of data."
+msgstr "CSV には一部の情報しか含まれず、すべてのインポート/エクスポートは「URL のみ」一致として扱われます。もしすべての情報を含んでいる形式を望む場合は JSON を利用してください。"
+
+#: redirection-strings.php:307 redirection.js:2
+msgid "All imports will be appended to the current database - nothing is merged."
+msgstr "すべてのインポートは現在のデータベースに追加されます。何もマージはされません。"
+
+#: redirection-strings.php:155 redirection.js:2
+msgid "I need support!"
+msgstr "サポートが必要です。"
+
+#: redirection-strings.php:172 redirection.js:2
+msgid "You will need at least one working REST API to continue."
+msgstr "続行するには、少なくとも1つの動作している REST API が必要です。"
+
+#: redirection-strings.php:140 redirection.js:2
+msgid "Check Again"
+msgstr "再確認"
+
+#: redirection-strings.php:139
+msgid "Testing - %s$"
+msgstr "テスト中 - %s$"
+
+#: redirection-strings.php:138 redirection.js:2
+msgid "Show Problems"
+msgstr "問題点を表示"
+
+#: redirection-strings.php:137 redirection.js:2
+msgid "Summary"
+msgstr "要約"
+
+#: redirection-strings.php:136 redirection.js:2
+msgid "Your REST API is not working and the plugin will not be able to continue until this is fixed."
+msgstr "REST API が動作していないため、この問題が修正されるまでプラグインを続行できません。"
+
+#: redirection-strings.php:135 redirection.js:2
+msgid "There are some problems connecting to your REST API. It is not necessary to fix these problems and the plugin is able to work."
+msgstr "REST API に接続する際に問題が発生しています。プラグインが動作するのにこの問題を修正する必要はありません。"
+
+#: redirection-strings.php:134 redirection.js:2
+msgid "Unavailable"
+msgstr "利用できません"
+
+#: redirection-strings.php:133 redirection.js:2
+msgid "Working but some issues"
+msgstr "動作中ですが問題あり"
+
+#: redirection-strings.php:131 redirection.js:2
+msgid "Hide"
+msgstr "非表示"
+
+#: redirection-strings.php:130 redirection.js:2
+msgid "Show Full"
+msgstr "すべてを表示"
+
+#: redirection-strings.php:129 redirection.js:2
+msgid "Working!"
+msgstr "動作しています。"
+
+#: redirection-strings.php:109 redirection.js:2
+msgid "The target URL you want to redirect, or auto-complete on post name or permalink."
+msgstr "リダイレクト先のURL、もしくは投稿のタイトルやパーマリンクを入力できます。"
+
+#: redirection-strings.php:261 redirection.js:2
+msgid "Create An Issue"
+msgstr "問題点を報告する"
+
+#: redirection-strings.php:264 redirection.js:2
+msgid "What do I do next?"
+msgstr "次はどうすればいいですか ?"
+
+#: redirection-strings.php:743 redirection.js:2
+msgid "Possible cause"
+msgstr "考えられる原因"
+
+#: redirection-strings.php:739 redirection.js:2
+msgid "This could be a security plugin, or your server is out of memory or has an external error. Please check your server error log"
+msgstr "セキュリティ プラグインによる問題、またはメモリ不足や外部エラーが考えられます。サーバーのエラーログをご確認ください"
+
+#: redirection-strings.php:726 redirection.js:2
+msgid "Your REST API is probably being blocked by a security plugin. Please disable this, or configure it to allow REST API requests."
+msgstr "REST API がセキュリティプラグインによってブロックされている可能性があります。無効化するか、REST API 要求を許可するように設定してください。"
+
+#: redirection-strings.php:727 redirection-strings.php:734
+#: redirection-strings.php:740 redirection-strings.php:745 redirection.js:2
+msgid "Read this REST API guide for more information."
+msgstr "詳細についてはこちらの REST API ガイドをご覧ください。"
+
+#: redirection-strings.php:108 redirection.js:2
+msgid "URL options / Regex"
+msgstr "URL オプション / 正規表現"
+
+#: redirection-strings.php:323 redirection.js:2
+msgid "Export 404"
+msgstr "404 エラーをエクスポート"
+
+#: redirection-strings.php:322 redirection.js:2
+msgid "Export redirect"
+msgstr "リダイレクトをエクスポート"
+
+#: redirection-strings.php:675 redirection.js:2
+msgid "Pass - as ignore, but also copies the query parameters to the target"
+msgstr "パス - 無視する。ただし、クエリーパラメータをターゲットにコピーもする"
+
+#: redirection-strings.php:674 redirection.js:2
+msgid "Ignore - as exact, but ignores any query parameters not in your source"
+msgstr "無視 - 完全一致。ただしソースにないクエリーパラメータは無視"
+
+#: redirection-strings.php:673 redirection.js:2
+msgid "Exact - matches the query parameters exactly defined in your source, in any order"
+msgstr "完全 - ソースで定義されたクエリーパラメータと任意の順序で一致させる"
+
+#: redirection-strings.php:671 redirection.js:2
+msgid "Default query matching"
+msgstr "デフォルトのクエリー一致"
+
+#: redirection-strings.php:670 redirection.js:2
+msgid "Ignore trailing slashes (i.e. {{code}}/exciting-post/{{/code}} will match {{code}}/exciting-post{{/code}})"
+msgstr "末尾のスラッシュを無視。 (例 {{code}}/exciting-post/{{/code}} は {{code}}/exciting-post{{/code}} にマッチします)"
+
+#: redirection-strings.php:669 redirection.js:2
+msgid "Case insensitive matches (i.e. {{code}}/Exciting-Post{{/code}} will match {{code}}/exciting-post{{/code}})"
+msgstr "大文字小文字を区別しない。 (例 {{code}}/Exciting-Post{{/code}} は {{code}}/exciting-post{{/code}} にマッチします)"
+
+#: redirection-strings.php:668 redirection-strings.php:672 redirection.js:2
+msgid "Applies to all redirections unless you configure them otherwise."
+msgstr "特に設定しない限り、すべてのリダイレクトに適用されます。"
+
+#: redirection-strings.php:667 redirection.js:2
+msgid "Default URL settings"
+msgstr "デフォルトの URL 設定"
+
+#: redirection-strings.php:660 redirection.js:2
+msgid "Ignore and pass all query parameters"
+msgstr "すべてのクエリーパラメータを無視して渡す"
+
+#: redirection-strings.php:659 redirection.js:2
+msgid "Ignore all query parameters"
+msgstr "すべてのクエリーパラメータを無視"
+
+#: redirection-strings.php:91 redirection.js:2
+msgid "Exact match"
+msgstr "完全一致"
+
+#: redirection-strings.php:168 redirection.js:2
+msgid "Caching software (e.g Cloudflare)"
+msgstr "キャッシュソフトウェア (例: Cloudflare)"
+
+#: redirection-strings.php:166 redirection.js:2
+msgid "A security plugin (e.g Wordfence)"
+msgstr "セキュリティプラグイン (例: Wordfence)"
+
+#: redirection-strings.php:473 redirection.js:2
+msgid "URL options"
+msgstr "URL オプション"
+
+#: redirection-strings.php:104 redirection-strings.php:474 redirection.js:2
+msgid "Query Parameters"
+msgstr "クエリーパラメータ"
+
+#: redirection-strings.php:94 redirection.js:2
+msgid "Ignore & pass parameters to the target"
+msgstr "無視してターゲットにパラメータを渡す"
+
+#: redirection-strings.php:93 redirection.js:2
+msgid "Ignore all parameters"
+msgstr "すべてのパラメータを無視"
+
+#: redirection-strings.php:90 redirection.js:2
+msgid "Ignore Case"
+msgstr "大文字小文字の区別なし"
+
+#: redirection-strings.php:89 redirection.js:2
+msgid "Ignore Slash"
+msgstr "スラッシュ無視"
+
+#: redirection-strings.php:639 redirection.js:2
+msgid "Relative REST API"
+msgstr "相対 REST API"
+
+#: redirection-strings.php:638 redirection.js:2
+msgid "Raw REST API"
+msgstr "生の REST API"
+
+#: redirection-strings.php:637 redirection.js:2
+msgid "Default REST API"
+msgstr "デフォルト REST API"
+
+#: redirection-strings.php:212 redirection.js:2
+msgid "(Example) The target URL is the new URL"
+msgstr "(例) ターゲット URL は URL です"
+
+#: redirection-strings.php:210 redirection.js:2
+msgid "(Example) The source URL is your old or original URL"
+msgstr "(例)ソース URL は旧 URL または元の URL です"
+
+#. translators: 1: server PHP version. 2: required PHP version.
+#: redirection.php:38
+msgid "Disabled! Detected PHP %1$s, need PHP %2$s+"
+msgstr "無効化しました ! PHP %1$sが検出されましたが、PHP %2$s以降が必要です"
+
+#. translators: 1: URL to plugin page, 2: current version, 3: target version
+#: redirection-admin.php:101
+msgid "Redirection's database needs to be updated - <a href=\"%1$1s\">click to update</a>."
+msgstr "Redirection のデータベースを更新する必要があります- <a href=\"%1$1s\">クリックして更新</a>します。"
+
+#: redirection-strings.php:173 redirection.js:2
+msgid "Finish Setup"
+msgstr "セットアップ完了"
+
+#: redirection-strings.php:189 redirection.js:2
+msgid "Retry"
+msgstr "再試行"
+
+#: redirection-strings.php:170 redirection.js:2
+msgid "If you do experience a problem then please consult your plugin documentation, or try contacting your host support. This is generally {{link}}not a problem caused by Redirection{{/link}}."
+msgstr "問題が発生した場合はプラグインのマニュアルを参照するか、ホスティングサービスのサポートに連絡してください。これは一般的に {{link}}Redirection プラグインによって引き起こされる問題ではありません{{/link}}。"
+
+#: redirection-strings.php:169 redirection.js:2
+msgid "Some other plugin that blocks the REST API"
+msgstr "REST API をブロックするその他のプラグイン"
+
+#: redirection-strings.php:167 redirection.js:2
+msgid "A server firewall or other server configuration (e.g OVH)"
+msgstr "サーバーファイアウォールまたはその他のサーバー構成 (例: OVH)"
+
+#: redirection-strings.php:165 redirection.js:2
+msgid "Redirection uses the {{link}}WordPress REST API{{/link}} to communicate with WordPress. This is enabled and working by default. Sometimes the REST API is blocked by:"
+msgstr "Redirection は、{{link}}WordPress REST API{{/link}} を使用して通信します。これはデフォルトで有効化されており、動作します。時々、REST API が次によりブロックされることがあります:"
+
+#: redirection-strings.php:162 redirection-strings.php:184
+#: redirection-strings.php:203 redirection.js:2
+msgid "Go back"
+msgstr "戻る"
+
+#: redirection-strings.php:200 redirection.js:2
+msgid "Storing the IP address allows you to perform additional log actions. Note that you will need to adhere to local laws regarding the collection of data (for example GDPR)."
+msgstr "IP アドレスを保管することで、追加の対応を行うことができます。お住まいの地域のデータの取得に関する法律（GDPR など）に従う必要があることにご注意ください。"
+
+#: redirection-strings.php:199 redirection.js:2
+msgid "Store IP information for redirects and 404 errors."
+msgstr "リダイレクトと 404 エラーの IP アドレスを記録する。"
+
+#: redirection-strings.php:197 redirection.js:2
+msgid "Storing logs for redirects and 404s will allow you to see what is happening on your site. This will increase your database storage requirements."
+msgstr "リダイレクトと 404 のログを保管することで、サイトで何が起きているかを確認できます。必要なデータベース容量が増加します。"
+
+#: redirection-strings.php:196 redirection.js:2
+msgid "Keep a log of all redirects and 404 errors."
+msgstr "すべてのリダイレクトと 404 エラーのログを保存する。"
+
+#: redirection-strings.php:195 redirection-strings.php:198
+#: redirection-strings.php:201 redirection.js:2
+msgid "{{link}}Read more about this.{{/link}}"
+msgstr "{{link}}これについてさらに読む。{{/link}}"
+
+#: redirection-strings.php:194 redirection.js:2
+msgid "If you change the permalink in a post or page then Redirection can automatically create a redirect for you."
+msgstr "投稿や固定ページのパーマリンクを変更しても、Redirection が自動的にリダイレクトを作成します。"
+
+#: redirection-strings.php:193 redirection.js:2
+msgid "Monitor permalink changes in WordPress posts and pages"
+msgstr "WordPress の投稿と固定ページのパーマリンクの変更を監視"
+
+#: redirection-strings.php:192 redirection.js:2
+msgid "These are some options you may want to enable now. They can be changed at any time."
+msgstr "これらは、今すぐ有効にするとよいオプションです。これらはいつでも変更できます。"
+
+#: redirection-strings.php:191 redirection.js:2
+msgid "Basic Setup"
+msgstr "基本セットアップ"
+
+#: redirection-strings.php:222 redirection.js:2
+msgid "Start Setup"
+msgstr "セットアップを開始"
+
+#: redirection-strings.php:221 redirection.js:2
+msgid "First you will be asked a few questions, and then Redirection will set up your database."
+msgstr "数個の質問から、Redirection がデータベースを設定します。"
+
+#: redirection-strings.php:220 redirection.js:2
+msgid "What's next?"
+msgstr "次のステップは？"
+
+#: redirection-strings.php:219 redirection.js:2
+msgid "Check a URL is being redirected"
+msgstr "URL がリダイレクトされていることを確認"
+
+#: redirection-strings.php:218 redirection.js:2
+msgid "More powerful URL matching, including {{regular}}regular expressions{{/regular}}, and {{other}}other conditions{{/other}}"
+msgstr "{{regular}}正規表現{{/regular}}を含む、より強力な URL 一致や{{other}}その他の条件{{/other}}"
+
+#: redirection-strings.php:217 redirection.js:2
+msgid "{{link}}Import{{/link}} from .htaccess, CSV, and a variety of other plugins"
+msgstr "htaccess、CSV、およびその他のさまざまなプラグインから{{link}}インポート{{/link}}"
+
+#: redirection-strings.php:216 redirection.js:2
+msgid "{{link}}Monitor 404 errors{{/link}}, get detailed information about the visitor, and fix any problems"
+msgstr "{{link}}404エラー{{/link}}を監視し、訪問者に関する詳細情報を取得し、問題を修正"
+
+#: redirection-strings.php:215 redirection.js:2
+msgid "Some features you may find useful are"
+msgstr "便利なその他の機能はこちら"
+
+#: redirection-strings.php:214 redirection.js:2
+msgid "Full documentation can be found on the {{link}}Redirection website.{{/link}}"
+msgstr "完全なドキュメントは、{{link}}Redirection のウェブサイト{{/link}} でご覧いただけます。"
+
+#: redirection-strings.php:208 redirection.js:2
+msgid "A simple redirect involves setting a {{strong}}source URL{{/strong}} (the old URL) and a {{strong}}target URL{{/strong}} (the new URL). Here's an example:"
+msgstr "単純リダイレクトでは{{strong}}ソース URL{{/strong}} (旧 URL) と{{strong}}ターゲット URL{{/strong}} (新 URL) を指定する必要があります。こちらが例です:"
+
+#: redirection-strings.php:207 redirection.js:2
+msgid "How do I use this plugin?"
+msgstr "このプラグインはどうやって使いますか ?"
+
+#: redirection-strings.php:206 redirection.js:2
+msgid "Redirection is designed to be used on sites with a few redirects to sites with thousands of redirects."
+msgstr "Redirection は、数個のリダイレクトを持つサイトから何千ものリダイレクトを持つサイトまで、幅広く使えるよう設計されています。"
+
+#: redirection-strings.php:205 redirection.js:2
+msgid "Thank you for installing and using Redirection v%(version)s. This plugin will allow you to manage 301 redirections, keep track of 404 errors, and improve your site, with no knowledge of Apache or Nginx needed."
+msgstr "Redirection バージョン %(version)s をインストールしていただきありがとうございます。このプラグインでは、Apache や Nginx の知識なしで、301 リダイレクトを管理したり、404 エラーを追跡したり、サイトを改善したりできます。"
+
+#: redirection-strings.php:204 redirection.js:2
+msgid "Welcome to Redirection 🚀🎉"
+msgstr "Redirection へようこそ 🚀🎉"
+
+#: redirection-strings.php:115 redirection.js:2
+msgid "Remember to enable the \"regex\" option if this is a regular expression."
+msgstr "正規表現の場合は、必ず \"regex\" オプションを有効化してください。"
+
+#: redirection-strings.php:114 redirection.js:2
+msgid "The source URL should probably start with a {{code}}/{{/code}}"
+msgstr "ソース URL は、おそらく {{code}}/{{/code}} から始まる必要があります"
+
+#: redirection-strings.php:113 redirection.js:2
+msgid "This will be converted to a server redirect for the domain {{code}}%(server)s{{/code}}."
+msgstr "これは、ドメイン {{code}}%(server)s{{/code}} のサーバーリダイレクトに変換されます。"
+
+#: redirection-strings.php:112 redirection.js:2
+msgid "Anchor values are not sent to the server and cannot be redirected."
+msgstr "アンカー値はサーバーに送信されないため、リダイレクトできません。"
+
+#: redirection-strings.php:161 redirection.js:2
+msgid "Finished! 🎉"
+msgstr "完了 ! 🎉"
+
+#: redirection-strings.php:17
+msgid "Progress: %(complete)d$"
+msgstr "進捗: %(complete)d$"
+
+#: redirection-strings.php:15 redirection.js:2
+msgid "Leaving before the process has completed may cause problems."
+msgstr "手順が完了する前に離脱すると問題が発生する可能性があります。"
+
+#: redirection-strings.php:14 redirection.js:2
+msgid "Setting up Redirection"
+msgstr "Redirection を設定"
+
+#: redirection-strings.php:13 redirection.js:2
+msgid "Upgrading Redirection"
+msgstr "Redirection のアップグレードが必要"
+
+#: redirection-strings.php:16 redirection.js:2
+msgid "Please remain on this page until complete."
+msgstr "このページは完了するまでそのままにしてください。"
+
+#: redirection-strings.php:12 redirection.js:2
+msgid "If you want to {{support}}ask for support{{/support}} please include these details:"
+msgstr "{{support}}サポートを依頼{{/support}}したい場合は、次の詳細を含めてください。"
+
+#: redirection-strings.php:11 redirection.js:2
+msgid "Stop upgrade"
+msgstr "アップグレードを中断"
+
+#: redirection-strings.php:10 redirection.js:2
+msgid "Skip this stage"
+msgstr "この操作を飛ばす"
+
+#: redirection-strings.php:7 redirection-strings.php:9 redirection.js:2
+msgid "Try again"
+msgstr "もう一度試す"
+
+#: redirection-strings.php:6 redirection-strings.php:8
+#: redirection-strings.php:159 redirection.js:2
+msgid "Database problem"
+msgstr "データベースに問題発生"
+
+#: redirection-admin.php:550
+msgid "Please enable JavaScript"
+msgstr "JavaScript を有効化してください"
+
+#: redirection-admin.php:202
+msgid "Please upgrade your database"
+msgstr "データベースをアップグレードしてください"
+
+#: redirection-admin.php:193 redirection.js:2
+msgid "Upgrade Database"
+msgstr "データベースを更新"
+
+#. translators: 1: URL to plugin page
+#: redirection-admin.php:98
+msgid "Please complete your <a href=\"%s\">Redirection setup</a> to activate the plugin."
+msgstr "<a href=\"%s\">Redirection セットアップ</a> を行って、プラグインを有効化してください。"
+
+#. translators: version number
+#: api/api-plugin.php:119
+msgid "Your database does not need updating to %s."
+msgstr "データベースを %s に更新する必要はありません。"
+
+#. translators: 1: table name
+#: database/schema/latest.php:103
+msgid "Table \"%s\" is missing"
+msgstr "テーブル \"%s\" が見つかりません"
+
+#. translators: displayed when installing the plugin
+#: database/schema/latest.php:12
+msgid "Create basic data"
+msgstr "基本データを作成"
+
+#. translators: displayed when installing the plugin
+#: database/schema/latest.php:10
+msgid "Install Redirection tables"
+msgstr "Redirection テーブルをインストール"
+
+#. translators: 1: Site URL, 2: Home URL
+#: models/fixer.php:115
+msgid "Site and home URL are inconsistent. Please correct from your Settings > General page: %1$1s is not %2$2s"
+msgstr "サイトとホームの URL が一致しません。設定 > 一般ページから修正してください: %1$1s は %2$2s ではありません"
+
+#: redirection-strings.php:588 redirection.js:2
+msgid "Please do not try and redirect all your 404s - this is not a good thing to do."
+msgstr "すべての 404 エラーをリダイレクトしようとしないでください。- これは推奨される方法ではありません。"
+
+#: redirection-strings.php:587 redirection.js:2
+msgid "Only the 404 page type is currently supported."
+msgstr "現在サポートされているのは 404 ページタイプのみです。"
+
+#: redirection-strings.php:586 redirection.js:2
+msgid "Page Type"
+msgstr "ページ種別"
+
+#: redirection-strings.php:583 redirection.js:2
+msgid "Enter IP addresses (one per line)"
+msgstr "IP アドレスを入力してください (1行ごとに1つずつ)"
+
+#: redirection-strings.php:111 redirection.js:2
+msgid "Describe the purpose of this redirect (optional)"
+msgstr "このリダイレクトの目的を説明 (省略可)"
+
+#: redirection-strings.php:81 redirection.js:2
+msgid "418 - I'm a teapot"
+msgstr "418 - I'm a teapot（急須ですが）"
+
+#: redirection-strings.php:78 redirection.js:2
+msgid "403 - Forbidden"
+msgstr "403 - Forbidden（不許可）"
+
+#: redirection-strings.php:76 redirection.js:2
+msgid "400 - Bad Request"
+msgstr "400 - Bad Request（不正なリクエスト）"
+
+#: redirection-strings.php:73 redirection.js:2
+msgid "304 - Not Modified"
+msgstr "304 - Not Modified（変更なし）"
+
+#: redirection-strings.php:72 redirection.js:2
+msgid "303 - See Other"
+msgstr "303 - See Other（次のページ）"
+
+#: actions/nothing.php:17 redirection-strings.php:69 redirection.js:2
+msgid "Do nothing (ignore)"
+msgstr "何もしない (無視)"
+
+#: redirection-strings.php:556 redirection-strings.php:560 redirection.js:2
+msgid "Target URL when not matched (empty to ignore)"
+msgstr "一致しない場合のターゲット URL (無視する場合は空)"
+
+#: redirection-strings.php:554 redirection-strings.php:558 redirection.js:2
+msgid "Target URL when matched (empty to ignore)"
+msgstr "一致した場合のターゲット URL (無視する場合は空)"
+
+#: redirection-strings.php:436 redirection.js:2
+msgid "Show All"
+msgstr "すべて表示"
+
+#: redirection-strings.php:433 redirection.js:2
+msgid "Delete logs for these entries"
+msgstr "これらの項目のログをすべて削除"
+
+#: redirection-strings.php:432 redirection.js:2
+msgid "Delete logs for this entry"
+msgstr "この項目のログをすべて削除"
+
+#: redirection-strings.php:431 redirection.js:2
+msgid "Delete Log Entries"
+msgstr "ログを削除"
+
+#: redirection-strings.php:371 redirection-strings.php:401 redirection.js:2
+msgid "Group by IP"
+msgstr "IP でグループ化"
+
+#: redirection-strings.php:369 redirection-strings.php:399 redirection.js:2
+msgid "Group by URL"
+msgstr "URL でグループ化"
+
+#: redirection-strings.php:368 redirection-strings.php:398 redirection.js:2
+msgid "No grouping"
+msgstr "グルーピングなし"
+
+#: redirection-strings.php:397 redirection-strings.php:438 redirection.js:2
+msgid "Ignore URL"
+msgstr "URL を無視"
+
+#: redirection-strings.php:395 redirection-strings.php:437 redirection.js:2
+msgid "Block IP"
+msgstr "IP をブロック"
+
+#: redirection-strings.php:394 redirection-strings.php:396 redirection.js:2
+msgid "Redirect All"
+msgstr "すべて転送"
+
+#: redirection-strings.php:325 redirection-strings.php:327
+#: redirection-strings.php:329 redirection-strings.php:346
+#: redirection-strings.php:348 redirection-strings.php:350
+#: redirection-strings.php:380 redirection-strings.php:382
+#: redirection-strings.php:384 redirection-strings.php:407
+#: redirection-strings.php:409 redirection-strings.php:411 redirection.js:2
+msgid "Count"
+msgstr "カウント"
+
+#: matches/page.php:17 redirection-strings.php:63 redirection.js:2
+msgid "URL and WordPress page type"
+msgstr "URL と WordPress ページタイプ"
+
+#: matches/ip.php:17 redirection-strings.php:59 redirection.js:2
+msgid "URL and IP"
+msgstr "URL と IP"
+
+#: redirection-strings.php:533 redirection.js:2
+msgid "Problem"
+msgstr "問題"
+
+#: redirection-strings.php:132 redirection-strings.php:532 redirection.js:2
+msgid "Good"
+msgstr "良好"
+
+#: redirection-strings.php:529 redirection.js:2
+msgid "Check"
+msgstr "確認"
+
+#: redirection-strings.php:511 redirection.js:2
+msgid "Check Redirect"
+msgstr "リダイレクトを確認"
+
+#: redirection-strings.php:47 redirection.js:2
+msgid "Check redirect for: {{code}}%s{{/code}}"
+msgstr "このリダイレクトを確認: {{code}}%s{{/code}}"
+
+#: redirection-strings.php:45 redirection.js:2
+msgid "Error"
+msgstr "エラー"
+
+#: redirection-strings.php:528 redirection.js:2
+msgid "Enter full URL, including http:// or https://"
+msgstr "http:// や https:// を含めた完全な URL を入力してください"
+
+#: redirection-strings.php:525 redirection.js:2
+msgid "Redirect Tester"
+msgstr "リダイレクトテスター"
+
+#: redirection-strings.php:359 redirection-strings.php:476 redirection.js:2
+msgid "Target"
+msgstr "リンクターゲット"
+
+#: redirection-strings.php:595 redirection.js:2
+msgid "Enter server URL to match against"
+msgstr "一致するサーバーの URL を入力"
+
+#: redirection-strings.php:594 redirection.js:2
+msgid "Server"
+msgstr "サーバー"
+
+#: redirection-strings.php:593 redirection.js:2
+msgid "Enter role or capability value"
+msgstr "権限グループまたは権限の値を入力"
+
+#: redirection-strings.php:592 redirection.js:2
+msgid "Role"
+msgstr "権限グループ"
+
+#: redirection-strings.php:590 redirection.js:2
+msgid "Match against this browser referrer text"
+msgstr "このブラウザーリファラーテキストと一致"
+
+#: redirection-strings.php:563 redirection.js:2
+msgid "Match against this browser user agent"
+msgstr "このブラウザーユーザーエージェントに一致"
+
+#: redirection-strings.php:107 redirection.js:2
+msgid "The relative URL you want to redirect from"
+msgstr "リダイレクト元となる相対 URL"
+
+#: redirection-strings.php:285 redirection.js:2
+msgid "Add New"
+msgstr "新規追加"
+
+#: matches/user-role.php:17 redirection-strings.php:55 redirection.js:2
+msgid "URL and role/capability"
+msgstr "URL と権限グループ / 権限"
+
+#: matches/server.php:17 redirection-strings.php:60 redirection.js:2
+msgid "URL and server"
+msgstr "URL とサーバー"
+
+#: models/fixer.php:119
+msgid "Site and home protocol"
+msgstr "サイト URL とホーム URL のプロトコル"
+
+#: models/fixer.php:112
+msgid "Site and home are consistent"
+msgstr "サイト URL とホーム URL は一致しています"
+
+#: redirection-strings.php:581 redirection.js:2
+msgid "Note it is your responsibility to pass HTTP headers to PHP. Please contact your hosting provider for support about this."
+msgstr "HTTP ヘッダーを PHP に通せるかどうかはサーバーの設定によります。詳しくはお使いのホスティング会社にお問い合わせください。"
+
+#: redirection-strings.php:579 redirection.js:2
+msgid "Accept Language"
+msgstr "Accept Language"
+
+#: redirection-strings.php:577 redirection.js:2
+msgid "Header value"
+msgstr "ヘッダー値"
+
+#: redirection-strings.php:576 redirection.js:2
+msgid "Header name"
+msgstr "ヘッダー名"
+
+#: redirection-strings.php:575 redirection.js:2
+msgid "HTTP Header"
+msgstr "HTTP ヘッダー"
+
+#: redirection-strings.php:574 redirection.js:2
+msgid "WordPress filter name"
+msgstr "WordPress フィルター名"
+
+#: redirection-strings.php:573 redirection.js:2
+msgid "Filter Name"
+msgstr "フィルター名"
+
+#: redirection-strings.php:571 redirection.js:2
+msgid "Cookie value"
+msgstr "Cookie 値"
+
+#: redirection-strings.php:570 redirection.js:2
+msgid "Cookie name"
+msgstr "Cookie 名"
+
+#: redirection-strings.php:569 redirection.js:2
+msgid "Cookie"
+msgstr "Cookie"
+
+#: redirection-strings.php:255 redirection.js:2
+msgid "clearing your cache."
+msgstr "キャッシュを削除します。"
+
+#: redirection-strings.php:254 redirection.js:2
+msgid "If you are using a caching system such as Cloudflare then please read this: "
+msgstr "Cloudflare などのキャッシュシステムをお使いの場合、こちらをお読みください: "
+
+#: matches/http-header.php:31 redirection-strings.php:61 redirection.js:2
+msgid "URL and HTTP header"
+msgstr "URL と HTTP ヘッダー"
+
+#: matches/custom-filter.php:17 redirection-strings.php:62 redirection.js:2
+msgid "URL and custom filter"
+msgstr "URL とカスタムフィルター"
+
+#: matches/cookie.php:10 redirection-strings.php:58 redirection.js:2
+msgid "URL and cookie"
+msgstr "URL と Cookie"
+
+#: redirection-strings.php:543 redirection.js:2
+msgid "404 deleted"
+msgstr "404 deleted"
+
+#: redirection-strings.php:164 redirection-strings.php:648 redirection.js:2
+msgid "REST API"
+msgstr "REST API"
+
+#: redirection-strings.php:649 redirection.js:2
+msgid "How Redirection uses the REST API - don't change unless necessary"
+msgstr "Redirection の REST API の使い方 - 必要な場合以外は変更しないでください"
+
+#: redirection-strings.php:265 redirection.js:2
+msgid "Take a look at the {{link}}plugin status{{/link}}. It may be able to identify and \"magic fix\" the problem."
+msgstr "{{link}}プラグインステータス{{/link}} をご覧ください。問題を特定でき、問題を修正できるかもしれません。"
+
+#: redirection-strings.php:266 redirection.js:2
+msgid "{{link}}Caching software{{/link}}, in particular Cloudflare, can cache the wrong thing. Try clearing all your caches."
+msgstr "{{link}}キャッシュソフト{{/link}} 特に Cloudflare は間違ったキャッシュを行うことがあります。すべてのキャッシュをクリアしてみてください。"
+
+#: redirection-strings.php:267 redirection.js:2
+msgid "{{link}}Please temporarily disable other plugins!{{/link}} This fixes so many problems."
+msgstr "{{link}}一時的に他のプラグインを無効化してください。{{/link}} 多くの問題はこれで解決します。"
+
+#: redirection-admin.php:529
+msgid "Please see the <a href=\"https://redirection.me/support/problems/\">list of common problems</a>."
+msgstr "<a href=\"https://redirection.me/support/problems/\">よくある問題一覧</a> をご覧ください。"
+
+#: redirection-admin.php:523
+msgid "Unable to load Redirection ☹️"
+msgstr "Redirection のロードに失敗しました☹️"
+
+#: redirection-strings.php:534 redirection.js:2
+msgid "WordPress REST API"
+msgstr "WordPress REST API"
+
+#: redirection-strings.php:144 redirection.js:2
+msgid "Useragent Error"
+msgstr "ユーザーエージェントエラー"
+
+#: redirection-strings.php:146 redirection.js:2
+msgid "Unknown Useragent"
+msgstr "不明なユーザーエージェント"
+
+#: redirection-strings.php:147 redirection.js:2
+msgid "Device"
+msgstr "デバイス"
+
+#: redirection-strings.php:148 redirection.js:2
+msgid "Operating System"
+msgstr "オペレーティングシステム"
+
+#: redirection-strings.php:149 redirection.js:2
+msgid "Browser"
+msgstr "ブラウザー"
+
+#: redirection-strings.php:150 redirection.js:2
+msgid "Engine"
+msgstr "エンジン"
+
+#: redirection-strings.php:151 redirection.js:2
+msgid "Useragent"
+msgstr "ユーザーエージェント"
+
+#: redirection-strings.php:152 redirection.js:2
+msgid "Agent"
+msgstr "エージェント"
+
+#: redirection-strings.php:622 redirection.js:2
+msgid "No IP logging"
+msgstr "IP ロギングなし"
+
+#: redirection-strings.php:623 redirection.js:2
+msgid "Full IP logging"
+msgstr "フル IP ロギング"
+
+#: redirection-strings.php:624 redirection.js:2
+msgid "Anonymize IP (mask last part)"
+msgstr "匿名 IP (最後の部分をマスクする)"
+
+#: redirection-strings.php:652 redirection.js:2
+msgid "Monitor changes to %(type)s"
+msgstr "%(type)sの変更を監視"
+
+#: redirection-strings.php:630 redirection.js:2
+msgid "IP Logging"
+msgstr "IP ロギング"
+
+#: redirection-strings.php:549
+msgid "Geo Info"
+msgstr "位置情報"
+
+#: redirection-strings.php:550 redirection.js:2
+msgid "Agent Info"
+msgstr "エージェントの情報"
+
+#: redirection-strings.php:551 redirection.js:2
+msgid "Filter by IP"
+msgstr "IP でフィルター"
+
+#: redirection-strings.php:21 redirection.js:2
+msgid "Geo IP Error"
+msgstr "位置情報エラー"
+
+#: redirection-strings.php:22 redirection-strings.php:145 redirection.js:2
+msgid "Something went wrong obtaining this information"
+msgstr "この情報の取得中に問題が発生しました。"
+
+#: redirection-strings.php:24 redirection.js:2
+msgid "This is an IP from a private network. This means it is located inside a home or business network and no more information can be displayed."
+msgstr "これはプライベートネットワーク内からの IP です。家庭もしくは職場ネットワークからのアクセスであり、これ以上の情報を表示することはできません。"
+
+#: redirection-strings.php:26 redirection.js:2
+msgid "No details are known for this address."
+msgstr "このアドレスには詳細がありません。"
+
+#: redirection-strings.php:23 redirection-strings.php:25
+#: redirection-strings.php:27 redirection.js:2
+msgid "Geo IP"
+msgstr "ジオ IP"
+
+#: redirection-strings.php:28 redirection.js:2
+msgid "City"
+msgstr "市区町村"
+
+#: redirection-strings.php:29 redirection.js:2
+msgid "Area"
+msgstr "エリア"
+
+#: redirection-strings.php:30 redirection.js:2
+msgid "Timezone"
+msgstr "タイムゾーン"
+
+#: redirection-strings.php:31 redirection.js:2
+msgid "Geo Location"
+msgstr "位置情報"
+
+#: redirection-strings.php:49 redirection.js:2
+msgid "Powered by {{link}}redirect.li{{/link}}"
+msgstr "Powered by {{link}}redirect.li{{/link}}"
+
+#: redirection-settings.php:21
+msgid "Trash"
+msgstr "ゴミ箱"
+
+#: redirection-admin.php:528
+msgid "Please note that Redirection requires the WordPress REST API to be enabled. If you have disabled this then you won't be able to use Redirection"
+msgstr "Redirection の使用には WordPress REST API が有効化されている必要があります。REST API が無効化されていると Redirection を使用することができません。"
+
+#. translators: URL
+#: redirection-admin.php:408
+msgid "You can find full documentation about using Redirection on the <a href=\"%s\" target=\"_blank\">redirection.me</a> support site."
+msgstr "Redirection プラグインの詳しい使い方については <a href=\"%s\" target=\"_blank\">redirection.me</a> サポートサイトをご覧ください。"
+
+#. Plugin URI of the plugin
+#: redirection.php
+msgid "https://redirection.me/"
+msgstr "https://redirection.me/"
+
+#: redirection-strings.php:519 redirection.js:2
+msgid "Full documentation for Redirection can be found at {{site}}https://redirection.me{{/site}}. If you have a problem please check the {{faq}}FAQ{{/faq}} first."
+msgstr "Redirection の完全なドキュメントは {{site}}https://redirection.me{{/site}} で参照できます。問題がある場合はまず、{{faq}}FAQ{{/faq}} をチェックしてください。"
+
+#: redirection-strings.php:520 redirection.js:2
+msgid "If you want to report a bug please read the {{report}}Reporting Bugs{{/report}} guide."
+msgstr "バグを報告したい場合、こちらの {{report}}バグ報告{{/report}} ガイドをお読みください。"
+
+#: redirection-strings.php:522 redirection.js:2
+msgid "If you want to submit information that you don't want in a public repository then send it directly via {{email}}email{{/email}} - include as much information as you can!"
+msgstr "公開されているリポジトリに投稿したくない情報を提示したいときは、その内容を可能な限りの詳細な情報を記した上で {{email}}メール{{/email}} を送ってください。"
+
+#: redirection-strings.php:661 redirection.js:2
+msgid "Never cache"
+msgstr "キャッシュしない"
+
+#: redirection-strings.php:662 redirection.js:2
+msgid "An hour"
+msgstr "1時間"
+
+#: redirection-strings.php:680 redirection.js:2
+msgid "Redirect Caching"
+msgstr "リダイレクトキャッシュ"
+
+#: redirection-strings.php:679 redirection.js:2
+msgid "How long to cache redirected 301 URLs (via \"Expires\" HTTP header)"
+msgstr "301 URL リダイレクトをキャッシュする長さ (\"Expires\" HTTP ヘッダー)"
+
+#: redirection-strings.php:303 redirection.js:2
+msgid "Are you sure you want to import from %s?"
+msgstr "本当に %s からインポートしますか ?"
+
+#: redirection-strings.php:304 redirection.js:2
+msgid "Plugin Importers"
+msgstr "インポートプラグイン"
+
+#: redirection-strings.php:305 redirection.js:2
+msgid "The following redirect plugins were detected on your site and can be imported from."
+msgstr "サイト上より今プラグインにインポートできる以下のリダイレクトプラグインが見つかりました。"
+
+#: redirection-strings.php:288
+msgid "total = "
+msgstr "合計 = "
+
+#: redirection-strings.php:289 redirection.js:2
+msgid "Import from %s"
+msgstr "%s からインポート"
+
+#. translators: 1: Expected WordPress version, 2: Actual WordPress version
+#: redirection-admin.php:511
+msgid "Redirection requires WordPress v%1$1s, you are using v%2$2s - please update your WordPress"
+msgstr "Redirection の動作には WordPress v%1$1s が必要ですが、v%2$2s を利用しているようです。WordPress をアップデートしてください。"
+
+#: models/importer.php:332
+msgid "Default WordPress \"old slugs\""
+msgstr "初期設定の WordPress \"old slugs\""
+
+#: redirection-strings.php:657 redirection.js:2
+msgid "Create associated redirect (added to end of URL)"
+msgstr "関連付けたリダイレクトを作成する（URL の後ろに追加されます）"
+
+#: redirection-admin.php:531
+msgid "<code>Redirectioni10n</code> is not defined. This usually means another plugin is blocking Redirection from loading. Please disable all plugins and try again."
+msgstr "<code> Redirectioni10n</code> が定義されていません。別のプラグインが Redirection の機能をブロックしているようです。一度全てのプラグインを無効にしてから、もう一度お試しください。"
+
+#: redirection-strings.php:530 redirection.js:2
+msgid "If the magic button doesn't work then you should read the error and see if you can fix it manually, otherwise follow the 'Need help' section below."
+msgstr "マジック修正ボタンが効かない場合、エラーを読み自分で修正する必要があります。もしくは下の「助けが必要」セクションをお読みください。"
+
+#: redirection-strings.php:531 redirection.js:2
+msgid "⚡️ Magic fix ⚡️"
+msgstr "⚡️マジック修正⚡️"
+
+#: redirection-strings.php:536 redirection.js:2
+msgid "Plugin Status"
+msgstr "プラグインステータス"
+
+#: redirection-strings.php:20 redirection-strings.php:564
+#: redirection-strings.php:578 redirection.js:2
+msgid "Custom"
+msgstr "カスタム"
+
+#: redirection-strings.php:565 redirection.js:2
+msgid "Mobile"
+msgstr "モバイル"
+
+#: redirection-strings.php:566 redirection.js:2
+msgid "Feed Readers"
+msgstr "フィード読者"
+
+#: redirection-strings.php:567 redirection.js:2
+msgid "Libraries"
+msgstr "ライブラリ"
+
+#: redirection-strings.php:654 redirection.js:2
+msgid "URL Monitor Changes"
+msgstr "変更を監視する URL"
+
+#: redirection-strings.php:655 redirection.js:2
+msgid "Save changes to this group"
+msgstr "このグループへの変更を保存"
+
+#: redirection-strings.php:656 redirection.js:2
+msgid "For example \"/amp\""
+msgstr "例: \"/amp\""
+
+#: redirection-strings.php:653 redirection.js:2
+msgid "URL Monitor"
+msgstr "URL モニター"
+
+#: redirection-strings.php:736 redirection.js:2
+msgid "Your server has rejected the request for being too big. You will need to reconfigure it to continue."
+msgstr "リクエストが肥大化したためサーバーによって拒否されました。続行するには設定を見直してください。"
+
+#: redirection-admin.php:526
+msgid "Also check if your browser is able to load <code>redirection.js</code>:"
+msgstr "また <code>redirection.js</code> をお使いのブラウザがロードできるか確認してください :"
+
+#: redirection-admin.php:525 redirection-strings.php:257 redirection.js:2
+msgid "If you are using a page caching plugin or service (CloudFlare, OVH, etc) then you can also try clearing that cache."
+msgstr "CloudFlare, OVH などのキャッシュプラグイン・サービスを使用してページをキャッシュしている場合、キャッシュをクリアしてみてください。"
+
+#: redirection-admin.php:514
+msgid "Unable to load Redirection"
+msgstr "Redirection のロードに失敗しました"
+
+#: models/fixer.php:80
+msgid "Post monitor group is valid"
+msgstr "投稿モニターグループは有効です"
+
+#: models/fixer.php:80
+msgid "Post monitor group is invalid"
+msgstr "投稿モニターグループが無効です"
+
+#: models/fixer.php:78
+msgid "Post monitor group"
+msgstr "投稿モニターグループ"
+
+#: models/fixer.php:74
+msgid "All redirects have a valid group"
+msgstr "すべてのリダイレクトは有効なグループになっています"
+
+#: models/fixer.php:74
+msgid "Redirects with invalid groups detected"
+msgstr "無効なグループのリダイレクトが検出されました"
+
+#: models/fixer.php:72
+msgid "Valid redirect group"
+msgstr "有効なリダイレクトグループ"
+
+#: models/fixer.php:68
+msgid "Valid groups detected"
+msgstr "有効なグループが検出されました"
+
+#: models/fixer.php:68
+msgid "No valid groups, so you will not be able to create any redirects"
+msgstr "有効なグループがないため、新規リダイレクトを追加することはできません"
+
+#: models/fixer.php:66
+msgid "Valid groups"
+msgstr "有効なグループ"
+
+#: models/fixer.php:63
+msgid "Database tables"
+msgstr "データベーステーブル"
+
+#: models/fixer.php:104
+msgid "The following tables are missing:"
+msgstr "次のテーブルが不足しています:"
+
+#: models/fixer.php:104
+msgid "All tables present"
+msgstr "すべてのテーブルが存在しています"
+
+#: redirection-strings.php:252 redirection.js:2
+msgid "Cached Redirection detected"
+msgstr "キャッシュされた Redirection が検知されました"
+
+#: redirection-strings.php:253 redirection.js:2
+msgid "Please clear your browser cache and reload this page."
+msgstr "ブラウザーのキャッシュをクリアしてページを再読込してください。"
+
+#: redirection-strings.php:725 redirection.js:2
+msgid "WordPress did not return a response. This could mean an error occurred or that the request was blocked. Please check your server error_log."
+msgstr "WordPress WordPress が応答しません。これはエラーが発生したかリクエストがブロックされたことを示しています。サーバーの error_log を確認してください。"
+
+#: redirection-admin.php:530
+msgid "If you think Redirection is at fault then create an issue."
+msgstr "もしこの原因が Redirection だと思うのであれば Issue を作成してください。"
+
+#: redirection-admin.php:524
+msgid "This may be caused by another plugin - look at your browser's error console for more details."
+msgstr "この原因は他のプラグインが原因で起こっている可能性があります - 詳細を見るにはブラウザーの開発者ツールを使用してください。"
+
+#: redirection-admin.php:546
+msgid "Loading, please wait..."
+msgstr "ロード中です。お待ち下さい…"
+
+#: redirection-strings.php:308 redirection.js:2
+msgid "{{strong}}CSV file format{{/strong}}: {{code}}source URL, target URL{{/code}} - and can be optionally followed with {{code}}regex, http code{{/code}} ({{code}}regex{{/code}} - 0 for no, 1 for yes)."
+msgstr "{{strong}}CSV ファイルフォーマット{{/strong}}: {{code}}ソース URL、 ターゲット URL{{/code}} - またこれらも使用可能です: {{code}}正規表現,、http コード{{/code}} ({{code}}正規表現{{/code}} - 0 = no, 1 = yes)"
+
+#: redirection-strings.php:256 redirection.js:2
+msgid "Redirection is not working. Try clearing your browser cache and reloading this page."
+msgstr "Redirection が動きません。ブラウザーのキャッシュを削除しページを再読込してみてください。"
+
+#: redirection-strings.php:258 redirection.js:2
+msgid "If that doesn't help, open your browser's error console and create a {{link}}new issue{{/link}} with the details."
+msgstr ""
+"もしこれが助けにならない場合、ブラウザーのコンソールを開き {{link}新しい\n"
+" issue{{/link}} を詳細とともに作成してください。"
+
+#: redirection-admin.php:534
+msgid "Create Issue"
+msgstr "Issue を作成"
+
+#: redirection-strings.php:262 redirection.js:2
+msgid "Email"
+msgstr "メール"
+
+#: redirection-strings.php:518 redirection.js:2
+msgid "Need help?"
+msgstr "お困りですか ?"
+
+#: redirection-strings.php:521 redirection.js:2
+msgid "Please note that any support is provide on as-time-is-available basis and is not guaranteed. I do not provide paid support."
+msgstr "サポートはあくまで時間があるときにのみ提供されることになり、必ず提供されると保証することは出来ないことに注意してください。また有料サポートは受け付けていません。"
+
+#: redirection-strings.php:465 redirection.js:2
+msgid "Pos"
+msgstr "Pos"
+
+#: redirection-strings.php:80 redirection.js:2
+msgid "410 - Gone"
+msgstr "410 - 消滅"
+
+#: redirection-strings.php:103 redirection-strings.php:479 redirection.js:2
+msgid "Position"
+msgstr "位置"
+
+#: redirection-strings.php:677 redirection.js:2
+msgid "Used to auto-generate a URL if no URL is given. Use the special tags {{code}}$dec${{/code}} or {{code}}$hex${{/code}} to insert a unique ID instead"
+msgstr "URL が指定されていない場合に URL を自動生成するために使用されます。{{code}}$dec${{/code}} もしくは {{code}}$hex${{/code}} のような特別なタグが一意の ID を作るために挿入されます。"
+
+#: redirection-strings.php:448
+msgid "I'd like to support some more."
+msgstr "もっとサポートがしたいです。"
+
+#: redirection-strings.php:451
+msgid "Support 💰"
+msgstr "サポート💰"
+
+#: redirection-strings.php:290 redirection.js:2
+msgid "Import to group"
+msgstr "グループにインポート"
+
+#: redirection-strings.php:291 redirection.js:2
+msgid "Import a CSV, .htaccess, or JSON file."
+msgstr "CSV や .htaccess、JSON ファイルをインポートする。"
+
+#: redirection-strings.php:292 redirection.js:2
+msgid "Click 'Add File' or drag and drop here."
+msgstr "「新規追加」をクリックしここにドラッグアンドドロップしてください。"
+
+#: redirection-strings.php:293 redirection-strings.php:545 redirection.js:2
+msgid "Add File"
+msgstr "ファイルを追加"
+
+#: redirection-strings.php:294 redirection.js:2
+msgid "File selected"
+msgstr "選択されたファイル"
+
+#: redirection-strings.php:297 redirection.js:2
+msgid "Importing"
+msgstr "インポート中"
+
+#: redirection-strings.php:298 redirection.js:2
+msgid "Finished importing"
+msgstr "インポートが完了しました"
+
+#: redirection-strings.php:299 redirection.js:2
+msgid "Total redirects imported:"
+msgstr "インポートされたリダイレクト数:"
+
+#: redirection-strings.php:300 redirection.js:2
+msgid "Double-check the file is the correct format!"
+msgstr "ファイルが正しい形式かもう一度チェックしてください。"
+
+#: redirection-strings.php:287 redirection-strings.php:301 redirection.js:2
+msgid "OK"
+msgstr "OK"
+
+#: redirection-strings.php:100 redirection-strings.php:302 redirection.js:2
+msgid "Close"
+msgstr "閉じる"
+
+#: redirection-strings.php:310 redirection.js:2
+msgid "Export"
+msgstr "エクスポート"
+
+#: redirection-strings.php:312 redirection.js:2
+msgid "Everything"
+msgstr "すべて"
+
+#: redirection-strings.php:313 redirection.js:2
+msgid "WordPress redirects"
+msgstr "WordPress リダイレクト"
+
+#: redirection-strings.php:314 redirection.js:2
+msgid "Apache redirects"
+msgstr "Apache リダイレクト"
+
+#: redirection-strings.php:315 redirection.js:2
+msgid "Nginx redirects"
+msgstr "Nginx リダイレクト"
+
+#: redirection-strings.php:317 redirection.js:2
+msgid "CSV"
+msgstr "CSV"
+
+#: redirection-strings.php:318 redirection-strings.php:645 redirection.js:2
+msgid "Apache .htaccess"
+msgstr "Apache .htaccess"
+
+#: redirection-strings.php:319 redirection.js:2
+msgid "Nginx rewrite rules"
+msgstr "Nginx のリライトルール"
+
+#: redirection-strings.php:320 redirection.js:2
+msgid "View"
+msgstr "表示"
+
+#: redirection-strings.php:272 redirection-strings.php:282 redirection.js:2
+msgid "Import/Export"
+msgstr "インポート/エクスポート"
+
+#: redirection-strings.php:273 redirection-strings.php:625 redirection.js:2
+msgid "Logs"
+msgstr "ログ"
+
+#: redirection-strings.php:274 redirection.js:2
+msgid "404 errors"
+msgstr "404 エラー"
+
+#: redirection-strings.php:539 redirection.js:2
+msgid "Redirection saved"
+msgstr "リダイレクトが保存されました"
+
+#: redirection-strings.php:540 redirection.js:2
+msgid "Log deleted"
+msgstr "ログが削除されました"
+
+#: redirection-strings.php:541 redirection.js:2
+msgid "Settings saved"
+msgstr "設定を保存しました"
+
+#: redirection-strings.php:542 redirection.js:2
+msgid "Group saved"
+msgstr "グループが保存されました"
+
+#: redirection-strings.php:4 redirection-strings.php:430 redirection.js:2
+msgid "Are you sure you want to delete this item?"
+msgid_plural "Are you sure you want to delete the %d selected items?"
+msgstr[0] "本当にこの項目を削除してもよいですか ?"
+
+#: redirection-strings.php:682 redirection.js:2
+msgid "pass"
+msgstr "パス"
+
+#: redirection-strings.php:506 redirection.js:2
+msgid "All groups"
+msgstr "すべてのグループ"
+
+#: redirection-strings.php:70 redirection.js:2
+msgid "301 - Moved Permanently"
+msgstr "301 - 恒久的に移動"
+
+#: redirection-strings.php:71 redirection.js:2
+msgid "302 - Found"
+msgstr "302 - 発見"
+
+#: redirection-strings.php:74 redirection.js:2
+msgid "307 - Temporary Redirect"
+msgstr "307 - 一時リダイレクト"
+
+#: redirection-strings.php:75 redirection.js:2
+msgid "308 - Permanent Redirect"
+msgstr "308 - 恒久リダイレクト"
+
+#: redirection-strings.php:77 redirection.js:2
+msgid "401 - Unauthorized"
+msgstr "401 - 認証が必要"
+
+#: redirection-strings.php:79 redirection.js:2
+msgid "404 - Not Found"
+msgstr "404 - 未検出"
+
+#: redirection-strings.php:110 redirection-strings.php:475 redirection.js:2
+msgid "Title"
+msgstr "タイトル"
+
+#: redirection-strings.php:96 redirection.js:2
+msgid "When matched"
+msgstr "一致した時"
+
+#: redirection-strings.php:52 redirection.js:2
+msgid "with HTTP code"
+msgstr "次の HTTP コードと共に"
+
+#: redirection-strings.php:101 redirection.js:2
+msgid "Show advanced options"
+msgstr "高度なオプションを表示"
+
+#: redirection-strings.php:557 redirection.js:2
+msgid "Matched Target"
+msgstr "見つかったターゲット"
+
+#: redirection-strings.php:559 redirection.js:2
+msgid "Unmatched Target"
+msgstr "ターゲットが見つかりません"
+
+#: redirection-strings.php:50 redirection-strings.php:51
+msgid "Saving..."
+msgstr "保存中…"
+
+#: redirection-strings.php:544 redirection.js:2
+msgid "View notice"
+msgstr "通知を表示"
+
+#: redirection-strings.php:751 redirection-strings.php:752
+#: redirection-strings.php:753 redirection.js:2
+msgid "Something went wrong 🙁"
+msgstr "問題が発生しました"
+
+#. translators: maximum number of log entries
+#: redirection-admin.php:268
+msgid "Log entries (%d max)"
+msgstr "ログ (最大 %d)"
+
+#: redirection-strings.php:141 redirection.js:2
+msgid "Bulk Actions"
+msgstr "一括操作"
+
+#: redirection-strings.php:142 redirection-strings.php:143 redirection.js:2
+msgid "Apply"
+msgstr "適用"
+
+#: redirection-strings.php:600 redirection.js:2
+msgid "First page"
+msgstr "最初の固定ページ"
+
+#: redirection-strings.php:601 redirection.js:2
+msgid "Prev page"
+msgstr "前のページ"
+
+#: redirection-strings.php:602 redirection.js:2
+msgid "Current Page"
+msgstr "現在のページ"
+
+#: redirection-strings.php:603
+msgid "of %(page)s"
+msgstr "%(page)s"
+
+#: redirection-strings.php:604 redirection.js:2
+msgid "Next page"
+msgstr "次のページ"
+
+#: redirection-strings.php:605 redirection.js:2
+msgid "Last page"
+msgstr "最後のページ"
+
+#: redirection-strings.php:597 redirection.js:2
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "%s個の項目"
+
+#: redirection-strings.php:596 redirection.js:2
+msgid "Select All"
+msgstr "すべて選択"
+
+#: redirection-strings.php:607 redirection.js:2
+msgid "Sorry, something went wrong loading the data - please try again"
+msgstr "データのロード中に問題が発生しました - もう一度お試しください"
+
+#: redirection-strings.php:454 redirection.js:2
+msgid "Thanks for subscribing! {{a}}Click here{{/a}} if you need to return to your subscription."
+msgstr "登録ありがとうございます ! 登録へ戻る場合は {{a}}こちら{{/a}} をクリックしてください。"
+
+#: redirection-strings.php:453 redirection-strings.php:455 redirection.js:2
+msgid "Newsletter"
+msgstr "ニュースレター"
+
+#: redirection-strings.php:456 redirection.js:2
+msgid "Want to keep up to date with changes to Redirection?"
+msgstr "リダイレクトの変更を最新の状態に保ちたいですか ?"
+
+#: redirection-strings.php:457 redirection.js:2
+msgid "Sign up for the tiny Redirection newsletter - a low volume newsletter about new features and changes to the plugin. Ideal if you want to test beta changes before release."
+msgstr "Redirection ニュースレターにサインアップ - このプラグインの新機能や変更点などについての小規模のニュースレターです。リリース前のベータ版をテストするのに理想的です。"
+
+#: redirection-strings.php:458 redirection.js:2
+msgid "Your email address:"
+msgstr "メールアドレス:"
+
+#: redirection-strings.php:447
+msgid "You've supported this plugin - thank you!"
+msgstr "このプラグインを支援していただき、ありがとうございます。"
+
+#: redirection-strings.php:450
+msgid "You get useful software and I get to carry on making it better."
+msgstr "皆さんは便利なソフトウェアを利用でき、私はそれらをより良く改良するために努力し続けられるのです。"
+
+#: redirection-strings.php:621 redirection-strings.php:665 redirection.js:2
+msgid "Forever"
+msgstr "永久"
+
+#: redirection-strings.php:439 redirection.js:2
+msgid "Delete the plugin - are you sure?"
+msgstr "本当にプラグインを削除しますか ?"
+
+#: redirection-strings.php:440 redirection.js:2
+msgid "Deleting the plugin will remove all your redirections, logs, and settings. Do this if you want to remove the plugin for good, or if you want to reset the plugin."
+msgstr "プラグインを消去するとすべてのリダイレクト、ログ、設定が削除されます。プラグインを消したい場合、もしくはプラグインをリセットしたい時にこれを実行してください。"
+
+#: redirection-strings.php:441 redirection.js:2
+msgid "Once deleted your redirections will stop working. If they appear to continue working then please clear your browser cache."
+msgstr "リダイレクトを削除するとリダイレクト機能は機能しなくなります。削除後でもまだ機能しているように見えるのならば、ブラウザーのキャッシュを削除してみてください。"
+
+#: redirection-strings.php:442 redirection.js:2
+msgid "Yes! Delete the plugin"
+msgstr "プラグインを消去する"
+
+#: redirection-strings.php:443 redirection.js:2
+msgid "No! Don't delete the plugin"
+msgstr "プラグインを消去しない"
+
+#. Author of the plugin
+#: redirection.php
+msgid "John Godley"
+msgstr "John Godley"
+
+#. Description of the plugin
+#: redirection.php
+msgid "Manage all your 301 redirects and monitor 404 errors"
+msgstr "すべての 301 リダイレクトを管理し、404 エラーをモニター"
+
+#: redirection-strings.php:449
+msgid "Redirection is free to use - life is wonderful and lovely! It has required a great deal of time and effort to develop and you can help support this development by {{strong}}making a small donation{{/strong}}."
+msgstr "Redirection プラグインは無料でお使いいただけます。しかし、開発にはかなりの時間と労力がかかっており、{{strong}}少額の寄付{{/strong}} でも開発を助けていただけると嬉しいです。"
+
+#: redirection-admin.php:409
+msgid "Redirection Support"
+msgstr "Redirection を応援する"
+
+#: redirection-strings.php:276 redirection-strings.php:284 redirection.js:2
+msgid "Support"
+msgstr "サポート"
+
+#: redirection-strings.php:281 redirection.js:2
+msgid "404s"
+msgstr "404 エラー"
+
+#: redirection-strings.php:280 redirection.js:2
+msgid "Log"
+msgstr "ログ"
+
+#: redirection-strings.php:445 redirection.js:2
+msgid "Selecting this option will delete all redirections, all logs, and any options associated with the Redirection plugin.  Make sure this is what you want to do."
+msgstr "このオプションを選択すると、Redirection プラグインに関するすべての転送ルール・ログ・設定を削除します。本当にこの操作を行って良いか、再度確認してください。"
+
+#: redirection-strings.php:444 redirection.js:2
+msgid "Delete Redirection"
+msgstr "転送ルールを削除"
+
+#: redirection-strings.php:295 redirection-strings.php:546 redirection.js:2
+msgid "Upload"
+msgstr "アップロード"
+
+#: redirection-strings.php:306 redirection.js:2
+msgid "Import"
+msgstr "インポート"
+
+#: redirection-strings.php:513 redirection-strings.php:615 redirection.js:2
+msgid "Update"
+msgstr "更新"
+
+#: redirection-strings.php:676 redirection.js:2
+msgid "Auto-generate URL"
+msgstr "URL を自動生成"
+
+#: redirection-strings.php:644 redirection.js:2
+msgid "A unique token allowing feed readers access to Redirection log RSS (leave blank to auto-generate)"
+msgstr "リディレクションログ RSS にフィードリーダーからアクセスするための固有トークン (空白にしておけば自動生成します)"
+
+#: redirection-strings.php:643 redirection.js:2
+msgid "RSS Token"
+msgstr "RSS トークン"
+
+#: redirection-strings.php:628 redirection.js:2
+msgid "404 Logs"
+msgstr "404 ログ"
+
+#: redirection-strings.php:627 redirection-strings.php:629 redirection.js:2
+msgid "(time to keep logs for)"
+msgstr "(ログの保存期間)"
+
+#: redirection-strings.php:626 redirection.js:2
+msgid "Redirect Logs"
+msgstr "転送ログ"
+
+#: redirection-strings.php:614
+msgid "I'm a nice person and I have helped support the author of this plugin"
+msgstr "このプラグインの作者に対する援助を行いました"
+
+#: redirection-strings.php:452
+msgid "Plugin Support"
+msgstr "プラグインサポート"
+
+#: redirection-strings.php:275 redirection-strings.php:283 redirection.js:2
+msgid "Options"
+msgstr "オプション"
+
+#: redirection-strings.php:620 redirection.js:2
+msgid "Two months"
+msgstr "2ヶ月"
+
+#: redirection-strings.php:619 redirection.js:2
+msgid "A month"
+msgstr "1ヶ月"
+
+#: redirection-strings.php:618 redirection-strings.php:664 redirection.js:2
+msgid "A week"
+msgstr "1週間"
+
+#: redirection-strings.php:617 redirection-strings.php:663 redirection.js:2
+msgid "A day"
+msgstr "1日"
+
+#: redirection-strings.php:616 redirection.js:2
+msgid "No logs"
+msgstr "ログなし"
+
+#: redirection-strings.php:244 redirection.js:2
+msgid "Use groups to organise your redirects. Groups are assigned to a module, which affects how the redirects in that group work. If you are unsure then stick to the WordPress module."
+msgstr "グループを使って転送をグループ化しましょう。グループはモジュールに割り当てられ、グループ内の転送に影響します。はっきりわからない場合は WordPress モジュールのみを使ってください。"
+
+#: redirection-strings.php:243 redirection.js:2
+msgid "Add Group"
+msgstr "グループを追加"
+
+#: redirection-strings.php:242 redirection.js:2
+msgid "Search"
+msgstr "検索"
+
+#: redirection-strings.php:271 redirection-strings.php:278 redirection.js:2
+msgid "Groups"
+msgstr "グループ"
+
+#: redirection-strings.php:98 redirection-strings.php:516
+#: redirection-strings.php:610 redirection.js:2
+msgid "Save"
+msgstr "保存"
+
+#: redirection-strings.php:97 redirection-strings.php:341
+#: redirection-strings.php:402 redirection-strings.php:464
+#: redirection-strings.php:484 redirection.js:2
+msgid "Group"
+msgstr "グループ"
+
+#: redirection-strings.php:492 redirection.js:2
+msgid "Regular Expression"
+msgstr "正規表現"
+
+#: redirection-strings.php:102 redirection.js:2
+msgid "Match"
+msgstr "一致条件"
+
+#: redirection-strings.php:504 redirection.js:2
+msgid "Add new redirection"
+msgstr "新しい転送ルールを追加"
+
+#: redirection-strings.php:99 redirection-strings.php:296
+#: redirection-strings.php:547 redirection-strings.php:611 redirection.js:2
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: redirection-strings.php:321 redirection.js:2
+msgid "Download"
+msgstr "ダウンロード"
+
+#. Plugin Name of the plugin
+#: redirection.php redirection-strings.php:154 redirection-strings.php:375
+#: redirection-strings.php:552 redirection.js:2
+msgid "Redirection"
+msgstr "Redirection"
+
+#: redirection-admin.php:196
+msgid "Settings"
+msgstr "設定"
+
+#: redirection-strings.php:374 redirection.js:2
+msgid "WordPress"
+msgstr "WordPress"
+
+#: actions/error.php:59 redirection-strings.php:68 redirection.js:2
+msgid "Error (404)"
+msgstr "エラー (404)"
+
+#: actions/pass.php:75 redirection-strings.php:67 redirection.js:2
+msgid "Pass-through"
+msgstr "通過"
+
+#: actions/random.php:48 redirection-strings.php:66 redirection.js:2
+msgid "Redirect to random post"
+msgstr "ランダムな記事へ転送"
+
+#: actions/url.php:53 redirection-strings.php:65 redirection.js:2
+msgid "Redirect to URL"
+msgstr "URL へ転送"
+
+#: redirection-strings.php:326 redirection-strings.php:339
+#: redirection-strings.php:349 redirection-strings.php:360
+#: redirection-strings.php:383 redirection-strings.php:392
+#: redirection-strings.php:410 redirection-strings.php:419
+#: redirection-strings.php:582 redirection.js:2
+msgid "IP"
+msgstr "IP"
+
+#: redirection-strings.php:105 redirection-strings.php:106
+#: redirection-strings.php:209 redirection-strings.php:324
+#: redirection-strings.php:333 redirection-strings.php:379
+#: redirection-strings.php:388 redirection.js:2
+msgid "Source URL"
+msgstr "ソース URL"
+
+#: redirection-strings.php:330 redirection-strings.php:351
+#: redirection-strings.php:385 redirection-strings.php:412 redirection.js:2
+msgid "Date"
+msgstr "日付"
+
+#: redirection-strings.php:428 redirection-strings.php:435
+#: redirection-strings.php:505 redirection.js:2
+msgid "Add Redirect"
+msgstr "転送ルールを追加"
+
+#: redirection-strings.php:249 redirection.js:2
+msgid "View Redirects"
+msgstr "転送ルールを表示"
+
+#: redirection-strings.php:225 redirection-strings.php:234
+#: redirection-strings.php:238 redirection-strings.php:609 redirection.js:2
+msgid "Module"
+msgstr "モジュール"
+
+#: redirection-strings.php:227 redirection-strings.php:237
+#: redirection-strings.php:277 redirection.js:2
+msgid "Redirects"
+msgstr "転送ルール"
+
+#: redirection-strings.php:224 redirection-strings.php:236
+#: redirection-strings.php:245 redirection-strings.php:608 redirection.js:2
+msgid "Name"
+msgstr "名前"
+
+#: redirection-strings.php:48 redirection.js:2
+msgid "Filters"
+msgstr "フィルター"
+
+#: redirection-strings.php:471 redirection.js:2
+msgid "Reset hits"
+msgstr "訪問数をリセット"
+
+#: redirection-strings.php:240 redirection-strings.php:251
+#: redirection-strings.php:469 redirection-strings.php:510 redirection.js:2
+msgid "Enable"
+msgstr "有効化"
+
+#: redirection-strings.php:241 redirection-strings.php:250
+#: redirection-strings.php:470 redirection-strings.php:509 redirection.js:2
+msgid "Disable"
+msgstr "無効化"
+
+#: redirection-strings.php:239 redirection-strings.php:248
+#: redirection-strings.php:340 redirection-strings.php:377
+#: redirection-strings.php:393 redirection-strings.php:434
+#: redirection-strings.php:446 redirection-strings.php:468
+#: redirection-strings.php:508 redirection.js:2
+msgid "Delete"
+msgstr "削除"
+
+#: redirection-strings.php:247 redirection-strings.php:507 redirection.js:2
+msgid "Edit"
+msgstr "編集"
+
+#: redirection-strings.php:467 redirection-strings.php:481 redirection.js:2
+msgid "Last Access"
+msgstr "前回のアクセス"
+
+#: redirection-strings.php:466 redirection-strings.php:480 redirection.js:2
+msgid "Hits"
+msgstr "ヒット数"
+
+#: redirection-strings.php:345 redirection-strings.php:354
+#: redirection-strings.php:406 redirection-strings.php:415
+#: redirection-strings.php:460 redirection-strings.php:527
+#: redirection-strings.php:666 redirection.js:2
+msgid "URL"
+msgstr "URL"
+
+#: database/schema/latest.php:143
+msgid "Modified Posts"
+msgstr "編集済みの投稿"
+
+#: database/schema/latest.php:138 models/group.php:236
+#: redirection-strings.php:269 redirection.js:2
+msgid "Redirections"
+msgstr "転送ルール"
+
+#: redirection-strings.php:328 redirection-strings.php:338
+#: redirection-strings.php:347 redirection-strings.php:358
+#: redirection-strings.php:381 redirection-strings.php:391
+#: redirection-strings.php:408 redirection-strings.php:418
+#: redirection-strings.php:562 redirection.js:2
+msgid "User Agent"
+msgstr "ユーザーエージェント"
+
+#: matches/user-agent.php:24 redirection-strings.php:57 redirection.js:2
+msgid "URL and user agent"
+msgstr "URL およびユーザーエージェント"
+
+#: redirection-strings.php:211 redirection-strings.php:334
+#: redirection-strings.php:561 redirection.js:2
+msgid "Target URL"
+msgstr "ターゲット URL"
+
+#: matches/url.php:15 redirection-strings.php:53 redirection.js:2
+msgid "URL only"
+msgstr "URL のみ"
+
+#: redirection-strings.php:336 redirection-strings.php:356
+#: redirection-strings.php:389 redirection-strings.php:416
+#: redirection-strings.php:477 redirection.js:2
+msgid "HTTP code"
+msgstr "HTTP コード"
+
+#: redirection-strings.php:88 redirection-strings.php:568
+#: redirection-strings.php:572 redirection-strings.php:580
+#: redirection-strings.php:591 redirection.js:2
+msgid "Regex"
+msgstr "正規表現"
+
+#: redirection-strings.php:337 redirection-strings.php:357
+#: redirection-strings.php:390 redirection-strings.php:417
+#: redirection-strings.php:589 redirection.js:2
+msgid "Referrer"
+msgstr "リファラー"
+
+#: matches/referrer.php:24 redirection-strings.php:56 redirection.js:2
+msgid "URL and referrer"
+msgstr "URL およびリファラー"
+
+#: redirection-strings.php:555 redirection.js:2
+msgid "Logged Out"
+msgstr "ログアウト中"
+
+#: redirection-strings.php:553 redirection.js:2
+msgid "Logged In"
+msgstr "ログイン中"
+
+#: matches/login.php:22 redirection-strings.php:54 redirection.js:2
+msgid "URL and login status"
+msgstr "URL およびログイン状態"

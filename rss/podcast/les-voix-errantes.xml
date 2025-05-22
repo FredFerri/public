@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+ <channel>
+  <title>BX1 - Les voix errantes</title>
+  <link>https://bx1plus.be/</link>
+  <description></description>
+  <itunes:summary></itunes:summary>
+  <copyright>BX1 - 2025. Tous droits réservés.</copyright>
+  <image>
+   <url></url>
+   <title></title>
+  </image>
+  <itunes:author>BX1</itunes:author>
+  <itunes:owner>
+   <itunes:name>BX1+</itunes:name>
+   <itunes:email>web@bx1.be</itunes:email>
+  </itunes:owner>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:category text="News"/>
+  <language>fr</language>
+  <lastBuildDate>Wed, 14 May 2025 17:15:21 +0200</lastBuildDate>
+  <itunes:image href=""/>
+  <item>
+   <title>Les voix errantes &amp;#8211; Saint-Gilles, D2 &amp;#8211; Abeer</title>
+   <guid>710631</guid>
+   <link>https://bx1.be/?p=710631</link>
+   <pubDate></pubDate>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href=""/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EPP00718.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>Les voix errantes - Saint-Gilles, D2 - Abeer</itunes:summary>
+   <description>Les voix errantes - Saint-Gilles, D2 - Abeer</description>
+  </item>
+ </channel>
+</rss>

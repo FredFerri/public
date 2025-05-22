@@ -1,0 +1,519 @@
+# Translation of Plugins - WP Custom Admin Interface - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - WP Custom Admin Interface - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-05-18 18:54:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - WP Custom Admin Interface - Stable (latest release)\n"
+
+#: inc/options/options-output.php:2175
+msgid "Note: menu items which have html tags in the title are used by WordPress to display dynamic content like a users name or the amount of comments etc. Therefore these items aren't editable. Unlike the 'Customize Admin Menu' feature of this plugin this 'Customize Toolbar' feature is more rigid and a little more difficult to make sense of. I recommend keeping the existing menu structure intact as much as possible and rather just hide items or add new items in around the existing menu structure."
+msgstr "請注意，WordPress 使用標題中含有 HTML 標籤的選單項目以顯示動態內容，如使用者名稱或留言數量等。正因為如此，這些項目不可進行編輯。與這個外掛提供的自訂管理後台選單功能不同，自訂工具列功能更加不適合變更且更難了解變更方式。建議保持現有的選單結構的完整性，在這個前提下僅隱藏選單項目或新增新的選單項目。"
+
+#: inc/options/options-output.php:679 inc/options/options-output.php:706
+#: inc/options/options-output.php:1856 inc/options/options-output.php:1952
+#: inc/options/options-output.php:2060 inc/options/options-output.php:2401
+msgid "Deselect all"
+msgstr "取消全選"
+
+#: inc/options/options-output.php:679 inc/options/options-output.php:706
+#: inc/options/options-output.php:1856 inc/options/options-output.php:1952
+#: inc/options/options-output.php:2060 inc/options/options-output.php:2401
+msgid "Select all"
+msgstr "全部選取"
+
+#: inc/options/options-output.php:2144
+msgid "We can't guarantee this toolbar editor will work with every possible plugin and theme combination as different developers sometimes don't do things the WordPress way! Therefore support is limited for the toolbar to <strong>general functionality only</strong>. For comprehensive support for your specific environment we recommend checking out the <a href=\"https://northernbeacheswebsites.com.au/custom-admin-interface-pro/\" target=\"_blank\">pro version</a> where we can get things working for your environment and provide a money-back guarantee."
+msgstr "我們無法保證這個工具列編輯器可以適用於各種佈景主題及外掛的組合，因為有些佈景主題及外掛並未遵循開發規範。因此，對於工具列僅對<strong>一般功能問題</strong>提供有限度的技術支援。如需針對特定環境提供完整技術支援，請使用 <a href=\"https://northernbeacheswebsites.com.au/custom-admin-interface-pro/\" target=\"_blank\">Pro 版</a>，我們便能針對指定網站環境進行調整，並提供退費保證。"
+
+#: inc/options/options-output.php:1563
+msgid "We can't guarantee this menu editor will work with every possible plugin and theme combination as different developers sometimes don't do things the WordPress way! Therefore support is limited for the admin menu to <strong>general functionality only</strong>. For comprehensive support for your specific environment we recommend checking out the <a href=\"https://northernbeacheswebsites.com.au/custom-admin-interface-pro/\" target=\"_blank\">pro version</a> where we can get things working for your environment and provide a money-back guarantee."
+msgstr "我們無法保證這個選單編輯器可以適用於各種佈景主題及外掛的組合，因為有些佈景主題及外掛並未遵循開發規範。因此，對於管理選單僅對<strong>一般功能問題</strong>提供有限度的技術支援。如需針對特定環境提供完整技術支援，請使用 <a href=\"https://northernbeacheswebsites.com.au/custom-admin-interface-pro/\" target=\"_blank\">Pro 版</a>，我們便能針對指定網站環境進行調整，並提供退費保證。"
+
+#: inc/options/options-output.php:751
+msgid ""
+"Before creating support requests, it is important you read the following rules: \n"
+"                \n"
+"                <ol>\n"
+"                    <li>The custom admin menu and custom toolbar have limited support and we can only help you with general issues only. We don't guarantee these features for every possible theme and plugin combination especially when developers set things up in non-compliant ways. So don't ask us: \"how come this doesn't work with this or that\" as I won't be able to help you unfortunately, and not to mention the WordPress.org forum rules don't allow the exchange of login details so we can't diagnose issues on your specific site!</li>\n"
+"                    <li><strong>As part of support I do not provide customisation services or code samples.</strong> If you need help with the implementation of the plugin or need to achieve something specific please <a href=\"mailto:info@northernbeacheswebsites.com.au\">email me</a> and I can provide an estimate for the work.</li> \n"
+"                    <li>Please include the diagnostic information mentioned below, otherwise I will not bother answering your request.</li>     \n"
+"                    <li>Please ensure you are using the latest version of WordPress and the latest version of the plugin, and clear your browser cache.</li>                    \n"
+"                </ol>\n"
+"\n"
+"                Ok now that you have read ALL the rules you can create a support request <a target=\"_blank\" href=\"https://wordpress.org/support/plugin/wp-custom-admin-interface\">here</a>. You can also check out the below video which shows a general walkthrough of the plugin (although it is getting a little dated now).\n"
+"\n"
+"\n"
+"                "
+msgstr ""
+"在提出技術支援要求前，請閱讀以下重要規則:\n"
+"                \n"
+"                <ol>\n"
+"                    <li>我們對自訂管理後台選單及自訂工具列提供有限度的技術支援，僅針對一般問題提供協助。我們無法保證這些功能可以適用於各種佈景主題及外掛的組合，因為有些佈景主題及外掛並未遵循開發規範。請不要向我們詢問「為什麼這項功能無法與某外掛或佈景主題一起正常運作」，這是我們無法協助並回覆使用者的問題。也請不要在 WordPress.org 的論壇上提及論壇規定不可提及的登入詳細資訊，因此我們無法為你的指定網站診斷任何問題。</li>\n"
+"                    <li><strong>進行技術支援時，我們不提供客製化服務或程式碼範例。</strong>如果需要外掛進行改進或需要特定功能，請使用電子郵件<a href=\"mailto:info@northernbeacheswebsites.com.au\">與我們聯絡</a>，我們會提出工作報價。</li> \n"
+"                    <li>電子郵件內容請包含以下提及的診斷資訊，否則我不會花費時間回覆任何要求。</li>\n"
+"                    <li>請先確定網站使用的是最新版本的 WordPress 及外掛，並請清除瀏覽器快取。</li>\n"
+"                </ol>\n"
+"\n"
+"                了解全部規則後，請前往 <a target=\"_blank\" href=\"https://wordpress.org/support/plugin/wp-custom-admin-interface\">WordPress.org 技術支援論壇</a>提出技術支援要求，也可以觀看下方的外掛逐步解說影片 (雖然影片有點過時)。\n"
+"\n"
+"\n"
+"                "
+
+#: inc/options/options-output.php:2500
+msgid "Want to create multiple admin notices? Check out <a target=\"_blank\" href=\"https://northernbeacheswebsites.com.au/custom-admin-interface-pro/\">Custom Admin Interface Pro</a>!"
+msgstr "如需建立多個自訂管理後台通知事項，請使用 <a target=\"_blank\" href=\"https://northernbeacheswebsites.com.au/custom-admin-interface-pro/\">Custom Admin Interface Pro</a>。"
+
+#: inc/options/options-output.php:2351
+msgid "Want to hide multiple metaboxes to different roles and users? Check out <a target=\"_blank\" href=\"https://northernbeacheswebsites.com.au/custom-admin-interface-pro/\">Custom Admin Interface Pro</a>!"
+msgstr "如需隱藏多個中繼資料區塊，請使用 <a target=\"_blank\" href=\"https://northernbeacheswebsites.com.au/custom-admin-interface-pro/\">Custom Admin Interface Pro</a>。"
+
+#: inc/options/options-output.php:2284
+msgid "Want to create multiple custom codes? Check out <a target=\"_blank\" href=\"https://northernbeacheswebsites.com.au/custom-admin-interface-pro/\">Custom Admin Interface Pro</a>!"
+msgstr "如需建立多個自訂程式碼，請使用 <a target=\"_blank\" href=\"https://northernbeacheswebsites.com.au/custom-admin-interface-pro/\">Custom Admin Interface Pro</a>。"
+
+#: inc/options/options-output.php:2137
+msgid "Want to create multiple admin toolbars? Check out <a target=\"_blank\" href=\"https://northernbeacheswebsites.com.au/custom-admin-interface-pro/\">Custom Admin Interface Pro</a>!"
+msgstr "如需建立多個管理工具列，請使用 <a target=\"_blank\" href=\"https://northernbeacheswebsites.com.au/custom-admin-interface-pro/\">Custom Admin Interface Pro</a>。"
+
+#: inc/options/options-output.php:2040
+msgid "Want to hide multiple sidebars to different roles and users? Check out <a target=\"_blank\" href=\"https://northernbeacheswebsites.com.au/custom-admin-interface-pro/\">Custom Admin Interface Pro</a>!"
+msgstr "如需針對不同使用者角色及使用者隱藏多個資訊欄，請使用 <a target=\"_blank\" href=\"https://northernbeacheswebsites.com.au/custom-admin-interface-pro/\">Custom Admin Interface Pro</a>。"
+
+#: inc/options/options-output.php:1926
+msgid "Want to hide multiple users to different roles and users? Check out <a target=\"_blank\" href=\"https://northernbeacheswebsites.com.au/custom-admin-interface-pro/\">Custom Admin Interface Pro</a>!"
+msgstr "如需針對不同使用者角色及使用者隱藏多個使用者，請使用 <a target=\"_blank\" href=\"https://northernbeacheswebsites.com.au/custom-admin-interface-pro/\">Custom Admin Interface Pro</a>。"
+
+#: inc/options/options-output.php:1838
+msgid "Want to hide multiple plugins to different roles and users? Check out <a target=\"_blank\" href=\"https://northernbeacheswebsites.com.au/custom-admin-interface-pro/\">Custom Admin Interface Pro</a>!"
+msgstr "如需針對不同使用者角色及使用者隱藏外掛，請使用 <a target=\"_blank\" href=\"https://northernbeacheswebsites.com.au/custom-admin-interface-pro/\">Custom Admin Interface Pro</a>。"
+
+#: inc/options/options-output.php:1043 inc/options/options-output.php:1556
+msgid "Want to create multiple admin menus? Check out <a target=\"_blank\" href=\"https://northernbeacheswebsites.com.au/custom-admin-interface-pro/\">Custom Admin Interface Pro</a>!"
+msgstr "如需建立多個管理選單，請使用 <a target=\"_blank\" href=\"https://northernbeacheswebsites.com.au/custom-admin-interface-pro/\">Custom Admin Interface Pro</a>。"
+
+#: inc/options/options-output.php:1280
+msgid "Want to create multiple dashboard widgets? Check out <a target=\"_blank\" href=\"https://northernbeacheswebsites.com.au/custom-admin-interface-pro/\">Custom Admin Interface Pro</a>!"
+msgstr "如需建立多個控制台小工具，請使用 <a target=\"_blank\" href=\"https://northernbeacheswebsites.com.au/custom-admin-interface-pro/\">Custom Admin Interface Pro</a>。"
+
+#: inc/options/options-output.php:659
+msgid "Want to export the settings as a file? Check out <a target=\"_blank\" href=\"https://northernbeacheswebsites.com.au/custom-admin-interface-pro/\">Custom Admin Interface Pro</a>!"
+msgstr "如需將設定匯出為檔案，請使用 <a target=\"_blank\" href=\"https://northernbeacheswebsites.com.au/custom-admin-interface-pro/\">Custom Admin Interface Pro</a>。"
+
+#: wp-custom-admin-interface.php:114
+msgid "Learn more"
+msgstr "進一步了解"
+
+#: wp-custom-admin-interface.php:113
+msgid "Customise the Wordpress admin interface more with Custom Admin Interface Pro. The plugin offers the ability to create multiple designs for various modules and comes with a revision system so you can easily restore changes. The plugin has been redesigned from the ground up and comes with priority email support."
+msgstr "使用 Custom Admin Interface Pro 自訂更多 WordPress 管理介面項目。Pro 版外掛提供建立依據不同模組建立多種設計的功能，並可使用內容修訂系統輕鬆還原變更。Pro 版經過全新設計，並提供優先電子郵件技術支援。"
+
+#: inc/options/options-output.php:1499
+msgid "Disable Plugin Updates"
+msgstr "停用外掛自動更新"
+
+#: inc/options/options-output.php:1514
+msgid "Disable Gutenberg Editor"
+msgstr "停用區塊編輯器"
+
+#: inc/options/options-output.php:1074
+msgid "This setting will apply to all users and the conditional logic at the bottom of this page will not affect the result because on the login page everyone is technically logged out."
+msgstr "這項設定會套用至全部使用者，且由於在登入頁面的全部使用者都屬於技術上的登出狀態，因此頁面尾端的條件式邏輯不會影響結果。"
+
+#: inc/options/options-output.php:1117
+msgid "There's no need to put in the starting or closing PHP tags. Please be super careful before putting in code here. In fact I really recommend not using this setting and instead putting custom code into your themes functions.php file so you can easily revert any errors caused by the code."
+msgstr "不需要將程式碼放在 php 開始或結束標籤間，並且要十分注意在這裡加入的程式碼。這個外掛的開發者建議不要使用這項功能，改為將自訂程式碼插入至目前使用的佈景主題的 functions.php 檔案中，這樣網站管理員便能輕易從程式碼造成的錯誤中復原。"
+
+#: inc/options/options-output.php:845
+msgid "Login Screen Text Color"
+msgstr "登入畫面文字色彩"
+
+#: inc/options/options-output.php:2214
+msgid "Disable the custom toolbar on the frontend"
+msgstr "停用網站前端的自訂工具列"
+
+#: inc/options/options-output.php:1653
+msgid "Add newly added menu items"
+msgstr "新增最新新增的選單項目"
+
+#: inc/options/options-output.php:1560
+msgid "Modify the main menu of WordPress. <em>Please note if you are moving a sub-level menu item to the top level menu you may get the following error message when trying to access the page: \"Sorry, you are not allowed to access this page.\" To get around this for the moment I recommend firstly restoring your menu back to the WordPress default and instead of moving the menu item, keep it where it is and hide it, and then create a new menu item on the top level that goes to the same link as the hidden child menu item.</em>"
+msgstr "修改 WordPress 主要管理選單。<strong>請注意，如果網站管理員存取這個頁面時，需要移動子選單項目至最上層選單，可能會收到 [很抱歉，目前的登入身分沒有存取這個頁面的權限] 的錯誤訊息。此時的因應措施為先將 WordPress 選單復原至預設狀態 (而不是移動選單至原始位置並隱藏)，然後建立最上層選單項目，並將這個最上層選單項目設定為要隱藏的子選單項目的連結。</strong>"
+
+#: inc/options/options-output.php:2551
+msgid "By checking this box a close icon will appear in the top right hand corner of the admin message. When a user clicks on this icon the message will no longer appear. Please note, whenever settings on this page are updated this dismiss history for each user will be erased and the message will reappear again for the user."
+msgstr "啟用這項設定後，[關閉] 圖示便會顯示於管理後台通知事項訊息的右上方。使用者點擊 [關閉] 圖示後，這個訊息便不會再出現。請注意，這個頁面上的設定如有變更，全部使用者的關閉訊息記錄便會清除，而訊息會再次顯示於使用者眼前。"
+
+#: inc/options/options-output.php:2550
+msgid "Make Notice Dismissable"
+msgstr "將通知事項設定為可關閉"
+
+#: inc/options/options-output.php:2512
+msgid "Notice Content"
+msgstr "通知事項內容"
+
+#: inc/options/options-output.php:2504
+msgid "The admin notice creates a custom message that displays at the top of all admin pages."
+msgstr "管理後台通知事項是顯示於管理後台全部頁面頂端的自訂訊息。"
+
+#: inc/options/options-output.php:2483
+msgid "Red"
+msgstr "紅色"
+
+#: inc/options/options-output.php:2482
+msgid "Yellow"
+msgstr "黃色"
+
+#: inc/options/options-output.php:2481
+msgid "Blue"
+msgstr "藍色"
+
+#: inc/options/options-output.php:2480
+msgid "Green"
+msgstr "綠色"
+
+#: inc/options/options-output.php:2475
+msgid "Admin Notice Color"
+msgstr "管理通知色彩"
+
+#: inc/options/options-output.php:2456
+msgid "Admin Notice End Date"
+msgstr "管理通知結束日期"
+
+#: inc/options/options-output.php:2355
+msgid "This will hide meta boxes which are shown on different parts of WordPress."
+msgstr "這項設定會隱藏顯示於 WordPress 管理後台不同位置的中繼資料區塊。"
+
+#: inc/options/options-output.php:2280
+msgid "The custom code section enables you to implement custom code on the frontend of Wordpress."
+msgstr "[自訂程式碼] 讓網站管理員可以將自訂程式碼插入 WordPress 網站前端。"
+
+#: inc/options/options-output.php:2141
+msgid "Modify the main toolbar of WordPress. This is the bar that displays at the top of the admin screen."
+msgstr "修改顯示於 WordPress 管理後台畫面頂端的主要工具列。"
+
+#: inc/options/options-output.php:2044
+msgid "Hide these sidebars from showing on the <a target=\"_blank\" href=\"widgets.php\">widgets page</a>."
+msgstr "在 [<a href=\"widgets.php\">小工具</a>] 頁面隱藏下方指定資訊欄。"
+
+#: inc/options/options-output.php:1929
+msgid "Hide these users from showing on the <a target=\"_blank\" href=\"users.php\">users page</a>. Please note if you hide yourself you will still see yourself in the user listing, however other people won't be able to see you."
+msgstr "在 [<a href=\"users.php\">使用者</a>] 頁面隱藏下方指定使用者。請注意，如果隱藏自己的使用者帳號，自己仍能在使用者清單中看到這個帳號，但其他人不會看到你的使用者帳號。"
+
+#: inc/options/options-output.php:1842
+msgid "Hide these plugins from showing on the <a target=\"_blank\" target=\"_blank\" href=\"plugins.php\">plugins page</a>."
+msgstr "在 [<a href=\"plugins.php\">外掛</a>] 頁面隱藏下方指定外掛。"
+
+#: inc/options/options-output.php:1370
+msgid "Create a custom color scheme for your admin area. These 5 below colors will make up a new color scheme called \"Custom\" that will be available to select on your <a target=\"_blank\" href=\"profile.php\">User Profile</a> page."
+msgstr "為網站管理後台建立自訂色彩配置。下方 5 種色彩會在使用者的 [<a href=\"profile.php\">個人資料</a>] 頁面新增一個名為 [自訂] 的可選取色彩配置。"
+
+#: inc/options/options-output.php:1276
+msgid "This section enables you to create a custom widget which will display on your dashboard."
+msgstr "這個區段可以讓網站管理員建立顯示於網站控制台的自訂小工具。"
+
+#: inc/options/options-output.php:1190
+msgid "This section enables you to create a custom under construction/maintenance page which is shown to all non-logged in users. Please note the login logo image, login page background color and custom favicon (set in the <a target=\"_blank\" href=\"admin.php?page=wpcai_general_settings\">General Settings</a> menu page) will be used on the maintenance/coming soon page."
+msgstr "這個區段可以讓網站管理員建立顯示給未登入使用者的網站建置/網站維護自訂訊息。請注意，在 [<a href=\"admin.php?page=wpcai_general_settings\">一般設定</a>] 頁面中設定的登入標誌圖片、登入畫面背景色彩及自訂網站圖示，會使用於網站維護/網站即將上線頁面中。"
+
+#: inc/options/options-output.php:1039
+msgid "The custom code section enables you to implement custom code on the backend of Wordpress."
+msgstr "[自訂程式碼] 讓網站管理員可以將自訂程式碼插入 WordPress 網站後端。"
+
+#: inc/options/options-output.php:655
+msgid "Please click on an option below to show further options for the export, import or delete procedure."
+msgstr "請點擊下方的選項以顯示匯出、匯入或刪除相關程序的進階選項。"
+
+#: inc/options/options-output.php:2413
+msgid "Hide this meta"
+msgstr "隱藏這項中繼資料"
+
+#: inc/options/options-output.php:2311
+msgid "Add custom Javascript/jQuery to the frontend of WordPress"
+msgstr "新增 WordPress 網站前端自訂 JavaScript/jQuery 程式碼"
+
+#: inc/options/options-output.php:2292
+msgid "Add custom CSS to the frontend of WordPress"
+msgstr "新增 WordPress 網站前端自訂 CSS 程式碼"
+
+#: inc/options/options-output.php:693
+msgid "Generate Export"
+msgstr "匯出設定"
+
+#: inc/options/options-output.php:748
+msgid "Support"
+msgstr "技術支援"
+
+#: inc/options/options-output.php:721
+msgid "Delete Settings"
+msgstr "刪除設定"
+
+#: inc/options/options-output.php:703
+msgid "Delete Plugin Settings"
+msgstr "刪除外掛設定"
+
+#: inc/options/options-output.php:2255
+msgid "This is the link of the login logo. Please input the full URL including <code>http://</code>. To have no link simply input <code>#</code>."
+msgstr "這是登入標誌的連結。請輸入包含 <code>http://</code> 或 <code>https://</code> 的完整網址。如果網站標誌不須設定連結，輸入 <code>#</code> 即可。"
+
+#: inc/options/options-output.php:2254
+msgid "Login Logo URL"
+msgstr "登入標誌網址"
+
+#: wp-custom-admin-interface.php:2121
+msgid "What's new"
+msgstr "新增功能"
+
+#: inc/options/options-output.php:2161
+msgid "Restore to default WordPress Toolbar"
+msgstr "還原 WordPress 預設工具列"
+
+#: inc/options/options-output.php:776
+msgid "To assist me with your support request I may ask you to provide the following information:"
+msgstr "為了協助開發者了解使用者出的技術支援要求，請提供以下資訊:"
+
+#: inc/options/options-output.php:774
+msgid "Diagnostic Information"
+msgstr "診斷資訊"
+
+#: wp-custom-admin-interface.php:1722
+msgid "Implement this for"
+msgstr "套用對象:"
+
+#: inc/options/options-output.php:1815
+msgid "Show notification icons on custom menu"
+msgstr "在自訂選單上顯示通知圖示"
+
+#. Author of the plugin
+msgid "Martin Gibson"
+msgstr "Martin Gibson"
+
+#. Description of the plugin
+msgid "Customise the WordPress admin and login interfaces and customize the WordPress dashboard menu."
+msgstr "自訂 WordPress 管理介面、登入介面及控制台選單。"
+
+#. Plugin URI of the plugin
+msgid "https://www.northernbeacheswebsites.com.au"
+msgstr "https://www.northernbeacheswebsites.com.au"
+
+#. Plugin Name of the plugin
+msgid "WP Custom Admin Interface"
+msgstr "WP Custom Admin Interface"
+
+#: inc/options/options-output.php:699
+msgid "Import"
+msgstr "匯入"
+
+#: inc/options/options-output.php:697
+msgid "Import Settings"
+msgstr "匯入設定"
+
+#: inc/options/options-output.php:673
+msgid "Export Settings"
+msgstr "匯出設定"
+
+#: inc/options/options-output.php:768
+msgid "keep me interested in this plugin and encourage me to provide ongoing support. Thank you!"
+msgstr "能對這個外掛的開發工作保持熱情，並能讓我持續提供技術支援，感謝大家的支持。"
+
+#: inc/options/options-output.php:768
+msgid "donations"
+msgstr "贊助"
+
+#: inc/options/options-output.php:768
+msgid "Your"
+msgstr "你的"
+
+#: wp-custom-admin-interface.php:230
+msgid "Settings"
+msgstr "設定"
+
+#: wp-custom-admin-interface.php:215
+msgid "Donate"
+msgstr "贊助外掛開發"
+
+#: wp-custom-admin-interface.php:128
+msgid "Hi there! Thanks for using my plugin. I wrote this plugin because at the moment I use a few different little plugins to customise the admin interface and I thought it would be great to put it all into one and make things easy to use. I appreciate that customising the WordPress admin is a bit of a pandora's box as everyone has their own way they like to do things! If you like the plugin please consider rating it"
+msgstr "你好，感謝採用這個外掛。我會開發這個外掛的原因，是因為我同時使用了幾個不同的小型外掛自訂管理介面，而我覺得將這些不同的功能整合為一比較好，也更為易用。我個人很喜歡自訂有點像潘多拉盒子的 WordPress 管理介面，因為每個人都能依自己的偏好進行自訂！如果外掛對這個網站有所幫助，請為外掛進行評分→"
+
+#: wp-custom-admin-interface.php:128
+msgid "A Message from the Developer"
+msgstr "開發者的心聲"
+
+#: wp-custom-admin-interface.php:156
+msgid "Save All Settings"
+msgstr "儲存全部設定"
+
+#: wp-custom-admin-interface.php:1752
+msgid "except"
+msgstr "但排除以下對象:"
+
+#: wp-custom-admin-interface.php:1750
+msgid "Everyone"
+msgstr "全部使用者"
+
+#: wp-custom-admin-interface.php:1742
+msgid "No-one"
+msgstr "無"
+
+#: inc/options/options-output.php:1595 inc/options/options-output.php:2164
+msgid "Restore to last save"
+msgstr "還原至上次儲存"
+
+#: inc/options/options-output.php:1593
+msgid "Restore to default WordPress menu"
+msgstr "還原至 WordPress 預設選單"
+
+#: inc/options/options-output.php:1590
+msgid "Advanced functionality"
+msgstr "進階功能"
+
+#: inc/options/options-output.php:1578 inc/options/options-output.php:2159
+msgid "Add menu item"
+msgstr "新增選單項目"
+
+#: inc/options/options-output.php:1576
+msgid "Add separator"
+msgstr "新增分隔符號"
+
+#: inc/options/options-output.php:1483
+msgid "Disable Automatic WordPress Updates"
+msgstr "停用 WordPress 自動更新"
+
+#: inc/options/options-output.php:1466
+msgid "This will force the \"Custom\" color scheme on all users regardless of what color scheme they have chosen in their user profile."
+msgstr "啟用這項設定後，會略過使用者在 [個人資料] 頁面的設定，強制將 [自訂] 色彩配置套用至全部使用者設定。"
+
+#: inc/options/options-output.php:1465
+msgid "Force the custom color scheme on all users"
+msgstr "強制將自訂色彩配置套用至全部使用者"
+
+#: inc/options/options-output.php:1447
+msgid "SVG Icon Color"
+msgstr "SVG 圖示色彩"
+
+#: inc/options/options-output.php:1427
+msgid "Color Scheme Color 4"
+msgstr "色彩配置色彩 4"
+
+#: inc/options/options-output.php:1411
+msgid "Color Scheme Color 3"
+msgstr "色彩配置色彩 3"
+
+#: inc/options/options-output.php:1395
+msgid "Color Scheme Color 2"
+msgstr "色彩配置色彩 2"
+
+#: inc/options/options-output.php:1379
+msgid "Color Scheme Color 1"
+msgstr "色彩配置色彩 1"
+
+#: inc/options/options-output.php:1325
+msgid "Widget Content"
+msgstr "小工具內容"
+
+#: inc/options/options-output.php:1306
+msgid "Widget Title"
+msgstr "小工具標題"
+
+#: inc/options/options-output.php:1288
+msgid "Enable Custom Dashboard Widget"
+msgstr "啟用 [自訂控制台小工具]"
+
+#: inc/options/options-output.php:1258 inc/options/options-output.php:2457
+msgid "Please leave blank to have no expiry."
+msgstr "如果不須設定到期日，欄位請留空。"
+
+#: inc/options/options-output.php:1257
+msgid "Maintenance Mode End Date"
+msgstr "[維護模式] 結束日期"
+
+#: inc/options/options-output.php:1221
+msgid "Custom Maintenance Page/Coming Soon Text"
+msgstr "自訂網站維護/網站即將上線內容"
+
+#: inc/options/options-output.php:1201
+msgid "Enable Maintenance Mode"
+msgstr "啟用 [維護模式]"
+
+#: inc/options/options-output.php:1169 inc/options/options-output.php:2329
+msgid "Deactivate Custom Code on this Settings Tab"
+msgstr "在這個設定分頁停用自訂程式碼"
+
+#: inc/options/options-output.php:1151
+msgid "Remove WordPress Version Number from Footer"
+msgstr "移除頁尾的 WordPress 的版本號碼"
+
+#: inc/options/options-output.php:1116
+msgid "Add custom PHP to WordPress"
+msgstr "新增 WordPress 自訂 PHP 程式碼"
+
+#: inc/options/options-output.php:1097 inc/options/options-output.php:2312
+msgid "There's no need to put in the script tags and jQuery can be used like: "
+msgstr "不需要將程式碼放在 script 標籤內，而 jQuery 可以使用如範例方式表示: "
+
+#: inc/options/options-output.php:1096
+msgid "Add custom Javascript/jQuery to the WordPress admin"
+msgstr "新增 WordPress 管理後台自訂 JavaScript/jQuery 程式碼"
+
+#: inc/options/options-output.php:1073
+msgid "Add custom CSS to the WordPress login area"
+msgstr "新增 WordPress 登入畫面自訂 CSS 程式碼"
+
+#: inc/options/options-output.php:1051
+msgid "Add custom CSS to the WordPress admin"
+msgstr "新增 WordPress 管理後台自訂 CSS 程式碼"
+
+#: inc/options/options-output.php:1019
+msgid "Remove admin toolbar from the front end for all users"
+msgstr "移除全部使用者的網站前端工具列"
+
+#: inc/options/options-output.php:979 inc/options/options-output.php:1326
+#: inc/options/options-output.php:2513
+msgid "Please feel free to use shortcodes to add dynamic content."
+msgstr "請依照網站需求使用短代碼加入動態內容。"
+
+#: inc/options/options-output.php:978
+msgid "Custom Footer Text"
+msgstr "自訂頁尾文字"
+
+#: inc/options/options-output.php:949
+msgid "Admin Link and Button Hover Color"
+msgstr "管理後台連結及按鈕游標暫留色彩"
+
+#: inc/options/options-output.php:932 inc/options/options-output.php:950
+msgid "Please click the \"Default\" button when changing the colour to load the default WordPress styling"
+msgstr "變更色彩後如需載入 WordPress 預設樣式，請點擊 [預設] 按鈕。"
+
+#: inc/options/options-output.php:931
+msgid "Admin Link and Button Color"
+msgstr "管理後台連結及按鈕色彩"
+
+#: inc/options/options-output.php:905
+msgid "Also add the above favicon to the frontend"
+msgstr "將上方設定的網站圖示新增至網站前端"
+
+#: inc/options/options-output.php:885
+msgid "For best results please upload an image with a square aspect ratio"
+msgstr "為取得最佳結果，請上傳正方形圖片。"
+
+#: inc/options/options-output.php:884
+msgid "Custom Favicon"
+msgstr "自訂網站圖示"
+
+#: inc/options/options-output.php:871 inc/options/options-output.php:892
+msgid "Upload Image"
+msgstr "上傳圖片"
+
+#: inc/options/options-output.php:864
+msgid "Custom Login Logo"
+msgstr "自訂登入標誌"
+
+#: inc/options/options-output.php:829
+msgid "Login Screen Background Color"
+msgstr "登入畫面背景色彩"

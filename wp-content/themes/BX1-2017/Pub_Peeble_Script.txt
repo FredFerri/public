@@ -1,0 +1,41 @@
+<script>
+               var timeStamp = Math.floor(Date.now() / 1000);
+               console.log(timeStamp);
+               jwplayer("videoLive").setup({
+                 playlist: [{
+                   "sources": [{
+                     "file": "https://<?php echo types_render_field('url-du-live'); ?>/playlist.m3u8"
+                   },{
+                     "file": "rmtps://<?php echo types_render_field('url-du-live'); ?>"
+                   }]
+                 }],
+                 androidhls: true,
+                 hlshtml: true,
+                 width: '100%',
+                 aspectratio: '16:9',
+                 autostart: true,
+                 androidhls: true,
+                 autostart: true,
+                 mute: false,
+                 <?php 
+                  //$nopub = "off";
+                  if((is_user_logged_in() && $_COOKIE['nopub'] == 'on' || $nopub == "off")): //nopub ?>
+                advertising: false
+                <?php else: ?>
+                 localization: {
+                         loadingAd : 'Chargement de la publicité',
+                         liveBroadcast : 'Direct'
+                  },
+                  advertising: {
+                         client: 'vast',
+                         offset: "pre",
+                         skipoffset: 5,
+                         tag: 'https://ads-pebblemedia.adhese.com/ad/tlall/sl_bx1_preroll_-preroll?t=' + timeStamp,
+                         admessage: 'Cette publicité se termine dans xx secondes',
+                         skipmessage: 'Continuer vers l\'article dans XX secondes',
+                         skiptext: 'Continuer'
+                       }
+                <?php endif; ?>
+               
+               });
+            </script>

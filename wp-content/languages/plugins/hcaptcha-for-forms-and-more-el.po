@@ -1,0 +1,78 @@
+# Translation of Plugins - hCaptcha for WP - Stable (latest release) in Greek
+# This file is distributed under the same license as the Plugins - hCaptcha for WP - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-08 10:41:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - hCaptcha for WP - Stable (latest release)\n"
+
+#: src/php/ElementorPro/HCaptchaHandler.php:202
+msgid "To use hCaptcha, you need to add the Site and Secret keys."
+msgstr "Για να χρησιμοποιήσετε το hCaptcha, πρέπει να προσθέσετε το κλειδί API και το μυστικό κλειδί."
+
+#: src/php/Settings/General.php:245
+msgid "Invisible"
+msgstr "Αόρατο"
+
+#: src/php/Settings/General.php:508
+msgid "Turn Off When Logged In"
+msgstr "Απενεργοποίηση για συνδεδεμένους χρήστες"
+
+#: src/php/WP/Comment.php:162
+msgid "Invalid Captcha"
+msgstr "Μη έγκυρο Captcha"
+
+#: src/php/Settings/PluginSettingsBase.php:150
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: src/php/Kadence/AdvancedForm.php:138 src/php/Kadence/Form.php:118
+msgid "hCaptcha Failed"
+msgstr "Το hCaptcha απέτυχε"
+
+#: src/php/Settings/General.php:244
+msgid "Compact"
+msgstr "Μικρών διαστάσεων"
+
+#: src/php/Settings/General.php:243
+msgid "Normal"
+msgstr "Κανονικό"
+
+#: src/php/Settings/General.php:233
+msgid "Dark"
+msgstr "Σκοτεινό"
+
+#: src/php/Settings/General.php:232
+msgid "Light"
+msgstr "Φωτεινό"
+
+#: src/php/Settings/PluginSettingsBase.php:141
+msgid "hCaptcha Settings"
+msgstr "Ρυθμίσεις hCaptcha"
+
+#. Author of the plugin
+#: hcaptcha.php src/php/Admin/Notifications.php:130 src/php/CF7/Admin.php:179
+#: src/php/ElementorPro/HCaptchaHandler.php:395 src/php/NF/Field.php:76
+#: src/php/Settings/PluginSettingsBase.php:55 src/php/UM/Base.php:144
+#: src/php/UM/Base.php:147
+msgid "hCaptcha"
+msgstr "hCaptcha"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: hcaptcha.php
+msgid "https://www.hcaptcha.com/"
+msgstr "https://www.hcaptcha.com/"
+
+#: src/php/includes/request.php:88
+msgid "The hCaptcha is invalid."
+msgstr "Άκυρο hCAPTCHA."
+
+#: src/php/includes/request.php:87 src/php/Settings/General.php:797
+msgid "Please complete the hCaptcha."
+msgstr "Παρακαλούμε συμπληρώστε το hCaptcha."

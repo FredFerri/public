@@ -1,0 +1,229 @@
+# Translation of Plugins - Invisible reCaptcha for WordPress - Development (trunk) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Invisible reCaptcha for WordPress - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-11-26 09:31:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Invisible reCaptcha for WordPress - Development (trunk)\n"
+
+#: includes/task-scheduler/MchGdbcWpTaskScheduler.php:96
+msgid "Every "
+msgstr "每次"
+
+#: engine/Admin/Pages/BaseAdminPage.php:32
+msgid "Need help? Have questions...?"
+msgstr "需要協助？使用上發生問題？"
+
+#: engine/Modules/Membership/UltraCommunity/UltraCommunityPublicModule.php:35
+#: engine/Modules/Membership/UltraCommunity/UltraCommunityPublicModule.php:53
+msgid "We've encountered an error while trying to validate reCaptcha!"
+msgstr "這個網站進行 reCAPTCHA 驗證時發生錯誤。"
+
+#: engine/Modules/WooCommerce/WooCommercePublicModule.php:89
+msgid "Sorry, Google reCaptcha was not validated!"
+msgstr "很抱歉，Google reCAPTCHA 尚未經過驗證。"
+
+#: engine/Modules/Membership/BuddyPress/BuddyPressPublicModule.php:35
+msgid "Google reCaptcha was not validated!"
+msgstr "Google reCAPTCHA 尚未經過驗證。"
+
+#: engine/Modules/Membership/BuddyPress/BuddyPressAdminModule.php:61
+#: engine/Modules/Membership/UltraCommunity/UltraCommunityAdminModule.php:67
+#: engine/Modules/WooCommerce/WooCommerceAdminModule.php:97
+msgid " Protection Settings"
+msgstr "保護設定"
+
+#: engine/Controllers/ModulesController.php:75
+msgid "BuddyPress"
+msgstr "BuddyPress"
+
+#: engine/Controllers/ModulesController.php:65
+msgid "UltraCommunity"
+msgstr "UltraCommunity"
+
+#: engine/Modules/ContactForms/ContactFormsAdminModule.php:43
+msgid "A list of comma separated Gravity Forms IDs which should not be protected by Invisible reCaptcha"
+msgstr "請以逗號分隔不需要隱形 reCAPTCHA 保護的 Gravity 聯絡表單的表單 ID。"
+
+#: engine/Modules/ContactForms/ContactFormsAdminModule.php:41
+msgid "Excluded Gravity Forms IDs"
+msgstr "排除的 Gravity 表單 ID"
+
+#: engine/Modules/ContactForms/ContactFormsAdminModule.php:35
+msgid "Enable Protection for Gravity Forms"
+msgstr "啟用對 Gravity Forms 的保護"
+
+#: engine/Modules/Settings/SettingsAdminModule.php:48
+msgid "The language to be used by Google for Badge and Challenge(if it will be shown)"
+msgstr "請在這裡設定使用者檢視服務徽章及驗證方式 (如果有的話) 時所要顯示的語言。"
+
+#: engine/Modules/Settings/SettingsAdminModule.php:46
+msgid "Language"
+msgstr "服務徽章語言"
+
+#: engine/Modules/Settings/SettingsAdminModule.php:105
+msgid "Inline"
+msgstr "內嵌元素"
+
+#: engine/Modules/Settings/SettingsAdminModule.php:104
+msgid "Bottom Left"
+msgstr "左下方"
+
+#: engine/Modules/Settings/SettingsAdminModule.php:103
+msgid "Bottom Right"
+msgstr "右下方"
+
+#: engine/Modules/Settings/SettingsAdminModule.php:98
+msgid "Automatically detect"
+msgstr "自動偵測"
+
+#: engine/Modules/Settings/SettingsAdminModule.php:62
+msgid "The CSS used to restyle the reCaptcha badge. This will be applied only if the badge position is set to Inline!"
+msgstr "CSS 可用於為 reCAPTCHA 服務徽章重新設定樣式。這項設定僅有服務徽章位置設定為 [內嵌元素] 時才會生效。"
+
+#: engine/Modules/Settings/SettingsAdminModule.php:60
+msgid "Badge Custom CSS"
+msgstr "服務徽章自訂 CSS"
+
+#: engine/Modules/Settings/SettingsAdminModule.php:55
+msgid "Reposition the reCaptcha badge. The 'Inline' value allows you to style it using CSS"
+msgstr "調整 reCAPTCHA 服務徽章位置。選取 [內嵌元素]便可使用 CSS 自訂樣式。"
+
+#: engine/Modules/Settings/SettingsAdminModule.php:53
+msgid "Badge Position"
+msgstr "服務徽章位置"
+
+#: engine/Modules/Settings/SettingsAdminModule.php:85
+#: engine/Modules/Membership/BuddyPress/BuddyPressAdminModule.php:44
+#: engine/Modules/Membership/UltraCommunity/UltraCommunityAdminModule.php:50
+#: engine/Modules/WooCommerce/WooCommerceAdminModule.php:80
+#: engine/Modules/WordPress/WordPressAdminModule.php:69
+msgid "Your changes were successfully saved!"
+msgstr "設定已成功儲存。"
+
+#. Author of the plugin
+msgid "Mihai Chelaru"
+msgstr "Mihai Chelaru"
+
+#. Description of the plugin
+msgid "Google Invisible reCaptcha for WordPress."
+msgstr "能為 WordPress 網站加入 Google 隱形 reCAPTCHA 的外掛。"
+
+#. Plugin Name of the plugin
+msgid "Invisible reCaptcha"
+msgstr "Invisible reCaptcha"
+
+#: includes/utils/FontAwesomeIconParser.php:45
+msgid "No Icon"
+msgstr "無圖示"
+
+#: includes/task-scheduler/MchGdbcWpTaskScheduler.php:30
+msgid "Once a month"
+msgstr "每月一次"
+
+#: includes/task-scheduler/MchGdbcWpTaskScheduler.php:25
+msgid "Once Weekly"
+msgstr "每週一次"
+
+#: engine/Modules/WordPress/WordPressPublicModule.php:145
+msgid "Invalid username or incorrect password!"
+msgstr "無效的使用者名稱或不正確的密碼。"
+
+#: engine/Modules/WordPress/WordPressPublicModule.php:95
+#: engine/Modules/WordPress/WordPressPublicModule.php:107
+msgid "Registration Error!"
+msgstr "註冊時發生錯誤。"
+
+#: engine/Modules/WordPress/WordPressAdminModule.php:60
+msgid "WordPress Protection Settings"
+msgstr "WordPress 保護設定"
+
+#: engine/Modules/WordPress/WordPressAdminModule.php:48
+msgid "Enable Forgot Password Form Protection"
+msgstr "啟用忘記密碼表單保護"
+
+#: engine/Modules/WordPress/WordPressAdminModule.php:42
+msgid "Enable Comments Form Protection"
+msgstr "啟用留言表單保護"
+
+#: engine/Modules/WooCommerce/WooCommercePublicModule.php:191
+#: engine/Modules/WordPress/WordPressPublicModule.php:164
+msgid "Comment Submission Failure"
+msgstr "留言傳送失敗"
+
+#: engine/Modules/WooCommerce/WooCommercePublicModule.php:191
+#: engine/Modules/WordPress/WordPressPublicModule.php:164
+msgid "Link Notifications are disabled!"
+msgstr "傳送連結通知已停用。"
+
+#: engine/Modules/WooCommerce/WooCommercePublicModule.php:65
+#: engine/Modules/WooCommerce/WooCommercePublicModule.php:126
+msgid "Your entry appears to be spam!"
+msgstr "目前的操作為程式化濫用行為。"
+
+#: engine/Modules/WooCommerce/WooCommerceAdminModule.php:60
+msgid "Enable Product Review Form Protection"
+msgstr "啟用產品評價表單保護"
+
+#: engine/Modules/WooCommerce/WooCommerceAdminModule.php:54
+msgid "Enable Reset Password Form Protection"
+msgstr "啟用重設密碼表單保護"
+
+#: engine/Modules/WooCommerce/WooCommerceAdminModule.php:48
+msgid "Enable Lost Password Form Protection"
+msgstr "啟用忘記密碼表單保護"
+
+#: engine/Modules/Membership/BuddyPress/BuddyPressAdminModule.php:31
+#: engine/Modules/Membership/UltraCommunity/UltraCommunityAdminModule.php:37
+#: engine/Modules/WooCommerce/WooCommerceAdminModule.php:42
+#: engine/Modules/WordPress/WordPressAdminModule.php:36
+msgid "Enable Registration Form Protection"
+msgstr "啟用註冊表單保護"
+
+#: engine/Modules/Membership/UltraCommunity/UltraCommunityAdminModule.php:31
+#: engine/Modules/WooCommerce/WooCommerceAdminModule.php:36
+#: engine/Modules/WordPress/WordPressAdminModule.php:30
+msgid "Enable Login Form Protection"
+msgstr "啟用登入表單保護"
+
+#: engine/Modules/Settings/SettingsAdminModule.php:40
+msgid "Your Secret Key"
+msgstr "密鑰"
+
+#: engine/Modules/Settings/SettingsAdminModule.php:34
+msgid "Your Site Key"
+msgstr "網站金鑰"
+
+#: engine/Modules/ContactForms/ContactFormsAdminModule.php:76
+msgid "Contact Forms Protection Settings"
+msgstr "聯絡表單保護設定"
+
+#: engine/Modules/ContactForms/ContactFormsAdminModule.php:29
+msgid "Enable Protection for Contact Form 7"
+msgstr "啟用對 Contact Form 7 的保護"
+
+#: engine/Controllers/ModulesController.php:55
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: engine/Controllers/ModulesController.php:45
+msgid "Contact Forms"
+msgstr "聯絡表單"
+
+#: engine/Controllers/ModulesController.php:35
+msgid "WordPress"
+msgstr "WordPress"
+
+#: engine/AdminEngine.php:19 engine/Controllers/ModulesController.php:25
+msgid "Settings"
+msgstr "設定"
+
+#: engine/Modules/Settings/SettingsAdminModule.php:73
+#: engine/Admin/Pages/SettingsAdminPage.php:29
+msgid "Invisible reCaptcha Settings"
+msgstr "隱形 reCAPTCHA 設定"

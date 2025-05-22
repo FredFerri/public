@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+ <channel>
+  <title>BX1 - Bruxelles + 4 degrés</title>
+  <link>https://bx1plus.be/</link>
+  <description>Un reportage long format pour tout comprendre des enjeux du changement climatique.</description>
+  <itunes:summary>Un reportage long format pour tout comprendre des enjeux du changement climatique.</itunes:summary>
+  <copyright>BX1 - 2025. Tous droits réservés.</copyright>
+  <image>
+   <url>https://bx1.be/wp-content/uploads/2023/11/Design-sans-titre.jpg</url>
+   <title>https://bx1.be/wp-content/uploads/2023/11/Design-sans-titre.jpg</title>
+  </image>
+  <itunes:author>BX1</itunes:author>
+  <itunes:owner>
+   <itunes:name>BX1+</itunes:name>
+   <itunes:email>web@bx1.be</itunes:email>
+  </itunes:owner>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:category text="News"/>
+  <language>fr</language>
+  <lastBuildDate>Wed, 14 May 2025 17:15:03 +0200</lastBuildDate>
+  <itunes:image href="https://bx1.be/wp-content/uploads/2023/11/Design-sans-titre.jpg"/>
+  <item>
+   <title>Bruxelles + 4 degrés, épisode 5</title>
+   <guid>678344</guid>
+   <link>https://bx1.be/?p=678344</link>
+   <pubDate>Mon, 13 May 2024 14:00:00 +0200</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="https://bx1.be/wp-content/uploads/2023/11/Design-sans-titre.jpg"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EIM00005.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>Bruxelles + 4 degrés, épisode 5</itunes:summary>
+   <description>Bruxelles + 4 degrés, épisode 5</description>
+  </item>
+  <item>
+   <title>Bruxelles + 4 degrés, épisode 4</title>
+   <guid>665619</guid>
+   <link>https://bx1.be/?p=665619</link>
+   <pubDate>Tue, 05 Mar 2024 13:30:00 +0100</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="https://bx1.be/wp-content/uploads/2023/11/Design-sans-titre.jpg"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EIM00004.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>Bruxelles + 4 degrés, épisode 4</itunes:summary>
+   <description>Bruxelles + 4 degrés, épisode 4</description>
+  </item>
+  <item>
+   <title>Bruxelles + 4 degrés, épisode 3</title>
+   <guid>657596</guid>
+   <link>https://bx1.be/?p=657596</link>
+   <pubDate>Mon, 15 Jan 2024 15:00:00 +0100</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="https://bx1.be/wp-content/uploads/2023/11/Design-sans-titre.jpg"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EIM00003.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>Bruxelles + 4 degrés, épisode 3</itunes:summary>
+   <description>Bruxelles + 4 degrés, épisode 3</description>
+  </item>
+  <item>
+   <title>Bruxelles + 4 degrés, épisode 2</title>
+   <guid>654700</guid>
+   <link>https://bx1.be/?p=654700</link>
+   <pubDate>Fri, 15 Dec 2023 12:00:00 +0100</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="https://bx1.be/wp-content/uploads/2023/11/Design-sans-titre.jpg"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EIM00002.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>Quels seront les impacts du réchauffement climatique sur la Région bruxelloise ?</itunes:summary>
+   <description>Quels seront les impacts du réchauffement climatique sur la Région bruxelloise ?</description>
+  </item>
+  <item>
+   <title>Bruxelles + 4 degrés, épisode 1</title>
+   <guid>649295</guid>
+   <link>https://bx1.be/?p=649295</link>
+   <pubDate>Tue, 14 Nov 2023 10:09:00 +0100</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="https://bx1.be/wp-content/uploads/2023/11/Design-sans-titre.jpg"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/WEB_BXL4DEGRES_EPISODE1_OK.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration>00:27:34</itunes:duration>
+   <itunes:summary>Quels seront les impacts du réchauffement climatique sur la Région bruxelloise ?</itunes:summary>
+   <description>Quels seront les impacts du réchauffement climatique sur la Région bruxelloise ?</description>
+  </item>
+ </channel>
+</rss>

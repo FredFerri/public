@@ -1,0 +1,2571 @@
+# Translation of Plugins - Asset CleanUp: Page Speed Booster - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Asset CleanUp: Page Speed Booster - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-12-01 09:54:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Asset CleanUp: Page Speed Booster - Stable (latest release)\n"
+
+#: templates/settings-frontend.php:54
+msgid "You've enabled \"Script Manager\" within \"Options\" -&gt; \"Assets\" from Perfmatters plugin."
+msgstr "Je hebt \"Script Manager\" ingeschakeld binnen \"Opties\" -> \"Assets\" van de Perfmatters plugin."
+
+#: classes/Update.php:151
+msgid "Nonce is missing or has expired"
+msgstr "Nonce ontbreekt of is verlopen"
+
+#: classes/Update.php:69
+msgid "How to fix it?"
+msgstr "Hoe te repareren?"
+
+#: classes/Update.php:66
+msgid "The value of <strong>max_input_vars</strong> is <strong>%d</strong>. You might need to increase it to a higher number."
+msgstr "De waarde van <strong>max_input_vars</strong> is <strong>%d</strong>. Je moet het mogelijk verhogen naar een hoger nummer."
+
+#: classes/Update.php:64
+msgid "The value of <strong>max_input_vars</strong> is <strong>%d</strong>. That's below <strong>1000</strong> (the default one in many hosting accounts). Increase it to a higher number, ideally over %d."
+msgstr "De waarde van <strong>max_input_vars</strong> is <strong>%d</strong>. Dat is onder <strong>1000</strong> (de standaardwaarde in veel hostingaccounts). Verhoog het naar een hoger getal, idealiter boven %d."
+
+#: classes/Update.php:62
+msgid "The value of <strong>max_input_vars</strong> is <strong>1000</strong> which is the default one in many hosting accounts. Increase it to a higher number, ideally over %d."
+msgstr "De waarde van <strong>max_input_vars</strong> is <strong>1000</strong>, wat de standaardwaarde is in veel hostingaccounts. Verhoog het naar een hoger getal, bij voorkeur boven %d."
+
+#: classes/Update.php:55
+msgid "The changes were not saved because the security nonce has expired (it took over 24 hours since you loaded this page) or it was not sent for verification in the first place because the form was partially submitted due to the input fields being stripped."
+msgstr "De wijzigingen zijn niet opgeslagen omdat de beveiligings nonce is verlopen (het duurde meer dan 24 uur sinds je deze pagina hebt geladen) of het is niet ter verificatie verzonden omdat het formulier gedeeltelijk is ingediend vanwege de verwijderde invoervelden."
+
+#: templates/meta-box-restricted-page-load.php:68
+#: templates/_admin-pages-assets-manager/_singular-page.php:35
+msgid "This page's URI is matched by the rule you have in the \"Page Options\", thus %s is not loaded on that page and no CSS/JS are to be managed. If you wish to view the CSS/JS manager, please uncheck the following option shown below: <em>\"Do not load Asset CleanUp Pro on this page (this will disable any functionality of the plugin\"</em>."
+msgstr "De URI van deze pagina komt overeen met de regel die je hebt in de \"Pagina opties\", dus wordt %s niet geladen op die pagina en worden er geen CSS/JS beheerd. Als je de CSS/JS beheerder wil bekijken, schakel dan de volgende optie hieronder uit: <em>\"Asset CleanUp Pro niet laden op deze pagina (dit zal alle functionaliteit van de plugin uitschakelen)\"</em>."
+
+#: templates/meta-box-loaded-assets/_page-options-inner.php:71
+msgid "If you are not sure how these options work, you can %sread more about them%s in the documentation."
+msgstr "Als je niet zeker weet hoe deze opties werken, kun je %smeer informatie over hen vinden%s in de documentatie."
+
+#: templates/meta-box-loaded-assets/_page-options-inner.php:64
+msgid "Do not load %s on this page (this will disable any functionality of the plugin)"
+msgstr "Laad %s niet op deze pagina (hierdoor wordt alle functionaliteit van de plugin uitgeschakeld)"
+
+#: templates/meta-box-loaded-assets/_page-options-inner.php:54
+msgid "Do not apply any front-end optimization on this page (this includes any changes related to CSS/JS files)"
+msgstr "Pas geen front-end optimalisatie toe op deze pagina (dit omvat alle wijzigingen met betrekking tot CSS/JS bestanden)"
+
+#: templates/admin-page-overview.php:158
+msgid "Page Options"
+msgstr "Pagina opties"
+
+#: early-triggers.php:666
+#: templates/_admin-pages-assets-manager/_homepage.php:71
+msgid "This homepage's URI is matched by the rule you have in the \"Page Options\", thus %s is not loaded on that page and no CSS/JS are to be managed. If you wish to view the CSS/JS manager, please uncheck the option and reload this page."
+msgstr "De URI van deze voorpagina komt overeen met de regel die je hebt in de \"Pagina opties\", dus %s wordt niet geladen op die pagina en er worden geen CSS/JS beheerd. Als je de CSS/JS beheerder wil bekijken, schakel dan de optie uit en laad deze pagina opnieuw."
+
+#: classes/OwnAssets.php:483
+msgid "Reloading %s area"
+msgstr "Herladen van %s gebied"
+
+#: classes/MetaBoxes.php:67
+msgid "CSS &amp; JavaScript Manager / Page Options"
+msgstr "CSS & Javascript beheerder/pagina opties"
+
+#: templates/meta-box-loaded.php:55
+msgid "This page was set to show the latest posts in %s\"Settings\" &#10141; \"Reading\"%s."
+msgstr "Deze pagina was ingesteld om de nieuwste berichten te tonen in %s\"Instellingen\" &#10141; \"Lezen\"%s."
+
+#: templates/meta-box-loaded.php:51
+msgid "This page was set as the home page in %s\"Settings\" &#10141; \"Reading\"%s."
+msgstr "Deze pagina is ingesteld als de voorpagina in %s\"Instellingen\" &#10141; \"Lezen\"%s."
+
+#: templates/_admin-pages-assets-manager/common/_is-dashboard-edit-allowed.php:20
+msgid "As \"Manage in the Dashboard?\" is not enabled in %s\"Settings\" &#187; \"Plugin Usage Preferences\"%s, you can not manage the assets from the Dashboard."
+msgstr "Omdat \"Beheren in het Dashboard?\" niet is ingeschakeld in %s\"Instellingen\" &#187; \"Voorkeuren voor plugin gebruik\"%s, kun je de assets niet beheren vanuit het Dashboard."
+
+#: templates/_admin-pages-assets-manager/_singular-page-search-form.php:39
+msgid "Remember that you can also use the %s ID in the input"
+msgstr "Onthoud dat je ook de %s ID kunt gebruiken in de invoer"
+
+#: templates/_admin-pages-assets-manager/_singular-page-search-form.php:39
+msgid "There are no results based on your search"
+msgstr "Er zijn geen resultaten op basis van je zoek opdracht"
+
+#: templates/_admin-pages-assets-manager/_singular-page-search-form.php:11
+msgid "You can type a keyword or the ID to search the %s for which you want to manage its CSS/JS (e.g. unloading)"
+msgstr "Je kunt een keyword of de ID typen om de %s te zoeken waarvan je de CSS/JS wil beheren (bijv. Lossen)"
+
+#: templates/_admin-pages-assets-manager/_media-attachment.php:38
+msgid "There are no CSS/JS to manage because <em>\"Redirect attachment URLs to the attachment itself?\"</em> is set to <em>\"Yes\"</em> in <em>\"Search Appearance - Yoast SEO\" - \"Media\"</em> tab)."
+msgstr "Er zijn geen CSS/JS te beheren omdat <em>\"Omleiden bijlage URLs naar de bijlage zelf?\"</em> is ingesteld op <em>\"Ja\"</em> in <em>\"Zoek weergave - Yoast SEO\" - \"Media\"</em> tab)."
+
+#: templates/_admin-pages-assets-manager/_singular-page.php:90
+msgid "Homepage URL"
+msgstr "Homepage URL"
+
+#: templates/_admin-pages-assets-manager/_singular-page.php:22
+msgid "This page's URI is matched by one of the RegEx rules you have in <strong>\"Settings\"</strong> -&gt; <strong>\"Plugin Usage Preferences\"</strong> -&gt; <strong>\"Do not load the plugin on certain pages\"</strong>, thus %s is not loaded on that page and no CSS/JS are to be managed. If you wish to view the CSS/JS manager, please remove the matching RegEx rule and reload this page."
+msgstr "De URI van deze pagina komt overeen met één van de RegEx regels die je hebt in <strong>\"Instellingen\"</strong> -> <strong>\"Voorkeuren plugin gebruik\"</strong> -> <strong>\"Laad de plugin niet op bepaalde pagina's\"</strong>, dus %s wordt niet geladen op die pagina en er worden geen CSS/JS beheerd. Als je de CSS/JS beheerder wil bekijken, verwijder dan de overeenkomende RegEx-regel en laad deze pagina opnieuw."
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row.php:130
+#: templates/meta-box-loaded-assets/_asset-style-single-row.php:123
+#: templates/meta-box-loaded-assets/_hardcoded/_asset-script-single-row-hardcoded.php:134
+#: templates/meta-box-loaded-assets/_hardcoded/_asset-style-single-row-hardcoded.php:141
+#: templates/meta-box-loaded-assets/_page-options.php:32
+#: templates/meta-box-loaded-assets/_page-options.php:49
+msgid "Loading"
+msgstr "Aan het laden"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:111
+msgid "All LINK &amp; STYLE tags"
+msgstr "Alle LINK &amp; STIJL tags"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:100
+msgid "STYLE tags with inline CSS code "
+msgstr "STYLE tags met inline CSS code "
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:89
+msgid "LINK tags with \"href\" attribute"
+msgstr "LINK tags met \"href\" attribuut"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:60
+msgid "You might want to minify the local files, the inline CSS code within STYLE tags or both."
+msgstr "Je wil misschien de lokale bestanden verkleinen, de inline CSS code binnen STYLE tags of beide."
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:109
+msgid "All SCRIPT tags"
+msgstr "Alle SCRIPT tags"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:98
+msgid "SCRIPT tags with inline JS code "
+msgstr "SCRIPT tags met inline JS code "
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:87
+msgid "SCRIPT tags with \"src\" attribute"
+msgstr "SCRIPT tags met \"src\" attribuut"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:56
+msgid "You might want to minify the local files, the inline JS code within SCRIPT tags or both."
+msgstr "Misschien wil je de lokale bestanden verkleinen, de inline JS code binnen SCRIPT tags of beide."
+
+#: classes/ObjectCache.php:91
+msgid "Asset CleanUp's object cache is not valid (from method \"[method]\")."
+msgstr "Asset CleanUp's object cache is niet geldig (van methode \"[methode]\")."
+
+#: classes/Menu.php:257
+msgid "Manage CSS &amp; JS"
+msgstr "Beheer CSS & JS"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_load-exceptions.php:42
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_load-exceptions.php:42
+msgid "On All Pages of \"<strong>%s</strong>\" post type"
+msgstr "Op alle pagina's van \"<strong>%s</strong>\" berichttype"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_load-exceptions.php:39
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_load-exceptions.php:39
+msgid "On all Easy Digital Downloads \"Download\" pages"
+msgstr "Op alle Easy Digital downloads \"Download\" pagina's"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_load-exceptions.php:36
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_load-exceptions.php:36
+msgid "On all WooCommerce \"Product\" pages"
+msgstr "Op alle WooCommerce \"Product\" pagina's"
+
+#: classes/AdminBar.php:188
+msgid "%d unload asset rules took effect on this frontend page"
+msgid_plural "%d unload asset rules took effect on this frontend page"
+msgstr[0] "%d de regels voor het uitladen van assets zijn van kracht geworden op deze frontend pagina"
+msgstr[1] "%d de regels voor het uitladen van assets zijn van kracht geworden op deze frontend pagina"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:319
+msgid "Please do not enable this option unless you have non-static (dynamic) loaded CSS"
+msgstr "Schakel deze optie niet in als je niet statisch (dynamisch) geladen CSS hebt"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:428
+msgid "Please do not enable this option unless you have non-static (dynamic) loaded JavaScript"
+msgstr "Schakel deze optie niet in tenzij je niet statisch (dynamisch) geladen JavaScript hebt"
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:109
+msgid "Unload plugins within the Dashboard /wp-admin/"
+msgstr "Plugins ontladen in het dashboard /wp-admin/"
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:104
+msgid "Unload plugins in the frontend view (for guest visitors)"
+msgstr "Plugins ontladen in de frontend weergave (voor gast bezoekers)"
+
+#. Author of the plugin
+msgid "Gabe Livan"
+msgstr "Gabe Livan"
+
+#: templates/admin-page-plugins-manager.php:18
+msgid "Only the administrators listed here can manage plugins: %s\"Settings\" &#10141; \"Plugin Usage Preferences\" &#10141; \"Allow managing assets to:\"%s. If you believe you should have access to managing plugins, you can add yourself to that list."
+msgstr "Alleen de hier vermelde beheerders kunnen plugins beheren: %s\"Instellingen\" &#10141; \"Voorkeuren voor plugin gebruik\" &#10141; \"Toestaan dat het beheerder van assets wordt beheerd door:\"%s. Als je denkt dat je toegang moet hebben tot het beheren van plugins, kun je jezelf aan die lijst toevoegen."
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:293
+msgid "This does not include the assets rows within the groups which are expanded &amp; contracted individually, depending on your preference."
+msgstr "Dit omvat niet de rijen assets binnen de groepen, die afzonderlijk worden uitgebreid & gekrompen, afhankelijk van je voorkeur."
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:174
+msgid "Only the chosen administrators will have access to the plugin's CSS &amp; JS Manager."
+msgstr "Alleen de gekozen beheerders hebben toegang tot de CSS & JS manager van de plugin."
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:173
+msgid "Allow managing assets to:"
+msgstr "Sta het beheren van assets toe:"
+
+#: templates/_admin-pages-assets-manager/common/_is-dashboard-edit-allowed.php:13
+#: templates/_admin-pages-assets-manager/_homepage.php:14
+#: templates/_admin-pages-assets-manager/_media-attachment.php:14
+msgid "Only the administrators listed here can manage CSS/JS assets: %s\"Settings\" &#10141; \"Plugin Usage Preferences\" &#10141; \"Allow managing assets to:\"%s. If you believe you should have access to managing CSS/JS assets, you can add yourself to that list."
+msgstr "Alleen de hier vermelde beheerders kunnen CSS/JS assets beheren: %s 'Instellingen' &#10141; 'Voorkeuren voor plugin gebruik' &#10141; 'Beheren van assets toestaan aan:' %s. Als je denkt dat je toegang moet hebben tot het beheren van CSS/JS assets, kun je jezelf aan die lijst toevoegen."
+
+#: templates/_top-area.php:110
+msgid "TEST MODE"
+msgstr "TEST MODUS"
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:94
+msgid "Instruct the browser to download a CSS/JS file based on the visitor's screen size (e.g. download it on a desktop device, but not on mobile one)"
+msgstr "De browser opdracht geven een CSS/JS bestand te downloaden op basis van de schermgrootte van de bezoeker (bv. Downloaden op een desktopapparaat, maar niet op een mobiel apparaat)"
+
+#: templates/admin-page-get-help.php:67
+msgid "Hire a Speed Optimization Expert"
+msgstr "Huur een snelheid optimalisatie expert in"
+
+#: templates/admin-page-tools.php:130
+msgid "Depending on the current settings, a storage caching directory of the optimized files is needed"
+msgstr "Afhankelijk van de huidige instellingen is een opslag caching folder van de geoptimaliseerde bestanden nodig"
+
+#: wpacu.php:80
+msgid "Thus, the plugin will not trigger on the front-end view to avoid any possible errors."
+msgstr "De plugin wordt dus niet geactiveerd op de front-end weergave om mogelijke fouten te voorkomen."
+
+#: templates/meta-box.php:41
+msgid "Fetching the loaded scripts and styles for <strong>%s</strong>... Please wait..."
+msgstr "Ophalen van de geladen scripts en stijlen voor <strong>%s</strong>... Even geduld..."
+
+#: templates/meta-box.php:34
+msgid "Fetch the assets from <strong>%s</strong>"
+msgstr "Haal de assets op uit <strong>%s</strong>"
+
+#: classes/Plugin.php:91
+msgid "\"Asset CleanUp\" plugin has not been activated because the PHP version used on this server is below 5.6."
+msgstr "\"Asset CleanUp\" plugin is niet geactiveerd omdat de PHP versie gebruikt op deze server lager is dan 5.6."
+
+#: classes/Settings.php:1045
+msgid "All enqueues in one list"
+msgstr "Alle wachtrijen in één lijst"
+
+#: classes/Settings.php:1044
+msgid "All enqueued CSS, followed by all enqueued JavaScript"
+msgstr "Alle geplaatste CSS, gevolgd door alle geplaatste JavaScript"
+
+#: classes/Settings.php:1043
+msgid "Grouped by having at least one rule &amp; no rules"
+msgstr "Gegroepeerd op tenminste één regel & geen regels"
+
+#: classes/Settings.php:1042
+msgid "Grouped by their size (sorted in descending order)"
+msgstr "Gegroepeerd volgens hun grootte (gesorteerd in aflopende volgorde)"
+
+#: templates/admin-page-get-help.php:45
+msgid "In case you are stuck, need assistance or just want to save time you would spend for your website optimization, we can help you!"
+msgstr "Als je vastzit, hulp nodig hebt of gewoon tijd wil besparen die je zou besteden aan je site optimalisatie, kunnen we je helpen!"
+
+#: templates/meta-box-loaded-assets/view-all.php:19
+msgid "Styles (.css files) &amp; Scripts (.js files)"
+msgstr "Styles (.css bestanden) & scripts (.js bestanden)"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:227
+msgid "You can decide how would you like to view the list of the enqueued CSS &amp; JavaScript"
+msgstr "Je kunt zelf bepalen hoe je de lijst van de geplaatste CSS & JavaScript wil zien"
+
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:80
+msgid "This will unload %s if the toolbar (top admin bar) is not showing up. This is be because the toolbar requires Dashicons to load properly, otherwise its layout will be broken."
+msgstr "Dit zal je uitloggen %s als de toolbar (bovenste toolbar) niet wordt weergegeven. Dit komt doordat de toolbar Dashicons nodig heeft om correct te laden, anders zal de lay-out ervan worden verbroken."
+
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:70
+msgid "Disable %s if Toolbar is hidden (Site-Wide)"
+msgstr "Schakel %s uit als de toolbar verborgen is (site breed)"
+
+#: classes/Misc.php:1308
+msgid "The file appears to be empty"
+msgstr "Het bestand lijkt leeg te zijn"
+
+#: classes/Tools.php:768
+msgid "The cached CSS/JS files were also removed."
+msgstr "De CSS/JS bestanden in de cache werden ook verwijderd."
+
+#: classes/Tools.php:764
+msgid "The license information was also removed."
+msgstr "De licentie informatie werd ook verwijderd."
+
+#: classes/Overview.php:943
+msgid "This will clear all load exceptions for the `%s` %s handle"
+msgstr "Dit wist alle laad uitzonderingen voor de `%s` %s handle"
+
+#: classes/Overview.php:867
+msgid "This will clear all redundant (useless) unload rules for the `%s` CSS handle as there's already a site-wide rule applied."
+msgstr "Dit zal alle overbodige (nutteloze) lossing regels voor de `%s` CSS handle wissen, omdat er al een site brede regel is toegepast."
+
+#: classes/Overview.php:754 classes/Overview.php:868 classes/Overview.php:944
+msgid "Click `OK` to confirm the action"
+msgstr "Klik op `OK` om de actie te bevestigen"
+
+#: classes/Overview.php:753
+msgid "This will clear all rules (unloads, load exceptions &amp; other settings) for the `%s` CSS handle"
+msgstr "Dit wist alle regels (unloads, load exceptions & andere instellingen) voor de `%s` CSS handle"
+
+#: classes/Overview.php:105
+msgid "All the redundant unload rules were cleared for the `<strong>%s</strong>` %s handle, leaving the only one relevant: `site-wide (everywhere)`."
+msgstr "Alle overbodige regels voor het ontladen zijn verwijderd voor de `<strong>%s</strong>` %s handle, waardoor alleen de relevante regel overblijft: `site-breed (overal)`."
+
+#: classes/Overview.php:78
+msgid "All the rules were cleared for the orphaned `<strong>%s</strong>` %s handle."
+msgstr "Alle regels werden gewist voor het verweesde `<strong>%s</strong>%s handvat."
+
+#: classes/Overview.php:51
+msgid "The load exception rules for the `<strong>%s</strong>` %s handle have been removed."
+msgstr "De uitzondering regels voor het laden van de `<strong>%s</strong>` %s handle zijn verwijderd."
+
+#: classes/OwnAssets.php:131
+msgid "When accessing this page the server responded with a status of %s404 (Not Found)%s. If this page is meant to return this status, you can ignore this message, otherwise you might have a problem with this page if it is meant to return a standard 200 OK status."
+msgstr "Bij het openen van deze pagina heeft de server gereageerd met de status %s404 (Niet gevonden)%s. Als deze pagina deze status hoort terug te geven, kun je deze bericht negeren. Anders kan er een probleem zijn met deze pagina als deze een standaard 200 OK status hoort terug te geven."
+
+#: classes/OwnAssets.php:41
+msgid "The source might not be reachable"
+msgstr "De bron is misschien niet bereikbaar"
+
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_handle.php:57
+msgid "This CSS handle is already unloaded."
+msgstr "Deze CSS handle is al ontladen."
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_source.php:62
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_source.php:86
+msgid "Source (updated):"
+msgstr "Bron (geüpdatet):"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_handle.php:72
+msgid "This JS handle is already unloaded."
+msgstr "Dit JS handle is al ontladen."
+
+#: templates/_admin-page-getting-started-areas/_how-it-works.php:12
+msgid "What %s really does?"
+msgstr "Wat doet %s echt?"
+
+#: templates/admin-page-tools.php:44
+msgid "Also remove any cached CSS/JS files from %s"
+msgstr "Verwijder ook alle CSS/JS bestanden in de cache van %s"
+
+#: templates/admin-page-tools.php:38
+msgid "Also remove any license data left from the Pro version if you ever used it (if you switched from Pro to Lite to make tests, but want to switch back to Pro, then do not choose this option)"
+msgstr "Verwijder ook eventuele licentie gegevens die nog over zijn van de Pro versie als je deze ooit hebt gebruikt (als je van Pro naar Lite bent overgestapt om tests uit te voeren, maar terug wil naar Pro, selecteer dan niet voor deze optie)"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:267
+msgid "On Assets List Layout Load, keep the groups:"
+msgstr "Op assets lijst lay-out load, bewaar de groepen:"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:366
+msgid "Are you rarely using the plugin and want to make some space in the admin menus?"
+msgstr "Gebruik je de plugin zelden en wil je wat ruimte maken in de beheerder menu's?"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:365
+msgid "Hide %s menus"
+msgstr "Verberg %s menu's"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:207
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:204
+msgid "Apply it for all visitors (not recommended)"
+msgstr "Breng het aan voor alle bezoekers (niet aanbevolen)"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:89
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:196
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:87
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:193
+msgid "default"
+msgstr "standaard"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:196
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:193
+msgid "Apply it only for guest visitors"
+msgstr "Pas het alleen toe voor gast bezoekers"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:146
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:143
+msgid "Verify if the website is delivered through the HTTP/2 network protocol"
+msgstr "Controleer of de site wordt geleverd via het HTTP/2 netwerkprotocol"
+
+#: templates/meta-box-loaded-assets/_hardcoded/_asset-script-single-row-hardcoded.php:87
+#: templates/meta-box-loaded-assets/_hardcoded/_asset-style-single-row-hardcoded.php:88
+msgid "View more"
+msgstr "Bekijk meer"
+
+#: templates/meta-box-loaded-assets/_hardcoded/_asset-script-single-row-hardcoded.php:72
+#: templates/meta-box-loaded-assets/_hardcoded/_asset-style-single-row-hardcoded.php:73
+msgid "Belongs to"
+msgstr "Behoord tot"
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:125
+msgid "Manage hardcoded (non-enqueued) CSS &amp; JavaScript files"
+msgstr "Beheer van hardcoded (niet enqueued) CSS & JavaScript bestanden"
+
+#: templates/admin-page-tools.php:200
+msgid "File Size"
+msgstr "Bestand grootte"
+
+#: templates/admin-page-tools.php:20
+msgid "Debugging"
+msgstr "Debuggen"
+
+#: classes/Menu.php:88 classes/Menu.php:89
+msgid "CSS/JS Manager"
+msgstr "CSS/JS manager"
+
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_unload-site-wide.php:14
+msgid "This stylesheet file is unloaded site-wide (everywhere)"
+msgstr "Dit stylesheet bestand wordt site breed (overal) uitgeladen"
+
+#: templates/meta-box.php:71
+msgid "As a result, the \"%s\" side meta box is not shown as it is irrelevant in this situation."
+msgstr "Hierdoor wordt het meta boxje \"%s\" niet getoond, omdat het in deze situatie niet relevant is."
+
+#: classes/Menu.php:97 classes/Menu.php:98 templates/_top-area.php:27
+msgid "Plugins Manager"
+msgstr "Plugins manager"
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:99
+msgid "Unload CSS/JS for URLs with request URI matching certain RegEx(es) &amp; add load exceptions based on Regex(es) <small>e.g. you can unload a CSS file site-wide, but keep it loaded if the page URL matches the <code>#/product/#</code> RegEx</small>"
+msgstr "CSS/JS uitschakelen voor URL's met een aanvraag URI die overeenkomt met bepaalde RegEx'en en laad uitzonderingen op basis van RegEx'en toevoegen <small>bijv. Je kunt een CSS bestand op de hele site uitschakelen, maar het geladen houden als de pagina URL overeenkomt met de <code>#/product/#</code> RegEx</small>"
+
+#: early-triggers.php:659
+msgid "This page's URL is matched by one of the RegEx rules you have in <em>\"Settings\"</em> -&gt; <em>\"Plugin Usage Preferences\"</em> -&gt; <em>\"Do not load the plugin on certain pages\"</em>, thus %s is not loaded on that page and no CSS/JS are to be managed. If you wish to view the CSS/JS manager, please remove the matching RegEx rule and the list of CSS/JS will be fetched."
+msgstr "De URL van deze pagina wordt gematcht door één van de RegEx regels die je hebt in <em>\"Instellingen\"</em> -> <em>\"Voorkeuren plugin gebruik\"</em> -> <em>\"Laad de plugin niet op bepaalde pagina's\"</em>, dus %s wordt niet geladen op die pagina en er worden geen CSS/JS beheerd. Als je de CSS/JS beheerder wil bekijken, verwijder dan de overeenkomende RegEx regel en de lijst met CSS/JS wordt opgehaald."
+
+#: templates/admin-page-tools.php:137
+msgid "Total storage files"
+msgstr "Totaal aantal opslag bestanden"
+
+#: templates/meta-box-restricted-page-load.php:54
+msgid "This page's URL is matched by one of the RegEx rules you have in <strong>\"Settings\"</strong> -&gt; <strong>\"Plugin Usage Preferences\"</strong> -&gt; <strong>\"Do not load the plugin on certain pages\"</strong>, thus Asset CleanUp Pro is not loaded on that page and no CSS/JS are to be managed. If you wish to view the CSS/JS manager, please remove the matching RegEx rule and reload this page."
+msgstr "De URL van deze pagina wordt gematcht door één van de RegEx regels die je hebt in <strong>\"Instellingen\"</strong> -> <strong>\"Voorkeuren plugin gebruik\"</strong> -> <strong>\"Laad de plugin niet op bepaalde pagina's\"</strong>, dus Asset CleanUp Pro wordt niet geladen op die pagina en er worden geen CSS/JS beheerd. Als je de CSS/JS beheerder wil bekijken, verwijder dan de bijbehorende RegEx regel en laad deze pagina opnieuw."
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:457
+msgid "Do not load the plugin on certain pages"
+msgstr "De plugin niet laden op bepaalde pagina's"
+
+#: templates/_admin-pages-assets-manager/_homepage.php:54
+msgid "This homepage's URI is matched by one of the RegEx rules you have in <strong>\"Settings\"</strong> -&gt; <strong>\"Plugin Usage Preferences\"</strong> -&gt; <strong>\"Do not load the plugin on certain pages\"</strong>, thus %s is not loaded on that page and no CSS/JS are to be managed. If you wish to view the CSS/JS manager, please remove the matching RegEx rule and reload this page."
+msgstr "De URI van deze homepage komt overeen met één van de RegEx regels die je hebt in <strong>\"Instellingen\"</strong> -> <strong>\"Voorkeuren plugin gebruik\"</strong> -> <strong>\"Laad de plugin niet op bepaalde pagina's\"</strong>, dus %s wordt niet geladen op die pagina en er worden geen CSS/JS beheerd. Als je de CSS/JS beheerder wil bekijken, verwijder dan de overeenkomende RegEx regel en laad deze pagina opnieuw."
+
+#: templates/admin-page-overview.php:145
+msgid "There is no data added to (e.g. unload, load exceptions, notes, async/defer attributes, changing of location, preloading, etc.) to any SCRIPT tag."
+msgstr "Er zijn geen gegevens toegevoegd aan (bijv. Unload, load exceptions, notities, async/defer attributen, wijziging van locatie, preloading, enz.) aan een SCRIPT tag."
+
+#: templates/admin-page-overview.php:133
+msgid "No unload/load exception rules of any kind are set for this JavaScript file"
+msgstr "Voor dit JavaScript bestand zijn geen uitzondering regels voor lossen en laden ingesteld"
+
+#: templates/admin-page-overview.php:84
+msgid "Scripts (.js)"
+msgstr "Scripts (.js)"
+
+#: templates/admin-page-overview.php:77
+msgid "There is no data added to (e.g. unload, load exceptions, notes, changing of location, preloading, etc.) to any stylesheet."
+msgstr "Er worden geen gegevens toegevoegd aan (bijv. verwijderen, laden van uitzonderingen, notities, wijzigen van locatie, vooraf laden, enz.) aan een stylesheet."
+
+#: templates/admin-page-overview.php:65
+msgid "No unload/load exception rules of any kind are set for this stylesheet file"
+msgstr "Voor dit style sheet bestand zijn geen uitzonderingsregels voor unload/load ingesteld"
+
+#: templates/admin-page-overview.php:16
+msgid "Stylesheets (.css)"
+msgstr "Stijlesheets (.css)"
+
+#: classes/AdminBar.php:171 classes/Menu.php:115 classes/Menu.php:116
+#: templates/_top-area.php:39
+msgid "Overview"
+msgstr "Overzicht"
+
+#: templates/admin-page-settings-bulk-changes.php:18
+msgid "Defer &amp; Async (site-wide)"
+msgstr "Uitstel & async (site breed)"
+
+#: templates/admin-page-settings-bulk-changes.php:16
+msgid "RegEx Load Exceptions"
+msgstr "RegEx laad uitzonderingen"
+
+#: templates/admin-page-settings-bulk-changes.php:15
+msgid "RegEx Unloads"
+msgstr "RegEx ontladen"
+
+#: templates/admin-page-settings-bulk-changes.php:14
+msgid "Bulk Unloaded (page types)"
+msgstr "Bulk ontladen (pagina types)"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_loaded-rules.php:13
+msgid "Pro version"
+msgstr "Pro versie"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:426
+msgid "Fetch assets' caching information from:"
+msgstr "Haal de caching informatie van assets op:"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_extra_inline.php:16
+msgid "Hide"
+msgstr "Verbergen"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_extra_inline.php:16
+msgid "Show"
+msgstr "Tonen"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:521
+msgid "Examples of SCRIPTS moved from HEAD to BODY"
+msgstr "Voorbeelden van SCRIPTS verplaatst van HEAD naar BODY"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:484
+msgid "Examples of jQuery related inline code moved after the library is called"
+msgstr "Voorbeelden van jQuery gerelateerde inline code die wordt verplaatst nadat de bibliotheek is aangeroepen"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:401
+msgid "This is useful if you want to reduce render-blocking resources and it will move all the <code>&lt;SCRIPT&gt;</code> tags (inline &amp; external) right after the <code>&lt;BODY&gt;</code> opening tag"
+msgstr "Dit is handig als je render blok gegevensbron wil verminderen en het zal alle <code>&lt;SCRIPT&gt;</code> tags (inline & extern) direct na de opening tag van <code>&lt;BODY&gt;</code> verplaatsen"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:389
+msgid "This triggers late after all other optimizations are applied for maximum compatibility"
+msgstr "Dit treedt pas laat in werking nadat alle andere optimalisaties zijn toegepast voor maximale compatibiliteit"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:388
+msgid "Move All <code>&lt;SCRIPT&gt;</code> tags From HEAD to BODY"
+msgstr "Verplaats alle <code>&lt;SCRIPT&gt;</code> tags van HEAD naar BODY"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:375
+msgid "This feature moves any of these inline SCRIPT tags after the HTML tag that loads jQuery (generated for the \"jquery-core\" handle) aiming to fix \"jQuery is undefined errors\"."
+msgstr "Deze functie verplaatst elk van deze inline SCRIPT tags na de HTML tag die jQuery laadt (gegenereerd voor de \"jquery-core\" handle) met als doel \"jQuery is ongedefinieerde fouten\" op te lossen."
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:370
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:401
+msgid "View Examples"
+msgstr "Bekijk voorbeelden"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:370
+msgid "Useful in case plugins/themes insert jQuery inline code in the post/page content (e.g. via shortcodes) or inside the HEAD section before jQuery library is called."
+msgstr "Nuttig wanneer plugins/themes jQuery inline code invoegen in het bericht /pagina inhoud (bijv. Via shortcodes) of in de HEAD sectie voordat de jQuery bibliotheek wordt aangeroepen."
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:357
+msgid "Please enable it only if you have JavaScript errors showing up in the browser's console related to jQuery."
+msgstr "Schakel het alleen in als je JavaScript fouten hebt in de console van de browser met betrekking tot jQuery."
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:356
+msgid "Move jQuery Inline Code After jQuery library is called"
+msgstr "Verplaats jQuery inline code nadat jQuery bibliotheek is aangeroepen"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:127
+msgid "For maximum performance and to reduce server resources, the following JavaScript files will not be minified since they are already optimised and minified by the WordPress core contributors &amp; developers"
+msgstr "Voor maximale prestaties en om de belasting op de server gegevensbron te verminderen, worden de volgende JavaScript bestanden niet geminimaliseerd omdat ze al zijn geoptimaliseerd en geminimaliseerd door de WordPress core bijdragers en ontwikkelaars"
+
+#: templates/admin-page-settings-plugin.php:35
+msgid "CDN: Rewrite assets URLs"
+msgstr "CDN: assets URL's herschrijven"
+
+#: templates/_admin-page-settings-plugin-areas/_cdn-rewrite-urls.php:34
+msgid "This applies ONLY to files saved in %s"
+msgstr "Dit geldt ALLEEN voor bestanden die zijn opgeslagen in %s"
+
+#: templates/_admin-page-settings-plugin-areas/_cdn-rewrite-urls.php:33
+msgid "Enable CDN URL rewrite?"
+msgstr "CDN URL herschrijven inschakelen?"
+
+#: templates/_admin-page-settings-plugin-areas/_cdn-rewrite-urls.php:23
+msgid "Rewrite cached static assets URLs with the CDN ones if necessary"
+msgstr "Herschrijf cached statische assets URL's met de CDN degenen indien nodig"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:273
+msgid "Inline Stylesheet (.css) Files Smaller Than %s KB"
+msgstr "Inline stylesheet (.css) bestanden kleiner dan %s KB"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:246
+msgid "Inline CSS Files"
+msgstr "Inline CSS bestanden"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:278
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:339
+msgid "Alternatively or in addition to automatic inlining, you can place the relative path(s) or part of them to the files you wish to inline below:"
+msgstr "Als alternatief voor of in aanvulling op automatische inlinening kun je het relatieve pad (of een deel daarvan) naar de bestanden die je wil inlinen hieronder plaatsen:"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:334
+msgid "Inline JavaScript (.js) Files Smaller Than %s KB"
+msgstr "Inline JavaScript (.js) bestanden kleiner dan %s KB"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:294
+msgid "Inline JavaScript Files"
+msgstr "Inline JavaScript bestanden"
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:140
+msgid "Priority in releasing new features &amp; other improvements (updates that are meant for both Lite and Pro plugins are first released to the Pro users)"
+msgstr "Prioriteit bij het uitbrengen van nieuwe functies & andere verbeteringen (updates die bedoeld zijn voor zowel lite als Pro plugins worden eerst uitgebracht aan de Pro gebruikers)"
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:114
+msgid "Defer CSS loaded in the <code>&lt;BODY&gt;</code>"
+msgstr "Uitstel van CSS geladen in de <code>&lt;BODY&gt;</code>"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:109
+msgid "Fetch the assets on a button click"
+msgstr "De assets ophalen bij een klik op een knop"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:100
+msgid "Fetch the assets automatically and show the list"
+msgstr "De assets automatisch ophalen en de lijst tonen"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:92
+msgid "When you are in the Dashboard and edit a post, page, custom post type, category or custom taxonomy and rarely manage loaded CSS/JS from the \"Asset CleanUp: CSS & JavaScript Manager\", you can choose to fetch the list when you click on a button. This will help declutter the edit page on load and also save resources as AJAX calls to the front-end won't be made to retrieve the assets' list."
+msgstr "Wanneer je in het dashboard bent en een bericht, pagina, extra berichttype, categorie of aangepaste taxonomie bewerkt en zelden geladen CSS/JS beheert vanuit de \"Asset CleanUp: CSS en JavaScript Manager\", kun je ervoor kiezen om de lijst op te halen wanneer je op een knop klikt. Dit zal helpen om de bewerking pagina bij het laden op te schonen en ook gegevensbron te besparen omdat er geen Ajax oproepen naar de front-end worden gemaakt om de lijst met assets op te halen."
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:332
+msgid "Avoid loading the whole WP environment whenever a dynamic request is made such as <code>/?custom-css=value_here</code>, or <code>/wp-content/plugins/plugin-name-here/css/generate-style.php?ver=1</code>"
+msgstr "Vermijd het laden van de hele WP omgeving telkens wanneer er een dynamisch aanvraag wordt gedaan, zoals <code>/?custom-css=value_here</code>, of <code>/wp-content/plugins/plugin-name-here/css/generate-style.php?ver=1</code>"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:318
+msgid "Cache Dynamic Loaded CSS"
+msgstr "Cache dynamisch geladen CSS"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:441
+msgid "Avoid loading the whole WP environment whenever a dynamic request is made such as <code>/?custom-javascript=value_here</code>, or <code>/wp-content/plugins/plugin-name-here/js/generate-script-output.php?ver=1</code>"
+msgstr "Vermijd het laden van de hele WP omgeving telkens wanneer er een dynamisch aanvraag wordt gedaan, zoals <code>/?custom-javascript=value_here</code>, of <code>/wp-content/plugins/plugin-name-here/js/generate-script-output.php?ver=1</code>"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:427
+msgid "Cache Dynamic Loaded JavaScript"
+msgstr "Cache dynamisch geladen JavaScript"
+
+#: templates/_admin-page-settings-plugin-areas/_fonts-google/_remove-area.php:12
+msgid "Remove Google Fonts"
+msgstr "Google Fonts verwijderen"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:298
+msgid "Defer CSS Loaded in the <code>&lt;BODY&gt;</code> (Footer)"
+msgstr "Uitgestelde CSS geladen in de <code>&lt;BODY&gt;</code> (Footer)"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:260
+msgid "This is usually good for small stylesheet files to save the overhead of fetching them and thus reduce the number of HTTP requests"
+msgstr "Dit is meestal goed voor kleine JavaScript bestanden om de overhead van het ophalen ervan te besparen en zo het aantal HTTP aanvragen te verminderen"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:247
+msgid "This will work for local (same domain) files. External requests tags will not be altered (e.g. stackpath.bootstrapcdn.com, ajax.googleapis.com etc.)."
+msgstr "Dit zal werken voor lokale (hetzelfde domein) bestanden. Externe aanvraag tags zullen niet worden gewijzigd (bijv. cdnjs.cloudflare.com, ajax.googleapis.com enz.)."
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:84
+msgid "Inline Chosen CSS Files"
+msgstr "Inline gekozen CSS bestanden"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:308
+msgid "This is usually good for small JavaScript files to save the overhead of fetching them and thus reduce the number of HTTP requests"
+msgstr "Dit is meestal goed voor kleine JavaScript bestanden om de overhead van het ophalen ervan te besparen en zo het aantal HTTP aanvragen te verminderen"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:295
+msgid "This will work for local (same domain) files. External requests tags will not be altered (e.g. cdnjs.cloudflare.com, ajax.googleapis.com etc.)."
+msgstr "Dit zal werken voor lokale (hetzelfde domein) bestanden. Externe aanvraag tags zullen niet worden gewijzigd (bijv. cdnjs.cloudflare.com, ajax.googleapis.com enz.)."
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:89
+msgid "Inline Chosen JavaScript Files"
+msgstr "Inline gekozen JavaScript bestanden"
+
+#: templates/admin-page-settings-plugin.php:91
+#: templates/admin-page-settings-plugin.php:101
+msgid "Combine"
+msgstr "Combineren"
+
+#: templates/admin-page-settings-plugin.php:91
+#: templates/admin-page-settings-plugin.php:101
+msgid "Minify"
+msgstr "Verkleinen"
+
+#: templates/admin-page-settings-plugin.php:34
+msgid "Optimize JavaScript"
+msgstr "Optimaliseer JavaScript"
+
+#: templates/admin-page-settings-plugin.php:33
+msgid "Optimize CSS"
+msgstr "Optimaliseer CSS"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:349
+msgid "Combining CSS files in HTTP/2 protocol"
+msgstr "Het combineren van CSS bestanden in het HTTP/2 protocol"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:23
+msgid "Minify / Combine loaded CSS files to reduce total page size and the number of HTTP requests"
+msgstr "Verklein/combineer geladen CSS bestanden om de totale pagina grootte en het aantal HTTP aanvragen te verminderen"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:458
+msgid "Combining JavaScript files in HTTP/2 protocol"
+msgstr "Het combineren van JavaScript bestanden in het HTTP/2 protocol"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:28
+msgid "Minify / Combine loaded JavaScript files to reduce total page size and the number of HTTP requests"
+msgstr "Verkleinen/combineren van geladen JavaScript bestanden om de totale paginagrootte en het aantal HTTP aanvragen te verminderen"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_handle_deps.php:19
+msgid "\"Child\" of \"parent\" JS file(s):"
+msgstr "\"Sub\" van \"hoofd\" JS bestand(en):"
+
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_handle_deps.php:19
+msgid "\"Child\" of \"parent\" CSS file(s):"
+msgstr "\"Sub\" van \"hoofd\" CSS bestand(en):"
+
+#: classes/MetaBoxes.php:137 templates/meta-box.php:72
+msgid "Options"
+msgstr "Opties"
+
+#: templates/admin-page-settings-plugin.php:38
+msgid "Local Fonts"
+msgstr "Lokale lettertypen"
+
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_position.php:16
+msgid "This handle is not for external stylesheet (most likely inline CSS) and it is loaded in:"
+msgstr "Deze handle is niet voor extern stylesheet (waarschijnlijk inline CSS) en het wordt ingeladen:"
+
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_position.php:14
+msgid "Inline CSS Loaded In:"
+msgstr "Inline CSS geladen in:"
+
+#: templates/_admin-page-settings-plugin-areas/_fonts-google/_optimize-area.php:185
+msgid "If you wish to preload any of the Google Font Files (e.g. ending in .woff2), you can add their URL here (one per line)"
+msgstr "Als je een van de Google Font bestanden (bijv. eindigend op.woff2) vooraf wil laden, kun je hun URL hier toevoegen (één per regel)"
+
+#: templates/_admin-page-settings-plugin-areas/_fonts-google/_optimize-area.php:181
+msgid "Preload Google Font Files"
+msgstr "Google Font bestanden vooraf laden"
+
+#: templates/_admin-page-settings-plugin-areas/_fonts-google/_optimize-area.php:161
+msgid "Don't let the browser wait until it sees the CSS call font files before it begins DNS/TCP/TLS"
+msgstr "Laat de browser niet wachten tot hij de CSS call lettertype bestanden ziet voordat hij met DNS/TCP/TLS begint"
+
+#: templates/_admin-page-settings-plugin-areas/_fonts-google/_optimize-area.php:160
+msgid "Preconnect?"
+msgstr "Vooraf verbinden?"
+
+#: templates/_admin-page-settings-plugin-areas/_fonts-local.php:84
+msgid "If you wish to preload any of the Local Font Files (ending in .woff, .woff2, .ttf etc.), you can add their URI here like in the examples below (one per line)"
+msgstr "Als je een van de lokale lettertype bestanden (eindigend op.woff,.woff2,.ttf enz.) vooraf wil laden, kun je hun URI hier toevoegen zoals in de onderstaande voorbeelden (één per regel)"
+
+#: templates/_admin-page-settings-plugin-areas/_fonts-google/_optimize-area.php:182
+#: templates/_admin-page-settings-plugin-areas/_fonts-local.php:81
+msgid "One per line"
+msgstr "Eén per regel"
+
+#: templates/_admin-page-settings-plugin-areas/_fonts-local.php:80
+msgid "Preload Local Font Files"
+msgstr "Lokale lettertypen vooraf laden"
+
+#: templates/_admin-page-settings-plugin-areas/_fonts-local.php:64
+msgid "The new generated CSS files will be loaded from <code>%s</code>, as the existing files from plugins/themes will not be altered in any way."
+msgstr "De nieuwe gegenereerde CSS bestanden worden geladen van <code>%s</code>aangezien de bestaande bestanden van plugins/thema's op geen enkele manier worden gewijzigd."
+
+#: templates/_admin-page-settings-plugin-areas/_fonts-local.php:63
+msgid "This feature applies site-wide \"font-display:\" property (if none set already in the file) within @font-face in every loaded CSS file."
+msgstr "Deze functie past site brede \"lettertype display:\" eigenschap toe (als er geen is ingesteld in het bestand) binnen @font-face in elk geladen CSS bestand."
+
+#: templates/_admin-page-settings-plugin-areas/_fonts-local.php:25
+msgid "Local Fonts Optimization"
+msgstr "Optimalisatie van lokale lettertypen"
+
+#: templates/_admin-page-settings-plugin-areas/_fonts-local.php:21
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:19
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:22
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:23
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:24
+msgid "This is a feature available in the Pro version! Unlock it!"
+msgstr "Dit is een functie die beschikbaar is in de Pro versie! Ontgrendel het!"
+
+#: templates/admin-page-settings-plugin.php:39
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: templates/_admin-page-settings-plugin-areas/_fonts-google/_optimize-area.php:148
+#: templates/_admin-page-settings-plugin-areas/_fonts-local.php:68
+msgid "The <code>font-display</code> CSS property defines how font files are loaded and display by the browser."
+msgstr "De CSS eigenschap <code>font-display</code> bepaalt hoe lettertype worden geladen en weergegeven door de browser."
+
+#: templates/_admin-page-settings-plugin-areas/_fonts-google/_optimize-area.php:148
+#: templates/_admin-page-settings-plugin-areas/_fonts-local.php:68
+msgid "Deciding the behavior for a web font as it is loading can be an important performance tuning technique. If applied, this option ensures text remains visible during webfont load."
+msgstr "Het bepalen van het gedrag van een web lettertype tijdens het laden kan een belangrijke techniek zijn om de prestaties te verbeteren. Indien toegepast, zorgt deze optie ervoor dat tekst zichtbaar blijft tijdens het laden van het webfont."
+
+#: templates/_admin-page-settings-plugin-areas/_fonts-google/_optimize-area.php:138
+msgid "This will result in printing of \"font-display\" CSS property within @font-face."
+msgstr "Dit zal resulteren in het afdrukken van de \"lettertype display\" CSS eigenschap binnen @font-face."
+
+#: templates/_admin-page-settings-plugin-areas/_fonts-google/_optimize-area.php:137
+msgid "This feature applies site-wide \"&display=\" with the chosen value to all the Google Font URL requests (if the parameter is not already set in the URL)."
+msgstr "Deze functie past site breed \"&display=\" met de gekozen waarde toe op alle Google lettertype URL aanvragen (als de parameter nog niet is ingesteld in de URL)."
+
+#: templates/_admin-page-settings-plugin-areas/_fonts-google/_optimize-area.php:124
+#: templates/_admin-page-settings-plugin-areas/_fonts-local.php:29
+msgid "Apply %s CSS property value"
+msgstr "Pas %s CSS eigenschap waarde toe"
+
+#: templates/_admin-page-settings-plugin-areas/_fonts-google/_optimize-area.php:30
+msgid "This option combines multiple font requests into fewer requests"
+msgstr "Deze optie combineert meerdere lettertype aanvragen tot minder aanvragen"
+
+#: templates/_admin-page-settings-plugin-areas/_fonts-google/_optimize-area.php:18
+msgid "Combine Multiple Requests Into Fewer Ones"
+msgstr "Meerdere aanvragen combineren tot minder aanvragen"
+
+#: templates/_admin-page-settings-plugin-areas/_fonts-google.php:21
+msgid "Google Fonts: Load Optimizer"
+msgstr "Google Fonts: laad optimizer"
+
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:97
+msgid "If you're not using Gutenberg blocks in your posts/page (e.g. you prefer the Classic Editor), then you can unload this file site-wide to avoid an extra render-blocking external CSS file load."
+msgstr "Als je geen Gutenberg blokken gebruikt in je berichten/pagina's (bijvoorbeeld je geeft de voorkeur aan de classic editor), dan kun je dit bestand site breed ontlaadden om een extra render blokkering externe CSS bestand te voorkomen."
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:440
+msgid "Clear previously cached CSS/JS files older than (x) days"
+msgstr "Verwijder eerder opgeslagen CSS/JS bestanden ouder dan (x) dagen"
+
+#: templates/meta-box-loaded-assets/_page-options-inner.php:44
+#: templates/meta-box-side-page-options.php:45
+msgid "Do not combine JS files on this page"
+msgstr "Combineer geen JS bestanden op deze pagina"
+
+#: classes/Settings.php:1039
+msgid "Grouped by preloaded or not-preloaded status"
+msgstr "Gegroepeerd op voorgeladen of niet voorgeladen status"
+
+#: classes/Preloads.php:561
+msgid "The preload option was removed for the chosen CSS/JS."
+msgstr "De voorgeladen optie werd verwijderd voor de gekozen CSS/JS."
+
+#: templates/admin-page-settings-bulk-changes.php:17
+msgid "Preloaded CSS/JS"
+msgstr "Voorgeladen CSS/JS"
+
+#: templates/_admin-page-settings-bulk-changes/_preloaded-assets.php:127
+msgid "Preloading CSS/JS site-wide"
+msgstr "Vooraf laden van CSS/JS in de hele site"
+
+#: templates/settings-frontend.php:54
+msgid "Try not to use both plugins for the same feature as you could end up with broken functionality on either end."
+msgstr "Probeer niet beide plugins te gebruiken voor dezelfde functie, want dan zou je kunnen eindigen met gebroken functionaliteit aan beide kanten."
+
+#: templates/settings-frontend.php:54
+msgid "You're already using Asset CleanUp to manage the CSS/JS."
+msgstr "Je gebruikt Asset CleanUp al om de CSS/JS te beheren."
+
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:81
+msgid "This is a CSS file that loads the official icon font of the WordPress admin as of 3.8. While needed for showing up the icons loaded within the top admin bar and in the styling of other plugins such as Query Monitor, it is sometimes loaded site-wide for guests (non logged-in users) when it is not needed."
+msgstr "Dit is een CSS bestand dat het officiële pictogram lettertype van de WordPress beheerder laadt vanaf 3.8. Hoewel het nodig is voor het tonen van de pictogrammen die in de bovenkant toolbar worden geladen en in de styling van andere plugins zoals query monitor, wordt het soms site breed geladen voor gasten (niet ingelogde gebruikers) wanneer het niet nodig is."
+
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:63
+msgid "If this option is kept enabled, the file <em>%s</em> is also loaded which adds up to the number of loaded HTTP requests."
+msgstr "Als deze optie ingeschakeld blijft, wordt het bestand <em>%s</em> ook geladen, waardoor het aantal geladen HTTP aanvragen toeneemt."
+
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:58
+msgid "The situations where you might want to keep it enabled include:"
+msgstr "De situaties waarin je het ingeschakeld zou willen houden zijn onder andere:"
+
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:57
+msgid "You can disable this feature if you do not need it."
+msgstr "Je kunt deze functie uitschakelen als je deze niet nodig hebt."
+
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:56
+msgid "As of WordPress 4.4, a new oEmbed feature was introduced allowing you to embed videos (e.g. from YouTube), Tweets and and other similar things on your website by pasting a URL, which WordPress converts, providing a live preview of the embedded element in the visual editor."
+msgstr "Met ingang van WordPress 4.4 is een nieuwe oEmbed functie geïntroduceerd waarmee je video's (bijv. Van YouTube), Tweets en dergelijke op je site kunt insluiten door een URL te plakken, die WordPress converteert en een live voorbeeld van het ingesloten element in de visuele editor geeft."
+
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:53
+msgid "This will remove %s"
+msgstr "Hiermee wordt %s verwijderd"
+
+#: templates/admin-page-assets-manager.php:21
+msgid "Tag"
+msgstr "Tag"
+
+#: templates/admin-page-assets-manager.php:20
+msgid "Category"
+msgstr "Categorie"
+
+#: templates/admin-page-assets-manager.php:19
+msgid "Media"
+msgstr "Media"
+
+#: classes/PluginTracking.php:470
+msgid "No, do not allow"
+msgstr "Nee, sta het niet toe"
+
+#: classes/PluginTracking.php:465
+msgid "Allow, I'm happy to help"
+msgstr "Toestaan, ik help graag"
+
+#: classes/PluginTracking.php:459
+msgid "Allow Asset CleanUp to anonymously track plugin usage in order to help us make the plugin better? No sensitive or personal data is collected."
+msgstr "Asset CleanUp toestaan om het gebruik van de plugin anoniem bij te houden om ons te helpen de plugin beter te maken? Er worden geen gevoelige of persoonlijke gegevens verzameld."
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:410
+msgid "Allow Usage Tracking"
+msgstr "Toestaan van gebruiks tracking"
+
+#: classes/PluginReview.php:79
+msgid "Don't show this again"
+msgstr "Dit niet meer tonen"
+
+#: classes/PluginReview.php:74
+msgid "Nope, maybe later"
+msgstr "Nee, misschien later"
+
+#: classes/PluginReview.php:69
+msgid "Ok, you deserve it"
+msgstr "Ok, je verdient het"
+
+#: classes/PluginReview.php:62
+msgid "Could you please do me a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation?"
+msgstr "Kan je me een groot plezier doen en het een 5-sterren waardering geven op WordPress om ons te helpen deze plugin bekender te maken en onze motivatie te vergroten?"
+
+#: classes/PluginReview.php:60
+msgid "Hey, you have been using Asset CleanUp for some time and already unloaded useless CSS/JS which would give your website a higher page speed score and better user experience."
+msgstr "Je gebruikt Asset CleanUp al enige tijd en ontlaadde al nutteloze CSS/JS waardoor je site een hogere pagina snelheid score en een betere gebruiker ervaring zou krijgen."
+
+#: classes/Menu.php:283
+msgid "The value (in green color) can be changed if you use the following snippet in functions.php (within your theme/child theme or a custom plugin):"
+msgstr "De waarde (in groene kleur) kan worden veranderd als je het volgende samenvatting in functions.php gebruikt (binnen je thema/subthema of een aangepaste plugin):"
+
+#: classes/Menu.php:282
+msgid "Your current role(s): <strong>%s</strong>"
+msgstr "Je huidige rol(len): <strong>%s</strong>"
+
+#: classes/Menu.php:281
+msgid "Asset CleanUp requires \"%s\" role and the ability to activate plugins in order to access its pages."
+msgstr "Asset CleanUp vereist de rol \"%s\" en de mogelijkheid om plugins te activeren om toegang te krijgen tot zijn pagina's."
+
+#: classes/Menu.php:280
+msgid "Sorry, you are not allowed to access this page."
+msgstr "Je hebt geen toestemming om deze pagina te bekijken."
+
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:35
+msgid "The file <em>%s</em> (12 KB) is loaded (along with extra inline JavaScript code) which adds up to the number of loaded HTTP requests."
+msgstr "Het bestand <em>%s</em> (12 KB) wordt geladen (samen met extra inline JavaScript code), waardoor het aantal geladen HTTP aanvragen toeneemt."
+
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:34
+msgid "While on some WordPress setups is useful, in many situations (especially when you are not using WordPress as a blog), you just don’t need them."
+msgstr "Hoewel dit op sommige WordPress installaties nuttig is, heb je ze in veel situaties (vooral wanneer je WordPress niet als blog gebruikt) gewoon niet nodig."
+
+#: templates/_admin-page-getting-started-areas/_start-optimization.php:11
+msgid "CSS/JS Load Manager"
+msgstr "CSS/JS laad manager"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_handle.php:86
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_handle.php:69
+msgid "Ignore dependency rule and keep the \"children\" loaded"
+msgstr "Negeer afhankelijkheidsregel en houd de \"sub\" geladen"
+
+#: templates/_admin-page-settings-bulk-changes/_bulk-unloaded.php:289
+msgid "Unloading CSS/JS site-wide or for a group of pages"
+msgstr "Ontladen van CSS/JS voor de hele site of voor een groep pagina's"
+
+#: templates/_admin-page-settings-bulk-changes/_bulk-unloaded.php:271
+msgid "Apply changes"
+msgstr "Wijzigingen doorvoeren"
+
+#: templates/_admin-page-settings-bulk-changes/_bulk-unloaded.php:114
+#: templates/_admin-page-settings-bulk-changes/_bulk-unloaded.php:205
+msgid "Scripts (.js) Unloaded"
+msgstr "Scripts (.js) niet geladen"
+
+#: templates/_admin-page-settings-bulk-changes/_bulk-unloaded.php:77
+#: templates/_admin-page-settings-bulk-changes/_bulk-unloaded.php:170
+msgid "Stylesheets (.css) Unloaded"
+msgstr "Stylesheets (.css) niet geladen"
+
+#: classes/Tools.php:803
+msgid "Posts, Pages &amp; Custom Post Types: Rules &amp; Page Options (Side Meta Box)"
+msgstr "Berichten, pagina's & extra berichttypes: regels & pagina opties (zijkant meta box)"
+
+#: classes/Tools.php:801
+msgid "Bulk Unloads (e.g. for all pages of `post` post type)"
+msgstr "Bulk ontladen (bijv. Voor alle pagina's van `bericht` berichttype)"
+
+#: classes/Tools.php:799
+msgid "Site-wide unloads"
+msgstr "Site brede ontladingen"
+
+#: classes/Tools.php:797
+msgid "Homepage Load Exceptions (for site-wide and bulk unloads)"
+msgstr "Homepage laden uitzonderingen (voor site breed en bulk ontladen)"
+
+#: classes/Tools.php:795
+msgid "Homepage Unload Rules"
+msgstr "Homepage ontlaad regels"
+
+#: classes/Tools.php:787
+msgid "The following were imported:"
+msgstr "De volgende zijn geïmporteerd:"
+
+#: classes/OwnAssets.php:579
+msgid "Please make sure you have a backup (e.g. an exported JSON file) before proceeding."
+msgstr "Zorg ervoor dat je een back-up hebt (bijvoorbeeld een geëxporteerd JSON bestand) voordat je verder gaat."
+
+#: classes/OwnAssets.php:578
+msgid "This process is NOT reversible."
+msgstr "Dit proces is NIET omkeerbaar."
+
+#: templates/_top-area.php:99
+msgid "QUICK ACTIONS"
+msgstr "SNELLE ACTIES"
+
+#: templates/admin-page-tools.php:262
+msgid "Export"
+msgstr "Exporteren"
+
+#: templates/admin-page-tools.php:233
+msgid "Import"
+msgstr "Import"
+
+#: templates/admin-page-tools.php:21
+msgid "Import &amp; Export"
+msgstr "Import & export"
+
+#: templates/settings-frontend.php:138
+msgid "Powered by %1$s, version %2$s"
+msgstr "Aangedreven door %1$s, versie %2$s"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_loaded-rules.php:16
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_loaded-rules.php:21
+msgid "on this page"
+msgstr "op deze pagina"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_unload-site-wide.php:15
+msgid "This JavaScript file is unloaded site-wide (everywhere)"
+msgstr "Dit JavaScript bestand wordt in de hele site geladen (overal)"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_loaded-rules.php:17
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_loaded-rules.php:22
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_unload-site-wide.php:55
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_unload-site-wide.php:50
+#: templates/meta-box-loaded-assets/_hardcoded/_asset-script-single-row-hardcoded/_unload-site-wide.php:15
+#: templates/meta-box-loaded-assets/_hardcoded/_asset-style-single-row-hardcoded/_unload-site-wide.php:14
+msgid "everywhere"
+msgstr "overal"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_unload-site-wide.php:55
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_unload-site-wide.php:50
+#: templates/meta-box-loaded-assets/_hardcoded/_asset-script-single-row-hardcoded/_unload-site-wide.php:15
+#: templates/meta-box-loaded-assets/_hardcoded/_asset-style-single-row-hardcoded/_unload-site-wide.php:14
+msgid "Unload site-wide"
+msgstr "Site breed ontladen"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_unload-site-wide.php:42
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_unload-site-wide.php:38
+msgid "Remove site-wide rule"
+msgstr "Verwijder site brede regel"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_unload-site-wide.php:32
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_unload-site-wide.php:29
+msgid "Keep site-wide rule"
+msgstr "Houd de regel voor de hele site"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_unload-per-page.php:47
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_unload-per-page.php:47
+msgid "Once all the rules below are removed, this option will become available again"
+msgstr "Zodra alle onderstaande regels zijn verwijderd, komt deze optie weer beschikbaar"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_unload-per-page.php:44
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_unload-per-page.php:44
+msgid "\"%s\" rule is locked and irrelevant as there are global rules set below that overwrite it"
+msgstr "\"%s\" regel is vergrendeld en irrelevant omdat er globale regels zijn die deze regel overschrijven"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_unload-post-type.php:60
+#: templates/meta-box-loaded-assets/_hardcoded/_asset-script-single-row-hardcoded/_unload-post-type.php:22
+msgid "Unload JS on all Easy Digital Downloads \"Download\" pages"
+msgstr "Ontlaad JS op alle Easy Digital downladen \"Downladen\" pagina's"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_unload-post-type.php:57
+#: templates/meta-box-loaded-assets/_hardcoded/_asset-script-single-row-hardcoded/_unload-post-type.php:19
+msgid "Unload JS on all WooCommerce \"Product\" pages"
+msgstr "Deactiveer JS op alle WooCommerce 'Product' pagina's"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_unload-post-type.php:24
+msgid "This JavaScript file is unloaded on all <u>%s</u> post types"
+msgstr "Dit JavaScript bestand wordt uitgeladen op alle <u>%s</u> berichttypes"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_unload-post-type.php:21
+msgid "This JavaScript file is unloaded on all Easy Digital Downloads \"Download\" pages"
+msgstr "Dit JavaScript bestand wordt geladen op alle Easy Digital downladen \"Downladen\" pagina's"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_unload-post-type.php:18
+msgid "This JavaScript file is unloaded on all WooCommerce \"Product\" pages"
+msgstr "Dit JavaScript bestand wordt geladen op alle WooCommerce \"Product\" pagina's"
+
+#: templates/meta-box-loaded-assets/view-by-loaded-unloaded.php:72
+msgid "There are no unloaded CSS/JS files on this page"
+msgstr "Er zijn geen ongeladen CSS/JS bestanden op deze pagina"
+
+#: templates/meta-box-loaded-assets/view-by-loaded-unloaded.php:70
+msgid "The following CSS/JS files are unloaded on this page (either only on this page or site-wide)"
+msgstr "De volgende CSS/JS bestanden worden ontladen op deze pagina (alleen op deze pagina of site breed)"
+
+#: templates/meta-box-loaded-assets/view-by-loaded-unloaded.php:64
+msgid "All the CSS/JS files were chosen to be unloaded on this page"
+msgstr "Alle CSS/JS bestanden zijn gekozen om op deze pagina uit te laden"
+
+#: templates/meta-box-loaded-assets/view-by-loaded-unloaded.php:62
+msgid "The following files were not selected for unload in any way (e.g. per page, site-wide) on this page. The list also includes any load exceptions (e.g. a file can be unloaded site-wide, but loaded on this page)."
+msgstr "De volgende bestanden zijn op geen enkele manier geselecteerd voor ontladen (bijv. per pagina, site breed) op deze pagina. De lijst bevat ook eventuele laad uitzonderingen (bijv. Een bestand kan site breed worden ontladen, maar op deze pagina worden geladen)."
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_unload-post-type.php:74
+msgid "bulk unload"
+msgstr "bulk ontladen"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_unload-post-type.php:63
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_unload-post-type.php:64
+#: templates/meta-box-loaded-assets/_hardcoded/_asset-script-single-row-hardcoded/_unload-post-type.php:25
+#: templates/meta-box-loaded-assets/_hardcoded/_asset-style-single-row-hardcoded/_unload-post-type.php:22
+msgid "Unload on All Pages of \"<strong>%s</strong>\" post type"
+msgstr "Ontladen op alle pagina's van \"<strong>%s</strong>\" berichttype"
+
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_unload-post-type.php:61
+#: templates/meta-box-loaded-assets/_hardcoded/_asset-style-single-row-hardcoded/_unload-post-type.php:19
+msgid "Unload CSS on all Easy Digital Downloads \"Download\" pages"
+msgstr "Ontlaad CSS op alle Easy Digital downladenen \"Downladen\" pagina's"
+
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_unload-post-type.php:58
+#: templates/meta-box-loaded-assets/_hardcoded/_asset-style-single-row-hardcoded/_unload-post-type.php:16
+msgid "Unload CSS on all WooCommerce \"Product\" pages"
+msgstr "Ontlaad CSS op alle WooCommerce \"Product\" pagina's"
+
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_unload-post-type.php:24
+msgid "This stylesheet file is unloaded on all <u>%s</u> post types"
+msgstr "Dit stylesheet bestand wordt ontladen op alle <u>%s</u> berichttypes"
+
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_unload-post-type.php:21
+msgid "This stylesheet file is unloaded on all Easy Digital Downloads \"Download\" pages"
+msgstr "Dit stylesheet bestand wordt ontladen op alle Easy Digital downladen \"Downladen\" pagina's"
+
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_unload-post-type.php:18
+msgid "This stylesheet file is unloaded on all WooCommerce \"Product\" pages"
+msgstr "Dit stylesheet bestand wordt ontladen op alle WooCommerce \"Product\" pagina's"
+
+#: classes/Settings.php:1041
+msgid "Grouped by loaded or unloaded status"
+msgstr "Gegroepeerd op geladen of ontladen status"
+
+#: classes/Settings.php:1040
+msgid "Grouped by dependencies: Parents, Children, Independent"
+msgstr "Gegroepeerd op afhankelijkheden: hoofd, sub, onafhankelijk"
+
+#: templates/admin-page-settings-plugin.php:17
+msgid "Click here to upgrade!"
+msgstr "Klik hier om te upgraden!"
+
+#: templates/admin-page-settings-plugin.php:17
+msgid "The settings that have a lock are available to Pro users."
+msgstr "De instellingen met een slotje zijn beschikbaar voor Pro gebruikers."
+
+#: templates/admin-page-settings-plugin.php:17
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:293
+msgid "Note"
+msgstr "Notitie"
+
+#: templates/admin-page-settings-plugin.php:16
+msgid "Buy now to unlock all features!"
+msgstr "Koop nu om alle functies te ontgrendelen!"
+
+#: templates/settings-frontend.php:39
+msgid "If you experience issues such as unsaved settings or viewing assets from plugins that are disabled, consider using Asset CleanUp only in the Dashboard area (option \"Manage in the Dashboard\" has to be enabled in plugin's settings)."
+msgstr "Als je problemen ondervindt, zoals niet opgeslagen instellingen of het bekijken van assets van uitgeschakelde plugins, overweeg dan om Asset CleanUp alleen in het dashboard gebied te gebruiken (optie \"Beheren in het dashboard\" moet zijn ingeschakeld in de instellingen van de plugin)."
+
+#: templates/settings-frontend.php:37
+msgid "You have enabled \"%s\" in WP Rocket's Cache area."
+msgstr "Je hebt \"%s\" ingeschakeld in het cache gebied van WP Rocket."
+
+#: templates/settings-frontend.php:37
+msgid "Important"
+msgstr "Belangrijk"
+
+#: templates/meta-box-side-page-options.php:62
+msgid "Use the \"Preview\" button if you wish to see how the options above, as well as the load/unload rules will apply before updating anything. It works like the \"Test Mode\" feature for this page only."
+msgstr "Gebruik de \"Voorbeeld\" knop als je wil zien hoe de bovenstaande opties, evenals de laad/ontlaad regels zullen worden toegepast voordat je iets gaat updaten. Het werkt als de \"Test modus\" functie alleen voor deze pagina."
+
+#: templates/admin-page-getting-started.php:29
+msgid "Lite vs Pro"
+msgstr "Lite versus Pro"
+
+#: templates/admin-page-tools.php:179
+msgid "Note that the relative path is appended to %s"
+msgstr "Merk op dat het relatieve pad wordt toegevoegd aan %s"
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:30
+msgid "after the first year, you will save %s off the initial purchase price, and be charged only %s"
+msgstr "na het eerste jaar bespaar je %s op de initiële aankoopprijs en betaal je slechts %s"
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:29
+msgid "License Price"
+msgstr "Licentie prijs"
+
+#: classes/Tools.php:759
+msgid "Everything except the \"Settings\" was reset (including page &amp; bulk unloads, load exceptions)."
+msgstr "Alles behalve de \"Instellingen\" werd gereset (inclusief pagina & bulk ontladen, uitzonderingen laden)."
+
+#: classes/OwnAssets.php:567
+msgid "Are you sure you want to reset everything (unloads, load exceptions etc.) except settings?"
+msgstr "Weet je zeker dat je alles wil resetten (ontladen, laad uitzonderingen enz.) behalve de instellingen?"
+
+#: templates/admin-page-tools.php:115
+msgid "The system detected the storage directory as non-writable, thus the minify &amp; combine CSS/JS files feature will not work. Please %smake it writable%s or raise a ticket with your hosting company about this matter."
+msgstr "Het systeem heeft gedetecteerd dat de opslag folder niet beschrijfbaar is, dus de functie om CSS/JS bestanden te verkleinen en te combineren werkt niet. %s Maak het beschrijfbaar %s of dien een aanvraag in bij je hosting bedrijf over dit probleem."
+
+#: templates/admin-page-tools.php:126
+msgid "writable"
+msgstr "schrijfbaar"
+
+#: templates/admin-page-tools.php:124
+msgid "Current storage directory"
+msgstr "Huidige opslag folder"
+
+#: templates/admin-page-tools.php:171
+msgid "To change the relative directory, you have to add the following code to %s file within the root of your WordPress installation, where other constants are defined, above the line %s"
+msgstr "Om de relatieve folder te wijzigen, moet je de volgende code toevoegen aan het bestand %s in de hoofdmap van je WordPress installatie, waar andere constanten worden gedefinieerd, boven de regel %s"
+
+#: templates/admin-page-tools.php:168
+msgid "On certain hosting platforms such as Pantheon, the number of writable directories is limited, in this case you have to change it to %s"
+msgstr "Op bepaalde hosting platforms zoals Pantheon is het aantal schrijfbare folders beperkt, in dit geval moet je het veranderen in %s"
+
+#: templates/admin-page-tools.php:97
+msgid "Download System Info For Support"
+msgstr "Systeem info voor ondersteuning downloaden"
+
+#: templates/admin-page-tools.php:56
+msgid "This action is usually taken if you are happy with the \"Settings\" configuration, but want to clear everything else in terms of changes per page or group of pages."
+msgstr "Deze actie wordt meestal uitgevoerd als je tevreden bent met de configuratie van de 'Instellingen', maar alles wil wissen wat betreft wijzigingen per pagina of groep van pagina's."
+
+#: templates/admin-page-tools.php:55
+msgid "This will reset everything (changes per page &amp; any load exceptions), except the values from \"Settings\"."
+msgstr "Hierdoor wordt alles gereset (wijzigingen per pagina & eventuele laad uitzonderingen), behalve de waarden van \"Instellingen\"."
+
+#: templates/admin-page-tools.php:32
+msgid "Reset everything except \"Settings\""
+msgstr "Alles resetten behalve \"Instellingen\""
+
+#: templates/admin-page-tools.php:19
+msgid "Storage Info"
+msgstr "Opslag info"
+
+#: classes/Settings.php:325
+msgid "The settings were successfully updated."
+msgstr "De instellingen zijn met succes geüpdatet."
+
+#: classes/Settings.php:315
+msgid "It looks like you have both \"Manage in the Dashboard?\" and \"Manage in the Front-end?\" inactive. The plugin still works fine and any assets you have selected for unload are not loaded. However, if you want to manage the assets in any page, you need to have at least one of the view options enabled."
+msgstr "Het lijkt erop dat je zowel \"Beheren in het dashboard?\" Als \"Beheren in de front-end?\" Niet hebt ingeschakeld. De plugin werkt nog steeds prima en alle assets die je hebt geselecteerd om te ontladen worden niet geladen. Als je echter de assets op een pagina wil beheren, moet je tenminste een van de weergaveopties inschakelen."
+
+#: classes/OwnAssets.php:569 classes/OwnAssets.php:574
+#: classes/OwnAssets.php:580
+msgid "Please confirm to continue or \"Cancel\" to abort it."
+msgstr "Bevestig om door te gaan of \"Annuleer\" om het af te breken."
+
+#: classes/OwnAssets.php:572
+msgid "Are you sure you want to reset everything (settings, unloads, load exceptions etc.) to the same point it was when you first activated the plugin?"
+msgstr "Weet je zeker dat je alles (instellingen, ontladen, laad uitzonderingen enz.) terug wil zetten naar hetzelfde punt als toen je de plugin voor het eerst activeerde?"
+
+#: classes/OwnAssets.php:564
+msgid "Please confirm to continue or \"Cancel\" to abort it"
+msgstr "Bevestig om door te gaan of \"Annuleren\" om het af te breken"
+
+#: classes/OwnAssets.php:563 classes/OwnAssets.php:568
+#: classes/OwnAssets.php:573
+msgid "This is an irreversible action."
+msgstr "Dit is een onomkeerbare actie."
+
+#: classes/OwnAssets.php:562
+msgid "Are you sure you want to reset the settings to their default values?"
+msgstr "Weet je zeker dat je de instellingen wil resetten naar de standaard waarden?"
+
+#: classes/OwnAssets.php:557
+msgid "If you are not sure about whether activating this option is right or not, it is better to leave it as it is (to be loaded by default)."
+msgstr "Als je niet zeker weet of het activeren van deze optie goed is of niet, kun je het beter zo laten (standaard laden)."
+
+#: classes/OwnAssets.php:556
+msgid "This is worth disabling if you are NOT using the default WordPress comment system (e.g. you are using the website for business purposes, to showcase your products and you are not using it as a blog where people leave comments to your posts)."
+msgstr "Dit is het uitschakelen waard als je het standaard WordPress reactiesysteem NIET gebruikt (bv. Je gebruikt de site voor zakelijke doeleinden, om je producten te laten zien en je gebruikt het niet als een blog waar mensen reacties achterlaten op je berichten)."
+
+#: classes/OwnAssets.php:553 classes/OwnAssets.php:558
+msgid "Confirm this action to enable the unloading or cancel to leave it loaded by default."
+msgstr "Bevestig deze actie om de ontlading in te schakelen of annuleer om deze standaard geladen te laten."
+
+#: classes/OwnAssets.php:552
+msgid "If you are not sure about whether activating this option is right or not, it is better to leave it as it is (to be loaded by default) and consult with a developer."
+msgstr "Als je niet zeker weet of het activeren van deze optie juist is of niet, kun je het beter zo laten (standaard laden) en overleggen met een ontwikkelaar."
+
+#: classes/OwnAssets.php:551
+msgid "In some cases, due to old jQuery code triggered from plugins or the theme, unloading this migration library could cause those scripts not to function anymore and break some of the front-end functionality."
+msgstr "In sommige gevallen, als gevolg van oude jQuery code geactiveerd door plugins of het thema, kan het ontladen van deze migratie bibliotheek ervoor zorgen dat die scripts niet meer werken en een deel van de front-end functionaliteit breken."
+
+#: classes/OwnAssets.php:550
+msgid "Make sure to properly test your website if you unload the jQuery migration library."
+msgstr "Zorg ervoor dat je je site goed test als je de jQuery migratie bibliotheek ontlaadt."
+
+#: classes/Tools.php:761
+msgid "Everything was reset (including settings, individual &amp; bulk unloads, load exceptions) to the same point it was when you first activated the plugin."
+msgstr "Alles werd teruggezet (inclusief instellingen, individuele & bulk ontladen, laad uitzonderingen) naar hetzelfde punt als toen je de plugin voor het eerst activeerde."
+
+#: classes/Tools.php:757
+msgid "All the settings were reset to their default values."
+msgstr "Alle instellingen werden met succes terug gezet naar de standaard waarden."
+
+#: classes/Main.php:3451
+msgid "NOTE: These \"%s: Page Speed Booster\" messages are only shown to you, the HTML comment is not visible for the regular visitor."
+msgstr "LET OP: deze \"%s: pagina speed booster\" berichten worden alleen aan je getoond, het HTML reactie is niet zichtbaar voor de gewone bezoeker."
+
+#: classes/Main.php:3448
+msgid "The website is in LIVE MODE as \"Test Mode\" is not enabled. All the plugin changes are visible for everyone: logged-in administrators and regular visitors."
+msgstr "De site is in LIVE MODE omdat \"Test mode\" niet is ingeschakeld. Alle wijzigingen aan de plugin zijn zichtbaar voor iedereen: ingelogde beheerders en gewone bezoekers."
+
+#: classes/Main.php:3447
+msgid "%s: \"LIVE MODE\" (test mode is not enabled, thus, all the plugin changes are visible for everyone: you, the logged-in administrator and the regular visitors)"
+msgstr "%s: \"LIVE MODE\" (testmodus is niet ingeschakeld, dus alle wijzigingen aan de plugin zijn zichtbaar voor iedereen: je, de ingelogde beheerder en de gewone bezoekers)"
+
+#: classes/Main.php:3445
+msgid "\"Test Mode\" is ENABLED. Any settings or unloads will be visible ONLY to you, the logged-in administrator."
+msgstr "\"Testmodus\" is INGESCHAKELD. Alle instellingen of ontladen zijn ALLEEN zichtbaar voor je, de ingelogde beheerder."
+
+#: classes/Main.php:3444
+msgid "%s: \"TEST MODE\" ENABLED (any settings or unloads will be visible ONLY to you, the logged-in administrator)"
+msgstr "%s: \"TESTMODUS\" INGESCHAKELD (alle instellingen of ontladingen zijn ALLEEN zichtbaar voor je, de ingelogde beheerder)"
+
+#: classes/Lite.php:37
+msgid "Managing the loading of the styles &amp; scripts files for this <strong>%s</strong> taxonomy is %savailable in the Pro version%s"
+msgstr "Het beheren van het laden van de stijlen & scriptbestanden voor deze <strong>%s</strong> taxonomie is %sbeschikbaar in de Pro versie%s"
+
+#: classes/Main.php:2227
+msgid "The CSS/JS files will be available to manage once the post/page is published."
+msgstr "De CSS/JS bestanden zijn beschikbaar om te beheren zodra het bericht/de pagina is gepubliceerd."
+
+#: classes/Plugin.php:73
+msgid "If you like it, please %s<strong>rate</strong> %s%s %s on WordPress.org to help me spread the word to the community."
+msgstr "Als je het leuk vindt, %s<strong>waardering</strong> %s%s %s op WordPress.org om me te helpen het woord te verspreiden in de gemeenschap."
+
+#: classes/Plugin.php:69
+msgid "Thank you for using %s"
+msgstr "Bedankt voor het gebruiken van %s!"
+
+#: classes/Menu.php:171 classes/Plugin.php:353
+msgid "Getting Started"
+msgstr "Aan de slag"
+
+#: templates/_top-area.php:21
+msgid "CSS &amp; JS Manager"
+msgstr "CSS & JS Manager"
+
+#: classes/BulkChanges.php:167
+msgid "The selected styles/scripts were removed from the unload list for <strong><u>%s</u></strong> post type and they will now load in the pages/posts, unless you have other rules that would prevent them from loading."
+msgstr "De geselecteerde stijlen/scripts zijn verwijderd van de ontlaad lijst voor het <strong><u>%s</u></strong> berichttype en zullen nu worden geladen op de pagina's/berichten, tenzij je andere regels hebt die het laden ervan voorkomen."
+
+#: classes/BulkChanges.php:150
+msgid "The selected styles/scripts were removed from the global unload list and they will now load in the pages/posts, unless you have other rules that would prevent them from loading."
+msgstr "De geselecteerde stijlen/scripts zijn verwijderd van de globale ontladen lijst en zullen nu laden in de pagina's/berichten, tenzij je andere regels hebt die het laden voorkomen. Test het."
+
+#: classes/Update.php:49
+msgid "This page's settings were updated. Please make sure the page's cache is cleared (if you're using a caching plugin or a server-side caching solution) to immediately have the changes applied for every visitor."
+msgstr "De instellingen van deze pagina zijn geüpdatet. Zorg ervoor dat de cache van de pagina wordt geleegd (als je een caching plugin of server zijde caching oplossing gebruikt) om de wijzigingen onmiddellijk toe te passen voor elke bezoeker."
+
+#: classes/Update.php:44
+msgid "The homepage's settings were updated. Please make sure the homepage's cache is cleared (if you're using a caching plugin or a server-side caching solution) to immediately have the changes applied for every visitor."
+msgstr "De instellingen van de homepage zijn geüpdatet. Zorg ervoor dat de cache van de homepage wordt gewist (als je een caching plugin of een server zijde caching oplossing gebruikt) om de wijzigingen onmiddellijk voor elke bezoeker te laten gelden."
+
+#: classes/AdminBar.php:178
+msgid "Support Forum"
+msgstr "Ondersteuningsforum"
+
+#: classes/AdminBar.php:145 classes/AdminBar.php:156
+msgid "Manage Page Assets"
+msgstr "Beheer pagina assets"
+
+#: classes/AdminBar.php:135
+msgid "Manage Homepage Assets"
+msgstr "Beheer homepage assets"
+
+#: classes/AdminBar.php:119 templates/_top-area.php:102
+msgid "Clear CSS/JS Files Cache"
+msgstr "CSS/JS bestanden cache wissen"
+
+#: templates/admin-page-settings-bulk-changes.php:19
+msgid "Updated CSS/JS positions"
+msgstr "CSS/JS posities geüpdatet"
+
+#: templates/admin-page-get-help.php:69
+msgid "Find out more"
+msgstr "Meer te weten komen"
+
+#: templates/admin-page-get-help.php:41
+msgid "Once the Pro version is active, make sure to get the license key from the purchase email receipt and activate it in \"License\" in order to be eligible for plugin updates from the Dashboard."
+msgstr "Zodra de Pro versie actief is, zorg er dan voor dat je de licentiesleutel uit de aankoop e-mail krijgt en activeer deze in \"Licentie\" om in aanmerking te komen voor plugin updates vanuit het dashboard."
+
+#: templates/admin-page-get-help.php:41
+msgid "Reminder"
+msgstr "Herinnering"
+
+#: templates/admin-page-get-help.php:34
+msgid "Finally, <strong>activate</strong> Asset CleanUp Pro! That's it"
+msgstr "<strong>Activeer</strong> tenslotte Asset CeanUp Pro! Dat is het"
+
+#: templates/admin-page-get-help.php:26
+msgid "Go to %s\"Plugins\" -&gt; \"Add New\" -&gt; \"Upload Plugin\"%s / You will notice an upload form and an \"Install Now\" submit button. Download the ZIP file you received in your purchase email receipt (<em>example: wp-asset-clean-up-pro-v1.0.8.5.zip</em>), attach it to the form and install the new upgraded plugin."
+msgstr "Ga naar %s\"Plugins\" -> \"Nieuwe toevoegen\" -> \"Plugin uploaden\"%s. Je zult een upload formulier en een \"Nu installeren\" knop zien. Download het ZIP bestand dat je hebt ontvangen in je aankoop bevestiging e-mail (<em>voorbeeld: wp-asset-clean-up-pro-v1.0.8.5.zip</em>), voeg het toe aan het formulier en installeer de nieuwe geüpdatete plugin."
+
+#: templates/admin-page-get-help.php:22
+msgid "I have purchased the Pro version. How to do the upgrade?"
+msgstr "Ik heb de Pro versie gekocht. Hoe kan ik upgraden?"
+
+#: templates/_admin-pages-assets-manager/_singular-page.php:92
+msgid "Page URL"
+msgstr "Pagina URL"
+
+#: templates/meta-box-loaded.php:63
+msgid "You are currently viewing the page that shows your latest posts."
+msgstr "Je bekijkt nu de pagina die je laatste berichten toont."
+
+#: templates/meta-box-loaded.php:67
+msgid "You are currently viewing the home page."
+msgstr "Je bekijkt nu de homepage."
+
+#: templates/meta-box-loaded.php:34
+msgid "OUTPUT"
+msgstr "UITVOER"
+
+#: templates/meta-box-loaded.php:30
+msgid "MESSAGE"
+msgstr "BERICHT"
+
+#: templates/meta-box-loaded.php:26
+msgid "CODE"
+msgstr "CODE"
+
+#: templates/meta-box-loaded.php:23
+msgid "Consider using \"Direct\" method. If that doesn't work either, use the \"Manage in the Front-end\" option (which should always work in any instance) and submit a ticket regarding the problem you're having. Here's the output received by the call:"
+msgstr "Overweeg om de \"Directe\" methode te gebruiken. Als dat ook niet werkt, gebruik dan de optie \"Beheren aan de front-end\" (die altijd zou moeten werken in elke situatie) en dien een ticket in met betrekking tot het probleem dat je hebt. Hier is de output die is ontvangen door de oproep:"
+
+#: templates/meta-box-loaded.php:22
+msgid "Since the server (from its IP) is making the call, it will not \"behave\" in the same way as the \"Direct\" method, which could bypass for instance any authentication request (you might use a staging website that is protected by login credentials)."
+msgstr "Aangezien de server (vanaf zijn IP) de oproep maakt, zal het niet op dezelfde manier \"gedragen\" als de \"Directe\" methode, die bijvoorbeeld elke authenticatie aanvraag kan omzeilen (je kunt een staging site gebruiken die beschermd wordt door logingegevens)."
+
+#: templates/meta-box-loaded.php:21
+msgid "It looks like \"WP Remote Post\" method for retrieving assets via the Dashboard is not working in this environment."
+msgstr "Het lijkt erop dat de \"WP remote bericht\" methode voor het ophalen van assets via het dashboard niet werkt in deze omgeving."
+
+#: templates/settings-frontend.php:130
+msgid "UPDATE"
+msgstr "UPDATE"
+
+#: templates/settings-frontend.php:120
+msgid "Upgrade to Asset CleanUp Pro"
+msgstr "Upgrade naar asset CleanUp Pro"
+
+#: templates/settings-frontend.php:112
+msgid "This is a <strong>Taxonomy Page</strong> and managing CSS &amp; JS (unload, defer, async, etc.) for this page type can be done in Asset CleanUp Pro."
+msgstr "Dit is een <strong>Taxonomie pagina</strong> en het beheren van CSS & JS (unload, defer, async, enz.) voor dit paginatype kan worden gedaan in Asset CleanUp Pro."
+
+#: templates/settings-frontend.php:109
+msgid "This is a <strong>Tag (Archive) Page</strong> and managing CSS &amp; JS (unload, defer, async, etc.) for this page type can be done in Asset CleanUp Pro."
+msgstr "Dit is een <strong>Tag (archief) pagina</strong> en het beheren van CSS & JS (unload, defer, async, enz.) voor dit paginatype kan worden gedaan in Asset CleanUp Pro."
+
+#: templates/settings-frontend.php:106
+msgid "This is a <strong>Date (Archive) Page</strong> and managing (unload, defer, async etc.) CSS &amp; JS for this page type can be done in Asset CleanUp Pro."
+msgstr "Dit is een <strong>Datum (archief) pagina</strong> en het beheren van CSS & JS (unload, defer, async, enz.) voor dit pagina type kan worden gedaan in Asset CleanUp Pro."
+
+#: templates/settings-frontend.php:103
+msgid "This is a <strong>WooCommerce Product Category (Taxonomy) Page</strong> and managing CSS &amp; JS (unload, defer, async, etc.) for this page type can be done in Asset CleanUp Pro."
+msgstr "Dit is een <strong>WooCommerce Product Category (taxonomie) pagina</strong> en het beheren van CSS & JS (unload, defer, async, enz.) voor dit pagina type kan worden gedaan in Asset CleanUp Pro."
+
+#: templates/settings-frontend.php:100
+msgid "This is a <strong>Category (Taxonomy) Page</strong> and managing CSS &amp; JS (unload, defer, async, etc.) for this page type can be done in Asset CleanUp Pro."
+msgstr "Dit is een <strong>Categorie (taxonomie) pagina</strong> en het beheren van CSS & JS (unload, defer, async, enz.) voor dit paginatype kan worden gedaan in Asset CleanUp Pro."
+
+#: templates/settings-frontend.php:97
+msgid "This is an <strong>Author Page</strong> and managing CSS &amp; JS (unload, defer, async, etc.) for this page type can be done in Asset CleanUp Pro."
+msgstr "Dit is een <strong>Auteur pagina</strong> en het beheren van CSS & JS (unload, defer, async, enz.) voor dit pagina type kan worden gedaan in Asset CleanUp Pro."
+
+#: templates/settings-frontend.php:94
+msgid "This is a <strong>404 (Not Found) Page</strong> and managing CSS &amp; JS (unload, defer, async, etc.) for this page type can be done in Asset CleanUp Pro."
+msgstr "Dit is een <strong>404 (niet gevonden) pagina</strong> en het beheren van CSS & JS (unload, defer, async, enz.) voor dit pagina type kan worden gedaan in Asset CleanUp Pro."
+
+#: templates/settings-frontend.php:91
+msgid "This is a <strong>WordPress Search Page</strong> and managing CSS &amp; JS (unload, defer, async, etc.) for this page type can be done in Asset CleanUp Pro."
+msgstr "Dit is een <strong>WordPress zoekpagina</strong> en het beheren van CSS & JS (unload, defer, async, enz.) voor dit paginatype kan worden gedaan in Asset CleanUp Pro."
+
+#: templates/settings-frontend.php:87
+msgid "To unlock this feature, you can upgrade to the Pro version."
+msgstr "Om deze functie te ontgrendelen, kun je upgraden naar de Pro versie."
+
+#: templates/settings-frontend.php:72
+msgid "Although this page is detected as the home page, its URL is not the same as the one from \"General Settings\" &#187; \"Site Address (URL)\" and the WooCommerce plugin is not active anymore. This could be the \"Shop\" page that is no longer active."
+msgstr "Hoewel deze pagina wordt gedetecteerd als de homepage, is de URL niet hetzelfde als die van \"Algemene instellingen\" &#187; \"Site adres (URL)\" en de WooCommerce plugin is niet meer actief. Dit zou de \"Winkel\" pagina kunnen zijn die niet meer actief is."
+
+#: templates/settings-frontend.php:65
+msgid "Unloading CSS/JS will also take effect for the pagination/sorting pages"
+msgstr "Ontladen CSS/JS zal ook van kracht worden voor de paginering/sortering pagina's"
+
+#: templates/settings-frontend.php:65
+msgid "This a WooCommerce shop page ('product' type archive)."
+msgstr "Dit is een WooCommerce winkelpagina ('product' type archief)."
+
+#: templates/settings-frontend.php:60
+msgid "This area is shown only for the admin users and if \"Manage in the Front-end?\" was selected in the plugin's settings. Handles such as 'admin-bar' and 'wpassetcleanup-style' are not included as they are irrelevant since they are used by the plugin for this area."
+msgstr "Dit gebied wordt alleen weergegeven voor beheerders en als 'Beheren in de frontend?' Is geselecteerd in de instellingen van de plugin. Handles zoals 'admin-bar' en 'wpassetcleanup-style' zijn niet inbegrepen omdat ze irrelevant zijn, aangezien ze door de plugin worden gebruikt voor dit gebied."
+
+#: templates/settings-frontend.php:38
+msgid "This could cause some issues with Asset CleanUp retrieving an outdated (cached) asset list below."
+msgstr "Dit kan problemen veroorzaken als Asset CleanUp een verouderde (in het cachegeheugen opgeslagen) asset lijst hieronder ophaalt."
+
+#: templates/meta-box-side-page-options.php:55
+msgid "Do not apply any CSS &amp; JavaScript settings (including preloading, \"async\", \"defer\" &amp; any unload rules) on this page"
+msgstr "Pas geen CSS & JavaScript instellingen (inclusief vooraf laden, \"async\", \"defer\" & ontladen regels) toe op deze pagina"
+
+#: templates/meta-box-loaded-assets/_page-options-inner.php:35
+#: templates/meta-box-side-page-options.php:36
+msgid "Do not minify JS files on this page"
+msgstr "JS bestanden niet verkleinen op deze pagina"
+
+#: templates/meta-box-loaded-assets/_page-options-inner.php:25
+#: templates/meta-box-side-page-options.php:26
+msgid "Do not combine CSS files on this page"
+msgstr "Combineer geen CSS bestanden op deze pagina"
+
+#: templates/meta-box-loaded-assets/_page-options-inner.php:16
+#: templates/meta-box-side-page-options.php:17
+msgid "Do not minify CSS files on this page"
+msgstr "JS bestanden niet verkleinen op deze pagina"
+
+#: templates/_admin-pages-assets-manager/_homepage.php:140
+#: templates/_admin-pages-assets-manager/_singular-page.php:139
+msgid "Retrieving the loaded scripts and styles for the home page. Please wait..."
+msgstr "De geladen scripts en stijlen voor de homepage worden opgehaald. Even geduld alstublieft..."
+
+#: templates/_admin-pages-assets-manager/_homepage.php:100
+msgid "Changes will also apply to pages such as %s etc. in case the latest blog posts are paginated."
+msgstr "Wijzigingen zijn ook van toepassing op pagina's zoals %s enz. Als de laatste blog berichten gepagineerd zijn."
+
+#: templates/_admin-pages-assets-manager/_homepage.php:100
+msgid "Here you can unload files loaded on the home page. \"Front page displays\" (from \"Settings\" &#187; \"Reading\") is set to either \"Your latest posts\" (in \"Settings\" &#187; \"Reading\") OR a special layout (from a theme or plugin) was enabled."
+msgstr "Hier kun je bestanden downloaden die op de homepage zijn geladen. \"Voorpagina weergeven\" (van \"Instellingen\" &#187; \"Lezen\") is ingesteld op \"Je laatste berichten\" (in \"Instellingen\" &#187; \"Lezen\") OF er is een speciale lay-out (van een thema of plugin) ingeschakeld."
+
+#: templates/_admin-pages-assets-manager/_homepage.php:35
+msgid "To read more about creating a static front page in WordPress, %scheck the Codex%s."
+msgstr "Om meer te lezen over het maken van een statische voorpagina in WordPress, %sbekijk de codex%s."
+
+#: templates/admin-page-getting-started.php:28
+msgid "Video Tutorials"
+msgstr "Video tutorials"
+
+#: templates/admin-page-getting-started.php:27
+msgid "Start Optimization"
+msgstr "Start optimalisatie"
+
+#: templates/admin-page-getting-started.php:26
+msgid "Benefits of a Fast Website"
+msgstr "Voordelen van een snelle site"
+
+#: templates/admin-page-getting-started.php:25
+msgid "How it works"
+msgstr "Hoe het werkt"
+
+#: templates/admin-page-getting-started.php:15
+msgid "For maximum performance, %s works best when used with either a %scaching plugin%s, the in-built hosting caching (e.g. via %sWPEngine%s, Kinsta, etc.) or something like Varnish."
+msgstr "Voor maximale prestaties werkt %s het beste in combinatie met een %scaching plugin%s, de ingebouwde hosting caching (bijv. Via %sWPEngine%s, Kinsta, enz.) of iets als Varnish."
+
+#: templates/admin-page-getting-started.php:13
+msgid "Prepare to make your WordPress website faster &amp; lighter by removing the useless CSS &amp; JavaScript files from your pages."
+msgstr "Bereid je voor om je WordPress site sneller & lichter te maken door de nutteloze CSS & JavaScript bestanden van je pagina's te verwijderen."
+
+#: templates/admin-page-getting-started.php:13
+msgid "Thank you for installing this page speed booster plugin"
+msgstr "Bedankt voor het installeren van deze pagina speed booster plugin"
+
+#: templates/admin-page-getting-started.php:11
+msgid "Welcome to %s %s"
+msgstr "Welkom bij %s %s"
+
+#: templates/admin-page-assets-manager.php:26
+msgid "404 Not Found"
+msgstr "404 niet gevonden"
+
+#: templates/admin-page-assets-manager.php:25
+msgid "Date"
+msgstr "Datum"
+
+#: templates/admin-page-assets-manager.php:24
+msgid "Author"
+msgstr "Auteur"
+
+#: templates/admin-page-assets-manager.php:23
+msgid "Search"
+msgstr "Zoeken"
+
+#: templates/admin-page-assets-manager.php:22
+msgid "Custom Taxonomy"
+msgstr "Aangepaste taxonomie"
+
+#: templates/admin-page-assets-manager.php:17
+msgid "Pages"
+msgstr "Pagina's"
+
+#: templates/admin-page-assets-manager.php:18
+msgid "Custom Post Types"
+msgstr "Aangepaste berichttypen"
+
+#: templates/_admin-pages-assets-manager/_category.php:18
+#: templates/_admin-pages-assets-manager/_custom-post-types.php:13
+#: templates/_admin-pages-assets-manager/_custom-taxonomy.php:18
+#: templates/_admin-pages-assets-manager/_media-attachment.php:21
+#: templates/_admin-pages-assets-manager/_not-found.php:18
+#: templates/_admin-pages-assets-manager/_pages.php:13
+#: templates/_admin-pages-assets-manager/_posts.php:13
+#: templates/_admin-pages-assets-manager/_tag.php:18
+msgid "read more"
+msgstr "lees meer"
+
+#: templates/admin-page-assets-manager.php:16
+msgid "Posts"
+msgstr "Berichten"
+
+#: templates/_admin-page-settings-bulk-changes/_bulk-unloaded.php:275
+msgid "Note: As there are no unloaded assets (scripts &amp; styles) to be managed, the button is disabled."
+msgstr "Opmerking: omdat er geen ontladen assets (scripts & styles) te beheren zijn, is de knop uitgeschakeld."
+
+#: templates/_admin-pages-assets-manager/_homepage.php:156
+#: templates/_admin-pages-assets-manager/_singular-page.php:155
+msgid "Update"
+msgstr "Update"
+
+#: templates/_admin-page-settings-bulk-changes/_bulk-unloaded.php:144
+msgid "There are no site-wide unloaded scripts."
+msgstr "Er zijn geen site brede ontladen scripts."
+
+#: templates/_admin-page-settings-bulk-changes/_bulk-unloaded.php:107
+msgid "There are no site-wide unloaded styles."
+msgstr "Er zijn geen ontladen stijlen voor de hele site."
+
+#: templates/_admin-page-settings-bulk-changes/_bulk-unloaded.php:24
+msgid "Everywhere"
+msgstr "Overal"
+
+#: templates/_admin-page-settings-bulk-changes/_bulk-unloaded.php:20
+msgid "Click to upgrade!"
+msgstr "Klik om te upgraden!"
+
+#: templates/admin-page-settings-plugin.php:16
+#: templates/_admin-page-settings-bulk-changes/_bulk-unloaded.php:20
+msgid "Available for Pro users"
+msgstr "Beschikbaar voor Pro gebruikers"
+
+#: templates/_admin-page-getting-started-areas/_benefits-fast-pages.php:37
+msgid "View \"%s\" Infographic"
+msgstr "Bekijk \"%s\" infographic"
+
+#: templates/_admin-page-getting-started-areas/_benefits-fast-pages.php:28
+msgid "%s of people have THROWN THEIR PHONE while using a slow mobile site."
+msgstr "%s van de mensen hebben hun telefoon weggegooid terwijl ze een trage mobiele site gebruikten."
+
+#: templates/_admin-page-getting-started-areas/_benefits-fast-pages.php:27
+msgid "%s of users say that slow online transaction make them ANXIOUS about the success of the transaction."
+msgstr "%s van de gebruikers zegt dat trage online transacties hen BEZORGT maken over het succes van de transactie."
+
+#: templates/_admin-page-getting-started-areas/_benefits-fast-pages.php:26
+msgid "%s of users say they've felt STRESS OR ANGER while using a slow website."
+msgstr "%s van de gebruikers zegt STRESS OF WOEDE te hebben gevoeld tijdens het gebruik van een trage site."
+
+#: templates/_admin-page-getting-started-areas/_benefits-fast-pages.php:24
+msgid "According to Strangeloop, 57% of online customers will leave a website after waiting 3 seconds for the page to load. Moreover, 80% of those people will not return to that page. Some of them will tell others about their negative experience. This has a direct impact on the conversion rate, revenue and brand image."
+msgstr "Volgens Strangeloop zal 57% van de online klanten een site verlaten als de pagina niet binnen 3 seconden laadt. Bovendien zal 80% van die mensen niet terugkeren naar die pagina. Sommigen zullen anderen vertellen over hun negatieve ervaring. Dit heeft directe invloed op de conversieratio, omzet en merk imago."
+
+#: templates/_admin-page-getting-started-areas/_benefits-fast-pages.php:24
+msgid "Just about any major retailer is taking site speed as a very important factor for increasing conversions."
+msgstr "Bijna elke grote winkel hecht veel waarde aan de snelheid van de site om conversies te verhogen."
+
+#: templates/_admin-page-getting-started-areas/_benefits-fast-pages.php:23
+msgid "Higher Revenue"
+msgstr "Hogere omzet"
+
+#: templates/_admin-page-getting-started-areas/_benefits-fast-pages.php:20
+msgid "Your log files will take less space on the server, will be easier to backup and analyse, and by having less JavaScript files loading, you will be reduce the changes of getting less JS errors that could interfere with the functionality of your website."
+msgstr "Je logbestanden zullen minder ruimte innemen op de server, makkelijker te back-uppen en te analyseren zijn. Door minder JavaScript bestanden te laden, verklein je de kans op JS fouten die de functionaliteit van je site kunnen verstoren."
+
+#: templates/_admin-page-getting-started-areas/_benefits-fast-pages.php:20
+msgid "By preventing unnecessary files to load, having less HTTP requests, and cleaner HTML code, you will be able to easily go through the code (which is smaller)."
+msgstr "Door onnodige bestanden te blokkeren, minder HTTP aanvragen te hebben en schonere HTML code, kun je gemakkelijk door de code bladeren (die kleiner is)."
+
+#: templates/_admin-page-getting-started-areas/_benefits-fast-pages.php:20
+msgid "As developers, we often go through the HTML source code of the website, access the server (e.g. Apache, NGINX) logs that has the HTTP requests, and have to sometimes solve code conflict problems (e.g. between plugins) due to poorly written code."
+msgstr "Als ontwikkelaars bekijken we vaak de HTML bron code van de site, raadplegen we de serverlogs (bijv. Apache, NGINX) met de HTTP aanvragen en moeten we soms code conflicten oplossen (bijv. tussen plugins) als gevolg van slecht geschreven code."
+
+#: templates/_admin-page-getting-started-areas/_benefits-fast-pages.php:19
+msgid "Better Developer Experience"
+msgstr "Betere gebruiker ervaring"
+
+#: templates/_admin-page-getting-started-areas/_benefits-fast-pages.php:16
+msgid "As today's users expect a fast and streamlined web experience, you're losing business if you neglect this often overlooked aspect."
+msgstr "Omdat gebruikers tegenwoordig een snelle en gestroomlijnde web ervaring verwachten, verlies je omzet als je dit vaak over het hoofd geziene aspect verwaarloost."
+
+#: templates/_admin-page-getting-started-areas/_benefits-fast-pages.php:16
+msgid "If a visitor doesn't get what he wants in a time he/she thinks it's reasonable, they will probably head to another website belonging to a competitor."
+msgstr "Als een bezoeker niet krijgt wat hij wil binnen een redelijke tijd, zal hij waarschijnlijk naar een andere site van een concurrent gaan."
+
+#: templates/_admin-page-getting-started-areas/_benefits-fast-pages.php:16
+msgid "A blazing fast website, will keep your visitors happy, engaged, which will directly influence conversions."
+msgstr "Een supersnelle site zal je bezoekers blij en betrokken houden, wat direct invloed zal hebben op conversies."
+
+#: templates/_admin-page-getting-started-areas/_benefits-fast-pages.php:16
+msgid "For a customer (it's likely happened to you too) that wants to purchase something online, it's very frustrating to land on slow loading website."
+msgstr "Voor een klant (het is waarschijnlijk ook je overkomen) die iets online wil kopen, is het erg frustrerend om op een langzaam ladende site terecht te komen."
+
+#: templates/_admin-page-getting-started-areas/_benefits-fast-pages.php:15
+msgid "Visitor Experience"
+msgstr "Bezoekers ervaring"
+
+#: templates/_admin-page-getting-started-areas/_benefits-fast-pages.php:12
+msgid "How does Google determine page speed?"
+msgstr "Hoe bepaalt Google de snelheid van een pagina?"
+
+#: templates/_admin-page-getting-started-areas/_benefits-fast-pages.php:11
+msgid "Like Google, their users place a lot of value in speed — that's why they've decided to take site speed into account in their search rankings. They use a variety of sources to determine the speed of a site relative to other sites."
+msgstr "Net als Google hechten hun gebruikers veel waarde aan snelheid - daarom hebben ze besloten om de snelheid van een site mee te nemen in hun zoekresultaten. Ze gebruiken verschillende bronnen om de snelheid van een site te bepalen ten opzichte van andere sites."
+
+#: templates/_admin-page-getting-started-areas/_benefits-fast-pages.php:11
+msgid "recent data shows that improving site speed also reduces operating costs."
+msgstr "recente gegevens tonen aan dat het verbeteren van de snelheid van je site ook de operationele kosten verlaagt."
+
+#: templates/_admin-page-getting-started-areas/_benefits-fast-pages.php:11
+msgid "But faster sites don't just improve user experience"
+msgstr "Maar snellere sites verbeteren niet alleen de gebruikerservaring"
+
+#: templates/_admin-page-getting-started-areas/_benefits-fast-pages.php:11
+msgid "Faster sites create happy users and Google has seen in their internal studies that when a site responds slowly, visitors spend less time there."
+msgstr "Snellere sites zorgen voor tevreden gebruikers en Google heeft in hun interne studies gezien dat wanneer een site langzaam reageert, bezoekers er minder tijd doorbrengen."
+
+#: templates/_admin-page-getting-started-areas/_benefits-fast-pages.php:11
+msgid "Speeding up websites is important — not just to site owners, but to all Internet users."
+msgstr "Het versnellen van sites is belangrijk - niet alleen voor site eigenaren, maar voor alle internetgebruikers."
+
+#: templates/_admin-page-getting-started-areas/_benefits-fast-pages.php:10
+msgid "Since 2010, there has been a signal in Google search ranking algorithms: site speed, which reflects how quickly a website responds to web requests."
+msgstr "Sinds 2010 is er een signaal in de Google zoek rangschikkingsalgoritmen: sitesnelheid, wat weergeeft hoe snel een site reageert op web aanvragen."
+
+#: templates/_admin-page-getting-started-areas/_benefits-fast-pages.php:9
+msgid "Higher search ranking"
+msgstr "Hogere zoek rangschikking"
+
+#: templates/_admin-page-getting-started-areas/_how-it-works.php:33
+msgid "Once all is good, you can disable \"Test Mode\" (thus applying the settings to everyone), clear the page caching (if using a plugin or a server-side solution such as Varnish) and check out the page speed score."
+msgstr "Zodra alles goed is, kun je \"Test modus\" uitschakelen (waardoor de instellingen voor iedereen worden toegepast), de pagina cache wissen (indien je een plugin of een server side oplossing zoals Varnish gebruikt) en de pagina snelheid score bekijken."
+
+#: templates/_admin-page-getting-started-areas/_how-it-works.php:33
+msgid "You can enable \"Test Mode\" and any changes you make, will only be visible for you (the logged-in administrator), while the regular visitors will see the pages as if the plugin is not active."
+msgstr "Je kunt \"Testmodus\" inschakelen en alle wijzigingen die je aanbrengt, zijn alleen zichtbaar voor je (de ingelogde beheerder), terwijl de reguliere bezoekers de pagina's zien alsof de plugin niet actief is."
+
+#: templates/_admin-page-getting-started-areas/_how-it-works.php:33
+msgid "No problem!"
+msgstr "Geen probleem!"
+
+#: templates/_admin-page-getting-started-areas/_how-it-works.php:32
+msgid "Not sure how to configure it?"
+msgstr "Weet je niet hoe je het moet configureren?"
+
+#: templates/_admin-page-getting-started-areas/_how-it-works.php:27
+msgid "The links are affiliate related and I might get a commission if you decide to make a purchase."
+msgstr "De links zijn gerelateerd aan affiliates en ik kan een commissie krijgen als je besluit om een aankoop te doen."
+
+#: templates/_admin-page-getting-started-areas/_how-it-works.php:27
+msgid "The recommendations above are based from my own experience as a developer &amp; user and I'm happy to recommend them to whoever wants superior WordPress performance."
+msgstr "De aanbevelingen hierboven zijn gebaseerd op mijn eigen ervaring als ontwikkelaar en gebruiker en ik raad ze graag aan aan iedereen die superieure prestaties van WordPress wil."
+
+#: templates/_admin-page-getting-started-areas/_how-it-works.php:27
+msgid "Disclaimer"
+msgstr "Disclaimer"
+
+#: templates/_admin-page-getting-started-areas/_how-it-works.php:20
+msgid "A hosting service that has its in-built WordPress caching like %sWPEngine%s or Kinsta, a web application accelerator like Varnish that can be setup the server etc."
+msgstr "Een hostingdienst die zijn ingebouwde WordPress caching heeft, zoals %sWPEngine%s of Kinsta, een web applicatie versneller zoals Varnish die op de server kan worden ingesteld, enzovoort."
+
+#: templates/_admin-page-getting-started-areas/_how-it-works.php:17
+msgid "The page caching improves the %sTTFB%s (time to first byte) which measures the duration from the user or client making an HTTP request to the first byte of the page being received by the client's browser."
+msgstr "De pagina caching verbetert de %sTTFB%s (time to first byte) die de duur meet vanaf de gebruiker of klant die een HTTP aanvraag doet tot de eerste byte van de pagina die door de browser van de klant wordt ontvangen."
+
+#: templates/_admin-page-getting-started-areas/_how-it-works.php:15
+msgid "Page caching solutions include"
+msgstr "Pagina caching oplossingen omvatten"
+
+#: templates/_admin-page-getting-started-areas/_how-it-works.php:10
+msgid "This could end up in a slow website that leads to page abandonment, poor ranking in Google search and sometimes conflict JavaScript errors where too many scripts are loading and one of them (or more) have poorly written code that is not autonomous and badly interacts with other code."
+msgstr "Dit kan leiden tot een trage site die leidt tot het verlaten van pagina's, een slechte ranking in Google zoek opdrachten en soms conflicterende JavaScript fouten waarbij te veel scripts worden geladen en een of meer daarvan slecht geschreven code hebben die niet autonoom is en slecht interacteert met andere code."
+
+#: templates/_admin-page-getting-started-areas/_how-it-works.php:9
+msgid "These assets (CSS &amp; JavaScript files) as well as inline code are adding up to the total size of the page, thus taking more time for the page to load."
+msgstr "Deze assets (CSS & JavaScript bestanden) en inline code maken de totale omvang van de pagina groter, waardoor het laden van de pagina langer duurt."
+
+#: templates/_admin-page-getting-started-areas/_how-it-works.php:9
+msgid "Often, our WordPress websites are loaded with elements that are not needed to load on specific pages or even everywhere."
+msgstr "Vaak zijn onze WordPress sites geladen met elementen die niet nodig zijn om op specifieke pagina's of zelfs overal te laden."
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:158
+msgid "I have some questions"
+msgstr "Ik heb wat vragen"
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:155
+msgid "Upgrade to Pro to unlock all benefits"
+msgstr "Upgrade naar Pro om alle voordelen te ontgrendelen"
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:145
+msgid "Priority Customer Support"
+msgstr "Priority klantenondersteuning"
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:135
+msgid "Apply \"async\" and \"defer\" attributes to loaded JavaScript files"
+msgstr "Pas \"async\" en \"defer\" attributen toe op geladen JavaScript bestanden"
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:130
+msgid "Move CSS &amp; JavaScript files from <code>&lt;HEAD&gt;</code> to <code>&lt;BODY&gt;</code> (to reduce render-blocking) or vice-versa (for very early triggering)"
+msgstr "Verplaats CSS & JavaScript bestanden van <code>&lt;HEAD&gt;</code> naar <code>&lt;BODY&gt;</code> (om render blokering te verminderen) of omgekeerd (voor zeer vroege activering)"
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:120
+msgid "Manage CSS &amp; JavaScript files on Categories, Tags, Custom Taxonomy pages, Date &amp; Author Archive Pages, Search Results &amp; 404 Not Found pages"
+msgstr "Beheer CSS & JavaScript bestanden op categorieën, tags, aangepaste taxonomie pagina's, datum & auteur archief pagina's, zoek resultaten & 404 niet gevonden pagina's"
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:74
+msgid "Site-Wide Unload For Common Elements that are often unused such as: WordPress Emojis, jQuery Migrate, Comment Reply (if not using WP as a blog)"
+msgstr "Site breed ontladen voor gemeenschappelijke elementen die vaak ongebruikt zijn zoals: WordPress Emojis, jQuery Migrate, Comment Reply (als je WP niet als blog gebruikt)"
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:69
+msgid "Valid HTML comments are also stripped (exceptions can be added) while conditional Internet Explorer comments are preserved."
+msgstr "Geldige HTML reacties worden ook gestript (uitzonderingen kunnen worden toegevoegd), terwijl voorwaardelijke Internet Explorer reacties behouden blijven."
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:69
+msgid "Remove unused elements from the <code>&lt;HEAD&gt;</code> and <code>&lt;BODY&gt;</code> including the following link tags: %s."
+msgstr "Verwijder ongebruikte elementen uit de <code>&lt;HEAD&gt;</code> en <code>&lt;BODY&gt:</code> inclusief de volgende link tags: %s."
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:64
+msgid "Combine remaining loaded CSS &amp; JavaScript files into fewer files from each <code>&lt;HEAD&gt;</code> and <code>&lt;BODY&gt;</code> location (with option to add exceptions)"
+msgstr "Combineer resterende geladen CSS & JavaScript bestanden in minder bestanden van elke <code>&lt;HEAD&gt;</code> en <code>&lt;BODY&gt;</code> locatie (met optie om uitzonderingen toe te voegen)"
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:59
+msgid "Minify remaining loaded CSS &amp; JavaScript files (with option to add exceptions)"
+msgstr "Verklein resterende geladen CSS & JavaScript bestanden (met optie om uitzonderingen toe te voegen)"
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:54
+msgid "Enable \"Test Mode\" to only apply the plugin's changes for the logged-in administrator for debugging purposes"
+msgstr "Schakel \"Testmodus\" in om de wijzigingen van de plugin alleen toe te passen voor de ingelogde beheerder voor debugging doeleinden"
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:49
+msgid "Manage the CSS &amp; JavaScript files within the Dashboard (default) and Front-end view (bottom of the page) if chosen"
+msgstr "Beheer de CSS & JavaScript bestanden binnen het dashboard (standaard) en front-end weergave (onderkant van de pagina) indien gekozen"
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:44
+msgid "Bulk Unloads: Everywhere (Site-Wide), On Specific Pages &amp; Post Types, Add load exceptions"
+msgstr "Bulk ontladen: overal (site breed), op specifieke pagina's & bericht types, toevoegen laad uitzonderingen"
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:39
+msgid "Manage CSS &amp; JavaScript files on Homepage, Posts, Pages &amp; Custom Post Types (e.g. WooCommerce product pages, Easy Digital Downloads download items)"
+msgstr "Beheer CSS & JavaScript bestanden op homepage, berichten, pagina's & extra berichttypen (bijv. WooCommerce product pagina's, easy Digital Downloads download items)"
+
+#: templates/meta-box-loaded-assets/view-default.php:76
+msgid "It looks like there are no public .js files loaded or the ones visible do not follow <a href=\"https://codex.wordpress.org/Function_Reference/wp_enqueue_script\">the WordPress way of enqueuing scripts</a>."
+msgstr "Het lijkt erop dat er geen publieke .js bestanden zijn geladen of dat de zichtbare bestanden niet <a href=\"https://codex.wordpress.org/Function_Reference/wp_enqueue_script\">de WordPress manier van scripts inladen</a> volgen."
+
+#: templates/meta-box-loaded-assets/view-default.php:58
+msgid "Scripts (.js files)"
+msgstr "Scripts (.js bestanden)"
+
+#: templates/meta-box-loaded-assets/view-default.php:37
+msgid "It looks like there are no public .css files loaded or the ones visible do not follow <a href=\"https://codex.wordpress.org/Function_Reference/wp_enqueue_style\">the WordPress way of enqueuing styles</a>."
+msgstr "Het lijkt erop dat er geen publieke .css bestanden zijn geladen of dat de zichtbare bestanden niet <a href=\"https://codex.wordpress.org/Function_Reference/wp_enqueue_style\">de WordPress manier van stijlen opvragen</a> volgen."
+
+#: templates/meta-box-loaded-assets/view-default.php:19
+msgid "Styles (.css files)"
+msgstr "Stijlen (.css bestanden)"
+
+#: templates/meta-box-loaded-assets/view-by-location.php:251
+msgid "There are no CSS/JS loaded from this location."
+msgstr "Er worden geen CSS/JS geladen vanaf deze locatie."
+
+#: templates/meta-box-loaded-assets/_assets-top-area.php:27
+msgid "Assets that are marked with %s are part of WordPress core files. Be careful if you decide to unload them! If you are not sure what to do, just leave them loaded by default and consult with a developer."
+msgstr "Bestanden die zijn gemarkeerd met %s maken deel uit van de WordPress core bestanden. Wees voorzichtig als je besluit ze te ontladen! Als je niet zeker weet wat je moet doen, laat ze dan standaard geladen en raadpleeg een ontwikkelaar."
+
+#: templates/meta-box-loaded-assets/_assets-top-area.php:9
+msgid "Please select the styles &amp; scripts that are %sNOT NEEDED%s from the list below. Not sure which ones to unload? %s Use \"Test Mode\" (to make the changes apply only to you), while you are going through the trial &amp; error process."
+msgstr "Selecteer de stijlen en scripts die %sNIET NODIG%s zijn uit de onderstaande lijst. Weet je niet zeker welke je moet verwijderen? %s gebruik 'Testmodus' (om de wijzigingen alleen toe te passen op je), terwijl je het proces van trial & error doorloopt."
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_load-exceptions.php:73
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_loaded-rules.php:15
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_loaded-rules.php:20
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_unload-via-regex.php:28
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_load-exceptions.php:73
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_unload-via-regex.php:28
+msgid "Click here to upgrade to Pro"
+msgstr "Klik hier om te updaten naar Pro"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_load-exceptions.php:72
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_loaded-rules.php:15
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_loaded-rules.php:20
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_unload-via-regex.php:27
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_load-exceptions.php:72
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_unload-via-regex.php:27
+msgid "This feature is available in the premium version of the plugin."
+msgstr "Deze functie is beschikbaar in de premium versie van de plugin."
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_extra_inline.php:13
+msgid "Inline JavaScript code associated with the handle:"
+msgstr "Inline JavaScript code geassocieerd met de handle:"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_handle_deps.php:16
+msgid "\"Child\" of %s JS \"parent\" files:"
+msgstr "\"Sub\" van %s JS \"hoofd\" bestanden:"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_handle_deps.php:15
+msgid "\"Child\" of one \"parent\" JS file:"
+msgstr "\"Sub\" van een \"hoofd\" JS bestand:"
+
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_extra_inline.php:15
+msgid "Show / Hide"
+msgstr "Weergeven/verbergen"
+
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_extra_inline.php:12
+msgid "Inline styling associated with the handle:"
+msgstr "Inline styling gekoppeld aan de handle:"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_unload-post-type.php:51
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_unload-post-type.php:52
+msgid "Remove bulk rule"
+msgstr "Verwijder bulkregel"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_unload-post-type.php:42
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_unload-post-type.php:43
+msgid "Keep bulk rule"
+msgstr "Houd bulk regel"
+
+#: templates/meta-box-loaded.php:175
+msgid "Unload on this page"
+msgstr "Ontladen op deze pagina"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row.php:85
+#: templates/meta-box-loaded-assets/_asset-style-single-row.php:83
+msgid "File Size:"
+msgstr "Bestandsgrootte:"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_position.php:11
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_position.php:11
+msgid "Position:"
+msgstr "Positie:"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row.php:80
+#: templates/meta-box-loaded-assets/_asset-style-single-row.php:78
+msgid "Version:"
+msgstr "Versie:"
+
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_handle_deps.php:16
+msgid "\"Child\" of %s CSS \"parent\" files:"
+msgstr "\"Sub\" van %s CSS \"hoofd\" bestanden:"
+
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_handle_deps.php:15
+msgid "\"Child\" of one \"parent\" CSS file:"
+msgstr "\"Sub\" van een \"hoofd\" CSS bestand:"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_source.php:74
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_source.php:99
+#: templates/meta-box-loaded-assets/_hardcoded/_asset-script-single-row-hardcoded/_source.php:40
+#: templates/meta-box-loaded-assets/_hardcoded/_asset-style-single-row-hardcoded/_source.php:38
+msgid "Source:"
+msgstr "Bron:"
+
+#: templates/meta-box-loaded-assets/_asset-script-single-row/_handle.php:11
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_handle.php:11
+msgid "Handle:"
+msgstr "Handle:"
+
+#: templates/meta-box.php:68
+msgid "There are no CSS/JS to manage as the permalink for this attachment redirects to the attachment itself because <em>\"Redirect attachment URLs to the attachment itself?\"</em> is set to <em>\"Yes\"</em> in <em>\"Search Appearance - Yoast SEO\" - \"Media\"</em> tab)."
+msgstr "Er zijn geen CSS/JS te beheren als de permalink voor deze bijlage omleidingen naar de bijlage zelf omdat <em>\"URL's van bijlagen omleiden naar de bijlage zelf?\"</em> is ingesteld op <em>\"Ja\"</em> in <em>\"Search weergave - Yoast SEO\" - \"Media\"</em> tab)."
+
+#: templates/meta-box.php:61
+msgid "If this post/page was meanwhile published (after you saw the above notice), just reload this edit page and you should see the list of CSS/JS files loaded in the page."
+msgstr "Als dit bericht /pagina inmiddels is gepubliceerd (nadat je de bovenstaande bericht hebt gezien), vernieuw dan deze bewerking pagina en je zou de lijst met geladen CSS/JS bestanden op de pagina moeten zien."
+
+#: templates/meta-box.php:59
+msgid "The styles and scripts will be available for unload once this post/page is <strong>public</strong> and <strong>publish</strong>ed as the whole page needs to be scanned for all the loaded assets."
+msgstr "De stijlen en scripts zullen beschikbaar zijn om te ontladen zodra deze bericht /pagina <strong>openbaar</strong> is gemaakt en <strong>gepubliceerd</strong> is, omdat de hele pagina gescand moet worden op alle geladen assets."
+
+#: templates/meta-box.php:57
+msgid "If you prefer to manage the assets within the front-end view and wish to hide this meta box, you can click on \"Screen Options\" at the top of this page and deselect \"Asset CleanUp: CSS &amp; JavaScript Manager\"."
+msgstr "Als je ervoor selecteert om de assets te beheren binnen de frontend weergave en deze meta box wil verbergen, kun je op \"Scherm opties\" bovenaan deze pagina klikken en \"Asset CleanUp: CSS & JavaScript Manager\" deselecteren."
+
+#: templates/meta-box.php:56
+msgid "In order to manage the CSS/JS files here, you need to have \"Manage in the Dashboard?\" enabled within the plugin's settings (\"Plugin Usage Preferences\" tab)."
+msgstr "Om de CSS/JS bestanden hier te kunnen beheren, moet je \"Beheren in het dashboard?\" Hebben ingeschakeld in de instellingen van de plugin (tabblad \"Voorkeuren voor plugin gebruik\")."
+
+#: templates/_admin-pages-assets-manager/_homepage.php:145
+#: templates/_admin-pages-assets-manager/_singular-page.php:144
+msgid "If you believe fetching the page takes too long and the assets should have loaded by now, I suggest you go to \"Settings\", make sure \"Manage in front-end\" is checked and then %smanage the assets in the front-end%s."
+msgstr "Als je denkt dat het ophalen van de pagina te lang duurt en de assets nu geladen hadden moeten zijn, raad ik je aan om naar \"Instellingen\" te gaan, ervoor te zorgen dat \"Beheer in het front end\" is aangevinkt en vervolgens de assets te %sbeheren in het front end%s."
+
+#: templates/admin-page-settings-plugin.php:150
+msgid "Update All Settings"
+msgstr "Update alle instellingen"
+
+#: templates/admin-page-settings-plugin.php:40
+msgid "Disable XML-RPC"
+msgstr "XML-RPC uitschakelen"
+
+#: templates/admin-page-settings-plugin.php:37
+msgid "HTML Source CleanUp"
+msgstr "HTML gegevensbron opruiming"
+
+#: templates/admin-page-settings-plugin.php:36
+msgid "Site-Wide Common Unloads"
+msgstr "Site breed gemeenschappelijk ontladen"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:22
+msgid "General &amp; Files Management"
+msgstr "Algemeen & bestand beheer"
+
+#: templates/admin-page-settings-plugin.php:30
+msgid "Stripping the \"fat\""
+msgstr "Het \"vet\" verwijderen"
+
+#: templates/admin-page-settings-plugin.php:23
+msgid "unread"
+msgstr "ongelezen"
+
+#: templates/admin-page-settings-plugin.php:22
+msgid "read"
+msgstr "lees"
+
+#: templates/admin-page-assets-manager.php:15
+msgid "Homepage"
+msgstr "Homepage"
+
+#: templates/admin-page-tools.php:80
+msgid "Submit"
+msgstr "Verzenden"
+
+#: templates/admin-page-tools.php:65
+msgid "You want to uninstall Asset CleanUp and remove the traces left in the database (this is not the same thing as deactivating and activating the plugin again, as any changes applied would be preserved in this scenario)"
+msgstr "Je wil Asset CleanUp deïnstalleren en de sporen die achterblijven in de database verwijderen (dit is niet hetzelfde als het uitschakelen en opnieuw inschakelen van de plugin, omdat eventuele toegepaste wijzigingen in dat scenario behouden blijven)"
+
+#: templates/admin-page-tools.php:64
+msgid "You believe you have applied some changes (such as unloading the wrong CSS / JavaScript file(s)) that broke the website and you need a quick fix to make it work the way it used to. Note that for this option, you can also enable \"Test Mode\" from the plugin's settings which will only apply the changes to you (logged-in administrator), while the regular visitors will view the website as if %s is deactivated."
+msgstr "Je hebt waarschijnlijk enkele wijzigingen aangebracht (zoals het niet laden van de juiste CSS/JavaScript bestand(en)) die de site hebben verbroken en je hebt een snelle oplossing nodig om het weer te laten werken zoals het vroeger deed. Merk op dat je voor deze optie ook \"Testmodus\" kunt inschakelen in de instellingen van de plugin, waarmee de wijzigingen alleen worden toegepast op je (ingelogde beheerder), terwijl gewone bezoekers de site bekijken alsof %s het niet geactiveerd is."
+
+#: templates/admin-page-tools.php:62
+msgid "This action is usually taken if:"
+msgstr "Deze actie wordt meestal ondernomen als:"
+
+#: templates/admin-page-tools.php:60
+msgid "This will reset everything (settings, page loads &amp; any load exceptions) to the same point it was when you first activated the plugin. All the plugin's database records will be removed. It will technically have the same effect for your website as if the plugin would be deactivated."
+msgstr "Dit zal alles resetten (instellingen, pagina ladingen en eventuele laad uitzonderingen) naar hetzelfde punt als toen je de plugin voor het eerst inschakelde. Alle database gegevens van de plugin worden verwijderd. Het zal technisch hetzelfde effect hebben voor je site als wanneer de plugin zou worden gedeactiveerd."
+
+#: templates/admin-page-tools.php:51
+msgid "This will reset every option from the \"Settings\" page/tab to the same state it was when you first activated the plugin."
+msgstr "Dit zal elke optie van de \"Instellingen\" pagina/tab terugzetten naar dezelfde staat als toen je de plugin voor het eerst activeerde."
+
+#: templates/admin-page-tools.php:48
+msgid "Please read carefully below what the chosen action does as this process is NOT reversible."
+msgstr "Lees hieronder zorgvuldig wat de gekozen actie doet, want dit proces is NIET omkeerbaar."
+
+#: templates/admin-page-tools.php:33
+msgid "Reset everything: \"Settings\", All Unloads (bulk &amp; per page) &amp; Load Exceptions"
+msgstr "Alles resetten: \"Instellingen\", alles ontladen (bulk & per pagina) & uitzonderingen laden"
+
+#: templates/admin-page-tools.php:31
+msgid "Reset \"Settings\""
+msgstr "Reset \"Instellingen\""
+
+#: templates/admin-page-tools.php:30
+msgid "Select an option first"
+msgstr "Selecteer eerst een optie"
+
+#: templates/admin-page-tools.php:27
+msgid "Do you need to reset the plugin to its initial settings or reset all changes?"
+msgstr "Moet je de plugin resetten naar de oorspronkelijke instellingen of alle wijzigingen resetten?"
+
+#: templates/admin-page-tools.php:18
+msgid "System Info"
+msgstr "Systeem info"
+
+#: templates/admin-page-tools.php:17
+msgid "Reset"
+msgstr "Reset"
+
+#: classes/Menu.php:154 classes/Menu.php:155 classes/Plugin.php:361
+#: templates/_top-area.php:61
+msgid "Go Pro"
+msgstr "Ga voor Pro"
+
+#: classes/Menu.php:144 classes/Menu.php:145 templates/_top-area.php:55
+msgid "Help"
+msgstr "Hulp"
+
+#: classes/Menu.php:134 classes/Menu.php:135 templates/_top-area.php:50
+msgid "License"
+msgstr "Licentie"
+
+#: classes/Menu.php:124 classes/Menu.php:125 templates/_top-area.php:45
+msgid "Tools"
+msgstr "Gereedschappen"
+
+#: classes/AdminBar.php:164 classes/Menu.php:106 classes/Menu.php:107
+#: templates/_top-area.php:33
+msgid "Bulk Changes"
+msgstr "Bulk wijzigingen"
+
+#: classes/Lite.php:32
+msgid "CSS &amp; JavaScript Load Manager"
+msgstr "CSS &amp; JavaScript laad manager"
+
+#: classes/AdminBar.php:112 classes/Menu.php:79 classes/Menu.php:80
+#: classes/Plugin.php:354 classes/Tools.php:793 templates/_top-area.php:15
+msgid "Settings"
+msgstr "Instellingen"
+
+#: templates/admin-page-license.php:27
+msgid "If you already purchased the Pro version and you don't know how to activate it, %sfollow the steps from the \"Help\" section%s."
+msgstr "Als je de Pro versie al hebt gekocht en je weet niet hoe je deze moet activeren, %svolg dan de stappen uit de \"Help\" sectie%s."
+
+#: templates/admin-page-license.php:20
+msgid "To unlock all features and get premium support, you can %supgrade to the Pro version%s."
+msgstr "Om alle functies te ontgrendelen en premium ondersteuning te krijgen, kun je %supgraden naar de Pro versie%s."
+
+#: templates/admin-page-license.php:14
+msgid "You're using the lite version of %s (v%s), so no license key is needed. You'll receive automatic notifications whenever a new version is available for download."
+msgstr "Je gebruikt de lite versie van %s (v%s), dus er is geen licentiesleutel nodig. Je ontvangt automatische melding wanneer er een nieuwe versie beschikbaar is om te downloaden."
+
+#: templates/_admin-page-settings-plugin-areas/_strip-the-fat.php:41
+msgid "I'm aware that unloading the wrong CSS/JS files can break the layout and front-end functionality of the pages I'm optimising."
+msgstr "Ik ben me ervan bewust dat het ontladen van de verkeerde CSS/JS bestanden de lay-out en front-end functionaliteit kan verstoren van de pagina's die ik optimaliseer."
+
+#: templates/_admin-page-settings-plugin-areas/_strip-the-fat.php:41
+msgid "I understand how the plugin works and I will make sure to make proper tests (via \"%s\" if necessary) after the changes I'm making."
+msgstr "Ik begrijp hoe de plugin werkt en ik zal ervoor zorgen dat ik goede tests maak (via \"%s\" indien nodig) na de wijzigingen die ik aanbreng."
+
+#: templates/_admin-page-settings-plugin-areas/_strip-the-fat.php:30
+msgid "Can this plugin make the pages load slower?"
+msgstr "Kan deze plugin ervoor zorgen dat de pagina's langzamer laden?"
+
+#: templates/_admin-page-settings-plugin-areas/_strip-the-fat.php:26
+msgid "Is a decrease in the total page size or a higher page speed score guaranteed?"
+msgstr "Is een afname van de totale pagina grootte of een hogere pagina snelheid score gegarandeerd?"
+
+#: templates/_admin-page-settings-plugin-areas/_strip-the-fat.php:15
+msgid "Prevent useless and often large CSS &amp; JS files increasing your total page size"
+msgstr "Voorkom dat nutteloze en vaak grote CSS &amp; JS bestanden je totale paginagrootte vergroten"
+
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:144
+msgid "This is safe to unload if you're not using WordPress as a blog, do not want visitors to leave comments or you've replaced the default WordPress comments with a comment platform such as Disqus or Facebook."
+msgstr "Dit is veilig om te ontladen als je WordPress niet als blog gebruikt, geen reacties van bezoekers wil ontvangen of als je de standaard WordPress reacties hebt vervangen door een reactie platform zoals Disqus of Facebook."
+
+#: templates/meta-box-loaded-assets/_asset-style-single-row/_handle.php:21
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:134
+msgid "Not sure if needed or not? In this case, it's better to leave it loaded to avoid breaking the website."
+msgstr "Weet je niet zeker of dit nodig is of niet? In dit geval is het beter om het geladen te laten om te voorkomen dat de site kapot gaat."
+
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:128
+msgid "This is a JavaScript library that allows older jQuery code (up to version jQuery 1.9) to run on the latest version of jQuery avoiding incompatibility problems. Unless your website is using an old theme or has a jQuery plugin that was written a long time ago, this file is likely not needed to load. Consider disabling it to improve page loading time. Make sure to properly test the website."
+msgstr "Dit is een JavaScript bibliotheek die oudere jQuery code (tot versie jQuery 1.9) toestaat om te werken op de nieuwste versie van jQuery, waardoor incompatibiliteit problemen worden vermeden. Tenzij je site een oud thema gebruikt of een jQuery plugin heeft die lang geleden is geschreven, is dit bestand waarschijnlijk niet nodig om te laden. Overweeg om het uit te schakelen om de laadtijd van de pagina te verbeteren. Zorg ervoor dat je de site goed test."
+
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:33
+msgid "As of WordPress 4.2, a new feature was introduced that allows you to use the new Emojis."
+msgstr "Vanaf WordPress 4.2 is er een nieuwe functie geïntroduceerd waarmee je de nieuwe Emojis kunt gebruiken."
+
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:30
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:96
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:127
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:143
+msgid "This will unload %s"
+msgstr "Hiermee wordt %s verwijderd"
+
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:19
+msgid "It will fallback to the default browser's Emojis and not fetch the ones from %s"
+msgstr "Het zal terugvallen op de standaard Emojis van de browser en niet die van %s"
+
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:18
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:42
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:87
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:113
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:134
+msgid "Disable %s Site-Wide"
+msgstr "Schakel %s site breed uit"
+
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:14
+msgid "This area allows you to quickly add the rule \"Unload Site-wide\" for the scripts below, which are often used in WordPress environments."
+msgstr "In dit gebied kun je snel de regel \"Ontladen site breed\" toevoegen voor de onderstaande scripts, die vaak worden gebruikt in WordPress omgevingen."
+
+#: templates/_admin-page-settings-plugin-areas/_common-files-unload.php:13
+msgid "Site-Wide Unload For Common CSS &amp; JS Files"
+msgstr "Site breed ontladen voor algemene CSS & JS bestanden"
+
+#: templates/_admin-page-settings-plugin-areas/_test-mode.php:41
+msgid "Once everything is alright with the way your websites loads, after you stripped the \"fat\" from your pages, you can disable test mode to apply the changes to everyone and then run tests via GTMetrix or other similar tools."
+msgstr "Zodra alles in orde is met de manier waarop je site laadt, nadat je de \"vet\" van je pagina's hebt gestript, kun je de test modus uitschakelen om de wijzigingen op iedereen toe te passen en vervolgens tests uitvoeren via GTMetrix of andere vergelijkbare gereedschappen."
+
+#: templates/_admin-page-settings-plugin-areas/_test-mode.php:40
+msgid "<strong>Important:</strong> If you're using page speed test tools such as GTMetrix, Pingdom, Google PageSpeed Insights, etc., while test mode is enabled, you will not see any improvements in the reports because, technically, %s plugin is deactivated for guests users and anyone else (including bots and GTMetrix visits), the changes you made being visible only to you."
+msgstr "<strong>Belangrijk:</strong> als je pagina snelheid test gereedschappen zoals GTMetrix, Pingdom, Google PageSpeed Insights, enz. gebruikt terwijl de test modus is ingeschakeld, zul je geen verbeteringen zien in de rapporten omdat de %s plugin technisch gezien is gedeactiveerd voor gast gebruikers en iedereen anders (inclusief bots en GTMetrix bezoeken), de wijzigingen die je hebt aangebracht zijn alleen zichtbaar voor je."
+
+#: templates/_admin-page-settings-plugin-areas/_test-mode.php:37
+msgid "For instance, you have an eCommerce website (e.g. WooCommerce, Easy Digital Downloads), and you're worried that unloading one wrong asset could break the \"add to cart\" functionality or the layout of the product page. You can enable this option, do the unloading for the CSS &amp; JavaScript files you believe are not needed on certain pages, test to check if everything is alright, and then disable test mode to enable the unloading for your visitors too (not only the admin)."
+msgstr "Bijvoorbeeld, je hebt een eCommerce site (bijv. WooCommerce, Easy Digital Downloads) en je maakt je zorgen dat het verwijderen van één verkeerd bestand de functionaliteit van \"toevoegen aan winkelwagen\" of de lay-out van het product pagina kan breken. Je kunt deze optie inschakelen, de CSS en JavaScript bestanden verwijderen waarvan je denkt dat ze niet nodig zijn op bepaalde pagina's, testen om te controleren of alles in orde is, en vervolgens de test modus uitschakelen om het verwijderen ook voor je bezoekers mogelijk te maken (niet alleen voor de beheerder). Test het."
+
+#: templates/_admin-page-settings-plugin-areas/_test-mode.php:34
+msgid "To view the website as a guest visitor, just make sure you access it from a browser where you're not logged in, or you can test it in Incognito (Private) mode."
+msgstr "Bekijk de site als een gast bezoeker door ervoor te zorgen dat je er toegang toe hebt vanuit een browser waarin je niet bent ingelogd, of je kunt het testen in de incognito modus (privé modus)."
+
+#: templates/_admin-page-settings-plugin-areas/_test-mode.php:33
+msgid "Your visitors will load the website with all the settings &amp; assets loaded (just like it was before you activated the plugin). Only YOU (the logged-in administrator) will see the plugin's settings &amp; unload rules applied."
+msgstr "Je bezoekers zullen de site laden met alle instellingen en assets (net als voor je de plugin inschakelde). Alleen JIJ (de ingelogde beheerder) ziet de instellingen van de plugin en de regels voor het uitschakelen."
+
+#: templates/_admin-page-settings-plugin-areas/_test-mode.php:30
+msgid "This is great for debugging when you're going through trial and error while removing unneeded CSS &amp; JavaScript on your website."
+msgstr "Dit is geweldig voor het debuggen wanneer je met vallen en opstaan onnodige CSS & JavaScript op je site verwijdert."
+
+#: templates/_admin-page-settings-plugin-areas/_test-mode.php:19
+msgid "Apply plugin's changes for the admin only"
+msgstr "Wijzigingen van de plugin alleen voor de beheerder toepassen"
+
+#: templates/_admin-page-settings-plugin-areas/_test-mode.php:18
+msgid "Enable Test Mode?"
+msgstr "Testmodus inschakelen?"
+
+#: templates/_admin-page-settings-plugin-areas/_test-mode.php:14
+msgid "Have your visitors load the website without any %s settings while you're going through the plugin setup and unloading the useless CSS &amp; JavaScript!"
+msgstr "Laat je bezoekers de site laden zonder enige %s instellingen terwijl je de plugin instellingen doorloopt en onnodige CSS en JavaScript ontlaadt!"
+
+#: templates/admin-page-settings-plugin.php:32
+#: templates/_admin-page-settings-plugin-areas/_strip-the-fat.php:41
+#: templates/_admin-page-settings-plugin-areas/_test-mode.php:13
+msgid "Test Mode"
+msgstr "Testmodus"
+
+#: templates/_admin-page-getting-started-areas/_lite-vs-pro.php:79
+#: templates/_admin-page-settings-plugin-areas/_disable-xml-rpc-protocol.php:13
+msgid "Disable XML-RPC Protocol Support partially or completely"
+msgstr "XML RPC protocol ondersteuning geheel of gedeeltelijk uitschakelen"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:405
+msgid "They should only be unloaded by experienced developers when they are convinced that are not needed in particular situations. It's better to leave them loaded if you have any doubts whether you need them or not. By hiding them in the assets management list, you will see a smaller assets list (easier to manage) and you will avoid updating by mistake any option (unload, async, defer) related to any core file."
+msgstr "Ze moeten alleen worden uitgeschakeld door ervaren ontwikkelaars wanneer ze ervan overtuigd zijn dat ze niet nodig zijn in bepaalde situaties. Het is beter om ze ingeschakeld te laten als je twijfelt of je ze nodig hebt of niet. Door ze te verbergen in de lijst met assets beheer, zie je een kleinere lijst met assets (gemakkelijker te beheren) en voorkom je dat je per ongeluk een optie (unload, async, defer) bij een core bestand bijwerkt."
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:404
+msgid "WordPress Core Files have handles such as %s"
+msgstr "WordPress core files hebben handles zoals %s"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:394
+msgid "Hide WordPress Core Files From The Assets List?"
+msgstr "WordPress core bestanden verbergen uit de assets lijst?"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:359
+msgid "In case you prefer standard HTML checkboxes instead of the enhanced CSS3 iPhone style ones (on &amp; off) or you need a simple HTML layout in case you're using a screen reader software (e.g. for people with disabilities) which requires standard/clean HTML code, then you can choose \"Standard\" as an option."
+msgstr "Als je standaard HTML selectievakjes verkiest in plaats van de verbeterde CSS3 iPhone stijl (aan & uit) of als je een eenvoudige HTML lay-out nodig hebt als je schermlezer software gebruikt (bijv. Voor mensen met een handicap) die standaard/schone HTML code vereist, dan kun je \"Standaard\" als optie kiezen."
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:353
+msgid "Standard"
+msgstr "Standaard"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:344
+msgid "Enhanced iPhone Style (Default)"
+msgstr "Verbeterde iPhone stijl (standaard)"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:334
+#: templates/_admin-page-settings-plugin-areas/_test-mode.php:20
+msgid "Read More"
+msgstr "Lees meer"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:333
+msgid "How would you like to view the checkboxes / selectors?"
+msgstr "Hoe wil je de selectievakjes/selectoren bekijken?"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:332
+msgid "Input Fields Style"
+msgstr "Stijl invoervelden"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:325
+msgid "Some assets (CSS &amp; JavaScript) have inline code associate with them and often, they are quite large, making the asset row bigger and requiring you to scroll more until you reach a specific area. By setting it to \"%s\", it will hide all the inline code by default and you can view it by clicking on the toggle link inside the asset row."
+msgstr "Sommige assets (CSS & JavaScript) hebben inline code die ermee geassocieerd is en vaak zijn ze behoorlijk groot, waardoor de rij met assets groter wordt en je meer moet scrollen totdat je een specifiek gebied bereikt. Door het in te stellen op \"%s\", wordt alle inline code standaard verborgen en kun je deze bekijken door te klikken op de toggle link binnen de asset rij."
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:299
+msgid "On Assets List Layout Load, keep \"Inline code associated with this handle\" area"
+msgstr "In het gebied \"Inline code geassocieerd met deze handgreep\" bij het laden van de assets lijst lay-out"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:292
+msgid "Sometimes, when you have plenty of elements in the edit page, you might want to contract the list of assets when you're viewing the page as it will save space. This can be a good practice, especially when you finished optimising the pages and you don't want to keep seeing the long list of files every time you edit a page."
+msgstr "Soms wil je de lijst van assets inkorten wanneer je veel elementen hebt op de bewerking pagina, zodat je ruimte bespaart bij het bekijken van de pagina. Dit kan een goede praktijk zijn, vooral wanneer je de pagina's hebt geoptimaliseerd en je niet telkens de lange lijst met bestanden wil zien wanneer je een pagina bewerkt."
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:261
+msgid "Options that are disabled are available in the Pro version."
+msgstr "Opties die zijn uitgeschakeld, zijn beschikbaar in de Pro versie."
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:261
+msgid "These are various ways in which the list of assets that you will manage will show up. Depending on your preference, you might want to see the list of styles &amp; scripts first, or all together sorted in alphabetical order etc."
+msgstr "Dit zijn verschillende manieren waarop de lijst met assets die je zult beheren zal verschijnen. Afhankelijk van je voorkeur, wil je misschien eerst de lijst met stijlen en scripts zien, of alles samen gesorteerd op alfabetische volgorde, enzovoort."
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:252
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:286
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:309
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:326
+msgid "Contracted"
+msgstr "Gecontracteerd"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:100
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:243
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:277
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:309
+msgid "Default"
+msgstr "Standaard"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:243
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:277
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:318
+msgid "Expanded"
+msgstr "Uitgevouwen"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:235
+msgid "When list is grouped by location, keep the assets from each of the plugins in the following state"
+msgstr "Wanneer de lijst is gegroepeerd per locatie, houdt je de assets van elk van de plugins in de volgende staat"
+
+#: classes/Settings.php:1038
+msgid "Grouped by tag position: &lt;head&gt; &amp; &lt;body&gt;"
+msgstr "Gegroepeerd op tag positie: &lt;head&gt; &amp; &lt;body&gt;"
+
+#: classes/Settings.php:1037
+msgid "Grouped by location (themes, plugins, core &amp; external)"
+msgstr "Gegroepeerd per locatie (thema's, plugins, core &amp; extern)"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:226
+msgid "Assets List Layout"
+msgstr "Lay-out van de lijst met assets"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:144
+msgid "Manage in the Front-end"
+msgstr "Beheer in de front-end"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:80
+msgid "It makes a WordPress AJAX call and gets the HTML source code through wp_remote_post(). This one is less likely to be blocked as it is made on the same protocol (no HTTP request from HTTPS). However, in some cases (e.g. a different load balancer configuration), this might not work when the call to fetch a domain's URL (your website) is actually made from the same domain."
+msgstr "Het maakt een WordPress Ajax oproep en krijgt de HTML bron code via wp_remote_post(). Deze is minder waarschijnlijk geblokkeerd te worden omdat het op hetzelfde protocol wordt gemaakt (geen aanvraag van HTTPS). In sommige gevallen (bijvoorbeeld een andere load balancer configuratie) kan dit echter niet werken wanneer de oproep om de URL van een domein (je site) op te halen eigenlijk van hetzelfde domein wordt gemaakt."
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:75
+msgid "This one makes an AJAX call directly on the URL for which the assets are retrieved, then an extra WordPress AJAX call to process the list. Sometimes, due to some external factors (e.g. mod_security module from Apache, security plugin or the fact that non-http is forced for the front-end view and the AJAX request will be blocked), this might not work and another choice method might work better. This used to be the only option available, prior to version 1.2.4.4 and is set as default."
+msgstr "Deze maakt een Ajax oproep rechtstreeks op de URL waarvoor de assets worden opgehaald, vervolgens een extra WordPress Ajax oproep om de lijst te verwerken. Soms werkt dit niet vanwege externe factoren (bijv. Mod_security-module van Apache, beveiliging plugin of het feit dat non http is gedwongen voor de front end weergave en het Ajax aanvraag zal worden geblokkeerd), dan kan een andere keuzemethode beter werken. Dit was vroeger de enige beschikbare optie, vóór versie 1.2.4.4 en is ingesteld als standaard."
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:55
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:75
+msgid "Direct"
+msgstr "Direct"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:47
+msgid "Select a retrieval way"
+msgstr "Selecteer een ophaal manier"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:42
+msgid "Note that sometimes the assets list is not loading within the Dashboard. That could be because \"mod_security\" Apache module is enabled or some security plugins are blocking the AJAX request. If this option doesn't work, consider managing the list in the front-end view."
+msgstr "Let op dat de lijst met assets soms niet laadt binnen het dashboard. Dit kan komen doordat de \"mod_security\" Apache module is ingeschakeld of doordat bepaalde beveiliging plugins het Ajax aanvraag blokkeren. Als deze optie niet werkt, overweeg dan om de lijst te beheren in het front-end weergave."
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:41
+msgid "The assets would be retrieved via AJAX call(s) that will fetch the post/page URL and extract all the styles &amp; scripts that are enqueued."
+msgstr "De assets zouden worden opgehaald via Ajax aanroep(en) die de URL van het bericht /pagina ophaalt en alle stijlen & scripts ophaalt die worden opgevraagd."
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:38
+msgid "This will show the list of assets in a meta box on edit the post (any type) / page within the Dashboard"
+msgstr "Dit zal de lijst van assets tonen in een meta box bij het bewerken van het bericht (elk type)/pagina in het dashboard"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:27
+msgid "Manage in the Dashboard"
+msgstr "Beheer in het dashboard"
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:23
+msgid "Decide how the management list of CSS &amp; JavaScript files will show up and get sorted, depending on your preferences."
+msgstr "Bepaal hoe de beheerlijst van CSS & JavaScript bestanden wordt getoond en gesorteerd, afhankelijk van je voorkeuren."
+
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:23
+msgid "Choose how the assets are retrieved and whether you would like to see them within the Dashboard / Front-end view"
+msgstr "Kies hoe de assets worden opgehaald en of je ze in het dashboard/front-end weergave wil zien"
+
+#: templates/admin-page-settings-plugin.php:31
+msgid "Plugin Usage Preferences"
+msgstr "Voorkeuren voor plugin gebruik"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:368
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:477
+msgid "If you do decide to move on with the concatenation (which at least would improve the GTMetrix performance grade from a cosmetic point of view), please remember to <strong>test thoroughly</strong> the pages that have the assets combined (pay attention to any JavaScript errors in the browser's console which is accessed via right click &amp; \"Inspect\") as, in rare cases, due to the order in which the scripts were loaded and the way their code was written, it could break some functionality."
+msgstr "Als je besluit door te gaan met het samenvoegen van de assets (wat de GTMetrix prestatie graad vanuit een cosmetisch oogpunt zou verbeteren),<strong>test dan grondig</strong> de pagina's waarop de assets zijn samengevoegd (let op eventuele JavaScript fouten in de console van de browser die wordt geopend via rechtsklikken en \"Inspecteren\"), omdat het in zeldzame gevallen, vanwege de volgorde waarin de scripts zijn geladen en de manier waarop hun code is geschreven, enkele functionaliteiten kan breken."
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:364
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:473
+msgid "Note that page speed testing tools such as PageSpeed Insights, YSlow, Pingdom Tools or GTMetrix still recommend combining CSS/JS files because they haven't updated their recommendations based on HTTP/1 or HTTP/2 protocols so you should take into account the actual load time, not the performance grade."
+msgstr "Let op dat pagina snelheid test gereedschappen zoals PageSpeed Insights, YSlow, Pingdom gereedschappen of GTMetrix nog steeds aanbevelen om CSS/JS bestanden te combineren omdat ze hun aanbevelingen niet hebben geüpdatet op basis van HTTP/1 of HTTP/2 protocollen, dus je moet rekening houden met de werkelijke laadtijd, niet de prestatie beoordeling."
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:363
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:472
+msgid "Since HTTP requests are loaded concurrently in HTTP/2, it's better to only serve the files that your visitors need and don't worry much about concatenation."
+msgstr "Aangezien HTTP aanvragen in HTTP/2 concurrerend worden geladen, is het beter om alleen de bestanden te serveren die je bezoekers nodig hebben en je weinig zorgen te maken over aan een schakeling."
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:358
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:467
+msgid "whereby a server can push vital resources to the browser before being asked for them."
+msgstr "waarbij een server vitale bronnen naar de browser kan pushen voordat erom gevraagd wordt."
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:357
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:466
+msgid "allows concurrent requests across a single TCP connection"
+msgstr "staat gelijktijdige aanvragen over een enkele TCP-verbinding toe"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:354
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:463
+msgid "In HTTP/2 some of the issues that were addressed are"
+msgstr "In HTTP/2 werden onder meer de volgende problemen aangepakt"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:350
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:459
+msgid "While it's still a good idea to combine assets into fewer (or only one) files in HTTP/1 (since you are restricted to the number of open connections), doing the same in HTTP/2 is no longer a performance optimization due to the ability to transfer multiple small files simultaneously without much overhead."
+msgstr "Hoewel het nog steeds een goed idee is om assets samen te voegen tot minder (of slechts één) bestand in HTTP/1 (omdat je beperkt bent tot het aantal open verbindingen), is dit in HTTP/2 geen prestatie optimalisatie meer vanwege de mogelijkheid om meerdere kleine bestanden tegelijkertijd over te dragen zonder veel overhead."
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:286
+msgid "If you have 5 JS files (including jQuery library) loading in the <code>&lt;head&gt;</code> location and 7 JS files loading in <code>&lt;body&gt;</code> location, you will end up with a total of 3 JS files: jQuery library &amp; jQuery Migrate (they are not combined together with other JS files for maximum performance) in 1 file and the 2 JS files for HEAD and BODY, respectively."
+msgstr "Als je 5 JS bestanden (inclusief jQuery bibliotheek) hebt die in de <code>&lt;head&gt;</code> locatie worden geladen en 7 JS bestanden die in de <code>&lt;body&gt;</code> locatie worden geladen, eindig je met een totaal van 3 JS bestanden: jQuery- library en jQuery Migrate (ze zijn niet samengevoegd met andere JS bestanden voor maximale prestaties) in 1 bestand en de 2 JS bestanden voor HEAD en BODY, respectievelijk."
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:286
+#: templates/_admin-page-settings-plugin-areas/_test-mode.php:37
+msgid "Example"
+msgstr "Voorbeeld"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:285
+msgid "Any inline JavaScript code associated with the combined scripts, will not be altered or moved in any way."
+msgstr "Alle inline JavaScript code in verband met de gecombineerde scripts wordt op geen enkele wijze gewijzigd of verplaatst."
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:284
+msgid "The plugin scans the remaining JavaScript files (left after cleaning up the unnecessary ones) from the <code>&lt;head&gt;</code> and <code>&lt;body&gt;</code> locations and combines them into one file per each location."
+msgstr "De plugin scant de overgebleven JavaScript bestanden (nadat de onnodige zijn opgeschoond) van de <code>&lt;head&gt;</code> en <code>&lt;body&gt;</code> locaties en combineert ze tot één bestand per locatie."
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:283
+msgid "How are the JavaScript files combined?"
+msgstr "Hoe worden de JavaScript bestanden gecombineerd?"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:256
+msgid "This results in as less JS combination groups as possible (this combines all JS files into 2/3 files, keeping their HEAD and BODY locations and most of the inline script tags before them for maximum compatibility)"
+msgstr "Dit resulteert in zo min mogelijk JS combinatie groepen (dit combineert alle JS bestanden in 2/3 bestanden, waarbij hun HEAD en BODY locaties behouden blijven en de meeste inline script tags voor hen voor maximale compatibiliteit)"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:247
+msgid "Pattern Examples (you don't have to add the full URL, as it's recommended to use relative paths)"
+msgstr "Patroon voorbeelden (je hoeft niet de volledige URL toe te voegen, want het wordt aanbevolen relatieve paden te gebruiken)"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:239
+msgid "Do not combine the JavaScript files matching the patterns below (one per line, see pattern examples below)"
+msgstr "Combineer de JavaScript bestanden die aan de onderstaande patronen voldoen niet (één per regel, zie patroon voorbeelden hieronder)"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:153
+msgid "Combine loaded JS (JavaScript) into fewer files"
+msgstr "Combineer geladen JS (JavaScript) in minder bestanden"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:219
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:278
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:339
+#: templates/_admin-page-settings-plugin-areas/_plugin-usage-settings.php:161
+msgid "one per line"
+msgstr "eén per regel"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:219
+msgid "Do not combine the CSS files matching the patterns below"
+msgstr "Combineer niet de CSS bestanden die aan de onderstaande patronen voldoen"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:157
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:154
+msgid "Helps reducing the number of HTTP Requests even further"
+msgstr "Helpt het aantal HTTP aanvragen nog verder te verminderen"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:156
+msgid "Combine loaded CSS (Stylesheets) into fewer files"
+msgstr "Combineer geladen CSS (Stylesheets) in minder bestanden"
+
+#: templates/_admin-page-getting-started-areas/_how-it-works.php:13
+#: templates/_admin-page-getting-started-areas/_how-it-works.php:33
+#: templates/_admin-page-settings-plugin-areas/_fonts-google/_optimize-area.php:139
+#: templates/_admin-page-settings-plugin-areas/_fonts-local.php:63
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:146
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:149
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:143
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:146
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:256
+msgid "Read more"
+msgstr "Lees verder"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:146
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:143
+msgid "Concatenating assets is no longer a recommended practice in HTTP/2"
+msgstr "Aaneenschakelen van assets is niet langer een aanbevolen praktijk in HTTP/2"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:146
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:143
+msgid "NOTE"
+msgstr "OPMERKING"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:131
+msgid "jQuery library from %s"
+msgstr "jQuery bibliotheek van %s"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:129
+msgid "For maximum performance and to reduce server resources, the following stylesheet files will not be minified since they are already optimised and minified by the WordPress core contributors &amp; developers"
+msgstr "Voor maximale prestaties en om de belasting op de server gegevensbron te verminderen, zullen de volgende stylesheet bestanden niet worden geminimaliseerd omdat ze al zijn geoptimaliseerd en geminimaliseerd door de WordPress core bijdragers en ontwikkelaars"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:117
+msgid "Do not minify the JavaScript files matching the patterns below (one per line)"
+msgstr "Verklein niet de JavaScript bestanden die aan de onderstaande patronen voldoen (één per regel)"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:55
+msgid "This will take the remaining enqueued JavaScript files, minify them and load them from the cache."
+msgstr "Dit zal de resterende in de wacht rij geplaatste JavaScript bestanden nemen, ze verkleinen en laden vanuit de cache."
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:41
+msgid "JavaScript Files Minification"
+msgstr "JavaScript bestanden verkleinen"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:119
+msgid "Do not minify the CSS files matching the patterns below (one per line)"
+msgstr "Verklein niet de CSS bestanden die aan de onderstaande patronen voldoen (één per regel)"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:59
+msgid "This will take the remaining enqueued CSS files, minify them and load them from the cache."
+msgstr "Dit zal de overgebleven in de wacht rij geplaatste CSS bestanden nemen, ze verkleinen en uit de cache laden."
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:46
+#: templates/_admin-page-settings-plugin-areas/_optimize-js.php:42
+msgid "Helps decrease the total page size even further"
+msgstr "Helpt de totale pagina grootte nog verder te verkleinen"
+
+#: templates/_admin-page-settings-plugin-areas/_optimize-css.php:45
+msgid "CSS Files Minification"
+msgstr "CSS bestanden verkleining"
+
+#: templates/_admin-page-settings-plugin-areas/_html-source-cleanup.php:176
+msgid "Remove extra elements from the generated page source"
+msgstr "Extra elementen uit de gegenereerde pagina bron verwijderen"
+
+#: templates/_admin-page-settings-plugin-areas/_html-source-cleanup.php:13
+msgid "Remove unused elements from the &lthead&gt; section"
+msgstr "Verwijder ongebruikte elementen uit de"
+
+#: wpacu.php:79
+msgid "If your website is compatible with PHP 7+ (e.g. you can check with your developers or contact the hosting company), it's strongly recommended to upgrade to a newer PHP version for a better performance."
+msgstr "Als je site compatibel is met PHP 7+ (je kunt dit bijvoorbeeld controleren bij je ontwikkelaars of contact opnemen met het hosting bedrijf), is het sterk aanbevolen om te upgraden naar een nieuwere PHP versie voor betere prestaties."
+
+#: wpacu.php:74
+msgid "%1$s requires %2$s PHP version installed. You have %3$s."
+msgstr "%1$s vereist %2$s PHP versie geïnstalleerd. Je hebt %3$s."
+
+#. Author URI of the plugin
+msgid "http://gabelivan.com/"
+msgstr "http://gabelivan.com/"
+
+#. Description of the plugin
+msgid "Unload Chosen Scripts & Styles from Posts/Pages to reduce HTTP Requests, Combine/Minify CSS/JS files"
+msgstr "Ontlaadt gekozen scripts & stijlen van berichten/pagina's om HTTP aanvragen te verminderen, combineert/verkleint CSS/JS bestanden"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/wp-asset-clean-up/"
+msgstr "https://wordpress.org/plugins/wp-asset-clean-up/"
+
+#. Plugin Name of the plugin
+msgid "Asset CleanUp: Page Speed Booster"
+msgstr "Asset CleanUp: Page Speed Booster"

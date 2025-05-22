@@ -1,0 +1,680 @@
+________________________________________________
+|             CALL API : START                |
+________________________________________________
+
+Informations : 
+Called API: meteo - 29 August 2022, 22:40
+Method: GETMETEO - Timeout : 300 - Cache : 1
+URL CALLED : https://rmipro.meteo.be/products/bx1/5373bc0393d004fc/web_forecast
+-------------------------
+________________________________________________
+|             CALL API : START                |
+________________________________________________
+
+Informations : 
+Called API: meteo - 29 August 2022, 22:40
+Method: GETMETEO - Timeout : 300 - Cache : 1
+URL CALLED : https://rmipro.meteo.be/products/bx1/5373bc0393d004fc/web_forecast
+-------------------------
+<?xml version='1.0' encoding='UTF-8'?>
+<meteo>
+  <generationDate>29/08/2022 19:58</generationDate>
+  <forecast date="20220829" period="NIGHT">
+    <titledate>29/08/22</titledate>
+    <titleday>lundi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMin>16 </tempMin>
+      <weathertype>TNN2</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMin>14 </tempMin>
+      <weathertype>TNN2</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMin>14 </tempMin>
+      <weathertype>TNN2</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMin>13 </tempMin>
+      <weathertype>TNN2</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMin>12 </tempMin>
+      <weathertype>TNN2</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMin>13 </tempMin>
+      <weathertype>TNN2</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20220830" period="AM">
+    <titledate>30/08/22</titledate>
+    <titleday>mardi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMax>20 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMax>21 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMax>22 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMax>21 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMax>21 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMax>21 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20220830" period="PM">
+    <titledate>30/08/22</titledate>
+    <titleday>mardi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMax>22 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMax>25 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMax>26 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMax>26 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMax>28 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMax>26 </tempMax>
+      <weathertype>TJ12</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20220831" period="DAY">
+    <titledate>31/08/22</titledate>
+    <titleday>mercredi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMin>16 </tempMin>
+      <tempMax>22 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMin>14 </tempMin>
+      <tempMax>25 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMin>14 </tempMin>
+      <tempMax>25 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMin>12 </tempMin>
+      <tempMax>24 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMin>15 </tempMin>
+      <tempMax>24 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMin>12 </tempMin>
+      <tempMax>21 </tempMax>
+      <weathertype>TJ12</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20220901" period="DAY">
+    <titledate>01/09/22</titledate>
+    <titleday>jeudi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMin>16 </tempMin>
+      <tempMax>23 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMin>15 </tempMin>
+      <tempMax>25 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMin>15 </tempMin>
+      <tempMax>25 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMin>13 </tempMin>
+      <tempMax>22 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMin>16 </tempMin>
+      <tempMax>26 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMin>13 </tempMin>
+      <tempMax>22 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20220902" period="DAY">
+    <titledate>02/09/22</titledate>
+    <titleday>vendredi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMin>15 </tempMin>
+      <tempMax>25 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMin>15 </tempMin>
+      <tempMax>24 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMin>15 </tempMin>
+      <tempMax>24 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMin>14 </tempMin>
+      <tempMax>21 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMin>15 </tempMin>
+      <tempMax>25 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMin>14 </tempMin>
+      <tempMax>21 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+  </forecast>
+  <forecast_foreign date="20220830" period="DAY">
+    <titledate>30/08/22</titledate>
+    <titleday>mardi</titleday>
+    <data>
+      <city>Paris</city>
+      <temp>22 </temp>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Londres</city>
+      <temp>18 </temp>
+      <weathertype>TJ4</weathertype>
+    </data>
+    <data>
+      <city>Amsterdam</city>
+      <temp>18 </temp>
+      <weathertype>TJ1</weathertype>
+    </data>
+  </forecast_foreign>
+  <forecast_foreign date="20220831" period="DAY">
+    <titledate>31/08/22</titledate>
+    <titleday>mercredi</titleday>
+    <data>
+      <city>Paris</city>
+      <temp>23 </temp>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Londres</city>
+      <temp>18 </temp>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Amsterdam</city>
+      <temp>18 </temp>
+      <weathertype>TJ3</weathertype>
+    </data>
+  </forecast_foreign>
+  <Ephemerides>
+    <Ephemeride>
+      <titledate>29/08/22</titledate>
+      <titleday>lundi</titleday>
+      <data>
+        <sunRise>06:53</sunRise>
+        <sunSet>20:34</sunSet>
+        <gain>-4 </gain>
+      </data>
+    </Ephemeride>
+    <Ephemeride>
+      <titledate>30/08/22</titledate>
+      <titleday>mardi</titleday>
+      <data>
+        <sunRise>06:54</sunRise>
+        <sunSet>20:32</sunSet>
+        <gain>-3 </gain>
+      </data>
+    </Ephemeride>
+    <Ephemeride>
+      <titledate>31/08/22</titledate>
+      <titleday>mercredi</titleday>
+      <data>
+        <sunRise>06:56</sunRise>
+        <sunSet>20:30</sunSet>
+        <gain>-4 </gain>
+      </data>
+    </Ephemeride>
+    <Ephemeride>
+      <titledate>01/09/22</titledate>
+      <titleday>jeudi</titleday>
+      <data>
+        <sunRise>06:57</sunRise>
+        <sunSet>20:28</sunSet>
+        <gain>-3 </gain>
+      </data>
+    </Ephemeride>
+  </Ephemerides>
+  <indices>
+    <indice>
+      <titledate>29/08/22</titledate>
+      <titleday>lundi</titleday>
+      <data>
+        <value>3</value>
+        <evaluation>bonne</evaluation>
+      </data>
+    </indice>
+    <indice>
+      <titledate>30/08/22</titledate>
+      <titleday>mardi</titleday>
+      <data>
+        <value>4</value>
+        <evaluation>assez bonne</evaluation>
+      </data>
+    </indice>
+    <indice>
+      <titledate>31/08/22</titledate>
+      <titleday>mercredi</titleday>
+      <data>
+        <value>4</value>
+        <evaluation>assez bonne</evaluation>
+      </data>
+    </indice>
+  </indices>
+</meteo>
+
+--- ENF OF RECEIVED DATA ---
+
+<?xml version='1.0' encoding='UTF-8'?>
+<meteo>
+  <generationDate>29/08/2022 19:58</generationDate>
+  <forecast date="20220829" period="NIGHT">
+    <titledate>29/08/22</titledate>
+    <titleday>lundi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMin>16 </tempMin>
+      <weathertype>TNN2</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMin>14 </tempMin>
+      <weathertype>TNN2</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMin>14 </tempMin>
+      <weathertype>TNN2</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMin>13 </tempMin>
+      <weathertype>TNN2</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMin>12 </tempMin>
+      <weathertype>TNN2</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMin>13 </tempMin>
+      <weathertype>TNN2</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20220830" period="AM">
+    <titledate>30/08/22</titledate>
+    <titleday>mardi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMax>20 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMax>21 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMax>22 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMax>21 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMax>21 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMax>21 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20220830" period="PM">
+    <titledate>30/08/22</titledate>
+    <titleday>mardi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMax>22 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMax>25 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMax>26 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMax>26 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMax>28 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMax>26 </tempMax>
+      <weathertype>TJ12</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20220831" period="DAY">
+    <titledate>31/08/22</titledate>
+    <titleday>mercredi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMin>16 </tempMin>
+      <tempMax>22 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMin>14 </tempMin>
+      <tempMax>25 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMin>14 </tempMin>
+      <tempMax>25 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMin>12 </tempMin>
+      <tempMax>24 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMin>15 </tempMin>
+      <tempMax>24 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMin>12 </tempMin>
+      <tempMax>21 </tempMax>
+      <weathertype>TJ12</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20220901" period="DAY">
+    <titledate>01/09/22</titledate>
+    <titleday>jeudi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMin>16 </tempMin>
+      <tempMax>23 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMin>15 </tempMin>
+      <tempMax>25 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMin>15 </tempMin>
+      <tempMax>25 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMin>13 </tempMin>
+      <tempMax>22 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMin>16 </tempMin>
+      <tempMax>26 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMin>13 </tempMin>
+      <tempMax>22 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20220902" period="DAY">
+    <titledate>02/09/22</titledate>
+    <titleday>vendredi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMin>15 </tempMin>
+      <tempMax>25 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMin>15 </tempMin>
+      <tempMax>24 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMin>15 </tempMin>
+      <tempMax>24 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMin>14 </tempMin>
+      <tempMax>21 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMin>15 </tempMin>
+      <tempMax>25 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMin>14 </tempMin>
+      <tempMax>21 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+  </forecast>
+  <forecast_foreign date="20220830" period="DAY">
+    <titledate>30/08/22</titledate>
+    <titleday>mardi</titleday>
+    <data>
+      <city>Paris</city>
+      <temp>22 </temp>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Londres</city>
+      <temp>18 </temp>
+      <weathertype>TJ4</weathertype>
+    </data>
+    <data>
+      <city>Amsterdam</city>
+      <temp>18 </temp>
+      <weathertype>TJ1</weathertype>
+    </data>
+  </forecast_foreign>
+  <forecast_foreign date="20220831" period="DAY">
+    <titledate>31/08/22</titledate>
+    <titleday>mercredi</titleday>
+    <data>
+      <city>Paris</city>
+      <temp>23 </temp>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Londres</city>
+      <temp>18 </temp>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Amsterdam</city>
+      <temp>18 </temp>
+      <weathertype>TJ3</weathertype>
+    </data>
+  </forecast_foreign>
+  <Ephemerides>
+    <Ephemeride>
+      <titledate>29/08/22</titledate>
+      <titleday>lundi</titleday>
+      <data>
+        <sunRise>06:53</sunRise>
+        <sunSet>20:34</sunSet>
+        <gain>-4 </gain>
+      </data>
+    </Ephemeride>
+    <Ephemeride>
+      <titledate>30/08/22</titledate>
+      <titleday>mardi</titleday>
+      <data>
+        <sunRise>06:54</sunRise>
+        <sunSet>20:32</sunSet>
+        <gain>-3 </gain>
+      </data>
+    </Ephemeride>
+    <Ephemeride>
+      <titledate>31/08/22</titledate>
+      <titleday>mercredi</titleday>
+      <data>
+        <sunRise>06:56</sunRise>
+        <sunSet>20:30</sunSet>
+        <gain>-4 </gain>
+      </data>
+    </Ephemeride>
+    <Ephemeride>
+      <titledate>01/09/22</titledate>
+      <titleday>jeudi</titleday>
+      <data>
+        <sunRise>06:57</sunRise>
+        <sunSet>20:28</sunSet>
+        <gain>-3 </gain>
+      </data>
+    </Ephemeride>
+  </Ephemerides>
+  <indices>
+    <indice>
+      <titledate>29/08/22</titledate>
+      <titleday>lundi</titleday>
+      <data>
+        <value>3</value>
+        <evaluation>bonne</evaluation>
+      </data>
+    </indice>
+    <indice>
+      <titledate>30/08/22</titledate>
+      <titleday>mardi</titleday>
+      <data>
+        <value>4</value>
+        <evaluation>assez bonne</evaluation>
+      </data>
+    </indice>
+    <indice>
+      <titledate>31/08/22</titledate>
+      <titleday>mercredi</titleday>
+      <data>
+        <value>4</value>
+        <evaluation>assez bonne</evaluation>
+      </data>
+    </indice>
+  </indices>
+</meteo>
+
+--- ENF OF RECEIVED DATA ---
+

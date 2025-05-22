@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>BX1+ - Bruxelles vit</title>
+        <link>https://bx1plus.be/</link>
+        <description><![CDATA[Bruxelles vit !, présenté du lundi au vendredi de 14h à 16h par Charlotte Maréchal, est une carte postale sonore qui fait vivre en direct la répétition d’une pièce, une foire internationale, les coulisses d’un marché bio, etc. Tous les événements qui animent la capitale tout au long de l'année.]]></description>
+        <itunes:summary>Bruxelles vit !, présenté du lundi au vendredi de 14h à 16h par Charlotte Maréchal, est une carte postale sonore qui fait vivre en direct la répétition d’une pièce, une foire internationale, les coulisses d’un marché bio, etc. Tous les événements qui animent la capitale tout au long de l'année.</itunes:summary>
+        <copyright>
+            BX1 &#xA9; 2021. Tous droits réservés.
+        </copyright>
+        <image><title>Bruxelles vit !</title>
+            <url>https://bx1plus.be/img/podcasts/logo_bruxellesvit_grand.jpg</url>
+            <link>https://bx1plus.be/</link>
+        </image>
+        <itunes:author>BX1</itunes:author>
+        <itunes:owner><itunes:name>BX1</itunes:name>
+            <itunes:email>web@bx1.be</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:category text="News" />
+        <itunes:image href="https://bx1plus.be/img/podcasts/logo_bruxellesvit_grand.jpg" />
+        <language>fr</language>
+        <lastBuildDate>Thu, 25 Nov 2021 16:01:48 +0100</lastBuildDate>
+        <item>
+            <title>
+                Bruxelles Vit ! &#8211; Womade      </title>
+            <guid>
+                543897      </guid>
+            <link>
+                https://bx1.be/?p=543897        </link>
+            <pubDate>
+                Wed, 24 Nov 2021 15:00:00 +0100      </pubDate>
+            <itunes:explicit>
+                false
+            </itunes:explicit>
+            <itunes:image href="https://bx1plus.be/img/podcasts/logo_bruxellesvit_grand.jpg"/>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EBT00309_Podcast.mp3" type="audio/mpeg" length="1"/>
+            <itunes:duration>
+            </itunes:duration>
+            <itunes:summary>
+                Dans Bruxelles Vit !, ce mercredi, Charlotte Maréchal vous emmène à la découverte de Womade. C'est un espace de coworking basé à Bruxelles et un réseau féminin d'entrepreneures et indépendantes voulant s'entourer d'autres femmes ambitieuses et dotée des mêmes valeurs.       </itunes:summary>
+            <description>
+                Dans Bruxelles Vit !, ce mercredi, Charlotte Maréchal vous emmène à la découverte de Womade. C'est un espace de coworking basé à Bruxelles et un réseau féminin d'entrepreneures et indépendantes voulant s'entourer d'autres femmes ambitieuses et dotée des mêmes valeurs.       </description>
+        </item>
+    </channel>
+</rss>

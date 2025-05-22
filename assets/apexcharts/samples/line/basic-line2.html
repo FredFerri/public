@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Basic Line Chart</title>
+
+
+    <link href="../assets/styles.css" rel="stylesheet" />
+
+    <style>
+        #chart {
+            max-width: 650px;
+            margin: 35px auto;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="chart">
+
+    </div>
+
+
+    <script src="../../dist/apexcharts.min.js"></script>
+    <script src="../assets/irregular-data-series.js"></script>
+
+    <script>
+
+        var ts2 = 1484418600000;
+    var dates = [];
+    var spikes = [5, -5, 3, -3, 8, -8]
+    for (var i = 0; i < 120; i++) {
+      ts2 = ts2 + 86400000;
+      var innerArr = [ts2, dataSeries[1][i].value];
+      dates.push(innerArr)
+    }
+    
+        var options = {
+            chart: {
+                height: 380,
+                stacked: false,
+                type: 'area',
+                zoom: {
+                    enabled: true
+                }
+            },
+            plotOptions: {
+        line: {
+          curve: 'smooth',
+
+        }
+      },
+      dataLabels: {
+        enabled: false
+      },
+      series: [{
+        name: 'XYZ MOTORS',
+        data: dates
+      }],
+      markers: {
+        size: 0,
+        style: 'full',
+      },
+            title: {
+                text: ' Trends by Month',
+                align: 'left'
+            },
+            grid: {
+                row: {
+                    colors: ['#f3f3f3', 'transparent'], // takes an array which will be repeated on columns
+                    opacity: 0.5
+                },
+            },
+            xaxis: {
+        type: 'datetime',
+      },
+        }
+
+        var chart = new ApexCharts(
+            document.querySelector("#chart"),
+            options
+        );
+
+        chart.render();
+        
+    </script>
+</body>
+
+</html>

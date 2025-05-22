@@ -1,0 +1,52 @@
+# Translation of Plugins - hCaptcha for WP - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - hCaptcha for WP - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-25 10:46:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - hCaptcha for WP - Stable (latest release)\n"
+
+#: src/php/Settings/General.php:245
+msgid "Invisible"
+msgstr "Invisible"
+
+#: src/php/WP/Comment.php:162
+msgid "Invalid Captcha"
+msgstr "CAPTCHA invalide"
+
+#: src/php/Settings/PluginSettingsBase.php:150
+msgid "Settings"
+msgstr "Réglages"
+
+#: src/php/Settings/General.php:244
+msgid "Compact"
+msgstr "Compact"
+
+#: src/php/Settings/General.php:243
+msgid "Normal"
+msgstr "Normal"
+
+#: src/php/Settings/General.php:233
+msgid "Dark"
+msgstr "Sombre"
+
+#: src/php/Settings/General.php:232
+msgid "Light"
+msgstr "Clair"
+
+#: src/php/Settings/PluginSettingsBase.php:141
+msgid "hCaptcha Settings"
+msgstr "Paramètres hCaptcha"
+
+#. Author of the plugin
+#: hcaptcha.php src/php/Admin/Notifications.php:130 src/php/CF7/Admin.php:179
+#: src/php/ElementorPro/HCaptchaHandler.php:395 src/php/NF/Field.php:76
+#: src/php/Settings/PluginSettingsBase.php:55 src/php/UM/Base.php:144
+#: src/php/UM/Base.php:147
+msgid "hCaptcha"
+msgstr "hCaptcha"

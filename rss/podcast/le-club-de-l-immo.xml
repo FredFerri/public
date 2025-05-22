@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+ <channel>
+  <title>BX1 - Le Club de l'Immo</title>
+  <link>https://bx1plus.be/</link>
+  <description></description>
+  <itunes:summary></itunes:summary>
+  <copyright>BX1 - 2025. Tous droits réservés.</copyright>
+  <image>
+   <url></url>
+   <title></title>
+  </image>
+  <itunes:author>BX1</itunes:author>
+  <itunes:owner>
+   <itunes:name>BX1+</itunes:name>
+   <itunes:email>web@bx1.be</itunes:email>
+  </itunes:owner>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:category text="News"/>
+  <language>fr</language>
+  <lastBuildDate>Wed, 14 May 2025 17:15:15 +0200</lastBuildDate>
+  <itunes:image href=""/>
+  <item>
+   <title>Quand la vie s’éteint, que devient le bail ?</title>
+   <guid>753215</guid>
+   <link>https://bx1.be/?p=753215</link>
+   <pubDate></pubDate>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href=""/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ECI00003-CHRONIQUE CHARLES.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>Quand la vie s’éteint, que devient le bail ?</itunes:summary>
+   <description>Quand la vie s’éteint, que devient le bail ?</description>
+  </item>
+  <item>
+   <title>L&amp;#8217;immobilier : entre fiscalité, poésie et révolution numérique.</title>
+   <guid>752152</guid>
+   <link>https://bx1.be/?p=752152</link>
+   <pubDate></pubDate>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href=""/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ECI00003-VF.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>L'immobilier: entre fiscalité, poésie et révolution numérique.</itunes:summary>
+   <description>L'immobilier: entre fiscalité, poésie et révolution numérique.</description>
+  </item>
+  <item>
+   <title>Le Club de l’Immo – 16/04/2025</title>
+   <guid>751090</guid>
+   <link>https://bx1.be/?p=751090</link>
+   <pubDate></pubDate>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href=""/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ECI00002-VF.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>Le Club de l’Immo – 16/04/2025</itunes:summary>
+   <description>Le Club de l’Immo – 16/04/2025</description>
+  </item>
+  <item>
+   <title>Le Club de l&amp;#8217;Immo &amp;#8211; 09/04/2025</title>
+   <guid>750104</guid>
+   <link>https://bx1.be/?p=750104</link>
+   <pubDate></pubDate>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href=""/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ECI00001.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>Le Club de l'Immo - 09/04/2025</itunes:summary>
+   <description>Le Club de l'Immo - 09/04/2025</description>
+  </item>
+ </channel>
+</rss>

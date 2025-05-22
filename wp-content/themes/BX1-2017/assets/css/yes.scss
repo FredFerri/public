@@ -1,0 +1,206 @@
+$color-banner-background-1:rgb(91,32,146);
+$color-banner-background-2:#61c8d3;
+.introyes{
+  background-color: $color-banner-background-1;
+  display: block;
+  border-radius: .8rem;
+  font-weight: 400;
+  font-family: poppins, sans-serif;
+  margin-bottom: 20px;
+}
+.introyes div{
+  display: table-cell;
+  color: #FFFFFF!important;
+  border-radius: .8rem;
+  padding:10px;
+}
+.introyes img{
+  max-height: 215px;
+}
+.textintroyes{
+  font-size: 17px;
+  line-height: unset;
+  vertical-align: middle;
+}
+.container {
+  position: relative;
+  width: 100%;
+}
+.image {
+  width: 100%;
+  height: auto;
+  border-radius: .8rem;
+}
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0,0,0,0.6);
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  transform: scale(0);
+  transition: .3s ease;
+  border-radius: .8rem;
+}
+.container:hover .overlay {
+  transform: scale(1);
+}
+.text, .text a {
+  color: white!important;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-weight: 400;
+  font-family: poppins, sans-serif;
+  white-space: nowrap;
+}
+.title{
+  width: 100%;
+  margin-top: 7px;
+  text-align: center;
+  font-family: poppins, sans-serif;
+}
+.articles__row{
+  display: inline-flex;
+  width: 100%;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+.yesbox{
+  display: block;
+  width: 100%;
+}
+.yesbox div{
+  border-radius: .8rem;
+  vertical-align: bottom;
+}
+.yesbox div div.title{
+  background-color: #FFF;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.yesarticle{
+  display: block;
+  position: relative;
+  transition: all 1s;
+  text-decoration: none;
+}
+.yesarticle .yesbg{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  height: 100%;
+  width: 100%;
+  text-decoration: none;
+}
+.title{
+  color:#000;
+}
+.first-item{
+  height: 312px;
+  width: calc(50% - 2rem);
+  margin-right: 2rem;
+  margin-left: 0;
+}
+.first-item .title{
+  min-height: 85px;
+  width: 50%;
+  border-radius: 0 8px;
+  padding-top:5px;
+  z-index: 1;
+}
+.first-item .clickbox{
+  position: absolute;
+  bottom: 0;
+  left: 30%;
+  border-radius: 0 9px;
+  background: $color-banner-background-1;
+  color: #FFF;
+  min-height: 85px;
+  padding: 5px 5px 0 5px;
+  vertical-align: middle;
+  line-height: 80px;
+  z-index: 0;
+  transition: all 0.5s;
+  font-weight: bold;
+}
+.first-item:hover .title{
+  border-radius: 0;
+}
+.first-item:hover .clickbox{
+  left: 50%;
+  border-radius: 0 8px 0 0;
+}
+.quarter-item{
+    flex-direction: column;
+    margin-right: 2rem;
+    margin-left: 2rem;
+    width: calc(100% / 4 - 4rem);
+  overflow: hidden;
+}
+.quarter-item .title{
+  padding-top: 5px;
+  border-radius: 0;
+  background-color: rgba(255,255,255,0.75)!important;
+  transition: all 0.5s;
+}
+.quarter-item .clickbox{
+  position: absolute;
+  bottom: calc(-10% - 5px);
+  left: 0;
+  width: calc( 100% - 10px);
+  border-radius: 0 0 8px 8px;
+  background: $color-banner-background-1;
+  color: #FFF;
+  padding: 5px;
+  vertical-align: middle;
+  z-index: 0;
+  font-weight: bold;
+  transition: all 0.5s;
+  text-align: center;
+}
+.quarter-item:hover .title{
+  bottom: calc(-40% + 1px);
+}
+.quarter-item:hover .clickbox{
+  display: block;
+  bottom: 0;
+}
+.quarter-item:last-child{
+  margin-right: 0;
+}
+.third-item{
+  overflow:hidden;
+  height: 300px;
+  width: calc(25% - 5px);
+  transition: all 0.5s;
+}
+.third-item .title{
+  background-color: rgba(255,255,255,0.75)!important;
+  border-radius: calc(.8rem - 1px);
+  padding: 5px;
+  width: calc( 100% - 10px );
+  min-height: 75px;
+}
+.third-item .clickbox{
+  background-color: $color-banner-background-1;
+  top: calc(-10% - 2px);
+  position: absolute;
+  width: calc( 100% - 10px);
+  padding: 5px;
+  transition: all 0.5s;
+  color: #FFF;
+  font-weight: bold;
+  text-align: center;
+}
+.third-item:hover .clickbox{
+  top:0;
+}

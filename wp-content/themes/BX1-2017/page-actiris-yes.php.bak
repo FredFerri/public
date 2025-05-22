@@ -1,0 +1,174 @@
+<?php
+/*********************************************
+ *   Template Name: Page Spéciale Actiris YES!
+ *   Project : BX1 - PROD
+ *   File    : page-actiris-yes.php
+ *
+ *   Company : Infinite-IT
+ *   Author  : DE NAEYER Bruno
+ *   Support : support@infinite-it.be
+ *
+ *   File Created on 05 August 2020
+ *   Don't edit this code without authorization
+ *********************************************/
+require($_SERVER['DOCUMENT_ROOT'].'/wp-load.php');
+get_header();
+?>
+<script src="https://kit.fontawesome.com/8d9d719a34.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://use.typekit.net/srz0xsf.css">
+<link rel="stylesheet" href="/wp-content/themes/BX1-2017/assets/css/yes.css">
+<section>
+	<div class="introyes"<?php if($_GET['theme'] == "app" || $_GET['theme'] == "APP") { echo " style='margin-top: 20px;'";}?>>
+		<div class="logoyes"><img src="<?php echo get_template_directory_uri(); ?>/img/logoyes.png"></div>
+		<div class="textintroyes">YES! c’est le média bruxellois de l’emploi d’Actiris, il s’agit d’une plateforme digitale conçue pour aider les chercheurs d’emploi à atteindre les objectifs qu’ils se sont fixés grâce à des programmes, des vidéos et des articles inspirants.</div>
+	</div>
+
+	<?php
+			$json_file 		= file_get_contents( "./wp-content/themes/BX1-2017/cache/cache.yes.actiris.json");
+			$APIContent     = json_decode($json_file, true);
+			$i              = 1;
+			if ($_SERVER['REMOTE_ADDR'] != '109.136.128.13-')
+                {?>
+    <div style="margin-top: 30px;display: grid;grid-auto-rows: 350px;grid-template-columns: repeat( auto-fill, minmax( 300px, 1fr ) );grid-gap: 2em;">
+    <?php
+                    foreach ($APIContent as $article)
+                        {
+                            if ($article["langcode"] == "fr" )
+                                {
+                                    $image  = $article["image"];
+                                    $image = str_replace("https://yes.actiris.brussels/sites/default/files/styles/thumb_768x600px/public/media/image/","",$image);
+                                    $image  = explode("?",$image);
+                                    $image  = $image[0];
+                                    $image = str_replace("%20",'_',$image);
+                                    $image = str_replace("%CC",'_',$image);
+                                    $image = str_replace("%80",'_',$image);
+                                    $image = str_replace("%2B",'_',$image);
+                                    $image = str_replace("%81",'_',$image);
+                                    ?>
+                                    <div>
+                                        <div class="container">
+                                            <img src="/wp-content/themes/BX1-2017/cache/img/actiris/<?php echo $image;?>" class="image">
+                                            <div class="overlay">
+                                                <div class="text"><a href="https://yes.actiris.brussels<?php echo $article["url"];?>?utm_source=bx1&utm_medium=website&utm_campaign=Partner-BX1&utm_content=<?php echo rawurlencode( $article["title"] )?>" target="_blank">Voir l'article&nbsp;&nbsp;<i class="fa fa-external-link fa-1x"></i></a></div>
+                                            </div>
+                                        </div>
+                                        <div class="title"><?php echo $article["title"];?></div>
+                                    </div>
+                                <?php
+                                $i++;
+                                }
+
+                        }
+                }
+            elseif ($_SERVER['REMOTE_ADDR'] == '109.136.128.13-')
+                {
+                    echo "<div class='yesbox'>";
+                    $layout_array = array(3,4);
+                    $e = 0;
+	                foreach ($APIContent as $article)
+	                {
+		                if ($article["langcode"] == "fr" )
+		                {
+			                $image  = $article["image"];
+			                $image = str_replace("https://yes.actiris.brussels/sites/default/files/styles/thumb_768x600px/public/media/image/","",$image);
+			                $image  = explode("?",$image);
+			                $image  = $image[0];
+			                $image = str_replace("%20",'_',$image);
+			                $image = str_replace("%CC",'_',$image);
+			                $image = str_replace("%80",'_',$image);
+			                $image = str_replace("%2B",'_',$image);
+			                $image = str_replace("%81",'_',$image);
+			                /* Layout des cases */
+			                if ($i == 1)
+                                {
+                                    $layout     =   "first-item";
+                                }
+			                elseif ($i == 2 || $i == 3)
+                                {
+                                    $layout     =   'quarter-item';
+                                }
+                            elseif ($i >= 4 && $i <= 7)
+                                {
+                                    $layout     =   'third-item';
+                                }
+                            elseif ($i >= 8 && $i <= 10)
+                                {
+                                    $layout     =   'quarter-item';
+                                }
+                            elseif ($i >= 11)
+			                    {
+				                    //echo "<h1>haha</h1>";
+			                        if($e == 0)
+                                        {
+	                                        $selectlayout = array_rand($layout_array);
+	                                        $selectlayout = $layout_array[$selectlayout];
+                                        }
+
+			                        if ($selectlayout == 3 && $i%3==0)
+                                        {
+                                            $e  =   $i+2;
+                                        }
+			                        elseif ($selectlayout == 3)
+                                        {
+	                                        $layout     =   'third-item';
+                                        }
+			                        elseif($selectlayout == 4 && $i%4==0)
+			                            {
+			                                $e  =   $i+3;
+                                        }
+			                        elseif ($selectlayout == 4)
+                                        {
+	                                        $layout     =   'quarter-item';
+                                        }
+				                    if ($e == $i)
+				                    {
+					                    $selectlayout = array_rand($layout_array);
+					                    $selectlayout = $layout_array[$selectlayout];
+				                    }
+                                }
+			                else
+                                {
+                                    $layout     =   '';
+                                }
+			                /* layout des lignes */
+                            if ($i == 1 && $i <= 3)
+                                {
+                                    echo "<div class='articles__row'>";
+                                }
+			                ?>
+                            <a class="yesarticle <?php echo $layout;?>" href="https://yes.actiris.brussels<?php echo $article["url"];?>?utm_source=bx1&utm_medium=website&utm_campaign=Partner-BX1&utm_content=<?php echo rawurlencode( $article["title"] )?>" target="_blank">
+                                <div class="yesbg" style="background-image: url('/wp-content/themes/BX1-2017/cache/img/actiris/<?php echo $image;?>');position: relative"></div>
+                                <div class="title"><?php echo "[" . $e . " / " . $i . "{" . $selectlayout . "}] " . $article["title"];?></div>
+                                <div class="clickbox">Lire l'article<i class="fa fa-arrow--right"></i></div>
+                            </a>
+			                <?php
+			                if ($i == 3)
+                                {
+                                    echo "</div>";
+	                                echo "<div class='articles__row'>";
+                                }
+			                if ($i == 7)
+                                {
+                                    echo "</div>";
+                                    echo "<div class='articles__row'>";
+                                }
+			                if ($i == 10)
+			                {
+				                echo "</div>";
+				                echo "<div class='articles__row'>";
+			                }
+			                if ($e == $i)
+                                {
+	                                echo "</div>";
+	                                echo "<div class='articles__row'>";
+                                }
+			                $i++;
+		                }
+	                }
+	                echo "</div>";
+	                echo "</div>";
+                }
+	?>
+	</div>
+</section>
+<?php get_footer();?>

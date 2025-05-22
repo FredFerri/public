@@ -1,0 +1,2 @@
+<?php
+return ['x-generator'=>'GlotPress/4.0.1','translation-revision-date'=>'2022-03-25 10:46:36+0000','plural-forms'=>'nplurals=2; plural=n > 1;','project-id-version'=>'Plugins - hCaptcha for WP - Stable (latest release)','language'=>'fr','messages'=>['Invisible'=>'Invisible','Invalid Captcha'=>'CAPTCHA invalide','Settings'=>'Réglages','Compact'=>'Compact','Normal'=>'Normal','Dark'=>'Sombre','Light'=>'Clair','hCaptcha Settings'=>'Paramètres hCaptcha','hCaptcha'=>'hCaptcha']];

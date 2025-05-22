@@ -1,0 +1,1968 @@
+# Translation of Plugins - ShortPixel Adaptive Images &#8211; WebP, AVIF, CDN, Image Optimization - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - ShortPixel Adaptive Images &#8211; WebP, AVIF, CDN, Image Optimization - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-07 08:53:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - ShortPixel Adaptive Images &#8211; WebP, AVIF, CDN, Image Optimization - Stable (latest release)\n"
+
+#: includes/helpers/domain-tools.class.php:498
+msgid "Invalid nonce."
+msgstr "Недействительный nonce."
+
+#: includes/controllers/notice.class.php:589
+msgid "Show me the best available options"
+msgstr "Покажите мне лучшие подходящие параметры"
+
+#: includes/helpers/domain-tools.class.php:489
+msgid "Error. Could not contact ShortPixel server for proposal"
+msgstr "Ошибка. Не удалось связаться с сервером ShortPixel для предложения"
+
+#: includes/constants/notice.constants.class.php:209
+msgid "Dismiss, I know what I'm doing."
+msgstr "Свободен, я знаю, что делаю."
+
+#: includes/views/settings.tpl.php:1014
+msgid "Enable this if you notice conflicts with dynamic content rendered by JS, or missing images."
+msgstr "Включите это, если вы заметили конфликты с динамическим содержимым, отображаемым JS, или отсутствующие изображения."
+
+#: includes/views/settings.tpl.php:1012
+msgid "Synchronous initial parsing"
+msgstr "Синхронный начальный синтаксический анализ"
+
+#: includes/views/settings.tpl.php:127
+msgid "Unlimited"
+msgstr "Нет лимита"
+
+#: includes/views/settings.tpl.php:196
+msgid "Your monthly consumption will reset on"
+msgstr "Ваше ежемесячное потребление будет сброшено на"
+
+#: includes/views/settings.tpl.php:1509
+msgid " You can test your regex online, for example here: <a href=\"https://regex101.com/\" target=\"_blank\">regex101.com</a>."
+msgstr " Вы можете проверить свой regex онлайн, например, здесь: : <a href=\"https://regex101.com/\" target=\"_blank\">regex101.com</a>."
+
+#: includes/views/settings.tpl.php:1472
+msgid "Excluded pages"
+msgstr "Исключенные страницы"
+
+#: includes/views/settings.tpl.php:1036
+msgid "Display the ShortPixel menu in the admin top bar."
+msgstr "Отображение меню ShortPixel в верхней панели администратора."
+
+#: includes/views/settings.tpl.php:1489
+msgid "Exclude entire pages based on their URL, so that none of the images on these pages are optimized."
+msgstr "Исключайте целые страницы на основе их URL, чтобы ни одно из изображений на этих страницах не было оптимизировано."
+
+#: includes/views/settings.tpl.php:1462
+msgid "Exclude images based on their URL. The rule for gravatar.com is included by default because many sites use gravatar and these images cannot be optimized, but if you're sure your site doesn't include gravatar URLs, feel free to remove it. "
+msgstr "Исключить изображения на основе их URL. Правило для gravatar.com включено по умолчанию, потому что многие сайты используют gravatar и эти изображения нельзя оптимизировать, но если вы уверены, что ваш сайт не включает URL-адреса gravatar, не стесняйтесь удалить его. "
+
+#: includes/views/settings.tpl.php:1492
+msgid "For both <strong>Excluded URLs</strong> and <strong>Excluded pages</strong>:"
+msgstr "Как для <strong>Исключенных URL</strong>, так и для <strong>Исключенных страниц</strong>:"
+
+#: includes/views/settings.tpl.php:1021
+msgid "Top bar menu"
+msgstr "Меню верхней панели"
+
+#: includes/views/settings.tpl.php:1601
+msgid "Optimize and rescale the background images in CSS blocks and files"
+msgstr "Оптимизируйте и изменяйте размер фоновых изображений в блоках и файлах CSS"
+
+#: includes/views/settings.tpl.php:1610 includes/views/settings.tpl.php:1627
+msgid "Optimize JavaScript images"
+msgstr "Оптимизируйте изображения JavaScript"
+
+#: includes/views/settings.tpl.php:1585
+msgid "Optimize the backgrounds"
+msgstr "Оптимизируйте фоны"
+
+#: includes/views/settings.tpl.php:352
+msgid "No"
+msgstr "Нет"
+
+#: includes/views/settings.tpl.php:432
+msgid ""
+"<b>Lossless compression: </b> the resulting image is pixel-identical to the original image.</br>Make sure not a single pixel looks different in the optimized image compared to the original.\n"
+"                                            In some rare cases you will need to use this type of compression. Some technical drawings or images from vector graphics are possible situations."
+msgstr ""
+"<b>Сжатие без потерь: </b> итоговое изображение по пикселям идентично исходному изображению.</br>Убедитесь, что ни один пиксель оптимизированного изображения не отличается от исходного.\n"
+"                                             В некоторых редких случаях вам нужно будет использовать этот тип сжатия. Некоторые технические чертежи или изображения из векторной графики являются возможными ситуациями."
+
+#: includes/views/settings.tpl.php:349
+msgid "Are you sure you want to disable the Advanced mode? Some of the settings will no longer be visible and will be reverted to their defaults."
+msgstr "Вы уверены, что хотите отключить расширенный режим? Некоторые настройки больше не будут видны и будут возвращены к значениям по умолчанию."
+
+#: includes/controllers/short-pixel-ai.class.php:1032
+msgid "Check images"
+msgstr "Проверить изображения"
+
+#: includes/views/settings.tpl.php:353
+msgid "Export the current settings"
+msgstr "Экспортировать текущие настройки"
+
+#: includes/views/settings.tpl.php:261
+msgid "ShortPixel News"
+msgstr "Новости ShortPixel"
+
+#: includes/actions/page.actions.class.php:228
+msgid "Switched to advanced mode"
+msgstr "Перешли в расширенный режим"
+
+#: includes/actions/page.actions.class.php:222
+msgid "Switched to simple mode"
+msgstr "Перешли на простой режим"
+
+#: includes/views/settings.tpl.php:388
+msgid "Import settings..."
+msgstr "Импорт настроек..."
+
+#: includes/controllers/page.class.php:273
+msgid "The settings were successfully imported. Redirecting you back to the settings page in a moment..."
+msgstr "Настройки успешно импортированы. Через мгновение вы будете перенаправлены обратно на страницу настроек..."
+
+#: includes/views/settings.tpl.php:353 includes/views/settings.tpl.php:384
+msgid "Export settings"
+msgstr "Экспорт настроек"
+
+#: includes/constants/notice.constants.class.php:154
+msgid "ShortPixel Adaptive Images needs the PHP MBString extension."
+msgstr "ShortPixel Adaptive Images нуждается в расширении PHP MBString."
+
+#: includes/constants/notice.constants.class.php:156
+msgid "ShortPixel Adaptive Images needs the PHP MBString extension. Please ask your admin or your hosting to enable it for your website."
+msgstr "ShortPixel Adaptive Images нуждается в расширении PHP MBString. Попросите вашего администратора или хостинг включить его для вашего сайта."
+
+#: includes/views/settings.tpl.php:704
+msgid "Agree"
+msgstr "Согласен"
+
+#: includes/views/settings.tpl.php:701
+msgid "If you will use your own CDN, ShortPixel will switch from counting the traffic (1 credit = 5MB) to counting the number of scaled & optimized images. Depending on the site, this can increase considerably the number of credits used. If you're instead using a DNS CNAME to our CDN, the traffic will continued to be counted as usual. <a href=\"https://shortpixel.com/knowledge-base/article/460-spai-new-how-are-the-credits-counted\" target=\"_blank\">How are credits counted?</a>"
+msgstr "Если вы будете использовать свой собственный CDN, ShortPixel переключится с подсчета трафика (1 кредит = 5 МБ) на подсчет количества масштабированных и оптимизированных изображений. В зависимости от сайта это может значительно увеличить количество используемых кредитов. Если вместо этого вы используете DNS CNAME для нашей CDN, трафик будет по-прежнему учитываться как обычно. <a href=\"https://shortpixel.com/knowledge-base/article/460-spai-new-how-are-the-credits-counted\" target=\"_blank\">Как подсчитываются кредиты?</a>"
+
+#: includes/views/settings.tpl.php:64
+msgid "Your free CDN traffic is close to the limit."
+msgstr "Ваш бесплатный CDN-трафик близок к лимиту."
+
+#: includes/views/settings.tpl.php:73 includes/views/settings.tpl.php:77
+#: includes/views/settings.tpl.php:81
+msgid "Please create an account to get 5Gb more free CDN traffic."
+msgstr "Пожалуйста, создайте учетную запись, чтобы получить 5 ГБ бесплатного трафика CDN."
+
+#: includes/views/on-boarding.tpl.php:50
+msgid "The plugin is active and already serving optimized versions of your site’s images from the CDN; you have %s traffic available. %s"
+msgstr "Плагин активен и уже обслуживает оптимизированные версии изображений вашего сайта из CDN; у вас есть %s трафика. %s"
+
+#: includes/views/settings.tpl.php:67
+msgid "You have used all your account's CDN traffic."
+msgstr "Вы использовали весь CDN-трафик своего аккаунта."
+
+#: includes/views/settings.tpl.php:67
+msgid "You have used all your free CDN traffic."
+msgstr "Вы использовали весь свой бесплатный трафик CDN."
+
+#: includes/actions/notice.actions.class.php:572
+msgid "Yay! The <b>Deliver next generation images</b> option has been disabled."
+msgstr "Ура! Параметр <b>Доставлять изображения следующего поколения</b> отключен."
+
+#: includes/constants/notice.constants.class.php:289
+#: includes/controllers/notice.class.php:614
+msgid "Your images are served from the origin server until you top-up your account."
+msgstr "Ваши изображения обслуживаются с исходного сервера до тех пор, пока вы не пополните свою учетную запись."
+
+#: includes/constants/page.constants.class.php:81
+msgid "Get 5Gb more free traffic and 500Mb free monthly traffic with a ShortPixel account"
+msgstr "Получите на 5 ГБ больше бесплатного трафика и 500 МБ бесплатного трафика в месяц с аккаунтом ShortPixel"
+
+#: includes/controllers/notice.class.php:620
+msgid "Please input your API Key in settings in order to get more details."
+msgstr "Введите свой ключ API в настройках, чтобы получить более подробную информацию."
+
+#: includes/constants/notice.constants.class.php:286
+msgid "ShortPixel CDN traffic"
+msgstr "CDN-трафик ShortPixel"
+
+#: includes/actions/notice.actions.class.php:573
+msgid "The <b>Deliver next generation images</b> option has not been disabled."
+msgstr "Параметр <b>Доставлять изображения нового поколения</b> не был отключен."
+
+#: includes/actions/page.actions.class.php:86
+msgid "The header is already present but with a different value, please check your <i>.htaccess</i> file."
+msgstr "Заголовок уже присутствует, но имеет другое значение. Проверьте файл <i>.htaccess</i>."
+
+#: includes/views/settings.tpl.php:124
+msgid "Total monthly traffic"
+msgstr "Общий трафик за месяц"
+
+#: includes/views/settings.tpl.php:135
+msgid "Total one-time traffic"
+msgstr "Общий разовый трафик"
+
+#: includes/views/settings.tpl.php:182
+msgid "CDN traffic used"
+msgstr "Использование трафика CDN"
+
+#: includes/views/settings.tpl.php:204
+msgid "Total traffic"
+msgstr "Общий трафик"
+
+#: includes/views/settings.tpl.php:968
+msgid "The downside is that the images will not always be perfectly sized but in most of the cases a bit bigger than their display size."
+msgstr "Недостатком является то, что изображения не всегда имеют идеальный размер, но в большинстве случаев они немного больше, чем отображаемый размер."
+
+#: includes/views/settings.tpl.php:942
+msgid "Smallest resolution:"
+msgstr "Наименьшее разрешение:"
+
+#: includes/views/settings.tpl.php:956
+msgid "Rounding factor:"
+msgstr "Коэффициент округления:"
+
+#: includes/views/settings.tpl.php:1182
+msgid "ShortPixel will add the <strong>Header add Access-Control-Allow-Origin \"%s\"</strong> directive to your .htaccess file."
+msgstr "ShortPixel добавит директиву <strong>Header add Access-Control-Allow-Origin \"%s\"</strong> в ваш файл .htaccess."
+
+#: includes/views/settings.tpl.php:1186
+msgid "Please make sure that your server sends the proper <strong>Access-Control-Allow-Origin</strong> header necessary for the initial redirect to origin from ShortPixel's CDN."
+msgstr "Убедитесь, что ваш сервер отправляет правильный заголовок <strong>Access-Control-Allow-Origin</strong>, необходимый для первоначального перенаправления на источник из CDN ShortPixel."
+
+#: includes/views/settings.tpl.php:1189
+msgid "You might need to add the following code to your Nginx config files:"
+msgstr "В файлы конфигурации Nginx может потребоваться добавить следующий код:"
+
+#: includes/views/settings.tpl.php:967
+msgid "The size breakpoints will make sure that if an image needs to be resized to two sizes that are very close, they will be resized to the same larger size, so there will be less cache misses on CDN, especially if you have less visited pages."
+msgstr "Точки останова по размеру гарантируют, что если размер изображения необходимо изменить до двух очень близких размеров, они будут изменены до одного и того же большего размера, поэтому в CDN будет меньше промахов кеша, особенно если у вас меньше посещаемых страниц."
+
+#: includes/views/settings.tpl.php:936
+msgid "Apply size breakpoints when resizing images."
+msgstr "Применяет контрольные точки размера при изменении размера изображений."
+
+#: includes/views/settings.tpl.php:920
+msgid "Size breakpoints"
+msgstr "Точки останова по размеру"
+
+#: includes/actions/page.actions.class.php:77
+msgid "Options were saved but could not add the CORS header to <i>.htaccess</i>."
+msgstr "Параметры были сохранены, но не удалось добавить заголовок CORS в <i>.htaccess</i>."
+
+#: includes/actions/page.actions.class.php:78
+msgid "Please verify that the <strong>%s.htaccess</strong> file is writable."
+msgstr "Убедитесь, что файл <strong>%s.htaccess</strong> доступен для записи."
+
+#: includes/views/settings.tpl.php:424 includes/views/settings.tpl.php:1542
+msgid "<a href=\"%s\" target=\"_blank\">Run a few tests</a> to help you decide."
+msgstr "<a href=\"%s\" target=\"_blank\">Проведите несколько тестов</a>, чтобы помочь вам принять решение."
+
+#: includes/views/settings.tpl.php:1498
+msgid "If it's a <strong>regex:</strong> rule, you can specify a full regex <strong>between slashes</strong> (ex: /.*\\.gif$/ excludes GIF images)."
+msgstr "Если это правило <strong>regex:</strong>, вы можете указать полное регулярное выражение <strong>между косыми чертами</strong> (например, /.*\\.gif$/ исключает изображения GIF)."
+
+#: includes/views/settings.tpl.php:1505
+msgid "You can exclude just the domain by using a <strong>domain:</strong> rule, for example <strong>domain:cdninstagram.com</strong>."
+msgstr "Вы можете исключить только домен, используя правило <strong>domain:</strong>, например <strong>domain:cdninstagram.com</strong>."
+
+#: includes/views/settings.tpl.php:1433
+msgid "Specify  a coma separated list of CSS selectors for images that should keep their original width on the page, or their original URLs. Needed for images that can, for example, zoom in on hover. Keep these lists as small as possible. Simple rules applied directly to the affected element (e.g. <strong>'img.class'</strong>, <strong>'div#ID'</strong> or <strong>'li[itemprop=logo]'</strong>) will be processed when the page is rendered. More complex rules (e.g. containing spaces or more HTML levels) will be processed using JavaScript and might have a slight delay, if the affected images are above the fold."
+msgstr "Укажите разделенный запятыми список селекторов CSS для изображений, которые должны сохранять свою исходную ширину на странице, или исходные URL-адреса. Нужен для изображений, которые могут, например, увеличиваться при наведении. Старайтесь, чтобы эти списки были как можно меньше. Простые правила, применяемые непосредственно к затронутому элементу (например, <strong>'img.class'</strong>, <strong>'div#ID'</strong> или <strong>'li[itemrop=logo]'</strong>. >) будут обработаны при отображении страницы. Более сложные правила (например, содержащие пробелы или большее количество уровней HTML) будут обрабатываться с использованием JavaScript и могут иметь небольшую задержку, если затронутые изображения находятся в верхней части сгиба."
+
+#: includes/views/settings.tpl.php:1397
+msgid "You can also add the exclusions visually, using the Image Checker Tool."
+msgstr "Вы также можете добавить исключения визуально, используя Image Checker Tool (инструмент проверки изображений)."
+
+#: includes/views/settings.tpl.php:1282
+msgid "Check this if you want the images that are provided in JavaScript blocks to be replaced. For some galleries or plugins the images won't appear resized unless you activate this option."
+msgstr "Установите этот флажок, если вы хотите, чтобы изображения, предоставляемые в блоках JavaScript, были заменены. Для некоторых галерей или плагинов изображения не будут отображаться с измененным размером, если вы не активируете эту опцию."
+
+#: includes/views/settings.tpl.php:1174
+msgid "Minify the CSS, replace background image URLs and serve the CSS files from the CDN, as well as all the locally referred fonts."
+msgstr "Минимизируйте CSS, замените URL-адреса фоновых изображений и обслуживайте файлы CSS из CDN, а также все локально используемые шрифты."
+
+#: includes/views/settings.tpl.php:1226
+msgid "Serve JS from the CDN"
+msgstr "Обслуживание JS из CDN"
+
+#: includes/views/settings.tpl.php:1243
+msgid "Minify and serve the JavaScript files from the CDN. The JS files from other domains are not affected by this option."
+msgstr "Минифицировать и обслуживать файлы JavaScript из CDN. На JS-файлы из других доменов данная опция не влияет."
+
+#: includes/views/settings.tpl.php:909
+msgid "Please verify the database load after enabling this option, especially if you have a very large postmeta table! In some very specific cases, this option can lead to database performance issues."
+msgstr "Пожалуйста, проверьте загрузку базы данных после включения этой опции, особенно если у вас очень большая таблица postmeta! В некоторых очень специфических случаях этот параметр может привести к проблемам с производительностью базы данных."
+
+#: includes/views/settings.tpl.php:914
+msgid "Activate this if you have offloaded images and you experience layout shifts while the page is rendered in the browser."
+msgstr "Активируйте его, если у вас есть выгруженные изображения, и вы испытываете изменения макета во время рендеринга страницы в браузере."
+
+#: includes/views/settings.tpl.php:990
+msgid "Use the new Adaptive Images engine"
+msgstr "Используйте новый механизм адаптивных изображений"
+
+#: includes/views/settings.tpl.php:974
+msgid "New AI engine"
+msgstr "Новый механизм АИ"
+
+#: includes/views/settings.tpl.php:1064
+msgid "Serve the SVG images through the CDN"
+msgstr "Обслуживание изображений SVG через CDN"
+
+#: includes/views/settings.tpl.php:993
+msgid "Use the new, improved, Adaptive Images replace engine that doesn't need jQuery and it's better optimized for new browsers."
+msgstr "Используйте новый усовершенствованный механизм замены адаптивных изображений, который не нуждается в jQuery, и он лучше оптимизирован для новых браузеров."
+
+#: includes/views/settings.tpl.php:859
+msgid "When this option is enabled, the lazy-loading is handled directly by the browser and it usually has bigger thresholds than ShortPixel (which means more images will be loaded below the fold). Currently Firefox, Chrome and Edge are supporting native lazy-loading, among others. <strong>Safari does NOT support native lazy-loading!</strong>"
+msgstr "Когда эта опция включена, отложенная загрузка обрабатывается непосредственно браузером и обычно имеет более высокие пороговые значения, чем у ShortPixel (что означает, что больше изображений будет загружено ниже сгиба). В настоящее время Firefox, Chrome и Edge, среди прочего, поддерживают браузерную отложенную загрузку. <strong>Safari НЕ поддерживает браузерную отложенную загрузку!</strong>"
+
+#: includes/views/settings.tpl.php:755
+msgid "Handles the situations when hovering an image reveals another image. With this option turned on, the image \"behind\" is resized, optimized and served from the CDN."
+msgstr "Обрабатывает ситуации, когда при наведении на изображение открывается другое изображение. Если эта опция включена, изображение «позади» изменяется, оптимизируется и обслуживается из CDN."
+
+#: includes/views/settings.tpl.php:756
+msgid "Only activate it if you need it."
+msgstr "Активируйте его только в том случае, если он вам нужен."
+
+#: includes/views/settings.tpl.php:811
+msgid "The LQIPs are created after the first display of that particular image and are cached in the Uploads folder."
+msgstr "LQIP создаются после первого отображения этого изображения и кэшируются в папке Uploads."
+
+#: includes/views/settings.tpl.php:647 includes/views/settings.tpl.php:659
+msgid "SRC makes sure as many images as possible are replaced with a best-fit resized and optimized image."
+msgstr "SRC позаботится о том, чтобы как можно больше изображений было заменено наиболее подходящим изображением с измененным размером и оптимизацией."
+
+#: includes/views/settings.tpl.php:547
+msgid "Detect WebP/AVIF support in browser."
+msgstr "Обнаружение поддержки WebP/AVIF в браузере."
+
+#: includes/views/settings.tpl.php:551
+msgid " Check this if you're using your own CDN and it doesn't support serving different resources based on the Accept header."
+msgstr " Проверьте, используется ли ваш собственный CDN и не поддерживает ли он обслуживание различных ресурсов на основе заголовка Accept."
+
+#: includes/views/settings.tpl.php:627
+msgid "The plugin identifies the images that are not completely displayed, and crops them accordingly. This might not work for some backgrounds (won't harm them though)."
+msgstr "Плагин идентифицирует изображения, которые отображаются не полностью, и соответствующим образом кадрирует их. Это может не работать для некоторых фонов (но не повредит им)."
+
+#: includes/views/settings.tpl.php:450 includes/views/settings.tpl.php:1563
+msgid "Enable for <strong>%s</strong> images"
+msgstr "Включить для <strong>%s</strong> изображений"
+
+#: includes/views/settings.tpl.php:114
+msgid "Top-up now"
+msgstr "Пополнить сейчас"
+
+#: includes/controllers/short-pixel-ai.class.php:900
+msgid "Scroll the page to see all images <b>(%s)</b> "
+msgstr "Прокрутите страницу, чтобы увидеть все изображения <b>(%s)</b> "
+
+#: includes/constants/page.constants.class.php:133
+msgid "Then press the <strong>After</strong> button. To allow the ShortPixel CDN to optimize and cache the images and thus deliver the best performance, <strong>please wait for about a minute</strong> and then press the <strong>\"Re-Test\"</strong> button on the top right corner of this GTMetrix page."
+msgstr "Затем нажмите кнопку <strong>After (после)</strong>. Чтобы сеть CDN ShortPixel оптимизировала и кэшировала изображения и тем самым обеспечила наилучшую производительность, <strong>подождите около минуты</strong>, а затем нажмите кнопку <strong>\"Re-Test (повторить проверку)\"</strong> на верхнем правом углу этой страницы GTMetrix."
+
+#: includes/controllers/feedback.class.php:79
+msgid "Temporary deactivation"
+msgstr "Временная деактивация"
+
+#: includes/controllers/short-pixel-ai.class.php:898
+msgid "Do you really want to stop %s these images?"
+msgstr "Вы действительно хотите остановить %s этих изображений?"
+
+#: includes/views/front-checker.tpl.php:27
+msgid "Show Controls"
+msgstr "Показать элементы управления"
+
+#: includes/constants/notice.constants.class.php:318
+msgid "Your theme is missing the <a href=\"%s\" target=\"_blank\">jQuery</a> library. In order for ShortPixel to properly run, please either go to <a href=\"%s\" target=\"_blank\">ShortPixel's settings</a>, in the Behaviour tab, scroll down to the bottom and activate the option \"New AI engine\" or restore jQuery."
+msgstr "В вашей теме отсутствует библиотека <a href=\"%s\" target=\"_blank\">jQuery</a>. Для правильной работы ShortPixel перейдите в <a href=\"%s\" target=\"_blank\">настройки ShortPixel</a>, на вкладке Поведение прокрутите вниз и активируйте параметр \"Новый механизм АИ\" или восстановить jQuery."
+
+#: includes/constants/page.constants.class.php:131
+msgid "First, press the <strong>Before</strong> button, and the GTMetrix test page will open in a new tab where you need to press the <strong>\"Test your site\"</strong> button."
+msgstr "Сначала нажмите кнопку <strong>Перед</strong>, и тестовая страница GTMetrix откроется в новой вкладке, где вам нужно нажать кнопку <strong>\"Test your site (протестировать свой сайт)\"</strong>."
+
+#: includes/views/settings.tpl.php:529
+msgid "The AVIF and WebP formats benefit from newer powerful algorithms that are able to make the image smaller than older formats such as PNG or JPEG. The conversion and optimization from the original image format to AVIF or WebP is done on-the-fly by ShortPixel. Recommended for SEO."
+msgstr "Форматы AVIF и WebP выигрывают от новых мощных алгоритмов, которые могут уменьшить размер изображения по сравнению с более старыми форматами, такими как PNG или JPEG. Преобразование и оптимизация из исходного формата изображения в AVIF или WebP выполняются ShortPixel на лету. Рекомендуется для SEO."
+
+#: includes/views/settings.tpl.php:453 includes/views/settings.tpl.php:1566
+msgid "Next-gen Images Support"
+msgstr "Поддержка изображений нового поколения"
+
+#: includes/views/settings.tpl.php:457
+msgid "Serve the images in the %s WebP and %s AVIF next-gen image formats to all the browsers that support <a href=\"https://caniuse.com/#search=webp\" target=\"_blank\">WebP</a> or <a href=\"https://caniuse.com/#search=avif\" target=\"_blank\">AVIF</a>."
+msgstr "Обслуживайте изображения в форматах %s WebP и %s AVIF нового поколения всем браузерам, поддерживающим <a href=\"https://caniuse.com/#search=webp\" target=\"_blank\">WebP</a> или <a href=\"https://caniuse.com/#search=avif\" target=\"_blank\">AVIF</a>."
+
+#: includes/constants/notice.constants.class.php:397
+msgid "Deactivate option"
+msgstr "Отключить параметр"
+
+#: includes/constants/notice.constants.class.php:392
+msgid "Please deactivate the <span>ShortPixel Image Optimizer's</span> <a href=\"%s\" target=\"_blank\">Deliver next generation images</a> option when the ShortPixel Adaptive Images plugin is active. The next generation images will transparently be delivered by ShortPixel Adaptive Images CDN."
+msgstr "Отключите параметр <a href=\"%s\" target=\"_blank\">Отправлять изображения следующего поколения</a> в <span>ShortPixel Image Optimizer</span>, когда активен подключаемый модуль адаптивных изображений ShortPixel. Изображения следующего поколения будут прозрачно доставляться через CDN ShortPixel Adaptive Images."
+
+#: includes/views/settings.tpl.php:1327
+msgid "Check this if you have specific pieces of content that are delivered by Javascript in JSON-encoded packages. Some galleries like the one in Thrive Architect, or posts grids with infinite scroll need that. Please note that in some cases, temporary CORS warnings could show up. <a href=\"https://shortpixel.com/knowledge-base/article/465-warning-access-to-image-has-been-blocked-by-cors-policy\" target=\"_blank\">Read more</a>."
+msgstr "Установите этот флажок, если у вас есть определенные фрагменты контента, которые доставляются с помощью Javascript в пакетах, закодированных в формате JSON. Некоторым галереям, таким как в Thrive Architect, или сеткам постов с бесконечной прокруткой это нужно. Обратите внимание, что в некоторых случаях могут появляться временные предупреждения CORS. <a href=\"https://shortpixel.com/knowledge-base/article/465-warning-access-to-image-has-been-blocked-by-cors-policy\" target=\"_blank\">Подробнее</a>."
+
+#: includes/controllers/notice.class.php:622
+msgid "How do I do this?"
+msgstr "Как это сделать?"
+
+#: includes/controllers/notice.class.php:628
+msgid "Top-up"
+msgstr "Пополнение"
+
+#: includes/views/settings.tpl.php:113
+msgid "Top-up account"
+msgstr "Пополнить счет"
+
+#: includes/views/settings.tpl.php:906
+msgid "Check the postmeta table for image sizes, if the image is not present locally."
+msgstr "Проверьте таблицу postmeta для размеров изображения, если изображение не присутствует локально."
+
+#: includes/views/settings.tpl.php:890
+msgid "Sizes from postmeta"
+msgstr "Размеры из postmeta"
+
+#: includes/views/settings.tpl.php:151
+msgid "The plugin will continue work, but you won't see the stats below."
+msgstr "Плагин продолжит работу, но статистики ниже вы не увидите."
+
+#: includes/views/settings.tpl.php:865
+msgid "Alter width and height"
+msgstr "Изменить ширину и высоту"
+
+#: includes/views/settings.tpl.php:881
+msgid "Modify the width and height attributes of the IMG tags to reflect the resized image size."
+msgstr "Измените атрибуты ширины и высоты IMG tags, чтобы отразить измененный размер изображения."
+
+#: includes/views/settings.tpl.php:884
+msgid "Activate this if you have screen size issues with images that are handled by JavaScript after they are resized by ShortPixel."
+msgstr "Активируйте этот параметр, если у вас есть проблемы с размером экрана для изображений, которые обрабатываются JavaScript после изменения их размера с помощью ShortPixel."
+
+#: includes/views/settings.tpl.php:821
+msgid "Use WP Cron"
+msgstr "Использовать WP Cron"
+
+#: includes/views/settings.tpl.php:825
+msgid "Use AJAX calls"
+msgstr "Используйте вызовы AJAX"
+
+#: includes/views/settings.tpl.php:1400
+msgid "Another method that doesn't involve <strong>Excluded selectors</strong>, is to add one of the following custom attributes to your IMG tags: <strong>data-spai-eager</strong>, <strong>data-spai-noresize</strong> or <strong>data-spai-excluded</strong>, depeding on which type of exclusion you need."
+msgstr "Другой метод, не использующий <strong>исключенные селекторы</strong>, заключается в добавлении к тегам IMG одного из следующих настраиваемых атрибутов: <strong>data-spai-eager</strong>, <strong>data-spai-noresize</strong> или <strong>data-spai-excluded</strong>, в зависимости от того, какой тип исключения вам нужен."
+
+#: includes/views/settings.tpl.php:1338
+msgid "Integrate with Lity"
+msgstr "Интеграция с Lity"
+
+#: includes/views/settings.tpl.php:1354
+msgid "Integrate with the Lity lightbox."
+msgstr "Интеграция с Lity lightbox."
+
+#: includes/views/settings.tpl.php:1357
+msgid "Checks for the Lity lightbox component in the pages and replaces the images with properly resized ones. Activate this if your theme uses Lity."
+msgstr "Проверяет наличие компонента лайтбокса Lity на страницах и заменяет изображения изображениями с правильным размером. Активируйте это, если ваша тема использует Lity."
+
+#: includes/views/settings.tpl.php:814
+msgid "Please delete all levels of cache after activating this option."
+msgstr "Удалите все уровни кеша после активации этой опции."
+
+#: includes/views/settings.tpl.php:829
+msgid "Use WP Cron to create the LQIPs asynchronously and reduce the number of JavaScript calls."
+msgstr "Используйте WP Cron для асинхронного создания LQIPs и уменьшения количества вызовов JavaScript."
+
+#: includes/views/settings.tpl.php:830
+msgid "EXPERIMENTAL: Use this if you have WP Cron deactivated."
+msgstr "ЭКСПЕРИМЕНТАЛЬНО: Используйте это, если у вас деактивирован WP Cron."
+
+#: includes/controllers/short-pixel-ai.class.php:1019
+#: includes/views/settings.tpl.php:835
+msgid "Clear LQIP cache"
+msgstr "Очистить кэш LQIP"
+
+#: includes/views/settings.tpl.php:836
+msgid "If you have replaced some of the images but kept the same name, please clear the cache."
+msgstr "Если вы заменили некоторые изображения, но сохранили то же имя, очистите кэш."
+
+#: includes/views/settings.tpl.php:996
+msgid "Please check your site after activating this option, especially on older browsers. If you notice any issue, you can always revert by deactivating it."
+msgstr "Пожалуйста, проверьте свой сайт после активации этой опции, особенно в старых браузерах. Если вы заметили какую-либо проблему, вы всегда можете вернуться, деактивировав ее."
+
+#: includes/views/settings.tpl.php:792
+msgid "LQ image placeholders"
+msgstr "Заполнители для изображений LQ"
+
+#: includes/views/settings.tpl.php:808
+msgid "Create and use inline Low Quality Image Placeholders (LQIPs) instead of blank placeholders."
+msgstr "Создавайте и используйте встроенные заполнители изображений низкого качества (LQIP) вместо пустых заполнителей."
+
+#: includes/views/settings.tpl.php:781
+msgid "Deactivate this option if the image optimization conflicts with your page builder. Please note that in this case you will no longer be able to use the <a href=\"https://shortpixel.com/knowledge-base/article/338-how-to-use-the-image-checker-tool\" target=\"_blank\">Image Checker Tool</a>."
+msgstr "Деактивируйте эту опцию, если оптимизация изображения конфликтует с вашим конструктором страниц. Обратите внимание, что в этом случае вы больше не сможете использовать <a href=\"https://shortpixel.com/knowledge-base/article/338-how-to-use-the-image-checker-tool\" target=\"_blank\">Инструмент проверки изображений</a>."
+
+#: includes/controllers/lqip.class.php:242
+msgid "Every minute"
+msgstr "Каждую минуту"
+
+#: includes/views/front-checker.tpl.php:84
+msgid "Revert"
+msgstr "Отменить"
+
+#: includes/views/settings.tpl.php:710
+msgid "Lazy-load threshold"
+msgstr "Порог отложенной загрузки"
+
+#: includes/views/settings.tpl.php:730
+msgid "The lazy-load threshold identifies how early before entering the visible area of the page (viewport) a lazy image is loaded. For example, the default of 500px means that an image is loaded when it's closer than 500px to the viewport."
+msgstr "Порог отложенной загрузки определяет, как рано до попадания в видимую область страницы (область просмотра) загружается отложенное изображение. Например, значение по умолчанию 500px означает, что изображение загружается, когда оно находится ближе 500px к области просмотра."
+
+#: includes/views/settings.tpl.php:778
+msgid "Optimize the images for logged-in users."
+msgstr "Оптимизируйте изображения для зарегистрированных пользователей."
+
+#: includes/views/settings.tpl.php:762
+msgid "Logged-in users"
+msgstr "Зарегистрированные пользователи"
+
+#: includes/actions/lqip.actions.class.php:52
+msgid "Collection has not been updated"
+msgstr "Коллекция не обновлялась"
+
+#: includes/constants/notice.constants.class.php:460
+msgid "LQIP option has been <span>temporarily</span> disabled until you configure your server and grant the permissions to <strong>create folders and files</strong> in your uploads folder."
+msgstr "Параметр LQIP был <span>временно</span> отключен до тех пор, пока вы не настроите свой сервер и не предоставите разрешения на <strong>создание папок и файлов</strong> в папке uploads."
+
+#: includes/actions/lqip.actions.class.php:52
+msgid "Collection has been updated"
+msgstr "Коллекция обновлена"
+
+#: includes/actions/page.actions.class.php:261
+msgid "The LQIP cache has been cleared."
+msgstr "Кэш LQIP очищен."
+
+#: includes/actions/page.actions.class.php:262
+msgid "LQIP cache has not been cleared."
+msgstr "Кэш LQIP не очищен."
+
+#: includes/views/front-checker.tpl.php:90
+msgid "Please properly clear all levels of cache and open the website in a private window to check the results. <a href=\"%s\" target=\"_blank\">How do I do this?</a>"
+msgstr "Правильно очистите все уровни кэша и откройте сайт в режиме инкогнито, чтобы проверить результаты. <a href=\"%s\" target=\"_blank\">Как это сделать?</a>"
+
+#: includes/views/settings.tpl.php:144
+msgid "Login into your ShortPixel account."
+msgstr "Войдите в свою учетную запись ShortPixel."
+
+#: includes/views/settings.tpl.php:97
+msgid "is"
+msgstr "является"
+
+#: includes/views/settings.tpl.php:151
+msgid "Forget the API key for this domain"
+msgstr "Забыть ключ API для этого домена"
+
+#: includes/constants/notice.constants.class.php:459
+msgid "<strong>ShortPixel Adaptive Images</strong> was trying to create Low Quality Image Placeholders of your images in the last 12 hours but <span>the plugin has no permissions to do that</span>."
+msgstr "<strong>ShortPixel Adaptive Images</strong> пытался создать заполнители изображений низкого качества (LQIP) для ваших изображений за последние 12 часов, но <span>у плагина нет на это разрешений</span>."
+
+#: includes/constants/notice.constants.class.php:457
+msgid "LQIP creation failed"
+msgstr "Не удалось создать LQIP"
+
+#: includes/controllers/help.class.php:30
+msgid "For more information:"
+msgstr "Для получения более подробной информации:"
+
+#: includes/controllers/help.class.php:32 includes/views/settings.tpl.php:91
+msgid "Support"
+msgstr "Поддержка"
+
+#: includes/controllers/help.class.php:59
+msgid "ShortPixel Support"
+msgstr "Поддержка ShortPixel"
+
+#: includes/constants/notice.constants.class.php:436
+msgid "Also you could add the following ShortPixel Adaptive Images plugin CSS files present below to <a href=\"%s\" target=\"_blank\">Default exclusions</a> or <a href=\"%s\" target=\"_blank\">CSS exclusions</a>."
+msgstr "Также вы можете добавить следующие CSS-файлы плагина ShortPixel Adaptive Images, представленные ниже, в <a href=\"%s\" target=\"_blank\">исключения по умолчанию</a> или <a href=\"%s\" target=\"_blank\">CSS exclusions(исключения CSS)</a>."
+
+#: includes/actions/notice.actions.class.php:100
+#: includes/actions/notice.actions.class.php:479
+#: includes/actions/notice.actions.class.php:526
+#: includes/actions/notice.actions.class.php:620
+msgid "Yay! The conflicting options have been disabled."
+msgstr "Ура! Конфликтующие параметры отключены."
+
+#: includes/actions/notice.actions.class.php:101
+#: includes/actions/notice.actions.class.php:143
+#: includes/actions/notice.actions.class.php:480
+#: includes/actions/notice.actions.class.php:527
+#: includes/actions/notice.actions.class.php:621
+msgid "The conflict has not been resolved."
+msgstr "Конфликт не разрешен."
+
+#: includes/actions/notice.actions.class.php:142
+msgid "Yay! The safe mode has been enabled."
+msgstr "Ура! Безопасный режим был включен."
+
+#: includes/actions/notice.actions.class.php:260
+msgid "Your account is still about to run out of credits."
+msgstr "Кредиты в вашем аккаунте все еще вот-вот закончатся."
+
+#: includes/constants/notice.constants.class.php:433
+msgid "In some circumstances, the <span>WP Optimize's</span> <a href=\"%s\" target=\"_blank\">Enable merging of CSS files</a> option breaks the ShortPixel Adaptive Images plugin CSS. Please check your website and if you find CSS issues, please deactivate this option."
+msgstr "В некоторых случаях параметр <a href=\"%s\" target=\"_blank\">Включить объединение файлов CSS</a> в <span>WP </span> нарушает работу CSS плагина адаптивных изображений ShortPixel. Пожалуйста, проверьте свой веб-сайт и, если вы обнаружите проблемы с CSS, отключите эту опцию."
+
+#: includes/constants/notice.constants.class.php:443
+msgid "Add exclusions"
+msgstr "Добавить исключения"
+
+#: includes/controllers/help.class.php:31
+#: includes/controllers/help.class.php:58
+msgid "Documentation & Help"
+msgstr "Документация и помощь"
+
+#: includes/controllers/help.class.php:53
+#: includes/controllers/help.class.php:55
+msgid "Help & Support"
+msgstr "Помощь и поддержка"
+
+#: includes/controllers/help.class.php:56
+msgid "If you need help using the ShortPixel Adaptive Images plugin, <a href=\"%s\">open a support request at ShortPixel.com</a>."
+msgstr "Если вам нужна помощь в использовании плагина ShortPixel Adaptive Images, <a href=\"%s\">откройте запрос в службу поддержки на сайте ShortPixel.com</a>."
+
+#: includes/actions/notice.actions.class.php:731
+msgid "Yay! The exclusion rules have been successfully added."
+msgstr "Ура! Похоже, правила исключения успешно добавлены."
+
+#: includes/actions/notice.actions.class.php:732
+msgid "Exclusion rules have not been added."
+msgstr "Правила исключения не были добавлены."
+
+#: includes/actions/notice.actions.class.php:260
+msgid "Please top-up."
+msgstr "Пополните счёт."
+
+#: includes/controllers/help.class.php:57
+msgid "Before asking our ShortPixel support team for help, we strongly recommend that you <a href=\"%s\" target=\"_blank\">read the articles on shortpixel.com/knowledge-base/</a>."
+msgstr "Прежде чем обращаться за помощью в нашу службу поддержки ShortPixel, мы настоятельно рекомендуем вам <a href=\"%s\" target=\"_blank\">прочитать статьи на сайте shortpixel.com/knowledge-base/</a>."
+
+#: includes/constants/notice.constants.class.php:431
+msgid "WP Optimize CSS options conflict"
+msgstr "Конфликт параметров с WP Optimize CSS"
+
+#: includes/controllers/short-pixel-ai.class.php:857
+msgid "CDN"
+msgstr "CDN"
+
+#: includes/controllers/short-pixel-ai.class.php:863
+#: includes/views/front-checker.tpl.php:83
+msgid "Cancel"
+msgstr "Отмена"
+
+#: includes/controllers/short-pixel-ai.class.php:892
+msgid "Checking..."
+msgstr "Проверка..."
+
+#: includes/controllers/short-pixel-ai.class.php:887
+msgid "Excluded"
+msgstr "Исключено"
+
+#: includes/controllers/short-pixel-ai.class.php:849
+msgid "GB"
+msgstr "Гб"
+
+#: includes/controllers/short-pixel-ai.class.php:851
+msgid "KB"
+msgstr "Кб"
+
+#: includes/controllers/short-pixel-ai.class.php:850
+msgid "MB"
+msgstr "Мб"
+
+#: includes/controllers/short-pixel-ai.class.php:864
+msgid "Path"
+msgstr "Путь"
+
+#: includes/controllers/short-pixel-ai.class.php:861
+msgid "Show"
+msgstr "Показать"
+
+#: includes/controllers/short-pixel-ai.class.php:859
+#: includes/views/settings.tpl.php:351
+msgid "Yes"
+msgstr "Да"
+
+#: includes/controllers/short-pixel-ai.class.php:853
+msgid "bytes"
+msgstr "байтов"
+
+#: includes/actions/notice.actions.class.php:573
+#: includes/actions/notice.actions.class.php:621
+#: includes/actions/notice.actions.class.php:680
+#: includes/actions/notice.actions.class.php:732
+msgid "Please check <span>%s's</span> <a href=\"%s\" target=\"_blank\">settings</a>."
+msgstr "Проверьте <span>%s</span> <a href=\"%s\" target=\"_blank\">настройки</a>."
+
+#: includes/controllers/short-pixel-ai.class.php:865
+msgid "selector"
+msgstr "селектор"
+
+#: includes/controllers/short-pixel-ai.class.php:901
+msgid "matched by this selector on this page. The rule will be added to the <b>%s selectors</b> list in <a href=\"%s\" target=\"_blank\">ShortPixel AI Settings</a> and applied to <b>all the pages of your website</b>."
+msgstr "соответствует этому селектору на этой странице. Правило будет добавлено в список <b>селекторов %s</b> в <a href=\"%s\" target=\"_blank\">настройках ShortPixel AI</a> и применено ко <b>всем страницам ваш веб-сайт</b>."
+
+#: includes/controllers/short-pixel-ai.class.php:858
+msgid "ORIGIN"
+msgstr "ИСТОЧНИК"
+
+#: includes/controllers/short-pixel-ai.class.php:860
+msgid "Back"
+msgstr "Назад"
+
+#: includes/controllers/short-pixel-ai.class.php:885
+msgid "lazy-loading"
+msgstr "отложенная загрузка"
+
+#: includes/controllers/short-pixel-ai.class.php:852
+msgid "byte"
+msgstr "байт"
+
+#: includes/controllers/short-pixel-ai.class.php:866
+msgid "Image is excluded."
+msgstr "Изображение исключено."
+
+#: includes/controllers/short-pixel-ai.class.php:867
+msgid "Remove the excluding rule"
+msgstr "Удалить правило исключения"
+
+#: includes/controllers/short-pixel-ai.class.php:886
+msgid "Don't resize"
+msgstr "Не изменять размер"
+
+#: includes/controllers/short-pixel-ai.class.php:868
+msgid "Please click on the image that you want to inspect. <a href=\"%s\" target=\"_blank\">More details</a>"
+msgstr "Пожалуйста, нажмите на изображение, которое вы хотите проверить. <a href=\"%s\" target=\"_blank\">Подробнее</a>"
+
+#: includes/controllers/short-pixel-ai.class.php:869
+msgid "Why isn't this image included?"
+msgstr "Почему это изображение не включено?"
+
+#: includes/controllers/short-pixel-ai.class.php:870
+msgid "has been selected"
+msgstr "было выбрано"
+
+#: includes/controllers/short-pixel-ai.class.php:871
+msgid "Image optimized"
+msgstr "Изображение оптимизировано"
+
+#: includes/controllers/short-pixel-ai.class.php:872
+msgid "Exclude images like this one from optimization."
+msgstr "Исключите из оптимизации изображения, подобные этому."
+
+#: includes/controllers/short-pixel-ai.class.php:873
+msgid "Exclude this image URL."
+msgstr "Исключите URL этого изображения."
+
+#: includes/controllers/short-pixel-ai.class.php:874
+msgid "Remove the no resize rule."
+msgstr "Удалите правило Не изменять размер."
+
+#: includes/controllers/short-pixel-ai.class.php:875
+msgid "Do not resize images like this one."
+msgstr "Не изменяйте размер изображений, подобных этому."
+
+#: includes/controllers/short-pixel-ai.class.php:876
+msgid "Remove the lazy-load rule."
+msgstr "Удалите правило отложенной загрузки."
+
+#: includes/controllers/short-pixel-ai.class.php:877
+msgid "Do not lazy-load images like this one."
+msgstr "Не загружайте отложено изображения, подобные этому."
+
+#: includes/controllers/short-pixel-ai.class.php:878
+msgid "Refresh on CDN."
+msgstr "Обновить на CDN."
+
+#: includes/controllers/short-pixel-ai.class.php:879
+msgid "Are you sure you want to exclude this image URL from optimization?"
+msgstr "Вы действительно хотите исключить этот URL изображения из оптимизации?"
+
+#: includes/controllers/short-pixel-ai.class.php:880
+msgid "Use the controls below to create the CSS selector needed. Try to keep it as simple as possible. <a href=\"%s\" target=\"_blank\">How do I use this?</a>"
+msgstr "Используйте элементы управления ниже, чтобы создать необходимый селектор CSS. Постарайтесь, чтобы это было как можно проще. <a href=\"%s\" target=\"_blank\">Как мне это использовать?</a>"
+
+#: includes/controllers/short-pixel-ai.class.php:882
+#: includes/controllers/short-pixel-ai.class.php:1123
+#: includes/controllers/short-pixel-ai.class.php:1189
+#: includes/controllers/short-pixel-ai.class.php:1204
+#: includes/controllers/short-pixel-ai.class.php:1246
+msgid "An error occurred, please contact support."
+msgstr "Произошла ошибка, обратитесь в службу поддержки."
+
+#: includes/controllers/short-pixel-ai.class.php:883
+msgid "resizing"
+msgstr "изменение размера"
+
+#: includes/controllers/short-pixel-ai.class.php:884
+msgid "optimizing"
+msgstr "оптимизация"
+
+#: includes/controllers/short-pixel-ai.class.php:888
+msgid "Don't lazy-load"
+msgstr "Не загружать отложено"
+
+#: includes/controllers/short-pixel-ai.class.php:889
+msgid "One image"
+msgstr "Одно изображение"
+
+#: includes/controllers/short-pixel-ai.class.php:890
+msgid "Invalid parameters have been passed to the function. Please try again."
+msgstr "В функцию переданы недопустимые параметры. Попробуйте еще раз."
+
+#: includes/controllers/short-pixel-ai.class.php:891
+msgid "Refreshing..."
+msgstr "Обновление..."
+
+#: includes/controllers/short-pixel-ai.class.php:893
+msgid "The image CDN cache was cleared and the image was refreshed. If you do not see the expected change, please clear the browser cache and then refresh the page."
+msgstr "Кэш изображений CDN был очищен, а изображение обновлено. Если вы не видите ожидаемого изменения, очистите кеш браузера и обновите страницу."
+
+#: includes/controllers/short-pixel-ai.class.php:896
+msgid "Size reduced from %s to %s"
+msgstr "Размер уменьшен с %s до %s"
+
+#: includes/controllers/short-pixel-ai.class.php:897
+msgid "and scaled from %spx to %spx."
+msgstr "и масштабируется от %spx до %spx."
+
+#: includes/controllers/short-pixel-ai.class.php:899
+msgid "Confirm has been clicked for selector %s. Data action was %s"
+msgstr "Подтверждение было нажато для селектора %s. Действие данных было %s"
+
+#: includes/constants/notice.constants.class.php:406
+msgid "LiteSpeed Cache options conflict"
+msgstr "Конфликт параметров с LiteSpeed Cache"
+
+#: includes/constants/notice.constants.class.php:408
+msgid "Please deactivate the <span>LiteSpeed Cache's</span> <a href=\"%s\" target=\"_blank\">JS Combine</a> option when the ShortPixel Adaptive Images plugin is active."
+msgstr "Отключите параметр <span>LiteSpeed Cache</span> <a href=\"%s\" target=\"_blank\">JS Combine (объединение JS)</a>, когда активен подключаемый плагин ShortPixel Adaptive Images."
+
+#: includes/actions/page.actions.class.php:366
+msgid "It looks like you have logged out. Please <span>log in</span> and try again."
+msgstr "Похоже, вы вышли из системы. <span>Войдите</span> и повторите попытку."
+
+#: includes/views/settings.tpl.php:1105
+msgid "Lazy-load and resize the background images in TAGS inline styles."
+msgstr "Отложенная загрузка и изменение размера фоновых изображений во встроенных стилях TAGS."
+
+#: includes/controllers/short-pixel-ai.class.php:902
+msgid "You already have %s selectors active. Please keep the number of exclusion selectors low for site performance."
+msgstr "У вас уже активно %s селекторов. Сохраняйте количество исключающих селекторов на низком уровне для повышения производительности сайта."
+
+#: includes/controllers/short-pixel-ai.class.php:1127
+msgid "Invalid selector has been provided."
+msgstr "Указан неверный селектор."
+
+#: includes/controllers/short-pixel-ai.class.php:1130
+#: includes/controllers/short-pixel-ai.class.php:1208
+#: includes/controllers/short-pixel-ai.class.php:1211
+msgid "Invalid list has been provided."
+msgstr "Предоставлен неверный список."
+
+#: includes/controllers/short-pixel-ai.class.php:1177
+msgid "The selector is already present in the list. Please refresh."
+msgstr "Селектор уже присутствует в списке. Обновите."
+
+#: includes/controllers/short-pixel-ai.class.php:1184
+msgid "The %s has been added to the %s list."
+msgstr "В список %s добавлено %s."
+
+#: includes/controllers/short-pixel-ai.class.php:1196
+#: includes/controllers/short-pixel-ai.class.php:1254
+msgid "Please log in as admin."
+msgstr "Войдите в систему как администратор."
+
+#: includes/controllers/short-pixel-ai.class.php:1224
+msgid "The selector does not exist in the list."
+msgstr "Селектор отсутствует в списке."
+
+#: includes/controllers/short-pixel-ai.class.php:1241
+msgid "The selector has been removed from the list."
+msgstr "Селектор был удален из списка."
+
+#: includes/helpers/cache-cleaner.class.php:185
+msgid "Please press OK to refresh the page."
+msgstr "Нажмите OK, чтобы обновить страницу."
+
+#: includes/helpers/cache-cleaner.class.php:188
+msgid "Please clear all page cache levels from the WP admin and CDN (if you have one), then press REFRESH to reload the page."
+msgstr "Очистите все уровни кэша страницы из админки WP и CDN (если он у вас есть), затем нажмите Обновить, чтобы перезагрузить страницу."
+
+#: includes/views/settings.tpl.php:1108
+msgid "This makes the backgrounds defined in the STYLE attribute of the tags load after the browser capabilities and image sizes are determined. It also imposes a maximum width of the backgrounds equal to the viewport width."
+msgstr "Это заставляет фоны, определенные в атрибуте STYLE тегов, загружаться после определения возможностей браузера и размеров изображения. Это также накладывает макс. ширину фонов, равную ширине области просмотра."
+
+#: includes/constants/notice.constants.class.php:267
+msgid "You already have a ShortPixel account for this website: <span>%s</span>. Do you want to use ShortPixel Adaptive Images with this account?"
+msgstr "У вас уже есть учетная запись ShortPixel для этого веб-сайта: <span>%s</span>. Вы хотите использовать ShortPixel Adaptive Images с этой учетной записью?"
+
+#: includes/constants/notice.constants.class.php:376
+msgid "Please deactivate <b>\"Display images in webp format on the site\"</b> from the Imagify <a href=\"options-general.php?page=imagify\" target=\"_blank\">plugin settings</a>. <b>ShortPixel</b> will handle the delivery of WebP images to supporting browsers."
+msgstr "Деактивируйте <b>\"Отображать изображения в формате webp на сайте\"</b> в <a href=\"options-general.php?page=imagify\" target=\"_blank\">настройках плагина</a> Imagify. <b>ShortPixel</b> будет обрабатывать доставку изображений WebP в поддерживаемые браузеры."
+
+#: includes/constants/notice.constants.class.php:316
+msgid "ShortPixel Adaptive Images has found that jQuery is missing"
+msgstr "ShortPixel Adaptive Images обнаружили, что jQuery отсутствует"
+
+#: includes/constants/notice.constants.class.php:320
+msgid "Please press <span>Re-Check</span> button if <b>jQuery</b> has been restored in your theme."
+msgstr "Нажмите кнопку <span>Перепроверить</span>, если <b>jQuery</b> был восстановлен в вашей теме."
+
+#: includes/constants/notice.constants.class.php:357
+msgid "options conflict"
+msgstr "конфликт опций"
+
+#: includes/constants/notice.constants.class.php:359
+msgid "There is a known compatibility issue between ShortPixel Adaptive Images and older Swift Performance plugin versions which makes some background images to never get displayed."
+msgstr "Известна проблема совместимости ShortPixel Adaptive Images и старых версий плагина Swift Performance, из-за которой некоторые фоновые изображения не отображаются."
+
+#: includes/constants/notice.constants.class.php:373
+msgid "Imagify options conflict"
+msgstr "Конфликт с параметрами Imagify"
+
+#: includes/constants/notice.constants.class.php:375
+msgid "There is a known compatibility issue with <i>Imagify's WebP delivery</i> that will make images not display on the site."
+msgstr "Существует известная проблема совместимости с <i>обслуживанием WebP с помощью Imagify</i>, из-за которой ваши изображения не отображаются на сайте."
+
+#: includes/constants/notice.constants.class.php:251
+msgid "You have enabled the \"Replace in CSS files\" option in ShortPixel. Please either <span>Open the WP Rocket Settings</span> to turn off the \"Minify CSS files\" option of WP Rocket or <span>update your WP Rocket plugin</span> to at least version 3.4.3."
+msgstr "Вы включили опцию «Заменить в файлах CSS» в ShortPixel. Пожалуйста, либо <span>откройте настройки WP Rocket</span>, чтобы отключить параметр «Minify CSS files» WP Rocket, либо <span>обновите плагин WP Rocket</span> как минимум до версии 3.4.3."
+
+#: includes/constants/notice.constants.class.php:360
+msgid "Please update to the latest plugin version, or deactivate either \"<b>Merge Styles</b>\" or \"<b>Normalize Static Resources</b>\" options from the Swift Performance <a href=\"tools.php?page=swift-performance&subpage=settings\" target=\"_blank\">plugin settings</a>."
+msgstr "Обновите подключаемый плагин до последней версии или отключите параметры «<b>Merge Styles (объединить стили)</b>» или «<b>Normalize Static Resources (Нормализация статических ресурсов)</b>» на <a href=\"tools.php?странице Swift Performance. =swift-performance&subpage=settings\" target=\"_blank\">настройки плагина</a>."
+
+#: includes/constants/notice.constants.class.php:181
+msgid "ShortPixel Adaptive Images new feature"
+msgstr "Новая функция ShortPixel Adaptive Images"
+
+#: includes/constants/notice.constants.class.php:183
+msgid "Thank you for updating to our new 3.0 version!"
+msgstr "Благодарим вас за обновление до новой версии 3.0!"
+
+#: includes/constants/notice.constants.class.php:163
+msgid "Currently the plugin is in the Beta phase. While we have tested it a lot, we can't possibly test it with all the themes out there. On Javascript-intensive themes, layout issues could occur or some images might not be replaced."
+msgstr "В настоящее время плагин находится в стадии бета-тестирования. Хотя мы много тестировали его, мы не можем протестировать его со всеми существующими темами. В темах с интенсивным использованием Javascript могут возникнуть проблемы с версткой или некоторые изображения могут быть не заменены."
+
+#: includes/constants/notice.constants.class.php:165
+msgid "If you notice any problems, just deactivate the plugin and the site will return to the previous state. Please kindly <span>let us know</span> and we'll be more than happy to work them out."
+msgstr "Если вы заметили какие-либо проблемы, просто отключите плагин, и сайт вернется в прежнее состояние. Пожалуйста, <span>дайте нам знать</span>, и мы будем более чем рады решить их."
+
+#: includes/constants/notice.constants.class.php:184
+msgid "Please let us introduce our <span>On-Boarding Wizard</span> which has been developed to help you decide exactly which advanced options are really necessary for your website."
+msgstr "Позвольте нам представить наш <span>Мастер настройки</span>, который был разработан, чтобы помочь вам решить, какие дополнительные параметры действительно необходимы для вашего веб-сайта."
+
+#: includes/constants/notice.constants.class.php:202
+msgid "<strong>ShortPixel Adaptive Images</strong> has detected that your theme or another plugin is providing lazy-loading functionality to your website."
+msgstr "<strong>ShortPixel Adaptive Images</strong> обнаружил, что ваша тема или другой плагин обеспечивают функциональность отложенной загрузки на вашем сайте."
+
+#: includes/constants/notice.constants.class.php:204
+msgid "<strong>ShortPixel Adaptive Images</strong> is also using a lazy-loading method as means to provide its service, so please deactivate the other lazy-loading setting."
+msgstr "<strong>ShortPixel Adaptive Images</strong> также использует метод отложенной загрузки в качестве средства для предоставления своих услуг, поэтому, пожалуйста, отключите другие настройки отложенной загрузки."
+
+#: includes/constants/notice.constants.class.php:217
+msgid "ShortPixel Adaptive Images conflicts with defer of all JavaScript files"
+msgstr "Адаптивные изображения ShortPixel конфликтуют с отложением всех файлов JavaScript"
+
+#: includes/constants/notice.constants.class.php:219
+msgid "<strong>ShortPixel Adaptive Images</strong> has found that conflicting option <span>Load JavaScript deferred</span> in the WP Rocket has been enabled without safe mode."
+msgstr "<strong>ShortPixel Adaptive Images</strong> обнаружил, что конфликтующая опция <span>Load JavaScript deferred</span> в WP Rocket была включена без безопасного режима."
+
+#: includes/constants/notice.constants.class.php:235
+msgid "<strong>ShortPixel Adaptive Images</strong> is also using a lazy-loading method as means to provide its service, so please deactivate the other lazy-loading setting. <span>Open the WP Rocket Settings</span> to turn off the Lazy Load option."
+msgstr "<strong>ShortPixel Adaptive Images</strong> также использует метод отложенной загрузки в качестве средства предоставления своих услуг, поэтому отключите другой параметр отложенной загрузки. <span>Откройте настройки WP Rocket</span>, чтобы отключить опцию отложенной загрузки."
+
+#: includes/constants/page.constants.class.php:137
+msgid "After"
+msgstr "После"
+
+#: includes/constants/page.constants.class.php:136
+msgid "Before"
+msgstr "Перед"
+
+#: includes/constants/notice.constants.class.php:62
+msgid "The option \"<strong>Optimize images on the fly and serve them from a CDN.</strong>\" is active in Autoptimize. Please <span>deactivate it</span> to let ShortPixel Adaptive Images serve the images properly optimized and scaled."
+msgstr "Параметр «<strong>Оптимизировать изображения на лету и обслуживать их из CDN</strong>» активен в Autoptimize. <span>деактивируйте его</span>, чтобы адаптивные изображения ShortPixel отображали правильно оптимизированные и масштабированные изображения."
+
+#: includes/constants/notice.constants.class.php:100
+msgid "The option \"<strong>Cookie Confirmation Type</strong>\" is set to Opt-in in Ginger - EU Cookie Law and this conflicts with ShortPixel. Please <span>set it differently</span> to let ShortPixel Adaptive Images serve the images properly optimized and scaled."
+msgstr "Параметр «<strong>Cookie Confirmation Type (тип подтверждения файлов cookie)</strong>» установлен в Ginger — Закон ЕС о файлах cookie, и это противоречит ShortPixel. <span>задайте другое значение</span>, чтобы адаптивные изображения ShortPixel отображали правильно оптимизированные и масштабированные изображения."
+
+#: includes/constants/page.constants.class.php:114
+msgid "How to check?"
+msgstr "Как проверить?"
+
+#: includes/constants/page.constants.class.php:117
+#: includes/constants/page.constants.class.php:124
+#: includes/constants/page.constants.class.php:139
+msgid "Next"
+msgstr "Далее"
+
+#: includes/constants/page.constants.class.php:118
+msgid "Found an issue"
+msgstr "Найдена проблема"
+
+#: includes/constants/page.constants.class.php:111
+msgid ""
+"Clear all caches and <a href=\"%s\" target=\"_blank\">browse your website</a> to verify that all is looking good.\n"
+"\t\t\tMake sure you also verify pages that have sliders, galleries or otherwise complex display effects."
+msgstr ""
+"Очистите все кэши и <a href=\"%s\" target=\"_blank\">просмотрите свой сайт</a>, чтобы убедиться, что все выглядит хорошо.\n"
+"\t\t\tОбязательно проверьте страницы, на которых есть слайдеры, галереи или другие сложные эффекты отображения."
+
+#: includes/constants/page.constants.class.php:119
+#: includes/constants/page.constants.class.php:125
+#: includes/constants/page.constants.class.php:140
+msgid "Fast-forward to Settings"
+msgstr "Перемотать вперед к Настройки"
+
+#: includes/constants/page.constants.class.php:121
+msgid "Configure your ShortPixel settings to get the maximum out of ShortPixel."
+msgstr "Настройте параметры ShortPixel, чтобы получить максимальную отдачу от ShortPixel."
+
+#: includes/constants/page.constants.class.php:122
+msgid "Let ShortPixel check my homepage and recommend settings changes"
+msgstr "Разрешить ShortPixel проверять мою домашнюю страницу и рекомендовать изменения настроек"
+
+#: includes/constants/page.constants.class.php:128
+msgid "Press the buttons below to check, using GTMetrix, your site speed Before and After the plugin installation."
+msgstr "Нажмите кнопки ниже, чтобы проверить с помощью GTMetrix скорость вашего сайта до и после установки плагина."
+
+#: includes/constants/page.constants.class.php:105
+msgid "Check"
+msgstr "Проверить"
+
+#: includes/constants/page.constants.class.php:82
+msgid "Create an account"
+msgstr "Создать учетную запись"
+
+#: includes/constants/page.constants.class.php:106
+msgid "Configure"
+msgstr "Конфигурировать"
+
+#: includes/constants/page.constants.class.php:39
+msgid "Share"
+msgstr "Поделиться"
+
+#: includes/constants/page.constants.class.php:107
+msgid "Measure"
+msgstr "Измерить"
+
+#: includes/views/front-checker.tpl.php:102
+msgid "Hide Controls"
+msgstr "Скрыть элементы управления"
+
+#: includes/constants/page.constants.class.php:33
+msgid "%s I've just instantly optimized all of the images from my website with the ShortPixel Adaptive Images plugin. Truly a magical experience! Check it out %s"
+msgstr "%s Я только что мгновенно оптимизировал все изображения с моего веб-сайта с помощью плагина ShortPixel Adaptive Images. Поистине волшебный опыт! Проверьте это %s"
+
+#: includes/constants/page.constants.class.php:35
+msgid "Tweet"
+msgstr "Твитнуть"
+
+#: includes/constants/page.constants.class.php:88
+msgid "API key:"
+msgstr "Ключ API:"
+
+#: includes/constants/page.constants.class.php:108
+msgid "Credits"
+msgstr "Кредиты"
+
+#: includes/constants/page.constants.class.php:99
+msgid "OK, let's use the same"
+msgstr "Хорошо, давайте воспользуемся тем же"
+
+#: includes/views/front-checker.tpl.php:94
+msgid "OK, Reload the page"
+msgstr "OK, Перезагрузите страницу"
+
+#: includes/constants/page.constants.class.php:83
+msgid "I have an account, associate this domain"
+msgstr "У меня есть учетная запись, связанная с этим доменом"
+
+#: includes/constants/page.constants.class.php:46
+msgid "Had a magical moment? You can help more people experience it too by sharing it!"
+msgstr "У вас был волшебный момент? Вы можете помочь большему количеству людей испытать его, поделившись им!"
+
+#: includes/constants/page.constants.class.php:98
+msgid "We have detected that you are using our other plugin <strong>ShortPixel Image Optimizer</strong>. Do you want to use the same account?"
+msgstr "Мы обнаружили, что вы используете другой наш подключаемый модуль <strong>ShortPixel Image Optimizer</strong>. Вы хотите использовать ту же учетную запись?"
+
+#: includes/views/front-checker.tpl.php:88
+msgid "All recommended options for this page are successfully enabled. You can now navigate to another page of the site in order to run the check on that page too. Please press the <span>Done</span> button above when you're ready, to go back to the onboarding setup."
+msgstr "Все рекомендуемые параметры для этой страницы успешно включены. Теперь вы можете перейти на другую страницу сайта, чтобы запустить проверку и на этой странице. Когда будете готовы, нажмите кнопку <span>Done (готово)</span> выше, чтобы вернуться к настройке регистрации."
+
+#: includes/constants/page.constants.class.php:86
+msgid "Please enter the API key below to display detailed stats in the plugin settings. You can also skip this and check detailed credits info in your account on the site. <a href=\"%s\" target=\"_blank\"><strong>Login</strong></a>"
+msgstr "Пожалуйста, введите ключ API ниже, чтобы отобразить подробную статистику в настройках плагина. Вы также можете пропустить это и проверить подробную информацию о кредитах в своей учетной записи на сайте. <a href=\"%s\" target=\"_blank\"><strong>Войти</strong></a>"
+
+#: includes/controllers/feedback.class.php:74
+msgid "Before you deactivate the plugin, would you quickly give us your reason for doing so?"
+msgstr "Перед тем, как отключить плагин, не могли бы вы коротко указать причину?"
+
+#: includes/controllers/short-pixel-ai.class.php:821
+msgid "Close"
+msgstr "Закрыть"
+
+#: includes/controllers/feedback.class.php:148
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+#: includes/constants/page.constants.class.php:142
+#: includes/views/front-checker.tpl.php:36
+msgid "Done"
+msgstr "Готово"
+
+#: includes/controllers/feedback.class.php:95
+msgid "Found a better plugin"
+msgstr "Найден лучший плагин"
+
+#: includes/views/front-checker.tpl.php:87
+msgid "Good job!"
+msgstr "Отличная работа!"
+
+#: includes/controllers/help.class.php:67
+msgid "If you need to access the setup wizard again, please click on the button below."
+msgstr "Если вы хотите снова получить доступ к помощнику установки, кликните по кнопке ниже."
+
+#: includes/controllers/feedback.class.php:99
+msgid "Incompatible with theme or plugin"
+msgstr "Несовместимо с темой или плагином"
+
+#: includes/controllers/feedback.class.php:87
+msgid "Lack of documentation"
+msgstr "Недостаток документации"
+
+#: includes/controllers/feedback.class.php:91
+msgid "Not the features I wanted"
+msgstr "Нет возможностей, которые я хотел"
+
+#: includes/controllers/feedback.class.php:103
+msgid "Other"
+msgstr "Другие"
+
+#: includes/controllers/short-pixel-ai.class.php:831
+msgid "Refresh"
+msgstr "Обновить"
+
+#: includes/controllers/short-pixel-ai.class.php:912
+#: includes/controllers/short-pixel-ai.class.php:1044
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/controllers/feedback.class.php:72
+msgid "Sorry to see you go"
+msgstr "Жаль, что Вы уходите"
+
+#: includes/controllers/help.class.php:64
+#: includes/controllers/help.class.php:66
+#: includes/controllers/help.class.php:68
+msgid "Setup Wizard"
+msgstr "Мастер установки"
+
+#: includes/controllers/page.class.php:304
+msgid "ShortPixel AI Setup"
+msgstr "Установка ShortPixel AI"
+
+#: includes/controllers/notice.class.php:651
+msgid "Sign-up"
+msgstr "Регистрация"
+
+#: includes/constants/notice.constants.class.php:301
+msgid "ShortPixel Image Optimizer options"
+msgstr "Параметры ShortPixel Image Optimizer"
+
+#: includes/constants/notice.constants.class.php:324
+#: includes/constants/notice.constants.class.php:344
+msgid "Re-Check"
+msgstr "Перепроверить"
+
+#: includes/views/front-checker.tpl.php:11
+msgid "Hang on, <strong>ShortPixel Adaptive Images</strong> is checking your page…"
+msgstr "Подождите, <strong>ShortPixel Adaptive Images</strong> проверяет вашу страницу..."
+
+#: includes/views/front-checker.tpl.php:41
+msgid "Based on this page’s contents, we recommend to activate the following options:"
+msgstr "Исходя из содержания этой страницы, мы рекомендуем активировать следующие опции:"
+
+#: includes/views/front-checker.tpl.php:42
+msgid "The images on this page are properly optimized."
+msgstr "Изображения на этой странице оптимизированы должным образом."
+
+#: includes/views/front-checker.tpl.php:80
+msgid "Based on our checks, your website needs this option."
+msgstr "По результатам наших проверок ваш сайт нуждается в этой опции."
+
+#: includes/views/front-checker.tpl.php:81
+msgid "Are you sure you want to revert it?"
+msgstr "Вы уверены, что хотите вернуть его?"
+
+#: includes/controllers/feedback.class.php:107
+msgid "What was the difficult part?"
+msgstr "Что было сложным?"
+
+#: includes/controllers/feedback.class.php:108
+msgid "What can we describe more?"
+msgstr "Что можно описать подробнее?"
+
+#: includes/controllers/feedback.class.php:109
+msgid "How could we improve?"
+msgstr "Как мы можем стать лучше?"
+
+#: includes/controllers/feedback.class.php:110
+msgid "Can you mention it?"
+msgstr "Вы можете упомянуть это?"
+
+#: includes/controllers/feedback.class.php:111
+msgid "With what plugin or theme is incompatible?"
+msgstr "С каким плагином или темой несовместимо?"
+
+#: includes/controllers/feedback.class.php:112
+msgid "Please specify:"
+msgstr "Укажите:"
+
+#: includes/controllers/feedback.class.php:120
+msgid "Would you like to share your e-mail with us so that we can write you back?"
+msgstr "Не хотели бы вы поделиться с нами своим e-mail, чтобы мы могли написать вам ответ?"
+
+#: includes/controllers/feedback.class.php:125
+msgid "No, I'd like to stay anonymous"
+msgstr "Нет, я хочу остаться анонимным"
+
+#: includes/controllers/short-pixel-ai.class.php:827
+msgid "Requesting..."
+msgstr "Выполняется запрос…"
+
+#: includes/controllers/feedback.class.php:143
+msgid "Revert settings to the <strong>1.x.x</strong> version"
+msgstr "Вернуть настройки к версии <strong>1.x.x</strong>."
+
+#: includes/controllers/short-pixel-ai.class.php:795
+msgid "Click here and then use the mouse to select an image to check, clear the CDN cache for it, or exclude"
+msgstr "Нажмите здесь, а затем с помощью мыши выберите изображение для проверки, очистите для него кэш CDN или исключите"
+
+#: includes/controllers/short-pixel-ai.class.php:816
+msgid "Couldn't find an image there..."
+msgstr "Не нашел там изображения..."
+
+#: includes/controllers/feedback.class.php:129
+msgid "Please, choose one of the options presented below to decide what we should do with the plugin's settings."
+msgstr "Выберите один из представленных ниже вариантов, чтобы решить, что нам делать с настройками плагина."
+
+#: includes/controllers/feedback.class.php:134
+msgid "Keep plugin data as it is"
+msgstr "Сохранить данные плагина как есть"
+
+#: includes/controllers/feedback.class.php:138
+msgid "Remove all plugin data and settings"
+msgstr "Удалить все данные и настройки плагина"
+
+#: includes/controllers/short-pixel-ai.class.php:820
+#: includes/controllers/short-pixel-ai.class.php:862
+msgid "Retry"
+msgstr "Повторить"
+
+#: includes/controllers/feedback.class.php:83
+msgid "Set up is too difficult"
+msgstr "Настройка слишком сложная"
+
+#: includes/controllers/notice.class.php:643
+msgid "If you <span>sign-up now</span> with ShortPixel you will receive 5Gb more free traffic and also you'll get 50% bonus credits to any purchase that you'll choose to make. Image optimization traffic can be purchased with as little as $3.99 for 52.5Gb monthly (including the 50% bonus)."
+msgstr "Если вы <span>зарегистрируетесь сейчас</span> в ShortPixel, вы получите на 5 ГБ больше бесплатного трафика, а также получите 50% бонусных кредитов на любую покупку, которую вы решите совершить. Трафик для оптимизации изображений можно приобрести всего за $3,99 за 52,5 Гб в месяц (включая бонус 50%)."
+
+#: includes/controllers/page.class.php:163
+msgid "Add"
+msgstr "Добавить"
+
+#: includes/constants/notice.constants.class.php:171
+msgid "Contact us"
+msgstr "Связаться с нами"
+
+#: includes/constants/notice.constants.class.php:67
+#: includes/constants/notice.constants.class.php:90
+#: includes/constants/notice.constants.class.php:129
+msgid "Deactivate it"
+msgstr "Деактивируйте его"
+
+#: includes/actions/page.actions.class.php:122
+#: includes/actions/page.actions.class.php:243
+#: includes/actions/page.actions.class.php:262
+msgid "Something went wrong..."
+msgstr "Что то пошло не так..."
+
+#: includes/constants/notice.constants.class.php:271
+msgid "Use this account"
+msgstr "Используйте эту учетную запись"
+
+#: includes/controllers/page.class.php:178
+msgid "CDN (Mb)"
+msgstr "CDN (Mb)"
+
+#: includes/controllers/page.class.php:179
+msgid "Credits (pcs)"
+msgstr "Кредиты (шт.)"
+
+#: includes/views/settings.tpl.php:632 includes/views/settings.tpl.php:816
+#: includes/views/settings.tpl.php:911 includes/views/settings.tpl.php:998
+#: includes/views/settings.tpl.php:1194 includes/views/settings.tpl.php:1288
+#: includes/views/settings.tpl.php:1332
+msgid "Activate Option"
+msgstr "Активировать опцию"
+
+#: includes/views/settings.tpl.php:630
+msgid "In some rare cases this option can shift the backgrounds relative to the uncropped ones. Please check your site after activating this option. If you notice any issue, you can always revert by deactivating it."
+msgstr "В некоторых редких случаях эта опция может сместить фон относительно необрезанного. Пожалуйста, проверьте свой сайт после активации этой опции. Если вы заметили какую-либо проблему, вы всегда можете вернуться, деактивировав ее."
+
+#: includes/views/settings.tpl.php:674
+msgid "Generate %s tag"
+msgstr "Создать тег %s"
+
+#: includes/views/settings.tpl.php:1394
+msgid "You already have <span>{{QTY}}</span> selectors active. Please keep the number of exclusion selectors low for best performance."
+msgstr "У вас уже есть активные селекторы <span>{{QTY}}</span>. Для лучшей производительности старайтесь, чтобы количество селекторов исключений было небольшим."
+
+#: includes/views/settings.tpl.php:1448 includes/views/settings.tpl.php:1475
+msgid "You already have <span>{{QTY}}</span> URL exclusions active. Please keep the number of exclusion selectors low for best performance."
+msgstr "У вас уже есть активные исключения URL <span>{{QTY}}</span>. Для лучшей производительности старайтесь, чтобы количество селекторов исключений было небольшим."
+
+#: includes/controllers/page.class.php:167
+msgid "Selector(s) already present."
+msgstr "Селектор(ы) уже присутствует(ют)."
+
+#: includes/actions/page.actions.class.php:123
+msgid " The options have not been saved."
+msgstr " Параметры не были сохранены."
+
+#: includes/actions/page.actions.class.php:148
+msgid "The domain is not associated to this API key."
+msgstr "Домен не связан с данным ключом API."
+
+#: includes/actions/page.actions.class.php:242
+msgid "The CSS cache has been cleared."
+msgstr "Кэш CSS очищен."
+
+#: includes/actions/page.actions.class.php:243
+msgid "CSS cache has not been cleared."
+msgstr "Кэш CSS не очищен."
+
+#: includes/actions/page.actions.class.php:411
+msgid "API key has been successfully saved."
+msgstr "Ключ API успешно сохранен."
+
+#: includes/actions/page.actions.class.php:426
+msgid "<strong>%s</strong> is not associated to this API key."
+msgstr "<strong>%s</strong> не связан с этим ключом API."
+
+#: includes/actions/notice.actions.class.php:680
+msgid "Conflict has not been resolved."
+msgstr "Конфликт не разрешен."
+
+#: includes/constants/notice.constants.class.php:188
+msgid "Open Wizard"
+msgstr "Открыть мастер"
+
+#: includes/constants/notice.constants.class.php:193
+msgid "No, I do not need it!"
+msgstr "Нет, мне это не нужно!"
+
+#: includes/constants/notice.constants.class.php:224
+#: includes/constants/notice.constants.class.php:365
+#: includes/constants/notice.constants.class.php:381
+#: includes/constants/notice.constants.class.php:413
+#: includes/constants/notice.constants.class.php:448
+msgid "Change conflicting settings"
+msgstr "Изменить конфликтующие настройки"
+
+#: includes/controllers/notice.class.php:604
+msgid "Check credits"
+msgstr "Проверьте кредиты"
+
+#: includes/controllers/notice.class.php:625
+msgid "Log-in"
+msgstr "Войти"
+
+#: includes/views/settings.tpl.php:676
+msgid "Generate the fallback html for the browsers that do not support JavaScript."
+msgstr "Создайте резервный HTML-код для браузеров, не поддерживающих JavaScript."
+
+#: includes/views/settings.tpl.php:1048
+msgid "Serve SVGs through CDN"
+msgstr "Обслуживание SVG через CDN"
+
+#: includes/views/settings.tpl.php:1067
+msgid "The SVG images are provided by the CDN without any changes."
+msgstr "Изображения SVG предоставляются CDN без каких-либо изменений."
+
+#: includes/actions/notice.actions.class.php:258
+msgid "Yay! Your new credits are active."
+msgstr "Ура! Ваши новые кредиты активны."
+
+#: includes/actions/notice.actions.class.php:262
+msgid "Still no credits."
+msgstr "Кредитов по-прежнему нет."
+
+#: includes/views/settings.tpl.php:841
+msgid "Native lazy-loading"
+msgstr "Браузерная отложенная загрузка"
+
+#: includes/views/settings.tpl.php:856
+msgid "Use browser native lazy-loading if the browser supports it."
+msgstr "Используйте встроенную отложенную загрузку браузера, если браузер поддерживает ее."
+
+#: includes/views/settings.tpl.php:1179
+msgid "Please check your website after activating this option. If you have any other plugins that minify or otherwise handle the CSS files, this could cause conflicts and the background images might not show."
+msgstr "Проверьте свой сайт после активации этой опции. Если у вас есть другие плагины, которые минифицируют или иным образом обрабатывают файлы CSS, это может вызвать конфликты, и фоновые изображения могут не отображаться."
+
+#: includes/views/front-checker.tpl.php:61 includes/views/settings.tpl.php:1248
+msgid "Replace in the JS blocks"
+msgstr "Заменить в блоках JS"
+
+#: includes/views/settings.tpl.php:1264
+msgid "Parse JavaScript blocks to replace image URLs."
+msgstr "Разбирать блоки JavaScript для замены URL изображений."
+
+#: includes/views/settings.tpl.php:1278
+msgid "Lazy-load URLs in the JS blocks."
+msgstr "Отложенная загрузка URL в JS-блоках."
+
+#: includes/views/settings.tpl.php:1286
+msgid "Please check your website after activating this option. Because it parses and replaces URLs inside the JavaScript blocks, it could, in rare cases, interfere with how the JavaScript works. Please also check if there are any errors in the browser console."
+msgstr "Проверьте свой сайт после активации этой опции. Поскольку она анализирует и заменяет URL-адреса внутри блоков JavaScript, в редких случаях это может нарушить работу JavaScript. Также проверьте, нет ли ошибок в консоли браузера."
+
+#: includes/actions/page.actions.class.php:459
+msgid "Something went wrong... API key has not been added."
+msgstr "Что-то пошло не так... Ключ API не был добавлен."
+
+#: includes/actions/notice.actions.class.php:679
+msgid "Yay! Looks like conflicting options have been disabled."
+msgstr "Ура! Похоже, конфликтующие опции были отключены."
+
+#: includes/actions/notice.actions.class.php:101
+#: includes/actions/notice.actions.class.php:143
+msgid "Please check the WP Rocket settings."
+msgstr "Проверьте настройки WP Rocket."
+
+#: includes/actions/notice.actions.class.php:223
+msgid "Yay! <strong>ShortPixel Adaptive Images</strong> will use this account."
+msgstr "Ура! <strong>ShortPixel Adaptive Images</strong> будет использовать эту учетную запись."
+
+#: includes/actions/notice.actions.class.php:480
+msgid "Please check the Swift Performance settings."
+msgstr "Пожалуйста, проверьте настройки Swift Performance."
+
+#: includes/actions/notice.actions.class.php:527
+msgid "Please check the Imagify settings."
+msgstr "Проверьте настройки Imagify."
+
+#: includes/constants/notice.constants.class.php:106
+msgid "Ginger EU Cookie Law settings"
+msgstr "Настройки Ginger EU Cookie Law"
+
+#: includes/views/front-checker.tpl.php:75 includes/views/settings.tpl.php:736
+msgid "Images hover handling"
+msgstr "Обработка изображений при наведении"
+
+#: includes/controllers/page.class.php:168
+msgid "This doesn't look like a valid selector. <a href=\"https://vegibit.com/css-selectors-tutorial/\" target=\"_blank\">How to write a selector?</a>"
+msgstr "Это не похоже на допустимый селектор. <a href=\"https://vegibit.com/css-selectors-tutorial/\" target=\"_blank\">Как написать селектор?</a>"
+
+#: includes/actions/page.actions.class.php:121
+msgid "The options have been successfully saved."
+msgstr "Параметры успешно сохранены."
+
+#: includes/actions/page.actions.class.php:448
+msgid "API key has been successfully saved. <strong>ShortPixel Adaptive Images</strong> will use the same account for <strong>%s</strong>."
+msgstr "Ключ API успешно сохранен. <strong>ShortPixel Adaptive Images</strong> будет использовать ту же учетную запись для <strong>%s</strong>."
+
+#: includes/views/settings.tpl.php:1331
+msgid "Please check your website after activating this option. In rare cases, changing the URLs inside JSON blocks might interfere with how your site's JavaScript works."
+msgstr "Проверьте свой сайт после активации этой опции. В редких случаях изменение URL внутри блоков JSON может нарушить работу JavaScript на вашем сайте."
+
+#: includes/views/settings.tpl.php:752
+msgid "Handle the on hover swapping images."
+msgstr "Обработка замены изображений при наведении."
+
+#: includes/actions/notice.actions.class.php:262
+msgid "Please check your account."
+msgstr "Проверьте свой аккаунт."
+
+#: includes/views/settings.tpl.php:576
+msgid "The images are smaller and no information about author/location is present in the image. <a href=\"https://shortpixel.com/blog/how-much-smaller-can-be-images-without-exif-icc/\" target=\"_blank\">Read more</a>"
+msgstr "Изображения меньше, и на изображении отсутствует информация об авторе/местоположении. <a href=\"https://shortpixel.com/blog/how-much-smaller-can-be-images-without-exif-icc/\" target=\"_blank\">Подробнее</a>"
+
+#: includes/views/settings.tpl.php:146
+msgid "Account"
+msgstr "Учётная запись"
+
+#: includes/views/settings.tpl.php:342
+msgid "Behavior"
+msgstr "Поведение"
+
+#: includes/controllers/short-pixel-ai.class.php:995
+#: includes/views/settings.tpl.php:373
+msgid "Clear CSS Cache"
+msgstr "Очистить кэш CSS"
+
+#: includes/views/settings.tpl.php:341
+msgid "Compression"
+msgstr "Сжатие"
+
+#: includes/views/settings.tpl.php:344
+msgid "Exclusions"
+msgstr "Исключения"
+
+#: includes/views/settings.tpl.php:145
+msgid "Login"
+msgstr "Войти"
+
+#: includes/views/on-boarding.tpl.php:78
+msgid "Next steps"
+msgstr "Следующие шаги"
+
+#: includes/constants/page.constants.class.php:89
+#: includes/controllers/page.class.php:164 includes/views/settings.tpl.php:254
+msgid "Save"
+msgstr "Сохранить"
+
+#: includes/views/settings.tpl.php:54 includes/views/settings.tpl.php:254
+msgid "Saving..."
+msgstr "Сохранение..."
+
+#: includes/views/settings.tpl.php:269
+msgid "Theme:"
+msgstr "Тема:"
+
+#: includes/views/settings.tpl.php:157 includes/views/settings.tpl.php:169
+#: includes/views/settings.tpl.php:188 includes/views/settings.tpl.php:216
+#: includes/views/settings.tpl.php:228
+msgid "available"
+msgstr "доступно"
+
+#: includes/views/on-boarding.tpl.php:55
+msgid "free"
+msgstr "бесплатно"
+
+#: includes/views/on-boarding.tpl.php:59
+msgid "monthly"
+msgstr "ежемесячно"
+
+#: includes/views/settings.tpl.php:158 includes/views/settings.tpl.php:170
+#: includes/views/settings.tpl.php:189 includes/views/settings.tpl.php:217
+#: includes/views/settings.tpl.php:229
+msgid "used"
+msgstr "используется"
+
+#: includes/views/settings.tpl.php:343
+msgid "Areas"
+msgstr "Области"
+
+#: includes/views/settings.tpl.php:204
+msgid "Total credits"
+msgstr "Всего кредитов"
+
+#: includes/views/settings.tpl.php:266
+msgid "Active integrations"
+msgstr "Активные интеграции"
+
+#: includes/views/settings.tpl.php:278
+msgid "Dismissed notifications"
+msgstr "Отклоненные уведомления"
+
+#: includes/views/settings.tpl.php:317
+msgid "No dismissed notifications."
+msgstr "Нет отклоненных уведомлений."
+
+#: includes/views/on-boarding.tpl.php:62
+msgid "and"
+msgstr "и"
+
+#: includes/views/settings.tpl.php:153
+msgid "Forget"
+msgstr "Забудьте"
+
+#: includes/views/settings.tpl.php:124
+msgid "Total monthly credits"
+msgstr "Всего ежемесячных кредитов"
+
+#: includes/views/settings.tpl.php:222
+msgid "CDN traffic"
+msgstr "Трафик CDN"
+
+#: includes/views/settings.tpl.php:210
+msgid "Create account"
+msgstr "Создать учётную запись"
+
+#: includes/views/settings.tpl.php:211
+msgid "Associate existing"
+msgstr "Ассоциировать существующие"
+
+#: includes/views/settings.tpl.php:252
+msgid "Enter your account's API key to get detailed info"
+msgstr "Введите ключ API вашей учетной записи, чтобы получить подробную информацию"
+
+#: includes/views/on-boarding.tpl.php:65
+msgid "one-time"
+msgstr "разовый"
+
+#: includes/views/on-boarding.tpl.php:73
+msgid "The domain %s is associated to the ShortPixel account %s."
+msgstr "Домен %s связан с учетной записью ShortPixel %s."
+
+#: includes/views/settings.tpl.php:76 includes/views/settings.tpl.php:77
+msgid "Some of the image sizes and new images are no longer optimized."
+msgstr "Некоторые размеры изображений и новые изображения больше не оптимизированы."
+
+#: includes/views/settings.tpl.php:80 includes/views/settings.tpl.php:81
+msgid "Your images are no longer optimized."
+msgstr "Ваши изображения больше не оптимизированы."
+
+#: includes/views/settings.tpl.php:135
+msgid "Total one-time credits"
+msgstr "Всего единовременных кредитов"
+
+#: includes/views/settings.tpl.php:72 includes/views/settings.tpl.php:73
+msgid "You have less than 10% of your CDN traffic available."
+msgstr "У вас доступно менее 10 % трафика вашей сети CDN."
+
+#: includes/views/settings.tpl.php:99
+msgid "associated"
+msgstr "ассоциированный"
+
+#: includes/views/settings.tpl.php:99
+msgid "not associated"
+msgstr "не связан"
+
+#: includes/views/settings.tpl.php:64
+msgid "Your account usage is close to the CDN traffic limit."
+msgstr "Использование вашей учетной записи близко к лимиту."
+
+#: includes/views/settings.tpl.php:72 includes/views/settings.tpl.php:76
+#: includes/views/settings.tpl.php:80
+msgid "Please top up to ensure that you don't run out of CDN traffic."
+msgstr "Пополняйте счет, чтобы у вас не закончился трафик CDN."
+
+#: includes/views/on-boarding.tpl.php:34
+msgid "Welcome and thank you for installing the ShortPixel Adaptive Images Plugin!"
+msgstr "Добро пожаловать и спасибо за установку плагина ShortPixel Adaptive Images Plugin!"
+
+#: includes/views/on-boarding.tpl.php:40
+msgid "To fully benefit from the ShortPixel Adaptive Images plugin, please check the notification above."
+msgstr "Чтобы получить все преимущества от плагина ShortPixel Adaptive Images, проверьте уведомление выше."
+
+#: includes/views/on-boarding.tpl.php:41
+msgid "Once you took the appropriate action the Setup Wizard will start."
+msgstr "После того как вы выполнили соответствующие действия, запустится мастер установки."
+
+#: includes/views/on-boarding.tpl.php:45
+msgid "Please top-up your account to continue using the ShortPixel Adaptive Images plugin."
+msgstr "Пополните счет, чтобы продолжить использование плагина ShortPixel Adaptive Images."
+
+#: includes/controllers/plugin-update-notice.class.php:12
+msgid "<strong>Heads up! We do not recommend to update!</strong> ShortPixel Adaptive Images version <strong>%s</strong> is not compatible with your PHP version."
+msgstr "<strong>Внимание! Обновлять не рекомендуется!</strong> Версия ShortPixel Adaptive Images <strong>%s</strong> несовместима с вашей версией PHP."
+
+#: includes/controllers/plugin-update-notice.class.php:13
+msgid "The new ShortPixel Adaptive Images version requires at least PHP <strong>%s</strong> and your PHP version is <strong>%s</strong>"
+msgstr "Для новой версии ShortPixel Adaptive Images требуется как минимум PHP <strong>%s</strong>, а ваша версия PHP — <strong>%s</strong>."
+
+#: includes/controllers/plugin-update-notice.class.php:22
+#: includes/controllers/plugin-update-notice.class.php:26
+msgid "<strong>Heads up!</strong> %s is a %s update."
+msgstr "<strong>Внимание!</strong> %s — это обновление %s."
+
+#: includes/controllers/plugin-update-notice.class.php:26
+msgid "minor"
+msgstr "незначительный"
+
+#: includes/views/front-checker.tpl.php:34
+msgid "ShortPixel AI"
+msgstr "ShortPixel AI"
+
+#: includes/controllers/short-pixel-ai.class.php:799
+msgid "Please choose an image from the following list."
+msgstr "Выберите изображение из следующего списка."
+
+#: includes/views/settings.tpl.php:1323
+msgid "Lazy-load JSON URLs."
+msgstr "URL-адреса JSON с отложенной загрузкой."
+
+#: includes/constants/notice.constants.class.php:249
+msgid "ShortPixel Adaptive Images conflicts with other CSS settings"
+msgstr "ShortPixel Adaptive Images конфликтуют с другими настройками CSS"
+
+#: includes/views/settings.tpl.php:1152
+msgid "Replace background images and fonts in the CSS cached by %s."
+msgstr "Замените фоновые изображения и шрифты в CSS, кэшированном %s."
+
+#: includes/views/front-checker.tpl.php:54 includes/views/settings.tpl.php:1136
+msgid "Replace in CSS files"
+msgstr "Заменить в файлах CSS"
+
+#: includes/views/settings.tpl.php:1205
+msgid "Additional CSS domains: "
+msgstr "Дополнительные домены CSS: "
+
+#: includes/views/front-checker.tpl.php:68 includes/views/settings.tpl.php:1293
+msgid "Replace in JSON data"
+msgstr "Заменить в данных JSON"
+
+#: includes/views/settings.tpl.php:1309
+msgid "Also parse JSON AJAX calls to replace image URLs."
+msgstr "Также анализируйте вызовы JSON AJAX для замены URL изображений."
+
+#: includes/constants/notice.constants.class.php:123
+msgid "The option \"Custom Post Meta\" is active in your Divi Toolbox options, under the Blog section. Please either update the plugin to version > 1.4.2 or <span>deactivate the option</span> to let ShortPixel Adaptive Images serve the images."
+msgstr "Параметр «Пользовательские метаданные записи» активен в параметрах панели инструментов Divi в разделе «Блог». Обновите подключаемый модуль до версии > 1.4.2 или <span>деактивируйте параметр</span>, чтобы разрешить ShortPixel Adaptive Images показывать изображения."
+
+#: includes/views/settings.tpl.php:1216
+msgid "By default, only the CSS files served from the site domain are parsed to avoid unnecessary work on external CSS. If you serve the CSS files from another domain, please add it above. You can add multiple domains separated by commas."
+msgstr "По умолчанию анализируются только файлы CSS, обслуживаемые из домена сайта, чтобы избежать лишней работы над внешним CSS. Если вы обслуживаете CSS-файлы из другого домена, пожалуйста, добавьте его выше. Вы можете добавить несколько доменов через запятую."
+
+#: includes/constants/notice.constants.class.php:73
+#: includes/constants/notice.constants.class.php:112
+#: includes/constants/notice.constants.class.php:135
+msgid "More info"
+msgstr "Подробнее"
+
+#: includes/constants/notice.constants.class.php:60
+msgid "Autoptimize option conflict"
+msgstr "Конфликт опций автооптимизации"
+
+#: includes/constants/notice.constants.class.php:121
+msgid "Divi Toolbox option conflict"
+msgstr "Конфликт опций панели инструментов Divi"
+
+#: includes/constants/notice.constants.class.php:82
+msgid "Avada option conflict"
+msgstr "Конфликт опций Avada"
+
+#: includes/constants/notice.constants.class.php:98
+msgid "Ginger option conflict"
+msgstr "Конфликт с опцией Ginger"
+
+#: includes/views/settings.tpl.php:260 includes/views/settings.tpl.php:1398
+#: includes/views/settings.tpl.php:1439 includes/views/settings.tpl.php:1466
+msgid "Read more"
+msgstr "Читать полностью"
+
+#: includes/views/settings.tpl.php:558
+msgid "Remove EXIF"
+msgstr "Удалить EXIF"
+
+#: includes/views/front-checker.tpl.php:47 includes/views/settings.tpl.php:1073
+msgid "Lazy-load the backgrounds"
+msgstr "Отложенная загрузка фонов"
+
+#: includes/views/settings.tpl.php:1089
+msgid "Lazy-load the background images from inline STYLE blocks."
+msgstr "Отложенная загрузка фоновых изображений из встроенных блоков STYLE."
+
+#: includes/views/settings.tpl.php:1113
+msgid "Backgrounds maximum width"
+msgstr "Макс. ширина фона"
+
+#: includes/views/settings.tpl.php:1131
+msgid "Maximum width of the backgrounds, on all devices. Use to scale down huge backgrounds that are not lazy-loaded. Recommended value is 1920px."
+msgstr "Макс. ширина фона на всех устройствах. Используйте для уменьшения огромных фонов, которые не загружаются отложено. Рекомендуемое значение — 1920 px."
+
+#: includes/views/settings.tpl.php:1412
+msgid "Don't resize:"
+msgstr "Не изменять размер:"
+
+#: includes/views/settings.tpl.php:1422
+msgid "Leave out completely:"
+msgstr "Полностью исключить:"
+
+#: includes/views/settings.tpl.php:609
+msgid "Smart crop"
+msgstr "Умное кадрирование"
+
+#: includes/views/settings.tpl.php:624
+msgid "Smartly crop the images when it's possible and safe."
+msgstr "Умело кадрируйте изображения, когда это возможно и безопасно."
+
+#: includes/views/settings.tpl.php:1402
+msgid "Don't lazy-load:"
+msgstr "Не загружать отложено:"
+
+#: includes/views/settings.tpl.php:573
+msgid "Remove the EXIF info from the images."
+msgstr "Удалите информацию EXIF из изображений."
+
+#: includes/views/settings.tpl.php:1092
+msgid "This makes the backgrounds in inline STYLE blocks load after the browser capabilities and image sizes are determined. It also imposes a maximum width of the backgrounds equal to the viewport width."
+msgstr "Это заставляет фоны в встроенных блоках STYLE загружаться после определения возможностей браузера и размеров изображения. Это также накладывает макс. ширину фонов, равную ширине области просмотра."
+
+#: includes/views/settings.tpl.php:401 includes/views/settings.tpl.php:1519
+msgid "Compression Level"
+msgstr "Уровень сжатия"
+
+#: includes/views/settings.tpl.php:681
+msgid "API URL"
+msgstr "URL API"
+
+#: includes/views/settings.tpl.php:413 includes/views/settings.tpl.php:1531
+msgid "Best option for photographers and other professionals that use very high quality images on their sites and want best compression while keeping the quality untouched."
+msgstr "Лучший вариант для фотографов и других специалистов, которые используют изображения высокого качества на своих сайтах и хотят высокой степени сжатия, сохраняя качество без изменений."
+
+#. Author of the plugin
+#: short-pixel-ai.php
+msgid "ShortPixel"
+msgstr "ShortPixel"
+
+#: includes/views/settings.tpl.php:409 includes/views/settings.tpl.php:1527
+msgid "This is the recommended option in most cases, producing results that look the same as the original to the human eye."
+msgstr "В большинстве случаев это оптимальный вариант, при котором полученное изображение для человеческого глаза выглядит как оригинальное."
+
+#. Author URI of the plugin
+#: short-pixel-ai.php
+msgid "https://shortpixel.com"
+msgstr "https://shortpixel.com"
+
+#. Plugin URI of the plugin
+#: short-pixel-ai.php
+msgid "https://shortpixel.com/"
+msgstr "https://shortpixel.com/"
+
+#: includes/views/settings.tpl.php:426 includes/views/settings.tpl.php:1544
+msgid "<b>Lossy compression (recommended): </b>offers the best compression rate.</br> This is the recommended option for most users, producing results that look the same as the original to the human eye."
+msgstr "<b>Сжатие с потерями (рекомендуется): </b>предлагает наилучшую степень сжатия.</br> Это рекомендуемый вариант для большинства пользователей, который дает результаты, которые выглядят так же, как оригинал для человеческого глаза."
+
+#. Description of the plugin
+#: short-pixel-ai.php
+msgid "Display properly sized, smart cropped and optimized images on your website. Images are processed on the fly and served from our CDN."
+msgstr "Отображайте на своем сайте изображения правильного размера, грамотно кадрированые и оптимизированные. Изображения обрабатываются на лету и передаются из нашей CDN."
+
+#. Plugin Name of the plugin
+#: short-pixel-ai.php
+msgid "ShortPixel Adaptive Images"
+msgstr "ShortPixel Adaptive Images"
+
+#: includes/constants/notice.constants.class.php:161
+msgid "ShortPixel Adaptive Images is in BETA"
+msgstr "ShortPixel Adaptive Images находятся в стадии BETA"
+
+#: includes/constants/notice.constants.class.php:265
+msgid "ShortPixel account"
+msgstr "Учетная запись ShortPixel"
+
+#: includes/controllers/notice.class.php:658
+msgid "ShortPixel Adaptive Images notice"
+msgstr "Уведомление ShortPixel Adaptive Images"
+
+#: includes/controllers/notice.class.php:610
+msgid "Please note that your ShortPixel Adaptive Images quota will be exhausted soon."
+msgstr "Обратите внимание, что ваша квота на ShortPixel Adaptive Images скоро будет исчерпана."
+
+#: includes/constants/notice.constants.class.php:288
+#: includes/controllers/notice.class.php:613
+#: includes/views/on-boarding.tpl.php:44
+msgid "Your ShortPixel Adaptive Images quota has been exceeded."
+msgstr "Ваша квота на ShortPixel Adaptive Images превышена."
+
+#: includes/views/on-boarding.tpl.php:46
+msgid "The already optimized images will still be served from the ShortPixel CDN for up to 30 days but the images that weren't already optimized and cached via CDN will be served directly from your website."
+msgstr "Уже оптимизированные изображения будут по-прежнему обслуживаться из CDN ShortPixel в течение 30 дней, но изображения, которые еще не были оптимизированы и кэшированы через CDN, будут обслуживаться непосредственно с вашего сайта."
+
+#: includes/constants/notice.constants.class.php:307
+msgid "ShortPixel Adaptive Images options"
+msgstr "Параметры ShortPixel Adaptive Images"
+
+#: includes/constants/notice.constants.class.php:294
+#: includes/constants/notice.constants.class.php:336
+#: includes/constants/notice.constants.class.php:390
+msgid "ShortPixel optimization alert"
+msgstr "Оповещение об оптимизации ShortPixel"
+
+#: includes/constants/notice.constants.class.php:84
+msgid "The option \"Enable Lazy Loading\" is active in your Avada theme options, under the Performance section. Please <span>deactivate it</span> to let ShortPixel Adaptive Images serve the images properly optimized and scaled."
+msgstr "Параметр «Включить отложенную загрузку» активен в параметрах вашей темы Avada в разделе «Производительность (Performance)». <span>деактивируйте его</span>, чтобы адаптивные изображения ShortPixel отображали правильно оптимизированные и масштабированные изображения."
+
+#: includes/constants/notice.constants.class.php:200
+#: includes/constants/notice.constants.class.php:233
+msgid "ShortPixel Adaptive Images conflicts with other lazy-loading settings"
+msgstr "ShortPixel Adaptive Images конфликтуют с другими настройками отложенной загрузки"
+
+#: includes/constants/notice.constants.class.php:241
+#: includes/constants/notice.constants.class.php:257
+msgid "Open the WP Rocket Settings"
+msgstr "Открыть настройки WP Rocket"
+
+#: includes/views/settings.tpl.php:419 includes/views/settings.tpl.php:1537
+msgid "Make sure not a single pixel looks different in the optimized image compared to the original. In some rare cases you will need to use this type of compression. Some technical drawings or images from vector graphics are possible situations."
+msgstr "Убедитесь, что ни один пиксель оптимизированного изображения не отличается от исходного. В некоторых редких случаях вам нужно будет использовать этот тип сжатия. Некоторые технические чертежи или изображения из векторной графики являются возможными ситуациями."
+
+#: includes/views/settings.tpl.php:1445
+msgid "Excluded URLs"
+msgstr "Исключенные URL-адреса"
+
+#: includes/views/settings.tpl.php:604
+msgid "If you experience problems with images that zoom on hover or have other special effects, try deactivating this option."
+msgstr "Если у вас возникают проблемы с изображениями, которые масштабируются при наведении курсора или имеют другие специальные эффекты, попробуйте отключить эту опцию."
+
+#: includes/views/settings.tpl.php:637
+msgid "Replace method"
+msgstr "Метод замены"
+
+#: includes/views/settings.tpl.php:655 includes/views/settings.tpl.php:661
+msgid "EXPERIMENTAL: Use SRCSET if you still encounter problems with specific content."
+msgstr "ЭКСПЕРИМЕНТАЛЬНО: Используйте SRCSET, если у вас все еще возникают проблемы с определенным содержимым."
+
+#: includes/views/settings.tpl.php:651 includes/views/settings.tpl.php:660
+msgid "EXPERIMENTAL: Use BOTH if you have images that dynamically change size (enlarge on hover, etc.)"
+msgstr "ЭКСПЕРИМЕНТАЛЬНО: Используйте BOTH, если у вас есть изображения, которые динамически изменяют размер (увеличиваются при наведении и т.д.)."
+
+#: includes/views/settings.tpl.php:1388
+msgid "Excluded selectors"
+msgstr "Исключенные селекторы"
+
+#: includes/views/settings.tpl.php:1493
+msgid "Specify a list of URL exclusion rules, one per line. An exclusion rule starts either with <strong>path:</strong> or with <strong>regex:</strong>. After the colon:"
+msgstr "Укажите список правил исключения URL-адресов, по одному в строке. Правило исключения начинается либо с <strong>path:</strong>, либо с <strong>regex:</strong>. После двоеточия:"
+
+#: includes/views/settings.tpl.php:1550
+msgid ""
+"<b>Lossless compression: </b> the resulting image is pixel-identical to the original image.</br>Make sure not a single pixel looks different in the optimized image compared to the original.\n"
+"\t\t\t\t\t\t\t\t\t\tIn some rare cases you will need to use this type of compression. Some technical drawings or images from vector graphics are possible situations."
+msgstr ""
+"<b>Сжатие без потерь: </b> результирующее изображение по пикселям идентично исходному изображению.</br>Убедитесь, что ни один пиксель оптимизированного изображения не отличается от исходного.\n"
+"В некоторых редких случаях вам нужно будет использовать этот тип сжатия. Некоторые технические чертежи или изображения из векторной графики являются возможными ситуациями."
+
+#: includes/views/settings.tpl.php:1501
+msgid "If it's a <strong>path:</strong> rule, you can specify full URLs, domain names like gravatar.com or paths like /my-custom-image-folder/."
+msgstr "Если это правило <strong>path:</strong>, вы можете указать полные URL-адреса, доменные имена, такие как gravatar.com, или пути, такие как /my-custom-image-folder/."
+
+#: includes/views/settings.tpl.php:429 includes/views/settings.tpl.php:1547
+msgid "<b>Glossy compression: </b>creates images that are almost pixel-perfect identical to the originals.</br> Best option for photographers and other professionals that use very high quality images on their sites and want the best compression while keeping the quality untouched."
+msgstr "<b>Сжатие почти без потерь: </b> создает изображения, которые почти полностью идентичны оригиналам. </br> Лучший вариант для фотографов и других специалистов, которые используют изображения очень высокого качества на своих сайтах и хотят наилучшего сжатия при сохранении качества нетронутыми."
+
+#: includes/constants/notice.constants.class.php:296
+msgid "ShortPixel Adaptive Images and ShortPixel Image Optimizer are both set to do Lossy optimization which could result in a too aggressive optimization of your images, please set one of them to Glossy or Lossless."
+msgstr "ShortPixel Adaptive Images и ShortPixel Image Optimizer настроены на оптимизацию с потерями, что может привести к слишком агрессивной оптимизации ваших изображений. Установите для одного из них значение Сжатие почти без потерь или Сжатие без потерь."
+
+#: includes/views/settings.tpl.php:601
+msgid "Fade-in the lazy-loaded images."
+msgstr "Постепенно визуализирует изображения, загруженные отложено."
+
+#: includes/views/settings.tpl.php:586
+msgid "Fade-in effect"
+msgstr "Эффект визуализации"
+
+#: includes/views/settings.tpl.php:369
+msgid "Advanced"
+msgstr "Расширенные"

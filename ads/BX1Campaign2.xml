@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="2.0">
+    <Ad id="ad1">
+        <InLine>
+            <AdSystem>BX1 ADS Service</AdSystem>
+            <AdTitle>T'as 2 Minutes Campagne Pub</AdTitle>
+            <Impression>https://bx1.be/pixel.gif</Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:10</Duration>
+                        <VideoClicks>
+                            <ClickThrough>https://www.burgerking.be/fr/</ClickThrough>
+                            <ClickTracking>https://bx1.be/pixel.gif</ClickTracking>
+                        </VideoClicks>
+                        <TrackingEvents>
+                            <Tracking event="start">https://bx1.be/pixel.gif</Tracking>
+                            <Tracking event="pause">https://bx1.be/pixel.gif</Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" height="100" width="100">
+                                https://bx1.be/videofiles/PSP00130.mp4
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>

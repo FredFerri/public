@@ -1,0 +1,235 @@
+# Translation of Plugins - hCaptcha for WP - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - hCaptcha for WP - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-09 18:33:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - hCaptcha for WP - Stable (latest release)\n"
+
+#: src/php/Settings/General.php:135
+msgid "General"
+msgstr "Algemeen"
+
+#: src/php/Settings/General.php:199
+msgid "Site Key"
+msgstr "Sitesleutel"
+
+#: src/php/Settings/General.php:206
+msgid "Secret Key"
+msgstr "Geheime sleutel"
+
+#: src/php/Settings/General.php:228
+msgid "Theme"
+msgstr "Thema"
+
+#: src/php/Settings/General.php:239
+msgid "Size"
+msgstr "Grootte"
+
+#: src/php/Settings/General.php:250
+msgid "Language"
+msgstr "Taal"
+
+#: src/php/Settings/General.php:372
+msgid "Mode"
+msgstr "Modus"
+
+#: src/php/Settings/General.php:408
+msgid "Custom Themes"
+msgstr "Aangepaste thema's"
+
+#: src/php/Settings/General.php:412
+msgid "Enable Custom Themes"
+msgstr "Aangepaste thema's inschakelen"
+
+#: src/php/Settings/General.php:419
+msgid "Pro"
+msgstr "Pro"
+
+#: src/php/Settings/General.php:423 src/php/Settings/General.php:676
+msgid "Enterprise"
+msgstr "Enterprise"
+
+#: src/php/Settings/General.php:449
+msgid "parameters"
+msgstr "parameters"
+
+#: src/php/Settings/General.php:504
+msgid "Other Settings"
+msgstr "Andere instellingen"
+
+#: src/php/Settings/General.php:667
+msgid "Keys"
+msgstr "Sleutels"
+
+#: src/php/Settings/General.php:670
+msgid "Appearance"
+msgstr "Weergave"
+
+#: src/php/Settings/General.php:673 src/php/Settings/ListPageBase.php:524
+msgid "Custom"
+msgstr "Aangepast"
+
+#: src/php/Settings/General.php:679
+msgid "Other"
+msgstr "Andere"
+
+#: src/php/Settings/Integrations.php:117
+msgid "Integrations"
+msgstr "Integraties"
+
+#: src/php/Settings/Integrations.php:189 src/php/Settings/Integrations.php:679
+msgid "Comment Form"
+msgstr "Reactie formulier"
+
+#: src/php/Settings/Integrations.php:191 src/php/Settings/Integrations.php:238
+#: src/php/Settings/Integrations.php:276 src/php/Settings/Integrations.php:292
+#: src/php/Settings/Integrations.php:342 src/php/Settings/Integrations.php:451
+#: src/php/Settings/Integrations.php:608 src/php/Settings/Integrations.php:619
+#: src/php/Settings/Integrations.php:628 src/php/Settings/Integrations.php:647
+msgid "Lost Password Form"
+msgstr "Wachtwoord verloren formulier"
+
+#: src/php/Settings/Integrations.php:193 src/php/Settings/Integrations.php:240
+#: src/php/Settings/Integrations.php:267 src/php/Settings/Integrations.php:277
+#: src/php/Settings/Integrations.php:293 src/php/Settings/Integrations.php:343
+#: src/php/Settings/Integrations.php:452 src/php/Settings/Integrations.php:461
+#: src/php/Settings/Integrations.php:469 src/php/Settings/Integrations.php:501
+#: src/php/Settings/Integrations.php:540 src/php/Settings/Integrations.php:577
+#: src/php/Settings/Integrations.php:609 src/php/Settings/Integrations.php:620
+#: src/php/Settings/Integrations.php:629 src/php/Settings/Integrations.php:638
+#: src/php/Settings/Integrations.php:649
+msgid "Register Form"
+msgstr "Registratie formulier"
+
+#: src/php/Settings/Integrations.php:190 src/php/Settings/Integrations.php:237
+#: src/php/Settings/Integrations.php:250 src/php/Settings/Integrations.php:275
+#: src/php/Settings/Integrations.php:291 src/php/Settings/Integrations.php:341
+#: src/php/Settings/Integrations.php:450 src/php/Settings/Integrations.php:460
+#: src/php/Settings/Integrations.php:468 src/php/Settings/Integrations.php:492
+#: src/php/Settings/Integrations.php:500 src/php/Settings/Integrations.php:524
+#: src/php/Settings/Integrations.php:538 src/php/Settings/Integrations.php:576
+#: src/php/Settings/Integrations.php:607 src/php/Settings/Integrations.php:618
+#: src/php/Settings/Integrations.php:627 src/php/Settings/Integrations.php:637
+#: src/php/Settings/Integrations.php:646 src/php/Settings/Integrations.php:664
+msgid "Login Form"
+msgstr "Login formulier"
+
+#: src/php/Settings/Integrations.php:239 src/php/Settings/Integrations.php:687
+msgid "New Topic Form"
+msgstr "Nieuw onderwerp formulier"
+
+#: src/php/Settings/Integrations.php:241 src/php/Settings/Integrations.php:688
+msgid "Reply Form"
+msgstr "Antwoord formulier"
+
+#: src/php/Settings/Integrations.php:215 src/php/Settings/Integrations.php:258
+#: src/php/Settings/Integrations.php:284 src/php/Settings/Integrations.php:351
+#: src/php/Settings/Integrations.php:367 src/php/Settings/Integrations.php:386
+#: src/php/Settings/Integrations.php:394 src/php/Settings/Integrations.php:401
+#: src/php/Settings/Integrations.php:409 src/php/Settings/Integrations.php:425
+#: src/php/Settings/Integrations.php:477 src/php/Settings/Integrations.php:485
+#: src/php/Settings/Integrations.php:508 src/php/Settings/Integrations.php:515
+#: src/php/Settings/Integrations.php:547 src/php/Settings/Integrations.php:555
+#: src/php/Settings/Integrations.php:562 src/php/Settings/Integrations.php:569
+#: src/php/Settings/Integrations.php:586 src/php/Settings/Integrations.php:593
+#: src/php/Settings/Integrations.php:600 src/php/Settings/Integrations.php:695
+msgid "Form"
+msgstr "Formulier"
+
+#: src/php/Settings/Integrations.php:312
+msgid "Divi Comment Form"
+msgstr "Divi reactie formulier"
+
+#: src/php/Settings/Integrations.php:313
+msgid "Divi Contact Form"
+msgstr "Divi contactformulier"
+
+#: src/php/Settings/General.php:236
+msgid "Select hCaptcha theme."
+msgstr "Selecteer hCaptcha thema."
+
+#: src/php/Settings/General.php:247
+msgid "Select hCaptcha size."
+msgstr "Selecteer hCaptcha grootte."
+
+#: src/php/Settings/General.php:441
+msgid "Config Params"
+msgstr "Configuratie parameters"
+
+#: src/php/Settings/Integrations.php:340 src/php/Settings/Integrations.php:459
+#: src/php/Settings/Integrations.php:523 src/php/Settings/Integrations.php:617
+#: src/php/Settings/Integrations.php:645
+msgid "Checkout Form"
+msgstr "Afrekenformulier"
+
+#: src/php/ElementorPro/HCaptchaHandler.php:202
+msgid "To use hCaptcha, you need to add the Site and Secret keys."
+msgstr "Om hCaptcha te gebruiken, moet je de site en geheime sleutels toevoegen."
+
+#: src/php/Settings/General.php:245
+msgid "Invisible"
+msgstr "Onzichtbaar"
+
+#: src/php/Settings/General.php:508
+msgid "Turn Off When Logged In"
+msgstr "Uitzetten wanneer ingelogd"
+
+#: src/php/WP/Comment.php:162
+msgid "Invalid Captcha"
+msgstr "Onjuiste captcha"
+
+#: src/php/Settings/PluginSettingsBase.php:150
+msgid "Settings"
+msgstr "Instellingen"
+
+#: src/php/Kadence/AdvancedForm.php:138 src/php/Kadence/Form.php:118
+msgid "hCaptcha Failed"
+msgstr "hCaptcha mislukt"
+
+#: src/php/Settings/General.php:244
+msgid "Compact"
+msgstr "Compact"
+
+#: src/php/Settings/General.php:243
+msgid "Normal"
+msgstr "Normaal"
+
+#: src/php/Settings/General.php:233
+msgid "Dark"
+msgstr "Donker"
+
+#: src/php/Settings/General.php:232
+msgid "Light"
+msgstr "Licht"
+
+#: src/php/Settings/PluginSettingsBase.php:141
+msgid "hCaptcha Settings"
+msgstr "hCaptcha instellingen"
+
+#. Author of the plugin
+#: hcaptcha.php src/php/Admin/Notifications.php:130 src/php/CF7/Admin.php:179
+#: src/php/ElementorPro/HCaptchaHandler.php:395 src/php/NF/Field.php:76
+#: src/php/Settings/PluginSettingsBase.php:55 src/php/UM/Base.php:144
+#: src/php/UM/Base.php:147
+msgid "hCaptcha"
+msgstr "hCaptcha"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: hcaptcha.php
+msgid "https://www.hcaptcha.com/"
+msgstr "https://www.hcaptcha.com/"
+
+#: src/php/includes/request.php:88
+msgid "The hCaptcha is invalid."
+msgstr "De hCaptcha is ongeldig."
+
+#: src/php/includes/request.php:87 src/php/Settings/General.php:797
+msgid "Please complete the hCaptcha."
+msgstr "Completeer de hCaptcha."

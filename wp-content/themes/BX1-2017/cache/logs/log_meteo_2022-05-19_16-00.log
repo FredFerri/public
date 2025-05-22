@@ -1,0 +1,748 @@
+________________________________________________
+|             CALL API : START                |
+________________________________________________
+
+Informations : 
+Called API: meteo - 19 May 2022, 16:00
+Method: GETMETEO - Timeout : 300 - Cache : 1
+URL CALLED : https://rmipro.meteo.be/products/bx1/5373bc0393d004fc/web_forecast
+-------------------------
+________________________________________________
+|             CALL API : START                |
+________________________________________________
+
+Informations : 
+Called API: meteo - 19 May 2022, 16:00
+Method: GETMETEO - Timeout : 300 - Cache : 1
+URL CALLED : https://rmipro.meteo.be/products/bx1/5373bc0393d004fc/web_forecast
+-------------------------
+<?xml version='1.0' encoding='UTF-8'?>
+<meteo>
+  <generationDate>19/05/2022 09:58</generationDate>
+  <forecast date="20220519" period="PM">
+    <titledate>19/05/22</titledate>
+    <titleday>jeudi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMax>19 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMax>25 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMax>24 </tempMax>
+      <weathertype>TJ12</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMax>25 </tempMax>
+      <weathertype>TJ12</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMax>27 </tempMax>
+      <weathertype>TJ12</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMax>25 </tempMax>
+      <weathertype>TJ12</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20220519" period="NIGHT">
+    <titledate>19/05/22</titledate>
+    <titleday>jeudi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMin>12 </tempMin>
+      <weathertype>TNN2</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMin>11 </tempMin>
+      <weathertype>TNN2</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMin>13 </tempMin>
+      <weathertype>TNN3</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMin>14 </tempMin>
+      <weathertype>TNN2</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMin>14 </tempMin>
+      <weathertype>TNN3</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMin>14 </tempMin>
+      <weathertype>TNN12</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20220520" period="AM">
+    <titledate>20/05/22</titledate>
+    <titleday>vendredi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMax>17 </tempMax>
+      <weathertype>TJ6</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMax>21 </tempMax>
+      <weathertype>TJ16</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMax>21 </tempMax>
+      <weathertype>TJ16</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMax>20 </tempMax>
+      <weathertype>TJ12</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMax>24 </tempMax>
+      <weathertype>TJ12</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMax>19 </tempMax>
+      <weathertype>TJ12</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20220520" period="PM">
+    <titledate>20/05/22</titledate>
+    <titleday>vendredi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMax>17 </tempMax>
+      <weathertype>TJ6</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMax>20 </tempMax>
+      <weathertype>TJ16</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMax>20 </tempMax>
+      <weathertype>TJ16</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMax>23 </tempMax>
+      <weathertype>TJ12</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMax>23 </tempMax>
+      <weathertype>TJ12</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMax>23 </tempMax>
+      <weathertype>TJ12</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20220521" period="DAY">
+    <titledate>21/05/22</titledate>
+    <titleday>samedi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMin>11 </tempMin>
+      <tempMax>18 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMin>8 </tempMin>
+      <tempMax>20 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMin>8 </tempMin>
+      <tempMax>20 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMin>6 </tempMin>
+      <tempMax>19 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMin>9 </tempMin>
+      <tempMax>19 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMin>6 </tempMin>
+      <tempMax>18 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20220522" period="DAY">
+    <titledate>22/05/22</titledate>
+    <titleday>dimanche</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMin>13 </tempMin>
+      <tempMax>19 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMin>13 </tempMin>
+      <tempMax>22 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMin>13 </tempMin>
+      <tempMax>22 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMin>11 </tempMin>
+      <tempMax>19 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMin>12 </tempMin>
+      <tempMax>22 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMin>11 </tempMin>
+      <tempMax>19 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20220523" period="DAY">
+    <titledate>23/05/22</titledate>
+    <titleday>lundi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMin>12 </tempMin>
+      <tempMax>19 </tempMax>
+      <weathertype>TJ11</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMin>9 </tempMin>
+      <tempMax>21 </tempMax>
+      <weathertype>TJ11</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMin>9 </tempMin>
+      <tempMax>21 </tempMax>
+      <weathertype>TJ11</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMin>7 </tempMin>
+      <tempMax>19 </tempMax>
+      <weathertype>TJ11</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMin>9 </tempMin>
+      <tempMax>22 </tempMax>
+      <weathertype>TJ11</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMin>7 </tempMin>
+      <tempMax>19 </tempMax>
+      <weathertype>TJ11</weathertype>
+    </data>
+  </forecast>
+  <forecast_foreign date="20220519" period="DAY">
+    <titledate>19/05/22</titledate>
+    <titleday>jeudi</titleday>
+    <data>
+      <city>Paris</city>
+      <temp>23 </temp>
+      <weathertype>TJ4</weathertype>
+    </data>
+    <data>
+      <city>Londres</city>
+      <temp>17 </temp>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Amsterdam</city>
+      <temp>19 </temp>
+      <weathertype>TJ16</weathertype>
+    </data>
+  </forecast_foreign>
+  <forecast_foreign date="20220520" period="DAY">
+    <titledate>20/05/22</titledate>
+    <titleday>vendredi</titleday>
+    <data>
+      <city>Paris</city>
+      <temp>21 </temp>
+      <weathertype>TJ16</weathertype>
+    </data>
+    <data>
+      <city>Londres</city>
+      <temp>15 </temp>
+      <weathertype>TJ11</weathertype>
+    </data>
+    <data>
+      <city>Amsterdam</city>
+      <temp>15 </temp>
+      <weathertype>TJ6</weathertype>
+    </data>
+  </forecast_foreign>
+  <Ephemerides>
+    <Ephemeride>
+      <titledate>19/05/22</titledate>
+      <titleday>jeudi</titleday>
+      <data>
+        <sunRise>05:48</sunRise>
+        <sunSet>21:30</sunSet>
+        <gain>4 </gain>
+      </data>
+    </Ephemeride>
+    <Ephemeride>
+      <titledate>20/05/22</titledate>
+      <titleday>vendredi</titleday>
+      <data>
+        <sunRise>05:47</sunRise>
+        <sunSet>21:31</sunSet>
+        <gain>2 </gain>
+      </data>
+    </Ephemeride>
+    <Ephemeride>
+      <titledate>21/05/22</titledate>
+      <titleday>samedi</titleday>
+      <data>
+        <sunRise>05:46</sunRise>
+        <sunSet>21:32</sunSet>
+        <gain>2 </gain>
+      </data>
+    </Ephemeride>
+    <Ephemeride>
+      <titledate>22/05/22</titledate>
+      <titleday>dimanche</titleday>
+      <data>
+        <sunRise>05:45</sunRise>
+        <sunSet>21:34</sunSet>
+        <gain>3 </gain>
+      </data>
+    </Ephemeride>
+  </Ephemerides>
+  <indices>
+    <indice>
+      <titledate>19/05/22</titledate>
+      <titleday>jeudi</titleday>
+      <data>
+        <value>3</value>
+        <evaluation>bonne</evaluation>
+      </data>
+    </indice>
+    <indice>
+      <titledate>20/05/22</titledate>
+      <titleday>vendredi</titleday>
+      <data>
+        <value>4</value>
+        <evaluation>assez bonne</evaluation>
+      </data>
+    </indice>
+    <indice>
+      <titledate>21/05/22</titledate>
+      <titleday>samedi</titleday>
+      <data>
+        <value>4</value>
+        <evaluation>assez bonne</evaluation>
+      </data>
+    </indice>
+  </indices>
+</meteo>
+
+--- ENF OF RECEIVED DATA ---
+
+<?xml version='1.0' encoding='UTF-8'?>
+<meteo>
+  <generationDate>19/05/2022 09:58</generationDate>
+  <forecast date="20220519" period="PM">
+    <titledate>19/05/22</titledate>
+    <titleday>jeudi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMax>19 </tempMax>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMax>25 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMax>24 </tempMax>
+      <weathertype>TJ12</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMax>25 </tempMax>
+      <weathertype>TJ12</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMax>27 </tempMax>
+      <weathertype>TJ12</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMax>25 </tempMax>
+      <weathertype>TJ12</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20220519" period="NIGHT">
+    <titledate>19/05/22</titledate>
+    <titleday>jeudi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMin>12 </tempMin>
+      <weathertype>TNN2</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMin>11 </tempMin>
+      <weathertype>TNN2</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMin>13 </tempMin>
+      <weathertype>TNN3</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMin>14 </tempMin>
+      <weathertype>TNN2</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMin>14 </tempMin>
+      <weathertype>TNN3</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMin>14 </tempMin>
+      <weathertype>TNN12</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20220520" period="AM">
+    <titledate>20/05/22</titledate>
+    <titleday>vendredi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMax>17 </tempMax>
+      <weathertype>TJ6</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMax>21 </tempMax>
+      <weathertype>TJ16</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMax>21 </tempMax>
+      <weathertype>TJ16</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMax>20 </tempMax>
+      <weathertype>TJ12</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMax>24 </tempMax>
+      <weathertype>TJ12</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMax>19 </tempMax>
+      <weathertype>TJ12</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20220520" period="PM">
+    <titledate>20/05/22</titledate>
+    <titleday>vendredi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMax>17 </tempMax>
+      <weathertype>TJ6</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMax>20 </tempMax>
+      <weathertype>TJ16</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMax>20 </tempMax>
+      <weathertype>TJ16</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMax>23 </tempMax>
+      <weathertype>TJ12</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMax>23 </tempMax>
+      <weathertype>TJ12</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMax>23 </tempMax>
+      <weathertype>TJ12</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20220521" period="DAY">
+    <titledate>21/05/22</titledate>
+    <titleday>samedi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMin>11 </tempMin>
+      <tempMax>18 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMin>8 </tempMin>
+      <tempMax>20 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMin>8 </tempMin>
+      <tempMax>20 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMin>6 </tempMin>
+      <tempMax>19 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMin>9 </tempMin>
+      <tempMax>19 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMin>6 </tempMin>
+      <tempMax>18 </tempMax>
+      <weathertype>TJ3</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20220522" period="DAY">
+    <titledate>22/05/22</titledate>
+    <titleday>dimanche</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMin>13 </tempMin>
+      <tempMax>19 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMin>13 </tempMin>
+      <tempMax>22 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMin>13 </tempMin>
+      <tempMax>22 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMin>11 </tempMin>
+      <tempMax>19 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMin>12 </tempMin>
+      <tempMax>22 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMin>11 </tempMin>
+      <tempMax>19 </tempMax>
+      <weathertype>TJ2</weathertype>
+    </data>
+  </forecast>
+  <forecast date="20220523" period="DAY">
+    <titledate>23/05/22</titledate>
+    <titleday>lundi</titleday>
+    <data>
+      <city>Ostende</city>
+      <tempMin>12 </tempMin>
+      <tempMax>19 </tempMax>
+      <weathertype>TJ11</weathertype>
+    </data>
+    <data>
+      <city>Anvers</city>
+      <tempMin>9 </tempMin>
+      <tempMax>21 </tempMax>
+      <weathertype>TJ11</weathertype>
+    </data>
+    <data>
+      <city>Bruxelles</city>
+      <tempMin>9 </tempMin>
+      <tempMax>21 </tempMax>
+      <weathertype>TJ11</weathertype>
+    </data>
+    <data>
+      <city>Namur</city>
+      <tempMin>7 </tempMin>
+      <tempMax>19 </tempMax>
+      <weathertype>TJ11</weathertype>
+    </data>
+    <data>
+      <city>Liege</city>
+      <tempMin>9 </tempMin>
+      <tempMax>22 </tempMax>
+      <weathertype>TJ11</weathertype>
+    </data>
+    <data>
+      <city>Arlon</city>
+      <tempMin>7 </tempMin>
+      <tempMax>19 </tempMax>
+      <weathertype>TJ11</weathertype>
+    </data>
+  </forecast>
+  <forecast_foreign date="20220519" period="DAY">
+    <titledate>19/05/22</titledate>
+    <titleday>jeudi</titleday>
+    <data>
+      <city>Paris</city>
+      <temp>23 </temp>
+      <weathertype>TJ4</weathertype>
+    </data>
+    <data>
+      <city>Londres</city>
+      <temp>17 </temp>
+      <weathertype>TJ1</weathertype>
+    </data>
+    <data>
+      <city>Amsterdam</city>
+      <temp>19 </temp>
+      <weathertype>TJ16</weathertype>
+    </data>
+  </forecast_foreign>
+  <forecast_foreign date="20220520" period="DAY">
+    <titledate>20/05/22</titledate>
+    <titleday>vendredi</titleday>
+    <data>
+      <city>Paris</city>
+      <temp>21 </temp>
+      <weathertype>TJ16</weathertype>
+    </data>
+    <data>
+      <city>Londres</city>
+      <temp>15 </temp>
+      <weathertype>TJ11</weathertype>
+    </data>
+    <data>
+      <city>Amsterdam</city>
+      <temp>15 </temp>
+      <weathertype>TJ6</weathertype>
+    </data>
+  </forecast_foreign>
+  <Ephemerides>
+    <Ephemeride>
+      <titledate>19/05/22</titledate>
+      <titleday>jeudi</titleday>
+      <data>
+        <sunRise>05:48</sunRise>
+        <sunSet>21:30</sunSet>
+        <gain>4 </gain>
+      </data>
+    </Ephemeride>
+    <Ephemeride>
+      <titledate>20/05/22</titledate>
+      <titleday>vendredi</titleday>
+      <data>
+        <sunRise>05:47</sunRise>
+        <sunSet>21:31</sunSet>
+        <gain>2 </gain>
+      </data>
+    </Ephemeride>
+    <Ephemeride>
+      <titledate>21/05/22</titledate>
+      <titleday>samedi</titleday>
+      <data>
+        <sunRise>05:46</sunRise>
+        <sunSet>21:32</sunSet>
+        <gain>2 </gain>
+      </data>
+    </Ephemeride>
+    <Ephemeride>
+      <titledate>22/05/22</titledate>
+      <titleday>dimanche</titleday>
+      <data>
+        <sunRise>05:45</sunRise>
+        <sunSet>21:34</sunSet>
+        <gain>3 </gain>
+      </data>
+    </Ephemeride>
+  </Ephemerides>
+  <indices>
+    <indice>
+      <titledate>19/05/22</titledate>
+      <titleday>jeudi</titleday>
+      <data>
+        <value>3</value>
+        <evaluation>bonne</evaluation>
+      </data>
+    </indice>
+    <indice>
+      <titledate>20/05/22</titledate>
+      <titleday>vendredi</titleday>
+      <data>
+        <value>4</value>
+        <evaluation>assez bonne</evaluation>
+      </data>
+    </indice>
+    <indice>
+      <titledate>21/05/22</titledate>
+      <titleday>samedi</titleday>
+      <data>
+        <value>4</value>
+        <evaluation>assez bonne</evaluation>
+      </data>
+    </indice>
+  </indices>
+</meteo>
+
+--- ENF OF RECEIVED DATA ---
+

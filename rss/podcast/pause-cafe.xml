@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+ <channel>
+  <title>BX1 - Pause café</title>
+  <link>https://bx1plus.be/</link>
+  <description></description>
+  <itunes:summary></itunes:summary>
+  <copyright>BX1 - 2025. Tous droits réservés.</copyright>
+  <image>
+   <url></url>
+   <title></title>
+  </image>
+  <itunes:author>BX1</itunes:author>
+  <itunes:owner>
+   <itunes:name>BX1+</itunes:name>
+   <itunes:email>web@bx1.be</itunes:email>
+  </itunes:owner>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:category text="News"/>
+  <language>fr</language>
+  <lastBuildDate>Wed, 14 May 2025 17:15:23 +0200</lastBuildDate>
+  <itunes:image href=""/>
+  <item>
+   <title>L&amp;#8217;invitée du Brunch: Moana &amp;#8211; 02/09/2024</title>
+   <guid>697162</guid>
+   <link>https://bx1.be/?p=697162</link>
+   <pubDate>Mon, 02 Sep 2024 02:00:00 +0200</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href=""/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELB00388_Pause.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>L'invitée d'Aline Walsdorff dans le Brunch de ce matin est l'humoriste Moana. Elle joue son spectacle &quot;Moana prépare son spectacle&quot; tous les deuxième mercredi du mois au Petit Kings, une véritable plongée dans les années 2000.</itunes:summary>
+   <description>L'invitée d'Aline Walsdorff dans le Brunch de ce matin est l'humoriste Moana. Elle joue son spectacle &quot;Moana prépare son spectacle&quot; tous les deuxième mercredi du mois au Petit Kings, une véritable plongée dans les années 2000.</description>
+  </item>
+  <item>
+   <title>L’invité du Brunch: Yessin Harroy &amp;#8211; 29/08/2024</title>
+   <guid>696544</guid>
+   <link>https://bx1.be/?p=696544</link>
+   <pubDate>Thu, 29 Aug 2024 02:00:00 +0200</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href=""/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELB00386_Pause.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>Pause-café avec Yessin Harroy. Le jeune Carolo de 31 ans dévoile son premier livre &quot;Confetty&quot;, dédié à son chat.</itunes:summary>
+   <description>Pause-café avec Yessin Harroy. Le jeune Carolo de 31 ans dévoile son premier livre &quot;Confetty&quot;, dédié à son chat.</description>
+  </item>
+  <item>
+   <title>L’invité du Brunch: Floèmee &amp;#8211; 28/08/2024</title>
+   <guid>696325</guid>
+   <link>https://bx1.be/?p=696325</link>
+   <pubDate>Wed, 28 Aug 2024 02:00:00 +0200</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href=""/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELB00385_Pause_OK.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>L’invité du Brunch est Floèmee. Le duo electro évoque son premier album &quot;Narvan&quot; et son prochain concert au Forest Sounds Festival.</itunes:summary>
+   <description>L’invité du Brunch est Floèmee. Le duo electro évoque son premier album &quot;Narvan&quot; et son prochain concert au Forest Sounds Festival.</description>
+  </item>
+  <item>
+   <title>L’invitée du Brunch: Jeanne Delsarte &amp;#8211; 27/08/2024</title>
+   <guid>696143</guid>
+   <link>https://bx1.be/?p=696143</link>
+   <pubDate></pubDate>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href=""/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELB00384_Pause.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>L’invitée du Brunch est Jeanne Delsarte. L'autrice et comédienne aborde la question de l'argent dans Parlons Cash, une balade littéraire organisée par Amusea.</itunes:summary>
+   <description>L’invitée du Brunch est Jeanne Delsarte. L'autrice et comédienne aborde la question de l'argent dans Parlons Cash, une balade littéraire organisée par Amusea.</description>
+  </item>
+  <item>
+   <title>L’invité du Brunch: Bernard Mouton &amp;#8211; 26/08/2024</title>
+   <guid>695970</guid>
+   <link>https://bx1.be/?p=695970</link>
+   <pubDate>Mon, 26 Aug 2024 12:15:00 +0200</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href=""/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELB00383_Pause.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>L’invité du Brunch est avec Bernard Mouton.</itunes:summary>
+   <description>L’invité du Brunch est avec Bernard Mouton.</description>
+  </item>
+ </channel>
+</rss>

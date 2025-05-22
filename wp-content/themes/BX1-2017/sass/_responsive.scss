@@ -1,0 +1,360 @@
+
+@media screen and (max-width: 1560px){
+	.inside{
+		width: 1020px;
+	}
+	.openMenu,.openSearch,.siteHeader__iReporter{
+		position: relative;
+		top: auto;
+		left: auto;
+    	margin-top: 35px;
+    	margin-right: 30px;
+    	margin-left: 0;
+	}
+	.openSearch{
+    	margin-top: 32px;
+	}
+	.siteHeader__iReporter{
+		margin-right: 0;
+		margin-left: 50px;
+		margin-top: 28px;
+	}
+	.siteHeader__iReporter--mini{
+		margin-top: 5px;
+	}
+	.news,.sideFil--big{
+		width: 675px;
+	}
+	.news--big{
+		width: 100%;
+	}
+	.news--mini{
+		width: 300px;
+	}
+	.content .content{
+		width: 675px;
+	}
+	.news--related{
+		width: auto;
+	}
+	.news__article figure{
+		max-height: 180px;
+	}
+}
+
+@media screen and (max-width: 1060px){
+	.inside{
+		width: auto;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.social--top,.siteHeader--fixed{
+		display: none;
+	}
+	.menuPrincipal{
+		width: 75%;
+		margin-left: -75%;
+		padding-left: 200px;
+	}
+	.menuPrincipal--active{
+		margin-left: 0;
+	}
+	.searchForm{
+		width: 100%;
+		margin-left: -101%;
+		&--active{
+			margin-left: 0;
+		}
+	}
+	.sideFil,.content .meta{
+		width: 30%;
+		overflow: hidden;
+	}
+	.news,.sideFil--big,.content .content{
+		width: 66%;
+    	margin-left: 3%;
+	}
+	.news--related{
+		margin-left: 0;
+		width: auto;
+	}
+	.news--mini{
+		margin-left: 0;
+		width: 30%;
+		overflow: hidden;
+	}
+	.news--big{
+		width: 100%;
+		margin-left: 0;
+	}
+	.news__article{
+		width: 48%;
+	}
+	.secondMenu nav{
+		float: none;
+		border-left: 0;
+		width: auto;
+	}
+	#pebbleMiddle{
+		display: none;
+	}
+	.footerHighlight__widgets{
+		width: 320px;
+	}
+	.footerHighlight form .secondStep__block__float{
+		display: block;
+	}
+}
+
+@media screen and (max-width: 820px){
+	.liveMini{
+		display: none;
+	}
+	.meteo{
+		display: none;
+	}
+	.openMenu, .openSearch{
+		margin-right: 20px;
+	}
+	.news__article{
+		width: 100%;
+		margin-right: 0;
+	}
+	.pubTop,.pubBottom{
+		overflow: hidden;
+	}
+	.news--related .news__article{
+		width: 48.5%;
+    	margin-right: 3%;
+		&:nth-child(even){
+			margin-right: 0;
+		}
+	}
+	.news__article figure{
+		max-height: 270px;
+	}
+}
+
+@media screen and (max-width: 680px){
+	.tvFiles__atTv{
+		display: none;
+	}
+	.openMenu{
+		height: 22px;
+	    overflow: hidden;
+	    width: 25px;
+	    span{
+			width: 25px;
+			margin-bottom: 8px;
+		}
+	}
+	.openMenu, .openSearch, .siteHeader__iReporter{
+		margin-top: 13px;
+	}
+	.openSearch{
+		width: 25px;
+		height: 24px;
+		margin-top: 11px;
+		@include get-sprite($icons,search-small);
+		&:hover{
+			@include get-sprite($icons,search-pink-small);
+		}
+	}
+	.siteHeader{
+		height: 60px;
+		padding-top: 15px;
+	}
+	.logo{
+		width: 46px;
+		height: 39px;
+		overflow: hidden;
+		display: inline-block;
+		img{
+			width: 100%;
+			height: auto;
+			margin-top: 0;
+		}
+	}
+	.siteHeader__iReporter{
+		@include get-sprite($icons,ireporter-mini);
+		height: 25px;
+	    padding-top: 4px;
+	    padding-right: 35px;
+	    background-position-x: 91px;
+	    font-size: 14px;
+	    margin-left: 0;
+	    margin-right: -20px;
+	    margin-top: 9px;
+	    &:hover{
+	    	@include get-sprite($icons,ireporter-purple-mini);
+	    	background-position-x: 91px;
+	    }
+	}
+	.secondMenu nav li a{
+		font-size: 12px;
+		padding: 7px 15px;
+	}
+	.tvFiles .inside,.secondMenu .inside{
+		padding: 0;
+	}
+	.tvFiles__files ul{
+		margin: 10px 15px;
+	}
+	.tvFiles__files .flashNews{
+		margin-left: 15px;
+	}
+	.pubTop,.pubBottom{
+		display: none;
+	}
+	.news,.sideFil--big{
+		width: 100%;
+		margin-left: 0;
+	}
+	.footerPartners{
+		margin-top: 60px;
+	}
+	.allLink{
+		margin-top: 0;
+	}
+	.sideFil,.news--mini{
+		width: 100%;
+		background-color: transparent;
+		padding: 0;
+		margin-bottom: 60px;
+		float: none;
+		margin-top: 60px;
+	}
+	.sideFil--big{
+		margin-top: 0;
+	}
+	#pebbleMiddle{
+		display: block;
+	}
+	.sideFil .tweets iframe{
+		width: 100%!important;
+	}
+	#pubAside{
+		text-align: center;
+	}
+	.footerPartners__partner img{
+		width: 50px;
+	}
+	.footerHighlight__widgets{
+		width: 100%;
+		form{
+			.firstStep,
+			.secondStep__block__float--mini,
+			.secondStep__block__float,
+			input[type="submit"]{
+				width: 100%;
+			}
+		}
+	}
+	.menuPrincipal{
+		width: 100%;
+		margin-left: -100%;
+    	border-right: 0;
+    	padding: 100px 15px;
+    	li a{
+    		font-size: 16px;
+    	}
+    	li.menu-item-has-children>a:after{
+    		top: 0;
+    	}
+    	&--active{
+    		margin-left: 0;
+    	}
+	}
+	.openMenu--active span:first-child{
+		top: 10px;
+	    width: 28px;
+	    left: 0px;
+	}
+	.openMenu--active span+span+span{
+		top: -10px;
+	    width: 28px;
+	    left: 0px;
+	}
+	.searchForm{
+		height: 75px;
+		input[type="submit"]{
+			width: 25px;
+			height: 24px;
+			margin: 28px 5px 0 60px;
+			padding: 0;
+			@include get-sprite($icons,search-pink-small);
+			&:hover{
+				@include get-sprite($icons,search-purple-small);
+			}
+		}
+		&__form{
+			margin-top: -13px;
+			label{
+				font-size: 12px;
+			}
+			input[type="search"]{
+				font-size: 14px;
+    			padding: 5px 0;
+			}
+		}
+		&__close{
+			height: 24px;
+    		width: 24px;
+    		@include get-sprite($icons,search-close-pink-small);
+    		margin: 28px 0 0 5px;
+    		&:hover{
+    			@include get-sprite($icons,search-close-purple-small);
+    		}
+		}
+	}
+	.news--big .news__article h3{
+		font-size: 24px;
+	}
+	.sideFil--big{
+		h2{
+			font-size: 20px;
+		}
+		h3 a{
+			font-size: 16px;
+		}
+	}
+	.news--direct>h3{
+		font-size: 20px;
+	}
+	.content .meta, .content .content{
+		width: 100%;
+		margin-left: 0;
+	}
+	.news--related .news__article h3{
+		font-size: 16px;
+	}
+	h1{
+		font-size: 1.6em;
+	}
+}
+
+@media screen and (max-width: 560px){
+
+    #cookie-law-info-bar{
+        font-size: 14px;
+        padding: 0.5em 0;
+    }
+    .search-form label{
+    	width: 56%;
+    }
+    .search-form input[type="submit"]{
+    	width: 40%;
+    }
+    .filterForm__select{
+    	float: none;
+	    width: auto;
+	    margin-right: 0;
+	    margin-bottom: 0;
+	    &:nth-child(4){
+	    	margin-bottom: 20px;
+	    }
+    }
+    .filterForm input[type="submit"]{
+    	width: 50%;
+    }
+}

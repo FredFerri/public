@@ -1,0 +1,1727 @@
+# Translation of Plugins - GDPR Cookie Compliance &#8211; Cookie Banner, Cookie Consent, Cookie Notice &#8211; CCPA, DSGVO, RGPD - Stable (latest release) in Finnish
+# This file is distributed under the same license as the Plugins - GDPR Cookie Compliance &#8211; Cookie Banner, Cookie Consent, Cookie Notice &#8211; CCPA, DSGVO, RGPD - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-09-27 13:07:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fi\n"
+"Project-Id-Version: Plugins - GDPR Cookie Compliance &#8211; Cookie Banner, Cookie Consent, Cookie Notice &#8211; CCPA, DSGVO, RGPD - Stable (latest release)\n"
+
+#: views/moove/admin/settings/banner-settings.php:293
+#: views/moove/admin/settings/screen-settings.php:264
+msgid "Choose how visible the Reject button should be"
+msgstr "Valitse sulje-painikkeen ulkoasu"
+
+#: views/moove/admin/settings/banner-settings.php:308
+#: views/moove/admin/settings/screen-settings.php:279
+msgid "Same as Accept button"
+msgstr "Sama kuin hyväksy-painike"
+
+#: views/moove/admin/settings/banner-settings.php:315
+#: views/moove/admin/settings/screen-settings.php:286
+msgid "Less visible"
+msgstr "Vähemmän näkyvä"
+
+#: views/moove/admin/settings/banner-settings.php:323
+#: views/moove/admin/settings/screen-settings.php:294
+msgid "Custom colour"
+msgstr "Mukautettu väri"
+
+#: views/moove/admin/settings/banner-settings.php:328
+#: views/moove/admin/settings/screen-settings.php:299
+msgid "Background Colour"
+msgstr "Taustaväri"
+
+#: views/moove/admin/settings/banner-settings.php:340
+#: views/moove/admin/settings/screen-settings.php:311
+msgid "Text Colour"
+msgstr "Tekstin väri"
+
+#: views/moove/admin/settings/integrations.php:80
+msgid "Integrations for all languages"
+msgstr "Integraatiot kaikille kieliversioille"
+
+#: views/moove/admin/settings/integrations.php:89
+msgid "If you enable these integrations, they will be applied to all your language variations."
+msgstr "Jos käytät integraatioita, ne tulevat käyttöön kaikissa kieliversioissa."
+
+#: controllers/class-moove-gdpr-review.php:104
+msgid "Hi, thank you for using our plugin. We would really appreciate if you could take a moment to drop a quick review that will inspire us to keep going."
+msgstr "Hei, kiitos, että käytät lisäosaamme. Arvostamme jos voisit jättää lyhyen arvion, se kannustaa meitä jatkamaan eteenpäin."
+
+#: class-moove-gdpr-content.php:746 class-moove-gdpr-content.php:763
+msgid "License key:"
+msgstr "Lisenssiavain:"
+
+#: class-moove-gdpr-content.php:838
+msgid "You can activate the Licence Key on all your subsites using the tool below."
+msgstr "Voit aktivoida lisenssiavaimen kaikilla alisivustoillasi alla olevan työkalun avulla."
+
+#: class-moove-gdpr-content.php:842
+msgid "Bulk Licence Activation"
+msgstr "Massalisenssin aktivointi"
+
+#: class-moove-gdpr-content.php:844 class-moove-gdpr-content.php:850
+msgid "Single Activation"
+msgstr "Yksittäinen aktivointi"
+
+#: views/moove/admin/settings/licence.php:42
+msgid "Please activate the GDPR Cookie Compliance base plugin first."
+msgstr "Aktivoi ensin ilmainen GDPR Cookie Compliance -lisäosa."
+
+#: views/moove/admin/settings/licence.php:137
+msgid "This tool supports only WordPress Multisite installs. !"
+msgstr "Tämä työkalu tukee ainoastaa WordPress Multisitea!"
+
+#: class-moove-gdpr-content.php:837
+msgid "Bulk Multisite Activation"
+msgstr "Multisite-aktivointi"
+
+#: views/moove/admin/settings/banner-settings.php:503
+msgid "Bottom Left"
+msgstr "Alavasen"
+
+#: views/moove/admin/settings/banner-settings.php:507
+msgid "Bottom Right"
+msgstr "Alaoikea"
+
+#: views/moove/admin/settings/integrations.php:82
+msgid "Connect your GA/GTM or Meta Pixel tracking easily to the cookie categories used by this plugin."
+msgstr "Yhdistä GA/GTM- tai Meta Pixel -seuranta helposti tämän lisäosan käyttämiin evästekategorioihin."
+
+#: views/moove/admin/settings/integrations.php:84
+msgid "Using the settings below, you can ensure that the tracking scripts will be loaded only if your website visitors accept the selected cookie category."
+msgstr "Käyttämällä alla olevia asetuksia voit varmistaa, että seurantaskriptit ladataan vain jos verkkosivustosi kävijät hyväksyvät valitun evästekategorian."
+
+#: views/moove/admin/settings/integrations.php:86
+msgid "Please ensure that you remove any hard-coded GA/GTM or Facebook/Meta Pixel scripts from your website theme or other plugins (including any other parts of this plugin) to prevent duplicate activation of the same scripts."
+msgstr "Varmista, että poistat kaikki kovakoodatut GA/GTM- tai Facebook/Meta Pixel -skriptit sivustosi teemasta tai muista lisäosista (myös muista tämän lisäosan evästekategorioista) estääksesi samojen skriptien päällekkäisen aktivoinnin."
+
+#: views/moove/admin/settings/general-settings.php:131
+msgid "Script Insertion Method"
+msgstr "Skriptin lisäysmenetelmä"
+
+#: views/moove/admin/settings/general-settings.php:137
+#: views/moove/admin/settings/general-settings.php:155
+msgid "Static"
+msgstr "Staattinen"
+
+#: views/moove/admin/settings/general-settings.php:137
+#: views/moove/admin/settings/general-settings.php:155
+msgid "Dynamic"
+msgstr "Dynaaminen"
+
+#: views/moove/admin/settings/general-settings.php:149
+msgid "Cookie Removal"
+msgstr "Evästeiden poisto"
+
+#: views/moove/admin/settings/help.php:413
+msgid "GDPR Branding link extra attributes"
+msgstr "GDPR-logolinkin lisäattribuutit"
+
+#: views/moove/admin/settings/help.php:416
+msgid "You can add rel=\"noopener noreferrer\" to Powered by GDPR link."
+msgstr "Voit lisätä rel=\"noopener noreferrer\" Powered by GDPR -linkkiin."
+
+#: views/moove/admin/settings/help.php:433
+msgid "GDPR Branding link target"
+msgstr "GDPR-logolinkin kohde"
+
+#: views/moove/admin/settings/help.php:436
+msgid "You can remove the target=\"_blank\" from Powered by GDPR link."
+msgstr "Voit poistaa target=\"_blank\" Powered by GDPR -linkistä."
+
+#: views/moove/admin/settings/general-settings.php:159
+msgid "Recommended default method is Static. Switch to dynamic for advanced cookie removal method if needed (uses more server performance)"
+msgstr "Suositeltu oletusmenetelmä on staattinen. Vaihda tarvittaessa dynaamiseen, jos haluat käyttää edistyneempää evästeiden poistomenetelmää (käyttää enemmän palvelinresursseja)"
+
+#: views/moove/admin/settings/general-settings.php:141
+msgid "Recommended default method is Static. Switch to dynamic only if you experience issues with static method (dynamic way uses more server resources)"
+msgstr "Suositeltu oletusmenetelmä on staattinen. Vaihda dynaamiseen vain, jos kohtaat ongelmia staattisen menetelmän kanssa (dynaaminen käyttää enemmän palvelinresursseja)"
+
+#: views/moove/admin/settings/integrations.php:80
+msgid "Integrations"
+msgstr "Integraatiot"
+
+#: views/moove/admin/settings/integrations.php:153
+msgid "No integration modules found."
+msgstr "Integraatiomoduleita ei löytynyt."
+
+#: views/moove/admin/settings/settings-page.php:106
+msgid "Integrations [NEW]"
+msgstr "Integraatiot [UUSI]"
+
+#: class-moove-gdpr-actions.php:684
+msgid "This feature is not supported in this version of the Premium Add-on."
+msgstr "Tätä ominaisuutta ei tueta tässä Premium-lisäosan versiossa."
+
+#: class-moove-gdpr-actions.php:685 class-moove-gdpr-actions.php:708
+msgid "Activate your licence"
+msgstr "Aktivoi lisenssisi"
+
+#: class-moove-gdpr-actions.php:685
+msgid "to download the latest version of the Premium Add-on"
+msgstr "ladata premium-lisäosan uusin versio"
+
+#: class-moove-gdpr-actions.php:686
+msgid "Don’t have a valid licence key yet?"
+msgstr "Eikö sinulla ole vielä voimassa olevaa lisenssiavainta?"
+
+#: class-moove-gdpr-actions.php:686
+msgid "Login to your account"
+msgstr "Kirjaudu tilillesi"
+
+#: class-moove-gdpr-actions.php:686
+msgid "to generate the key or"
+msgstr "luoda avain tai"
+
+#: class-moove-gdpr-actions.php:686 class-moove-gdpr-actions.php:708
+msgid "buy a new licence here"
+msgstr "osta uusi lisenssi täältä"
+
+#: class-moove-gdpr-actions.php:689 class-moove-gdpr-actions.php:715
+#: views/moove/admin/settings/plugin-boxes.php:39
+msgid "Buy Now"
+msgstr "Hanki lisenssi"
+
+#: class-moove-gdpr-actions.php:708 views/moove/admin/settings/help.php:553
+#: views/moove/admin/settings/help.php:554
+#: views/moove/admin/settings/help.php:555
+#: views/moove/admin/settings/help.php:558
+msgid "or"
+msgstr "tai"
+
+#: class-moove-gdpr-actions.php:710
+msgid "Do you have a licence key?"
+msgstr "Onko sinulla lisenssiavain?"
+
+#: class-moove-gdpr-actions.php:710
+msgid "Insert your license key to the"
+msgstr "Syötä lisenssiavaimesi"
+
+#: class-moove-gdpr-actions.php:710
+msgid "and activate it"
+msgstr "ja aktivoi se"
+
+#: views/moove/admin/settings/branding.php:193
+msgid "e.g."
+msgstr "esim."
+
+#: views/moove/admin/settings/branding.php:193
+msgid "cdn.example.com"
+msgstr "cdn.example.com"
+
+#: views/moove/admin/settings/general-settings.php:113
+msgid "Force Reload"
+msgstr "Pakota uudelleenlataus"
+
+#: views/moove/admin/settings/general-settings.php:123
+msgid "Choose if you’d like the page to reload when user accepts cookies. If you choose not to, your analytical software will not count the current page visit as the cookies will be loaded during the next page load only."
+msgstr "Valitse, haluatko sivun latautuvan uudelleen, kun käyttäjä hyväksyy evästeet. Jos et valitse tätä, analytiikkaohjelmistosi ei laske nykyistä sivukäyntiä, koska evästeet ladataan vasta seuraavan sivulatauksen yhteydessä."
+
+#: views/moove/admin/settings/general-settings.php:171
+msgid "Consent expires after"
+msgstr "Suostumus vanhenee"
+
+#: views/moove/admin/settings/general-settings.php:173
+msgid "days"
+msgstr "päivää"
+
+#: views/moove/admin/settings/help.php:31
+msgid "Plugin doesn’t work as expected"
+msgstr "Lisäosa ei toimi odotetusti"
+
+#: views/moove/admin/settings/help.php:34
+msgid "There might be several reasons why and most of them can be fixed easily and quickly."
+msgstr "Ongelmaan saattaa olla useita syitä, mutta useimmat niistä voidaan korjata helposti ja nopeasti."
+
+#: views/moove/admin/settings/help.php:37
+msgid "Common issue 1: Console errors"
+msgstr "Yleinen ongelma 1: Konsolivirheet"
+
+#: views/moove/admin/settings/help.php:39
+msgid "Our plugin doesn’t work if there are any console errors on your site. For that reason, it’s important to fix those before contacting our support as we won’t be able to help you until the errors are fixed."
+msgstr "Lisäosamme ei toimi, jos sivustollasi on konsolivirheitä. Tästä syystä on tärkeää korjata ne ennen kuin otat yhteyttä tukeemme, sillä emme pysty auttamaan sinua ennen kuin virheet on korjattu."
+
+#: views/moove/admin/settings/help.php:40
+msgid "You can check if you have any console errors using Chrome browser (Inspect > Console)."
+msgstr "Voit tarkistaa, onko sinulla konsolivirheitä käyttämällä Chrome-selainta (Tarkastele > Konsoli)."
+
+#: views/moove/admin/settings/help.php:41
+msgid "There also might be some conflict with your theme or plugins, or with a caching plugin that should be investigated by your developers."
+msgstr "Ongelma saattaa johtua myös teemasta tai lisäosista mm. välimuistilisäosa. Sivuston kehittäjän tulisi tutkia ongelmaa."
+
+#: views/moove/admin/settings/help.php:42
+msgid "If you don’t see the updates correctly, the best is to view the site in a private browsing window or you can use a different browser to ensure that your local cache does not interfere."
+msgstr "Jos et näe päivityksiä oikein, tarkastele sivustoa yksityisessä selainikkunassa tai käytä toista selainta varmistaaksesi, että ongelma ei johdu selaimen välimuistista."
+
+#: views/moove/admin/settings/help.php:46
+msgid "Common issue 2: Cache conflict"
+msgstr "Yleinen ongelma 2: Välimuistiongelma"
+
+#: views/moove/admin/settings/help.php:47
+msgid "If you are using any caching plugins, you will need to exclude our plugin assets by following the steps below:"
+msgstr "Jos käytät välimuistilisäosia, varmista, että ne eivät tallenna lisäosamme resursseja seuraamalla alla olevia ohjeita:"
+
+#: views/moove/admin/settings/help.php:50
+msgid "“Exclude Cookies” with value: moove_gdpr_popup"
+msgstr "“Älä tallenna evästeitä” arvolla: moove_gdpr_popup"
+
+#: views/moove/admin/settings/help.php:53
+msgid "“Exclude JS” with value: gdpr-cookie-compliance/dist/scripts/main.js"
+msgstr "“Älä tallenna osoitteita” arvolla: gdpr-cookie-compliance/dist/scripts/main.js"
+
+#: views/moove/admin/settings/help.php:56
+msgid "You can also try to disable the ‘combine inline JS feature’ if you run into any issues."
+msgstr "Voit myös yrittää poistaa käytöstä 'combine inline JS feature' -ominaisuuden, jos kohtaat ongelmia."
+
+#: views/moove/admin/settings/help.php:61
+msgid "Common issue 3: Ajax script is blocked"
+msgstr "Yleinen ongelma 3: Ajax-skripti on estetty"
+
+#: views/moove/admin/settings/help.php:63
+msgid "Our plugin, just as many other plugins, needs Ajax to work properly. Sometimes Ajax calls are restricted on servers so you need to check if that’s the case on your site too."
+msgstr "Lisäosamme, kuten monet muutkin lisäosat, käyttää Ajax-kutsuja toimiakseen oikein. Tarkista onko sivustosi Ajax-kutsut rajoitettu palvelinpäässä."
+
+#: views/moove/admin/settings/help.php:67
+msgid "Check %s in private browsing - if it’s restricted, you need to whitelist the admin-ajax.php in your .htaccess file, or to apply the HTTP protection for the wp-login.php only."
+msgstr "Tarkista %s yksityisessä selaustilassa - jos se on rajoitettu, sinun on lisättävä admin-ajax.php sallittujen luetteloon .htaccess-tiedostossasi tai sovellettava HTTP-suojaus vain wp-login.php-tiedostoon."
+
+#: views/moove/admin/settings/help.php:78
+msgid "Alternatively, you can try adding the code snippet below to your functions.php to change the script injection from AJAX to static which might help."
+msgstr "Vaihtoehtoisesti voit kokeilla lisätä alla olevan koodinpätkän functions.php-tiedostoon muuttaaksesi skriptin lisäämisen AJAX:sta staattiseksi."
+
+#: views/moove/admin/settings/help.php:91
+msgid "I can’t activate the premium licence"
+msgstr "En voi aktivoida premium-lisenssiä"
+
+#: views/moove/admin/settings/help.php:94
+msgid "Can you please check in your CMS > Plugins that both the free version and the premium add-on plugin are activated?"
+msgstr "Tarkista sivuvalikon kohdasta Lisäosat, että sekä ilmainen versio että premium-versio ovat aktivoituja?"
+
+#: views/moove/admin/settings/help.php:96
+msgid "If they are both activated and you still don’t see the premium features, you can try the following:"
+msgstr "Jos molemmat ovat aktivoituja etkä silti näe premium-ominaisuuksia, voit kokeilla seuraavaa:"
+
+#: views/moove/admin/settings/help.php:98
+msgid "Delete the premium"
+msgstr "Poista premium"
+
+#: views/moove/admin/settings/help.php:98
+msgid "add-on plugin from your CMS completely"
+msgstr "lisäosa sivustoltasi kokonaan"
+
+#: views/moove/admin/settings/help.php:99
+msgid "Update the free"
+msgstr "Päivitä ilmainen"
+
+#: views/moove/admin/settings/help.php:99
+msgid "plugin to the latest version"
+msgstr "lisäosa uusimpaan versioon"
+
+#: views/moove/admin/settings/help.php:100
+msgid "Deactivate"
+msgstr "Poista käytöstä"
+
+#: views/moove/admin/settings/help.php:100
+msgid "the licence key on the “Licence Manager” tab"
+msgstr "lisenssiavain \"Lisenssihallinta\"-välilehdellä"
+
+#: views/moove/admin/settings/help.php:104
+msgid "Paste the licence key again and %s  this will force automatic download of the latest version of the premium add-on and everything should work now."
+msgstr "Liitä lisenssiavain uudelleen ja %s, jolloin premium-lisäosan uusin versio latautuu automaattisesti ja linsessin pitäis alkaa toimimaan."
+
+#: views/moove/admin/settings/help.php:105
+msgid "activate again"
+msgstr "aktivoi uudelleen"
+
+#: views/moove/admin/settings/help.php:111
+msgid "The deactivation doesn’t affect your settings stored in the plugin."
+msgstr "Deaktivointi ei vaikuta lisäosaan tallennettuihin asetuksiin."
+
+#: views/moove/admin/settings/help.php:119
+msgid "The Cookie Banner is covered by another pop-up"
+msgstr "Toinen ponnahdusikkuna peittää evästeilmoituksen"
+
+#: views/moove/admin/settings/help.php:122
+msgid "The issue is related to a higher z-index in your theme. You can solve the issue by adding the following code snippet to your functions.php"
+msgstr "Ongelma liittyy korkeampaan z-indeksiin teemassasi. Voit ratkaista ongelman lisäämällä seuraavan koodikatkelman functions.php-tiedostoosi"
+
+#: views/moove/admin/settings/help.php:198
+msgid "Disabled state"
+msgstr "Poistettu tila"
+
+#: views/moove/admin/settings/help.php:199
+msgid "Enabled state"
+msgstr "Käytössä oleva tila"
+
+#: views/moove/admin/settings/help.php:793
+#: views/moove/admin/settings/help.php:857
+#: views/moove/admin/settings/help.php:904
+msgid "Please ensure you have the %s enabled."
+msgstr "Varmista, että %s on käytössä."
+
+#: views/moove/admin/settings/plugin-boxes.php:22
+msgid "Premium Add-On"
+msgstr "Premium-lisäosa"
+
+#: views/moove/admin/settings/plugin-boxes.php:27
+msgid "Includes a cookiewall layout"
+msgstr "Sisältää koko näytön -asettelun (cookiewall)"
+
+#: views/moove/admin/settings/plugin-boxes.php:28
+msgid "Export & import"
+msgstr "Vie & tuo"
+
+#: views/moove/admin/settings/plugin-boxes.php:30
+msgid "WordPress Multisite support"
+msgstr "WordPress Multisite -tuki"
+
+#: views/moove/admin/settings/plugin-boxes.php:31
+msgid "Accept cookies on scroll"
+msgstr "Hyväksy evästeet vierittämällä"
+
+#: views/moove/admin/settings/plugin-boxes.php:32
+msgid "Consent Analytics"
+msgstr "Suostumusanalytiikka"
+
+#: views/moove/admin/settings/plugin-boxes.php:33
+msgid "Display cookie banner for EU visitors only"
+msgstr "Näytä evästeilmoitus vain EU-kävijöille"
+
+#: views/moove/admin/settings/plugin-boxes.php:34
+msgid "Language specific scripts"
+msgstr "Kielikohtaiset skriptit"
+
+#: views/moove/admin/settings/plugin-boxes.php:35
+msgid "and more..."
+msgstr "eikä tässä vielä kaikki..."
+
+#: views/moove/admin/settings/plugin-boxes.php:53
+msgid "Find this plugin useful?"
+msgstr "Pidätkö tätä lisäosaa hyödyllisenä?"
+
+#: views/moove/admin/settings/plugin-boxes.php:58
+msgid "You can help other users find it too by"
+msgstr "Voit auttaa myös muita käyttäjiä löytämään sen"
+
+#: views/moove/admin/settings/plugin-boxes.php:58
+msgid "rating this plugin"
+msgstr "arvioimalla tämän lisäosan"
+
+#: views/moove/admin/settings/plugin-boxes.php:64
+msgid "Downloads"
+msgstr "Lataukset"
+
+#: views/moove/admin/settings/plugin-boxes.php:68
+msgid "Active installations"
+msgstr "Aktiiviset asennukset"
+
+#: views/moove/admin/settings/plugin-boxes.php:105
+msgid "User Activity Tracking and Log"
+msgstr "Käyttäjätoiminnan seuranta ja loki"
+
+#: views/moove/admin/settings/plugin-boxes.php:113
+msgid "Track user activity & duration on your website with this incredibly powerful, easy-to-use and well supported plugin."
+msgstr "Seuraa käyttäjän toimintaa ja kestoa verkkosivustollasi tehokkaalla, helppokäyttöisellä ja hyvin tuetulla lisäosalla."
+
+#: views/moove/admin/settings/plugin-boxes.php:116
+msgid "Free trial"
+msgstr "Kokeile ilmaiseksi"
+
+#: views/moove/admin/settings/screen-settings.php:139
+#: views/moove/admin/settings/settings-page.php:98
+msgid "Cookie Settings Screen"
+msgstr "Evästeasetusikkuna"
+
+#: views/moove/admin/settings/screen-settings.php:397
+msgid "Default label"
+msgstr "Oletustunniste"
+
+#: views/moove/admin/settings/support.php:23
+msgid "Here are the best steps to find answers to your questions and resolve issues as fast as possible"
+msgstr "Tässä parhaat keinot löytää vastaukset kysymyksiisi ja ratkaista ongelmat mahdollisimman nopeasti"
+
+#: views/moove/admin/settings/support.php:28
+msgid "1. Check the %s"
+msgstr "1. Tarkista %s"
+
+#: views/moove/admin/settings/support.php:36
+msgid "Most issues can be resolved quickly and easily. We compiled the list of basic troubleshooting, hooks, filters, shortcodes and more in our %s section."
+msgstr "Useimmat ongelmat voidaan ratkaista nopeasti ja helposti. Olemme koonneet luettelon perusvianmäärityksistä, hookeista, suodattimista, lyhytkoodeista ja muusta %s-osioon."
+
+#: views/moove/admin/settings/support.php:47
+msgid "2. Search our %s"
+msgstr "2. Etsi %s"
+
+#: views/moove/admin/settings/support.php:48
+msgid "Support Forum"
+msgstr "Tukifoorumi"
+
+#: views/moove/admin/settings/support.php:55
+msgid "Most questions have already been asked by other users so you can find answers quickly and resolve issues fast by searching for the problem on our %s. Search bar is located in the top right corner."
+msgstr "Useimmat kysymykset on jo esitetty muiden käyttäjien toimesta, joten voit löytää vastaukset nopeasti ja ratkaista ongelmat nopeasti etsimällä ongelmaa %s-sivustoltamme. Hakupalkki sijaitsee oikeassa yläkulmassa."
+
+#: views/moove/admin/settings/support.php:56
+msgid "support forum"
+msgstr "tukifoorumi"
+
+#: views/moove/admin/settings/support.php:61
+msgid "3. Create a Support Ticket"
+msgstr "3. Luo tukipyyntö"
+
+#: views/moove/admin/settings/support.php:65
+msgid "If you still need support, you can create a %s in our Support Forum."
+msgstr "Jos tarvitset edelleen tukea, luo %s tukifoorumillamme."
+
+#: views/moove/admin/settings/support.php:66
+msgid "new support ticket"
+msgstr "uusi tukipyyntö"
+
+#: views/moove/admin/settings/support.php:71
+msgid "Please don’t forget to add screenshots or video recording of your screen that would help us see what issues you are experiencing."
+msgstr "Muista lisätä kuva- tai videokaappaus, joka selittää ongelman."
+
+#: views/moove/admin/settings/banner-settings.php:464
+msgid "as a Redirect"
+msgstr "uudelleenohjauksena"
+
+#: views/moove/admin/settings/banner-settings.php:465
+msgid "(The cookies are rejected and the user will be redirected to the specified URL.)"
+msgstr "(Evästeet hylätään ja käyttäjä ohjataan määritettyyn URL-osoitteeseen.)"
+
+#: views/moove/admin/settings/banner-settings.php:468
+msgid "Redirect location"
+msgstr "Ohjaa osoitteeseen"
+
+#: views/moove/admin/settings/banner-settings.php:556
+msgid "Banner initialization delay"
+msgstr "Bannerin käynnistysviive"
+
+#: views/moove/admin/settings/banner-settings.php:566
+msgid "This feature can be used to improve Largest Contentful Paint (LCP) metric in PageSpeed Insights."
+msgstr "Viivettä voidaan käyttää parantamaan Largest Contentful Paint (LCP) -aikaa PageSpeed Insightsissa."
+
+#: views/moove/admin/settings/banner-settings.php:568
+msgid "Set 0 for the Cookie Banner to appear with no delay."
+msgstr "Aseta 0, jotta evästeilmoitus tulee näkyviin ilman viivettä."
+
+#: views/moove/admin/settings/banner-settings.php:538
+msgid "Accessibility"
+msgstr "Saavutettavuus"
+
+#: views/moove/admin/settings/banner-settings.php:543
+msgid "Cookie Banner"
+msgstr "Evästeilmoitus"
+
+#: views/moove/admin/settings/banner-settings.php:543
+msgid "Content"
+msgstr "Sisältö"
+
+#: views/moove/admin/settings/banner-settings.php:547
+msgid "Choose the right accessibility experience for your users. You can decide wether pressing tab key on your keyboard should first focus on the Cookie Banner or on your website's content."
+msgstr "Valitse oikea saavutettavuuskokemus käyttäjillesi. Voit päättää, keskittyykö näppäimistön tabulaattoripainikkeen painaminen ensin evästebanneriin vai verkkosivustosi sisältöön."
+
+#: class-moove-gdpr-content.php:393
+msgid "This content is blocked"
+msgstr "Tämä sisältö on estetty"
+
+#: class-moove-gdpr-content.php:394
+msgid "Please enable the cookies to view this content"
+msgstr "Ota evästeet käyttöön nähdäksesi tämän sisällön"
+
+#: views/moove/admin/settings/help.php:818
+msgid "Disable tabindex attribute for buttons"
+msgstr "Poista käytöstä painikkeiden tabindex-attribuutti"
+
+#: views/moove/admin/settings/banner-settings.php:426
+msgid "Choose how the Close button should behave"
+msgstr "Valitse, miten sulje-painikkeen tulisi toimia"
+
+#: views/moove/admin/settings/banner-settings.php:439
+msgid "as a Close button"
+msgstr "sulje-painikkeena"
+
+#: views/moove/admin/settings/banner-settings.php:447
+msgid "as a Reject button"
+msgstr "hylkää-painikkeena"
+
+#: views/moove/admin/settings/banner-settings.php:448
+msgid "(The cookies are rejected and the cookie banner does not re-appear until the cookie consent expires.)"
+msgstr "(Evästeet hylätään ja evästeilmoitus ei ilmesty uudelleen ennen kuin evästeiden suostumus vanhenee.)"
+
+#: views/moove/admin/settings/banner-settings.php:455
+msgid "as an Accept button"
+msgstr "hyväksy-painikkeena"
+
+#: views/moove/admin/settings/banner-settings.php:456
+msgid "(The cookies are accepted and the cookie banner does not re-appear until the cookie consent expires.)"
+msgstr "(Evästeet hyväksytään ja evästeilmoitus ei ilmesty uudelleen ennen kuin evästeiden suostumus vanhenee.)"
+
+#: views/moove/admin/settings/help.php:183
+#: views/moove/admin/settings/help.php:260
+msgid "More info about how to"
+msgstr "Lisätietoja siitä, miten"
+
+#: views/moove/admin/settings/banner-settings.php:440
+msgid "(The Cookie Banner becomes hidden for the duration of the current browsing session, without accepting or rejecting cookies. The Cookie Banner will re-appear when the user next visits your site.)"
+msgstr "(Evästeilmoitus piilotetaan nykyisen selainistunnon ajaksi hyväksymättä tai hylkäämättä evästeitä. Evästeilmoitus ilmestyy uudelleen, kun käyttäjä seuraavan kerran vierailee sivustollasi.)"
+
+#: views/moove/admin/settings/help.php:260
+msgid "use WPML with our plugin."
+msgstr "käytä WPML:ää lisäosamme kanssa."
+
+#: views/moove/admin/settings/help.php:497
+msgid "More details on this implementation in the "
+msgstr "Lisätietoja tästä toteutuksesta "
+
+#: views/moove/admin/settings/help.php:497
+msgid "official Google Dev Guides."
+msgstr "viralliset Google Dev -oppaat."
+
+#: views/moove/admin/settings/help.php:183
+msgid "configure GA/GTM consent settings."
+msgstr "määritä GA/GTM:n suostumusasetukset."
+
+#: views/moove/admin/settings/help.php:493
+msgid "GTM / GA consent settings"
+msgstr "GTM / GA suostumusasetukset"
+
+#: views/moove/admin/settings/help.php:549
+msgid "GTM / Javascript consent variables"
+msgstr "GTM / Javascript suostumusmuuttujat"
+
+#: views/moove/admin/settings/help.php:179
+msgid "How to configure GA / GTM consent settings"
+msgstr "GA/GTM suostumusasetusten määrittäminen"
+
+#: views/moove/admin/settings/help.php:182
+msgid "Our plugin supports both the GTM & GA consent variables natively."
+msgstr "Lisäosamme tukee sekä GTM- että GA-suostumusmuuttujia."
+
+#: views/moove/admin/settings/help.php:255
+msgid "WPML Compatibility"
+msgstr "WPML-yhteensopivuus"
+
+#: views/moove/admin/settings/help.php:19
+msgid "Troubleshooting"
+msgstr "Vianmääritys"
+
+#: views/moove/admin/settings/help.php:258
+msgid "Our plugin is compatible with WPML out of the box, no special set up is required."
+msgstr "Lisäosamme on suoraan yhteensopiva WPML:n kanssa ilman erikoisasetuksia."
+
+#: views/moove/admin/settings/help.php:259
+msgid "Once you install the WPML plugin to your site, all you need to do is to switch to the language where you want to translate content in. Then you can start updating the content in the CMS the same way as you do on the main language."
+msgstr "Kun olet asentanut WPML-lisäosan sivustollesi, sinun tarvitsee vain vaihtaa kieleen, jolle haluat kääntää sisällön. Tämän jälkeen voit päivittää sisältöä CMS:ssä samalla tavalla kuin pääkielellä."
+
+#: controllers/class-moove-gdpr-review.php:103
+#: views/moove/admin/settings/settings-page.php:43
+msgid "GDPR Cookie Compliance Plugin (CCPA ready)"
+msgstr "GDPR Cookie Compliance -lisäosa (CCPA-yhteensopiva)"
+
+#: gdpr-functions.php:30 views/moove/admin/settings/help.php:15
+#: views/moove/admin/settings/support.php:29
+#: views/moove/admin/settings/support.php:37
+msgid "Documentation"
+msgstr "Dokumentaatio"
+
+#: views/moove/admin/settings/settings-page.php:46
+msgid "This plugin is useful in preparing your site for cookie compliance, data protection and privacy regulations."
+msgstr "Tämä lisäosa auttaa sivustoasi noudattamaan eväste-, tietosuoja- ja yksityisyydensuojamääräyksiä."
+
+#: views/moove/admin/settings/help.php:654
+msgid "However, you can prevent the plugin from storing user preferences into our temporary cookie by using the hook below."
+msgstr "Voit kuitenkin estää laajennusta tallentamasta käyttäjän asetuksia väliaikaiseen evästeeseemme käyttämällä alla olevaa koukkua."
+
+#: views/moove/admin/settings/help.php:649
+msgid "Prevent storing a \"temporary reject cookie\" when cookies are rejected"
+msgstr "Estä \"väliaikaisen hylkäysevästeen\" tallentaminen, kun evästeet hylätään"
+
+#: views/moove/admin/settings/branding.php:77
+msgid "Brand Colour"
+msgstr "Pääväri"
+
+#: views/moove/admin/settings/help.php:655
+msgid "Please note, without our \"temporary cookie\", the cookie banner will be displayed for the user on every page load - this is because the site will not recognise this user since their previous selection was not saved anywhere."
+msgstr "Huomaa, että ilman \"väliaikaista evästettämme\" evästeilmoitus näytetään käyttäjälle jokaisella sivun latauksella - tämä johtuu siitä, että sivusto ei tunnista tätä käyttäjää, koska heidän aiempaa valintaansa ei tallennettu mihinkään."
+
+#. Description of the plugin
+#: moove-gdpr.php
+msgid "Our plugin is useful in preparing your site for the following data protection and privacy regulations: GDPR, CCPA, PIPEDA, AAP, LGPD and others."
+msgstr "Lisäosa auttaa noudattamaan seuraavia tietosuoja- ja yksityisyydensuojamääräyksiä: GDPR, CCPA, PIPEDA, AAP, LGPD ja muut."
+
+#: views/moove/admin/settings/help.php:652
+msgid "By default, our plugin stores user preferences in \"moove_gdpr_popup\" cookie. When a user rejects cookies, we do not show the cookie banner again during the same browsing session - this is achieved by using our temporary cookie that tells us that this user rejected cookies."
+msgstr "Oletuksena lisäosa tallentaa käyttäjän asetukset \"moove_gdpr_popup\"-evästeeseen. Kun käyttäjä hylkää evästeet, emme näytä evästebanneria uudelleen saman selainistunnon aikana. Tämän mahdollistaa väliaikainen eväste, joka kertoo, että tämä käyttäjä hylkäsi evästeet."
+
+#: views/moove/admin/settings/help.php:653
+msgid "The cookie banner will be displayed again at the next browsing session so the user can change their preferences then."
+msgstr "Evästebanneri näytetään uudelleen seuraavan selainistunnon yhteydessä, jolloin käyttäjä voi muuttaa asetuksiaan."
+
+#: views/moove/admin/settings/banner-settings.php:215
+#: views/moove/admin/settings/screen-settings.php:166
+msgid "Button Setup"
+msgstr "Painikkeen asetukset"
+
+#: views/moove/admin/settings/banner-settings.php:216
+#: views/moove/admin/settings/screen-settings.php:167
+msgid "You can change the order by drag & drop"
+msgstr "Voit muuttaa järjestystä vetämällä ja pudottamalla"
+
+#: views/moove/admin/settings/screen-settings.php:210
+msgid "Enable All button"
+msgstr "Hyväksy kaikki"
+
+#: views/moove/admin/settings/screen-settings.php:241
+msgid "Reject All button"
+msgstr "Hylkää kaikki -painike"
+
+#: views/moove/admin/settings/screen-settings.php:179
+msgid "Save Settings button"
+msgstr "Tallenna asetukset -painike"
+
+#: class-gdpr-modules.php:409
+#: views/moove/admin/settings/screen-settings.php:257
+msgid "Reject All"
+msgstr "Hylkää kaikki"
+
+#: class-moove-gdpr-content.php:660
+msgid "Enter a new licence key:"
+msgstr "Syötä uusi lisenssiavain:"
+
+#: views/moove/admin/settings/screen-settings.php:254
+msgid "Reject All - Button Label"
+msgstr "Hylkää kaikki -painikkeen teksti"
+
+#: views/moove/admin/settings/banner-settings.php:239
+msgid "Accept button allows users to accept all cookies."
+msgstr "Hyväksy-painike sallii käyttäjän hyväksyä kaikki evästeet"
+
+#: views/moove/admin/settings/banner-settings.php:228
+msgid "Accept button"
+msgstr "Hyväksy-painike"
+
+#: views/moove/admin/settings/help.php:219
+msgid "Does the plugin support subdomains or subfolders on multisite network?"
+msgstr "Tukeeko lisäosa aliverkkotunnuksia tai alikansioita multisite-verkossa?"
+
+#: views/moove/admin/settings/help.php:222
+msgid "Yes, the plugin supports subdomains on the same WordPress Multisite Network as part of our Premium Add-on"
+msgstr "Kyllä, lisäosan Premium-versio tukee aliverkkotunnuksia samassa WordPress Multisite -verkossa"
+
+#: views/moove/admin/settings/help.php:223
+msgid "We can sync users consent across your multisite network as long as your subsites are using the same domain and either folder or subdomain structure."
+msgstr "Voimme synkronoida Multisite-käyttäjien suostumukset, kunhan alisivustosi käyttävät samaa verkkotunnusta sekä kansiorakennetta tai aliverkkotunnuksia."
+
+#: views/moove/admin/settings/help.php:224
+msgid "For example, if user agrees to cookies on one subsite (example.com/one/ or one.example.com), then we can automatically sync their consent and cookies will be accepted on the other subsites too (example.com/two/ or two.example.com)."
+msgstr "Esimerkiksi, jos käyttäjä hyväksyy evästeet yhdellä alisivustolla (esim. example.com/one/ tai one.example.com), suostumus voidaan synkronoida ja evästeet hyväksytään automaattisesti myös muilla alisivustoilla (esim. example.com/two/ tai two.example.com)."
+
+#: views/moove/admin/settings/help.php:225
+msgid "There is only one exception where we cannot sync users consent between subsites and that’s when you’re using different domains (subdomains are fine). Browsers will treat each domain as separate entity and our plugin will be unable to alter cookies stored by the other domain. This is a security feature in browsers to prevent hacking."
+msgstr "Käyttäjien suostumusta ei voida synkronoida alisivustojen välillä, jos käytetään eri verkkotunnuksia (alidomainit toimivat). Selaimet käsittelevät eri verkkotunnuksia erillisinä, joten liitännäisemme ei voi muuttaa toisen verkkotunnuksen evästeitä. Tämä on turvallisuusominaisuus hakkeroinnin estämiseksi."
+
+#: views/moove/admin/settings/help.php:687
+msgid "Remove jQuery script dependency"
+msgstr "Poista jQuery-riippuvuus"
+
+#: views/moove/admin/settings/help.php:668
+msgid "Define CDN URLs"
+msgstr "Määritä CDN-juuriosoitteet"
+
+#: views/moove/admin/settings/help.php:136
+msgid "How can I link directly to the Cookie Settings pop-up screen?"
+msgstr "Kuinka voin linkittää suoraan Evästeasetukset-ponnahdusikkunaan?"
+
+#: views/moove/admin/settings/help.php:152
+msgid "Can I use direct links to “Accept” or “Reject” cookies?"
+msgstr "Voinko käyttää suoria linkkejä evästetoiminnoille “Hyväksy” tai “Hylkää”?"
+
+#: views/moove/admin/settings/help.php:155
+msgid "You can use the following links to accept or reject cookies straight-away. "
+msgstr "Voit käyttää seuraavia linkkejä hyväksyäksesi tai hylätäksesi evästeet heti. "
+
+#: views/moove/admin/settings/help.php:156
+msgid "To ACCEPT all cookies"
+msgstr "HYVÄKSYÄ kaikki evästeet"
+
+#: views/moove/admin/settings/help.php:158
+msgid "To REJECT cookies"
+msgstr "HYLÄTÄKSESI evästeet"
+
+#: views/moove/admin/settings/help.php:192
+msgid "What are \"Strictly Necessary Cookies / Essential Cookies\"?"
+msgstr "Mitä ovat \"Pakolliset / Välttämättömät evästeet\"?"
+
+#: class-gdpr-modules.php:158
+#: views/moove/admin/settings/banner-settings.php:182
+msgid "You can find out more about which cookies we are using or switch them off in [%s]settings[/%s]."
+msgstr "Voit lukea lisää käyttämistämme evästeistä tai poistaa ne käytöstä [ %s]settings[/%s]."
+
+#: class-gdpr-modules.php:157
+#: views/moove/admin/settings/banner-settings.php:181
+msgid "We are using cookies to give you the best experience on our website."
+msgstr "Käytämme evästeitä tarjotaksemme sinulle parhaan kokemuksen verkkosivustollamme."
+
+#: views/moove/admin/settings/banner-settings.php:199
+msgid "settings"
+msgstr "asetukset"
+
+#: class-moove-gdpr-content.php:397
+msgid "Adjust your settings"
+msgstr "Säädä asetuksia"
+
+#: views/moove/admin/settings/banner-settings.php:197
+msgid "You can use the following shortcut to link the Cookie Settings Screen:"
+msgstr "Voit käyttää alla olevaa lyhytkoodia luodaksesi evästeasetusikkunan avauslinkin:"
+
+#: gdpr-functions.php:235
+msgid "Buy Premium"
+msgstr "Osta Premium"
+
+#: gdpr-modules/modal/content-sections/advanced.php:16
+#: gdpr-modules/modal/content-sections/strictly.php:19
+#: gdpr-modules/modal/content-sections/third_party.php:16
+msgid "Enable or Disable Cookies"
+msgstr "Ota evästeet käyttöön tai poista ne käytöstä"
+
+#: gdpr-modules/modal/modal-base-onepage.php:12
+#: gdpr-modules/modal/modal-base-onepage.php:13
+#: gdpr-modules/modal/modal-base-tabs.php:12
+#: gdpr-modules/modal/modal-base-tabs.php:13
+msgid "Close GDPR Cookie Settings"
+msgstr "Sulje GDPR-evästeasetukset"
+
+#: gdpr-modules/modal/modal-base-onepage.php:9
+#: gdpr-modules/modal/modal-base-tabs.php:9
+msgid "GDPR Settings Screen"
+msgstr "GDPR-asetusnäyttö"
+
+#: gdpr-modules/infobar/infobar-base.php:10
+msgid "GDPR Cookie Banner"
+msgstr "GDPR-evästebanneri"
+
+#: class-gdpr-modules.php:401
+msgid "Save Settings"
+msgstr "Tallenna asetukset"
+
+#: class-moove-gdpr-content.php:818
+msgid "There is a new version of GDPR Cookie Compliance - Premium Add-On."
+msgstr "GDPR Cookie Compliancesta on saatavilla uusi versio - Premium Add-On."
+
+#: class-moove-gdpr-content.php:638
+msgid "Buy more licences"
+msgstr "Osta lisää lisenssejä"
+
+#: class-moove-gdpr-content.php:618
+msgid "Your licence has expired. You will not receive the latest updates and features unless you renew your licence."
+msgstr "Lisenssisi on vanhentunut. Et saa uusimpia päivityksiä ja ominaisuuksia, ellet uusi lisenssiäsi."
+
+#: class-moove-gdpr-content.php:617
+msgid "Renew your licence"
+msgstr "Uusi lisenssisi"
+
+#: class-moove-gdpr-content.php:585 class-moove-gdpr-content.php:675
+msgid "Buy licence"
+msgstr "Osta lisenssi"
+
+#: class-moove-gdpr-content.php:588 class-moove-gdpr-content.php:678
+msgid "You can buy licences from our [store_link]online store[/store_link]."
+msgstr "Voit ostaa lisenssejä [store_link]verkkokaupastamme[/store_link] ."
+
+#: class-moove-gdpr-content.php:380
+msgid "More information about our [privacy_link]Cookie Policy[/privacy_link]"
+msgstr "Lisätietoja [privacy_link]evästekäytännöstämme[/privacy_link]"
+
+#: class-moove-gdpr-content.php:366
+msgid "Keeping this cookie enabled helps us to improve our website."
+msgstr "Tämän evästeen pitäminen käytössä auttaa meitä parantamaan verkkosivustoamme."
+
+#: class-moove-gdpr-content.php:365
+msgid "This website uses Google Analytics to collect anonymous information such as the number of visitors to the site, and the most popular pages."
+msgstr "Tämä verkkosivusto käyttää Google Analyticsia keräämään anonyymejä tietoja, kuten sivuston kävijämäärä ja suosituimmat sivut."
+
+#: class-moove-gdpr-actions.php:1002
+#: views/moove/admin/settings/consent-log.php:15
+#: views/moove/admin/settings/plugin-boxes.php:29
+msgid "Consent Log"
+msgstr "Suostumusloki"
+
+#: views/moove/admin/settings/general-settings.php:190
+msgid "Reset Settings"
+msgstr "Palauta asetukset"
+
+#: views/moove/admin/settings/screen-settings.php:393
+msgid "Powered by GDPR"
+msgstr "Powered by GDPR"
+
+#: views/moove/admin/settings/general-settings.php:167
+msgid "Consent expiry"
+msgstr "Suostumuksen voimassaolo päättyy"
+
+#: views/moove/admin/settings/screen-settings.php:157
+msgid "One page layout"
+msgstr "Yhden sivun asettelu"
+
+#: views/moove/admin/settings/screen-settings.php:151
+msgid "Tabs layout"
+msgstr "Välilehtien asettelu"
+
+#: views/moove/admin/settings/screen-settings.php:146
+msgid "Choose your layout"
+msgstr "Valitse asettelusi"
+
+#: class-gdpr-modules.php:405
+#: views/moove/admin/settings/screen-settings.php:226
+msgid "Enable All"
+msgstr "Ota kaikki käyttöön"
+
+#: views/moove/admin/settings/screen-settings.php:195
+msgid "Save Changes"
+msgstr "Tallenna muutokset"
+
+#: views/moove/admin/settings/help.php:937
+msgid "Default capability: manage_options"
+msgstr "Oletusominaisuus: manage_options"
+
+#: views/moove/admin/settings/help.php:709
+msgid "Default value: SameSite=Lax"
+msgstr "Oletusarvo: SameSite=Lax"
+
+#: views/moove/admin/settings/help.php:705
+msgid "Define custom cookie attribute (SameSite)"
+msgstr "Määritä muokattu evästeattribuutti (SameSite)"
+
+#: views/moove/admin/settings/help.php:625
+msgid "Disable Monster Insights based on cookie selected"
+msgstr "Poista Monster Insights käytöstä valitun evästeen perusteella"
+
+#: views/moove/admin/settings/help.php:568
+msgid "Extend styles"
+msgstr "Laajenna tyylejä"
+
+#: views/moove/admin/settings/help.php:273
+msgid "You can see the preview of"
+msgstr "Voit nähdä esikatselun"
+
+#: views/moove/admin/settings/help.php:268
+msgid "What information does the Consent Log store and where is it stored?"
+msgstr "Mitä tietoja suostumusloki tallentaa ja mihin ne on tallennettu?"
+
+#: views/moove/admin/settings/help.php:171
+msgid "To view the scripts you can use the Developer Console in Chrome browser (Inspect Element feature)."
+msgstr "Voit tarkastella komentosarjoja käyttämällä Chrome-selaimen Developer Consolea (Tarkista elementti -ominaisuus)."
+
+#: views/moove/admin/settings/help.php:167
+msgid "The scripts added to the plugin settings are not visible in the page source code."
+msgstr "Lisäosien asetuksiin lisätyt skriptit eivät näy sivun lähdekoodissa."
+
+#: views/moove/admin/settings/help.php:142
+msgid "Absolute Path"
+msgstr "Absoluuttinen polku"
+
+#: views/moove/admin/settings/help.php:140
+msgid "Relative Path (RECOMMENDED)"
+msgstr "Suhteellinen polku (SUOSITTELU)"
+
+#: views/moove/admin/settings/help.php:139
+msgid "You can use the following to display the Cookie Settings Screen window:"
+msgstr "Voit avata Evästeasetukset-näyttöikkunan seuraavilla tavoilla:"
+
+#: views/moove/admin/settings/help.php:23
+msgid "Premium Shortcodes"
+msgstr "Premium-lyhytkoodit"
+
+#: views/moove/admin/settings/general-settings.php:106
+#: views/moove/admin/settings/settings-page.php:110
+msgid "General Settings"
+msgstr "Yleiset asetukset"
+
+#: views/moove/admin/settings/settings-page.php:58
+#: views/moove/admin/settings/settings-page.php:69
+msgid "Dismiss this notice."
+msgstr "Hylkää tämä ilmoitus."
+
+#: views/moove/admin/settings/settings-page.php:56
+msgid "Settings saved."
+msgstr "Asetukset Tallennettu."
+
+#. translators: %s: version number
+#: views/moove/admin/settings/settings-page.php:82
+msgid "You are currently editing: %s version"
+msgstr "Muokkaat tällä hetkellä: %s versiota"
+
+#: class-gdpr-modules.php:380 class-gdpr-modules.php:453
+#: views/moove/admin/settings/cookie-policy.php:57
+#: views/moove/admin/settings/settings-page.php:140
+msgid "Cookie Policy"
+msgstr "Evästekäytäntö"
+
+#: views/moove/admin/settings/branding.php:163
+msgid "Default"
+msgstr "Oletus"
+
+#: views/moove/admin/settings/branding.php:160
+msgid "Choose font"
+msgstr "Valitse fontti"
+
+#: views/moove/admin/settings/branding.php:139
+msgid "Button Style"
+msgstr "Painikkeen tyyli"
+
+#: views/moove/admin/settings/branding.php:91
+msgid "pixels"
+msgstr "pikseliä"
+
+#: views/moove/admin/settings/branding.php:91
+msgid "Recommended size:"
+msgstr "Suositeltu koko:"
+
+#: gdpr-functions.php:38 gdpr-functions.php:228
+#: views/moove/admin/settings/support.php:15
+msgid "Support"
+msgstr "Tuki"
+
+#: views/moove/admin/settings/banner-settings.php:333
+#: views/moove/admin/settings/banner-settings.php:345
+#: views/moove/admin/settings/branding.php:83
+#: views/moove/admin/settings/screen-settings.php:304
+#: views/moove/admin/settings/screen-settings.php:316
+msgid "Select"
+msgstr "Valitse"
+
+#: views/moove/admin/settings/floating-button.php:97
+msgid "Hidden"
+msgstr "Piilotettu"
+
+#: views/moove/admin/settings/floating-button.php:97
+msgid "Visible"
+msgstr "Näkyy"
+
+#: views/moove/admin/settings/floating-button.php:61
+#: views/moove/admin/settings/floating-button.php:68
+#: views/moove/admin/settings/settings-page.php:102
+msgid "Floating Button"
+msgstr "Kelluva painike"
+
+#: views/moove/admin/settings/advanced-cookies.php:211
+#: views/moove/admin/settings/third-party-cookies.php:236
+msgid "For example, you can use it for Google Analytics script or any other 3rd party code snippets."
+msgstr "Voit käyttää sitä esimerkiksi Google Analytics -komentosarjaan tai muihin kolmannen osapuolen koodinpätkiin."
+
+#: views/moove/admin/settings/advanced-cookies.php:171
+#: views/moove/admin/settings/advanced-cookies.php:191
+#: views/moove/admin/settings/third-party-cookies.php:192
+#: views/moove/admin/settings/third-party-cookies.php:214
+msgid "For example, you can use it for Google Tag Manager script or any other 3rd party code snippets."
+msgstr "Voit käyttää sitä esimerkiksi Google Tag Manager -skriptiin tai muihin kolmannen osapuolen koodinpätkiin."
+
+#: views/moove/admin/settings/advanced-cookies.php:141
+#: views/moove/admin/settings/third-party-cookies.php:154
+msgid "Please fill out at least one of these fields:"
+msgstr "Täytä vähintään yksi näistä kentistä:"
+
+#: views/moove/admin/settings/advanced-cookies.php:90
+#: views/moove/admin/settings/third-party-cookies.php:101
+msgid "Default status"
+msgstr "Oletustila"
+
+#: class-gdpr-modules.php:321 class-gdpr-modules.php:443
+#: views/moove/admin/settings/integrations.php:73
+#: views/moove/admin/settings/settings-page.php:127
+#: views/moove/admin/settings/third-party-cookies.php:77
+msgid "3rd Party Cookies"
+msgstr "Kolmannen osapuolen evästeet"
+
+#: class-moove-gdpr-actions.php:998
+#: views/moove/admin/settings/cookie-declaration.php:15
+msgid "Cookie Declaration"
+msgstr "Evästeilmoitus"
+
+#: views/moove/admin/settings/licence.php:239
+msgid "Deactivate Licence"
+msgstr "Poista lisenssi käytöstä"
+
+#: views/moove/admin/settings/licence.php:237
+msgid "This action will remove all of the premium features from your website."
+msgstr "Tämä toiminto poistaa kaikki premium-ominaisuudet verkkosivustostasi."
+
+#: views/moove/admin/settings/licence.php:237
+msgid "Please confirm that you would like to de-activate this licence."
+msgstr "Vahvista, että haluat poistaa tämän lisenssin käytöstä."
+
+#: views/moove/admin/settings/strictly-necessary-cookies.php:191
+msgid "Disable the Full Screen Mode"
+msgstr "Poista koko näytön tila käytöstä"
+
+#: views/moove/admin/settings/strictly-necessary-cookies.php:187
+msgid "Please note that Full Screen Mode feature requires the Strictly Necessary Cookies to be always enabled (otherwise the Cookie Banner would be displayed at every visit)."
+msgstr "Huomaa, että koko näytön tila -ominaisuus edellyttää välttämättömien evästeiden olevan aina käytössä (muuten evästebanneri näytetään jokaisella vierailulla)."
+
+#: views/moove/admin/settings/strictly-necessary-cookies.php:185
+msgid "This option is not available in Full Screen Mode"
+msgstr "Tämä vaihtoehto ei ole käytettävissä koko näytön tilassa"
+
+#: views/moove/admin/settings/strictly-necessary-cookies.php:126
+msgid "Tab Warning Message"
+msgstr "Välilehden varoitusviesti"
+
+#: views/moove/admin/settings/advanced-cookies.php:115
+#: views/moove/admin/settings/cookie-policy.php:90
+#: views/moove/admin/settings/privacy-overview.php:69
+#: views/moove/admin/settings/strictly-necessary-cookies.php:102
+#: views/moove/admin/settings/third-party-cookies.php:128
+msgid "Tab Content"
+msgstr "Välilehden sisältö"
+
+#: views/moove/admin/settings/advanced-cookies.php:106
+#: views/moove/admin/settings/cookie-policy.php:81
+#: views/moove/admin/settings/privacy-overview.php:60
+#: views/moove/admin/settings/strictly-necessary-cookies.php:91
+#: views/moove/admin/settings/third-party-cookies.php:117
+msgid "Tab Title"
+msgstr "Välilehden otsikko"
+
+#: views/moove/admin/settings/strictly-necessary-cookies.php:85
+msgid "Always enabled and content hidden from user"
+msgstr "Aina käytössä ja sisältö piilotettu käyttäjältä"
+
+#: views/moove/admin/settings/strictly-necessary-cookies.php:77
+msgid "Choose functionality"
+msgstr "Valitse toiminnallisuus"
+
+#: class-gdpr-modules.php:261 class-gdpr-modules.php:438
+#: views/moove/admin/settings/settings-page.php:120
+#: views/moove/admin/settings/strictly-necessary-cookies.php:67
+msgid "Strictly Necessary Cookies"
+msgstr "Välttämättömät evästeet"
+
+#: views/moove/admin/settings/advanced-cookies.php:231
+#: views/moove/admin/settings/banner-settings.php:582
+#: views/moove/admin/settings/branding.php:204
+#: views/moove/admin/settings/cookie-policy.php:117
+#: views/moove/admin/settings/floating-button.php:111
+#: views/moove/admin/settings/general-settings.php:188
+#: views/moove/admin/settings/integrations.php:170
+#: views/moove/admin/settings/privacy-overview.php:94
+#: views/moove/admin/settings/screen-settings.php:411
+#: views/moove/admin/settings/strictly-necessary-cookies.php:175
+#: views/moove/admin/settings/third-party-cookies.php:257
+msgid "Save changes"
+msgstr "Tallenna muutokset"
+
+#: views/moove/admin/settings/banner-settings.php:525
+msgid "Dark"
+msgstr "Tumma"
+
+#: views/moove/admin/settings/banner-settings.php:520
+msgid "Colour scheme"
+msgstr "Värimaailma"
+
+#: views/moove/admin/settings/banner-settings.php:493
+msgid "Cookie Banner position"
+msgstr "Evästebannerin sijainti"
+
+#: views/moove/admin/settings/banner-settings.php:412
+#: views/moove/admin/settings/screen-settings.php:346
+msgid "Close button"
+msgstr "Sulje-painike"
+
+#: views/moove/admin/settings/banner-settings.php:388
+msgid "Settings button opens up the Cookie Settings Screen."
+msgstr "Asetukset-painike avaa Evästeasetukset-näytön."
+
+#: views/moove/admin/settings/banner-settings.php:375
+msgid "Settings button"
+msgstr "Asetukset-painike"
+
+#: views/moove/admin/settings/banner-settings.php:277
+msgid "Reject button allows users to reject all cookies."
+msgstr "Hylkää-painikkeen avulla käyttäjät voivat hylätä kaikki evästeet."
+
+#: views/moove/admin/settings/banner-settings.php:263
+msgid "Reject button"
+msgstr "Hylkää-painike"
+
+#: class-gdpr-modules.php:272 class-gdpr-modules.php:302
+#: class-gdpr-modules.php:332
+#: views/moove/admin/settings/advanced-cookies.php:98
+#: views/moove/admin/settings/banner-settings.php:234
+#: views/moove/admin/settings/banner-settings.php:269
+#: views/moove/admin/settings/banner-settings.php:381
+#: views/moove/admin/settings/banner-settings.php:418
+#: views/moove/admin/settings/floating-button.php:74
+#: views/moove/admin/settings/general-settings.php:119
+#: views/moove/admin/settings/integrations.php:122
+#: views/moove/admin/settings/screen-settings.php:185
+#: views/moove/admin/settings/screen-settings.php:216
+#: views/moove/admin/settings/screen-settings.php:247
+#: views/moove/admin/settings/screen-settings.php:352
+#: views/moove/admin/settings/screen-settings.php:378
+#: views/moove/admin/settings/third-party-cookies.php:109
+msgid "Enabled"
+msgstr "Käytössä"
+
+#: views/moove/admin/settings/advanced-cookies.php:83
+#: views/moove/admin/settings/banner-settings.php:166
+#: views/moove/admin/settings/cookie-policy.php:74
+#: views/moove/admin/settings/third-party-cookies.php:95
+msgid "On"
+msgstr "Päällä"
+
+#: class-gdpr-modules.php:81 views/moove/admin/settings/floating-button.php:85
+msgid "Change cookie settings"
+msgstr "Muokkaa evästeasetuksia"
+
+#: class-gdpr-modules.php:94 class-gdpr-modules.php:237
+#: class-gdpr-modules.php:433
+#: views/moove/admin/settings/privacy-overview.php:49
+#: views/moove/admin/settings/settings-page.php:114
+msgid "Privacy Overview"
+msgstr "Evästeasetukset"
+
+#: class-gdpr-modules.php:183 class-moove-gdpr-content.php:396
+#: views/moove/admin/settings/banner-settings.php:248
+msgid "Accept"
+msgstr "Hyväksy"
+
+#: class-gdpr-modules.php:291 class-gdpr-modules.php:448
+#: views/moove/admin/settings/advanced-cookies.php:67
+#: views/moove/admin/settings/integrations.php:75
+#: views/moove/admin/settings/settings-page.php:134
+msgid "Additional Cookies"
+msgstr "Muut evästeet"
+
+#: class-moove-gdpr-actions.php:591
+#: views/moove/admin/settings/banner-settings.php:286
+msgid "Reject"
+msgstr "Hylkää"
+
+#: class-moove-gdpr-actions.php:602 gdpr-functions.php:222
+#: views/moove/admin/settings/banner-settings.php:397
+msgid "Settings"
+msgstr "Asetukset"
+
+#: class-gdpr-modules.php:273 class-gdpr-modules.php:304
+#: class-gdpr-modules.php:334
+#: views/moove/admin/settings/advanced-cookies.php:98
+#: views/moove/admin/settings/banner-settings.php:234
+#: views/moove/admin/settings/banner-settings.php:269
+#: views/moove/admin/settings/banner-settings.php:381
+#: views/moove/admin/settings/banner-settings.php:418
+#: views/moove/admin/settings/floating-button.php:74
+#: views/moove/admin/settings/general-settings.php:119
+#: views/moove/admin/settings/integrations.php:122
+#: views/moove/admin/settings/screen-settings.php:185
+#: views/moove/admin/settings/screen-settings.php:216
+#: views/moove/admin/settings/screen-settings.php:247
+#: views/moove/admin/settings/screen-settings.php:352
+#: views/moove/admin/settings/screen-settings.php:381
+#: views/moove/admin/settings/third-party-cookies.php:109
+msgid "Disabled"
+msgstr "Pois"
+
+#: class-moove-gdpr-actions.php:710 gdpr-functions.php:42
+#: gdpr-functions.php:216 views/moove/admin/settings/licence.php:16
+#: views/moove/admin/settings/settings-page.php:148
+msgid "Licence Manager"
+msgstr "Lisenssihallinta"
+
+#. Plugin Name of the plugin
+#: moove-gdpr.php class-moove-gdpr-actions.php:953
+msgid "GDPR Cookie Compliance"
+msgstr "GDPR Cookie Compliance"
+
+#: class-moove-gdpr-actions.php:966
+msgid "Export/Import Settings"
+msgstr "Vie / tuo asetukset"
+
+#: class-moove-gdpr-actions.php:970
+#: views/moove/admin/settings/multisite-settings.php:15
+msgid "Multisite Settings"
+msgstr "Multisite-asetukset"
+
+#: class-moove-gdpr-actions.php:974
+msgid "Accept on Scroll / Hide timer"
+msgstr "Hyväksy vierittämällä / Piilota ajastin"
+
+#: class-moove-gdpr-actions.php:978
+msgid "Full-screen / Cookiewall"
+msgstr "Koko näyttö / Cookiewall"
+
+#: class-moove-gdpr-actions.php:982
+msgid "Analytics"
+msgstr "Analytiikka"
+
+#: class-moove-gdpr-actions.php:986
+msgid "Geo Location"
+msgstr "Geosijainti"
+
+#: class-moove-gdpr-actions.php:990
+msgid "Hide Cookie Banner"
+msgstr "Piilota evästeilmoitus"
+
+#: class-moove-gdpr-actions.php:994
+#: views/moove/admin/settings/iframe-blocker.php:15
+msgid "Iframe Blocker"
+msgstr "Iframe-esto"
+
+#: class-moove-gdpr-actions.php:1006
+#: views/moove/admin/settings/renew-consent.php:15
+msgid "Renew Consent"
+msgstr "Uudista suostumus"
+
+#: class-moove-gdpr-content.php:283
+msgid "This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful."
+msgstr "Tämä verkkosivusto käyttää evästeitä parhaan mahdollisen käyttökokemuksen tarjoamiseksi. Evästeet tallennetaan selaimeesi ja ne auttavat meitä tunnistamaan sinut, kun palaat sivustolle. Ne myös auttavat tiimiämme ymmärtämään, mitkä verkkosivuston osat ovat sinulle mielenkiintoisia ja hyödyllisiä."
+
+#: class-moove-gdpr-content.php:328
+msgid "Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings."
+msgstr "Voidaksemme tallentaa evästeasetukset, välttämättömät evästeet on oltava käytössä."
+
+#: class-moove-gdpr-content.php:344
+msgid "If you disable this cookie, we will not be able to save your preferences. This means that every time you visit this website you will need to enable or disable cookies again."
+msgstr "Jos poistat vättämättömät evästeet käytöstä, emme voi tallentaa asetuksiasi. Tämä tarkoittaa, että joka kerta kun vierailet tällä verkkosivustolla, sinun on otettava evästeet käyttöön tai poistettava ne käytöstä uudelleen."
+
+#: class-moove-gdpr-content.php:426
+msgid "Please enable Strictly Necessary Cookies first so that we can save your preferences!"
+msgstr "Jotta voimme tallentaa asetuksesi, välttämättömät evästeet on otettava käyttöön!"
+
+#: class-moove-gdpr-content.php:566 class-moove-gdpr-content.php:574
+#: class-moove-gdpr-content.php:581
+msgid "Activate"
+msgstr "Aktivoi"
+
+#: class-moove-gdpr-content.php:623
+msgid "Enter new licence key"
+msgstr "Syötä uusi lisenssiavain"
+
+#: class-moove-gdpr-content.php:641
+msgid "You can buy more licences from our [store_link]online store[/store_link]."
+msgstr "Voit ostaa lisää lisenssejä [store_link]verkkokaupastamme[/store_link]."
+
+#: class-moove-gdpr-content.php:693
+msgid "Enter your licence key:"
+msgstr "Syötä lisenssiavaimesi:"
+
+#: class-moove-gdpr-content.php:706
+msgid "Enter licence key:"
+msgstr "Syötä lisenssiavain:"
+
+#: gdpr-functions.php:34 views/moove/admin/settings/video-tutorial.php:15
+msgid "Video Tutorial"
+msgstr "Video-ohjeet"
+
+#: moove-gdpr.php:94
+msgid "Rate"
+msgstr "Arvioi"
+
+#: views/moove/admin/settings/accept-on-scroll.php:15
+msgid "Accept Cookies on Scroll / Hide timer"
+msgstr "Hyväksy evästeet vierittämällä / Piilota ajastin"
+
+#: views/moove/admin/settings/advanced-cookies.php:77
+#: views/moove/admin/settings/banner-settings.php:160
+#: views/moove/admin/settings/cookie-policy.php:67
+#: views/moove/admin/settings/third-party-cookies.php:88
+msgid "Turn"
+msgstr "Tila"
+
+#: views/moove/admin/settings/advanced-cookies.php:83
+#: views/moove/admin/settings/banner-settings.php:166
+#: views/moove/admin/settings/cookie-policy.php:74
+#: views/moove/admin/settings/third-party-cookies.php:95
+msgid "Off"
+msgstr "Pois"
+
+#: views/moove/admin/settings/advanced-cookies.php:91
+#: views/moove/admin/settings/third-party-cookies.php:102
+msgid "by default cookies should be"
+msgstr "oletuksena evästeiden tulisi olla"
+
+#: views/moove/admin/settings/advanced-cookies.php:148
+#: views/moove/admin/settings/third-party-cookies.php:165
+msgid "Body Section"
+msgstr "Body-osio"
+
+#: views/moove/admin/settings/advanced-cookies.php:160
+#: views/moove/admin/settings/third-party-cookies.php:180
+msgid "Add scripts that you would like to be inserted to the HEAD section of your pages when user accepts these cookies"
+msgstr "Lisää skriptejä, jotka haluat lisätä sivujesi HEAD-osioon kun käyttäjä hyväksyy evästeet"
+
+#: views/moove/admin/settings/advanced-cookies.php:180
+#: views/moove/admin/settings/third-party-cookies.php:202
+msgid "Add scripts that you would like to be inserted to the BODY section of your pages when user accepts these cookies"
+msgstr "Lisää skriptejä, jotka haluat lisätä sivujesi BODY-osioon kun käyttäjä hyväksyy evästeet"
+
+#: views/moove/admin/settings/advanced-cookies.php:200
+#: views/moove/admin/settings/third-party-cookies.php:224
+msgid "Add scripts that you would like to be inserted to the FOOTER section of your pages when user accepts these cookies"
+msgstr "Lisää skriptejä, jotka haluat lisätä sivujesi FOOTER-osioon kun käyttäjä hyväksyy evästeet"
+
+#: views/moove/admin/settings/banner-settings.php:153
+#: views/moove/admin/settings/settings-page.php:94
+msgid "Cookie Banner Settings"
+msgstr "Evästebanneri"
+
+#: views/moove/admin/settings/banner-settings.php:245
+msgid "Accept - Button Label"
+msgstr "Hyväksy-painikkeen teksti"
+
+#: views/moove/admin/settings/banner-settings.php:283
+msgid "Reject - Button Label"
+msgstr "Hylkää-painikkeen teksti"
+
+#: views/moove/admin/settings/banner-settings.php:394
+msgid "Settings - Button Label"
+msgstr "Asetukset -painikkeen teksti"
+
+#: views/moove/admin/settings/banner-settings.php:499
+msgid "Bottom"
+msgstr "Alhaalla"
+
+#: views/moove/admin/settings/banner-settings.php:525
+msgid "Light"
+msgstr "Vaalea"
+
+#: views/moove/admin/settings/branding.php:70
+#: views/moove/admin/settings/settings-page.php:91
+msgid "Branding"
+msgstr "Ulkoasu"
+
+#: views/moove/admin/settings/branding.php:90
+msgid "Cookie Settings Logo"
+msgstr "Evästeasetusikkunan logo"
+
+#: views/moove/admin/settings/branding.php:144
+msgid "Rounded corners"
+msgstr "Pyöristetty"
+
+#: views/moove/admin/settings/branding.php:150
+msgid "Squared corners"
+msgstr "Neliö"
+
+#: views/moove/admin/settings/branding.php:167
+msgid "Inherit font-family from your WordPress theme"
+msgstr "Peri fontti WordPress-teemasta"
+
+#: views/moove/admin/settings/branding.php:171
+msgid "Specify custom font"
+msgstr "Määritä fontti"
+
+#: views/moove/admin/settings/branding.php:188
+msgid "CDN Base URL"
+msgstr "CDN-juuriosoite"
+
+#: views/moove/admin/settings/branding.php:193
+msgid "Optional, leave it empty to use default domain"
+msgstr "Valinnainen, jätä tyhjäksi käyttääksesi oletusdomainia"
+
+#: views/moove/admin/settings/branding.php:193
+msgid "Enter your CDN root URL to enable CDN for GDPR Lity library files. The URL can be http, https or protocol-relative"
+msgstr "Syötä CDN-juuriosoitteesi ottaaksesi sisällönjakeluverkon käyttöön GDPR Lity -kirjastotiedostoille. URL-osoite voi olla http, https tai protokollasta riippumaton"
+
+#: views/moove/admin/settings/export-import.php:15
+msgid "Export / Import Settings"
+msgstr "Vie / tuo asetukset"
+
+#: views/moove/admin/settings/floating-button.php:82
+msgid "Button - Hover Label"
+msgstr "Painike - Hover-teksti"
+
+#: views/moove/admin/settings/floating-button.php:91
+msgid "Visibility on mobile"
+msgstr "Näkyy mobiililaitteilla"
+
+#: views/moove/admin/settings/full-screen-mode.php:15
+msgid "Full-Screen Mode Setup"
+msgstr "Koko näyttö -tilan asetukset"
+
+#: views/moove/admin/settings/general-settings.php:176
+msgid "(Enter 0 if you want the consent to expire at the end of the current browsing session.)"
+msgstr "(Syötä 0, jos haluat, että suostumus vanhenee nykyisen selainistunnon päätyttyä.)"
+
+#: views/moove/admin/settings/general-settings.php:205
+msgid "Please confirm that you would like to reset the plugin settings to the default state"
+msgstr "Vahvista, että haluat palauttaa lisäosan asetukset oletustilaan"
+
+#: views/moove/admin/settings/general-settings.php:205
+msgid "This action will remove all of your custom modifications and settings"
+msgstr "Tämä toiminto poistaa kaikki mukautetut muutoksesi ja asetuksesi"
+
+#: views/moove/admin/settings/general-settings.php:208
+msgid "Reset plugin to default state"
+msgstr "Palauta lisäosa oletustilaan"
+
+#: views/moove/admin/settings/geo-location.php:15
+msgid "Geo Location Setup"
+msgstr "Geosijainnin asetukset"
+
+#: views/moove/admin/settings/help.php:20
+msgid "FAQ"
+msgstr "UKK"
+
+#: views/moove/admin/settings/help.php:21
+#: views/moove/admin/settings/help.php:210
+msgid "Default Hooks"
+msgstr "Oletus-hookit"
+
+#: views/moove/admin/settings/help.php:22
+msgid "Premium Hooks"
+msgstr "Premium-hookit"
+
+#: views/moove/admin/settings/help.php:170
+msgid "Our plugin loads scripts using JavaScript which is why you cannot find them when viewing the page source code."
+msgstr "Lisäosamme lataa skriptejä JavaScriptin avulla, minkä vuoksi et löydä niitä tarkastellessasi sivun lähdekoodia."
+
+#: views/moove/admin/settings/help.php:195
+msgid "The \"Strictly Necessary Cookies\", sometimes called Essential Cookies, are cookies that are necessary for your site to function properly."
+msgstr "\"Välttämättömät evästeet\", joita joskus kutsutaan myös pakollisiksi evästeiksi, ovat evästeitä, jotka ovat välttämättömiä sivustosi toiminalle."
+
+#: views/moove/admin/settings/help.php:196
+msgid "For example, we use Strictly Necessary Cookies to save information about which cookies the user consented to."
+msgstr "Käytämme välttämättömiä evästeitä esimerkiksi tallentaaksemme tiedot siitä, mihin evästeisiin käyttäjä on antanut suostumuksensa."
+
+#: views/moove/admin/settings/help.php:197
+msgid "We are not storing any sensitive or personal data there, the cookie file contains only one of the following strings:"
+msgstr "Emme tallenna sinne mitään arkaluonteisia tai henkilökohtaisia tietoja, evästetiedosto sisältää vain yhden seuraavista merkkijonoista:"
+
+#: views/moove/admin/settings/help.php:207
+msgid "Can I use custom code or hooks with your plugin?"
+msgstr "Voinko käyttää mukautettua koodia tai hookkeja lisäosan kanssa?"
+
+#: views/moove/admin/settings/help.php:210
+msgid "Yes, we have implemented hooks that allow you to implement custom code snippets."
+msgstr "Kyllä, käytössä on hookkeja joiden avulla voit lisätä räätälöityä koodia."
+
+#: views/moove/admin/settings/help.php:210
+msgid "You will find the list of popular hooks here:"
+msgstr "Löydät luettelon suosituista hookeista täältä:"
+
+#: views/moove/admin/settings/help.php:233
+msgid "Does this plugin block all cookies?"
+msgstr "Estääkö tämä lisäosa kaikki evästeet?"
+
+#: views/moove/admin/settings/help.php:236
+msgid "This plugin only restricts cookies for scripts that you have setup in the Plugin Settings. If you want to block all cookies, you have to add all scripts that use cookies into the Settings of this plugin."
+msgstr "Lisäosa rajoittaa vain tämän lisäosan kautta asetettujen skriptien evästeitä. Jos haluat estää kaikki evästeet, sinun on lisättävä kaikki evästeitä käyttävät skriptit tämän lisäosan asetuksiin."
+
+#: views/moove/admin/settings/help.php:244
+msgid "Once I add scripts to this plugin, should I delete them from the website’s code?"
+msgstr "Kun lisään skriptejä tähän lisäosaan, pitäisikö minun poistaa ne verkkosivuston koodista?"
+
+#: views/moove/admin/settings/help.php:247
+msgid "Yes. Once you setup the plugin, you should delete the scripts you uploaded to the plugin from your website’s code to ensure that your scripts are not loaded twice."
+msgstr "Kyllä. Kun olet asentanut lisäosan, sinun tulee poistaa lisäosaan lataamasi skriptit verkkosivustosi koodista varmistaaksesi, että skriptit eivät lataudu kahdesti."
+
+#: views/moove/admin/settings/help.php:271
+msgid "The Consent Log features stores all data in your WordPress website database."
+msgstr "Suostumusloki tallentaa kaikki tiedot WordPress-sivustosi tietokantaan."
+
+#: views/moove/admin/settings/help.php:272
+msgid "The data stored includes: Consent Date, User IP address, Cookies Accepted and User Email (for logged-in users)."
+msgstr "Tallennetut tiedot sisältävät: suostumuspäivämäärän, käyttäjän IP-osoitteen, hyväksytyt evästeet ja käyttäjän sähköpostin (kirjautuneille käyttäjille)."
+
+#: views/moove/admin/settings/help.php:273
+msgid "Consent Log here"
+msgstr "Suostumusloki täällä"
+
+#: views/moove/admin/settings/help.php:281
+msgid "Does this plugin guarantee that I will comply with data protection laws?"
+msgstr "Takaako tämä lisäosa, että noudatan tietosuojalakeja?"
+
+#: views/moove/admin/settings/help.php:284
+msgid "This plugin is just a template and needs to be setup correctly in order to work properly."
+msgstr "Tämä lisäosa on vain malli ja se on asetettava oikein toimiakseen kunnolla."
+
+#: views/moove/admin/settings/help.php:285
+msgid "THIS PLUGIN DOES NOT MAKE YOUR WEBSITE COMPLIANT. YOU ARE RESPONSIBLE FOR ENSURING THAT ALL LEGAL REQUIREMENTS ARE MET ON YOUR WEBSITE."
+msgstr "TÄMÄ LISÄOSA EI TEE VERKKOSIVUSTOSTASI SÄÄDÖSTEN MUKAISTA. SINÄ OLET VASTUUSSA SIITÄ, ETTÄ KAIKKI LAINVAATIMUKSET TÄYTETÄÄN VERKKOSIVUSTOLLASI."
+
+#: views/moove/admin/settings/help.php:294
+msgid "Here you can find the default hooks & custom scripts available in our plugin."
+msgstr "Täältä löydät lisäosamme hookit ja mukautetut skriptit."
+
+#: views/moove/admin/settings/help.php:299
+msgid "HOOK to GDPR custom 3RD-PARTY script by php – HEAD"
+msgstr "HOOK: Lisää skripti Kolmannen osapuolen evästeet -osioon php:llä – HEAD"
+
+#: views/moove/admin/settings/help.php:318
+msgid "HOOK to GDPR custom 3RD-PARTY script by php – BODY"
+msgstr "HOOK: Lisää skripti Kolmannen osapuolen evästeet -osioon php:llä – BODY"
+
+#: views/moove/admin/settings/help.php:337
+msgid "HOOK to GDPR custom 3RD-PARTY script by php – FOOTER"
+msgstr "HOOK: Lisää skripti Kolmannen osapuolen evästeet -osioon php:llä – FOOTER"
+
+#: views/moove/admin/settings/help.php:356
+msgid "HOOK to GDPR custom ADVANCED-PARTY script by php – HEAD"
+msgstr "HOOK: Lisää skripti Muut evästeet -osioon php:llä – HEAD"
+
+#: views/moove/admin/settings/help.php:375
+msgid "HOOK to GDPR custom ADVANCED-PARTY script by php – BODY"
+msgstr "HOOK: Lisää skripti Muut evästeet -osioon php:llä – BODY"
+
+#: views/moove/admin/settings/help.php:394
+msgid "HOOK to GDPR custom ADVANCED-PARTY script by php – FOOTER"
+msgstr "HOOK: Lisää skripti Muut evästeet -osioon php:llä – FOOTER"
+
+#: views/moove/admin/settings/help.php:449
+msgid "Set custom z-index"
+msgstr "Muokkaa z-indeksiä"
+
+#: views/moove/admin/settings/help.php:471
+msgid "PHP cookie checker"
+msgstr "Tarkista evästeet PHP:lla"
+
+#: views/moove/admin/settings/help.php:589
+msgid "Custom css for buttons"
+msgstr "Painikkeiden mukautettu CSS"
+
+#: views/moove/admin/settings/help.php:608
+msgid "Make \"Reject\" button less visible"
+msgstr "Tee \"Hylkää\"-painikkeesta vähemmän näkyvä"
+
+#: views/moove/admin/settings/help.php:723
+msgid "Read cookie values with JavaScript"
+msgstr "Lue evästeiden arvot JavaScriptillä"
+
+#: views/moove/admin/settings/help.php:750
+msgid "Compatibility with Pixel Your Site plugin"
+msgstr "Yhteensopivuus Pixel Your Site -lisäosan kanssa"
+
+#: views/moove/admin/settings/help.php:787
+msgid "Hook for WooCommerce Facebook Pixel plugin"
+msgstr "Hook WooCommerce Facebook Pixel -lisäosalle"
+
+#: views/moove/admin/settings/help.php:833
+msgid "Disable script caching"
+msgstr "Poista skriptien välimuisti käytöstä"
+
+#: views/moove/admin/settings/help.php:851
+msgid "Custom tracking code on language sites (WPML, qTranslate, WP Multilang, Polylang)"
+msgstr "Mukautettu seurantakoodi kieliversioissa (WPML, qTranslate, WP Multilang, Polylang)"
+
+#: views/moove/admin/settings/help.php:898
+msgid "Disable comments until cookies are accepted"
+msgstr "Poista kommentit käytöstä, kunnes evästeet on hyväksytty"
+
+#: views/moove/admin/settings/help.php:934
+msgid "GDPR Cookie Compliance Settings Page - Permissions"
+msgstr "GDPR Cookie Compliance -asetussivun oikeudet"
+
+#: views/moove/admin/settings/screen-settings.php:192
+msgid "Save Settings - Button Label"
+msgstr "Tallenna asetukset -painikkeen teksti"
+
+#: views/moove/admin/settings/screen-settings.php:223
+msgid "Enable All - Button Label"
+msgstr "Ota kaikki käyttöön -painikkeen teksti"
+
+#: views/moove/admin/settings/screen-settings.php:371
+msgid "Checkbox Labels"
+msgstr "Valintaruudun tekstit"
+
+#: views/moove/admin/settings/stats.php:15
+msgid "GDPR Analytics"
+msgstr "GDPR-analytiikka"
+
+#: views/moove/admin/settings/strictly-necessary-cookies.php:81
+msgid "Optional (user selects their preferences)"
+msgstr "Valinnainen (anna käyttäjän valita)"
+
+#: views/moove/admin/settings/strictly-necessary-cookies.php:140
+msgid "This warning message will be displayed when user disables the Strictly Necessary Cookies."
+msgstr "Tämä varoitusviesti näytetään, jos käyttäjä poistaa välttämättömät evästeet käytöstä."
+
+#: views/moove/admin/settings/strictly-necessary-cookies.php:147
+msgid "Strictly necessary required message."
+msgstr "Välttämättömät evästeet vaadittu -viesti."
+
+#: views/moove/admin/settings/strictly-necessary-cookies.php:162
+msgid "This warning message will be displayed if the Strictly necessary cookies are not enabled and the user try to enable the \"Third Party\" or \"Additional cookies\""
+msgstr "Tämä varoitusviesti näytetään, jos välttämättömiä evästeitä ei ole otettu käyttöön ja käyttäjä yrittää ottaa käyttöön \"Kolmannen osapuolen\" -evästeet tai \"Muut evästeet\""
+
+#. Plugin URI of the plugin
+#: moove-gdpr.php
+msgid "https://wordpress.org/plugins/gdpr-cookie-compliance/"
+msgstr "https://wordpress.org/plugins/gdpr-cookie-compliance/"
+
+#. Author of the plugin
+#: moove-gdpr.php
+msgid "Moove Agency"
+msgstr "Moove Agency"
+
+#. Author URI of the plugin
+#: moove-gdpr.php
+msgid "https://www.mooveagency.com"
+msgstr "https://www.mooveagency.com"
+
+#: views/moove/admin/settings/cookie-banner-manager.php:15
+msgid "Hide Cookie Banner on Selected Posts / Pages"
+msgstr "Piilota evästebanneri valituista artikkeleista/sivuista"
+
+#: views/moove/admin/settings/help.php:452
+msgid "If you find that our GDPR Cookie Compliance Banner or the Settings Screen is covered by another element on your site, you can add the following to your functions.php"
+msgstr "Jos huomaat että toinen elementti peittää evästebannerin tai -asetusikkunan, voit lisätä seuraavan koodin functions.php-tiedostoon"
+
+#: views/moove/admin/settings/help.php:211
+msgid "You can also find the list of all"
+msgstr "Löydät luetelon kaikista"
+
+#: views/moove/admin/settings/help.php:211
+msgid "pre-defined advanced hooks here"
+msgstr "ennalta määritetyistä edistyneistä hookeista täältä"
+
+#: views/moove/admin/settings/advanced-cookies.php:151
+#: views/moove/admin/settings/third-party-cookies.php:170
+msgid "Footer Section"
+msgstr "Footer-osio"
+
+#: views/moove/admin/settings/advanced-cookies.php:145
+#: views/moove/admin/settings/third-party-cookies.php:160
+msgid "Head Section"
+msgstr "Head-osio"
+
+#: views/moove/admin/settings/advanced-cookies.php:140
+#: views/moove/admin/settings/third-party-cookies.php:153
+msgid "Paste your codes and snippets below. They will be added to all pages if user enables these cookies."
+msgstr "Liitä koodisi tähän. Ne lisätään kaikille sivuille, jos käyttäjä sallii nämä evästeet."
+
+#: views/moove/admin/settings/settings-page.php:80
+msgid "We have detected that you have a multi-language setup."
+msgstr "Olemme havainneet että käytössä on monikielinen sivusto."
+
+#: views/moove/admin/settings/settings-page.php:66
+msgid "You need to insert the relevant script for the settings to be saved."
+msgstr "Tarvittava skripti tulee lisätä asetusten tallentamista varten."
+
+#: views/moove/admin/settings/banner-settings.php:173
+msgid "Cookie Banner Content"
+msgstr "Evästebannerin sisältö"
+
+#: views/moove/admin/settings/strictly-necessary-cookies.php:83
+msgid "Always enabled (user cannot disable it but can see the content)"
+msgstr "Aina käytössä (käyttäjä ei voi poistaa sitä käytöstä, mutta voi nähdä sisällön)"
+
+#: class-moove-gdpr-content.php:355
+msgid "This website uses the following additional cookies:</p><p>(List the cookies that you are using on the website here.)"
+msgstr "Tämä verkkosivusto käyttää seuraavia lisäevästeitä:</p><p> (Luettele sivustolla käyttämäsi evästeet tässä.)"
+
+#: class-moove-gdpr-actions.php:620 class-moove-gdpr-actions.php:621
+#: class-moove-gdpr-actions.php:638 class-moove-gdpr-actions.php:639
+msgid "Close GDPR Cookie Banner"
+msgstr "Sulje evästebanneri"
+
+#: views/moove/admin/settings/help.php:295
+msgid "Please note that these are just examples - some bespoke development work may be required to customise these code snippets to your specific requirements."
+msgstr "Huomioithan, että nämä ovat vain esimerkkejä - koodin muokkaaminen voi olla tarpeen."
+
+#: views/moove/admin/settings/banner-settings.php:496
+msgid "Top"
+msgstr "Ylhäällä"

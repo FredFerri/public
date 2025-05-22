@@ -1,0 +1,164 @@
+# Translation of Plugins - WP-Paginate - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - WP-Paginate - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-29 10:37:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - WP-Paginate - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://www.studiofuel.com"
+msgstr "http://www.studiofuel.com"
+
+#. Author of the plugin/theme
+msgid "Noah Cinquini"
+msgstr "Noah Cinquini"
+
+#. Description of the plugin/theme
+msgid "A simple and flexible pagination plugin for WordPress posts and comments."
+msgstr "Een eenvoudige en flexibele plugin voor pagina-navigatie in WordPress (berichten en reacties)."
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.studiofuel.com/wp-paginate/"
+msgstr "http://www.studiofuel.com/wp-paginate/"
+
+#. Plugin Name of the plugin/theme
+msgid "WP-Paginate"
+msgstr "WP-Paginate"
+
+#: wp-paginate.php:389
+msgid "Other Links"
+msgstr "Andere links"
+
+#: wp-paginate.php:387
+msgid "Review WP-Paginate on the WordPress Plugins Page"
+msgstr "Beoordeel WP-Paginate op de WordPress plugins pagina"
+
+#: wp-paginate.php:386
+msgid "Report issues, provide feedback, request features, etc."
+msgstr "Problemen melden, feedback geven, functies aanvragen, enz."
+
+#: wp-paginate.php:385
+msgid "Blog about or link to WP-Paginate so others can find out about it"
+msgstr "Blog over of link naar WP-Paginate zodat anderen er meer over te weten kunnen komen"
+
+#: wp-paginate.php:384
+msgid "Translate WP-Paginate into your language"
+msgstr "Wp-Paginate vertalen naar je taal"
+
+#: wp-paginate.php:382
+msgid "If you would like to contribute, the following is a list of ways you can help:"
+msgstr "Als je wilt bijdragen, is het volgende een lijst met manieren waarop je kunt helpen:"
+
+#: wp-paginate.php:381
+msgid "Want To Contribute?"
+msgstr "Wil je bijdragen?"
+
+#: wp-paginate.php:380
+msgid "For questions, issues or feature requests, please post them in the %s and make sure to tag the post with wp-paginate."
+msgstr "Voor vragen, problemen of functie aanvragen, plaats ze in de %s en zorg ervoor dat je het bericht tagt met wp-paginate."
+
+#: wp-paginate.php:379
+msgid "Need Support?"
+msgstr "Ondersteuning nodig?"
+
+#: wp-paginate.php:372
+msgid "The minimum number of pages in a gap before an ellipsis (...) is added. Recommended value: 3"
+msgstr "Het minimum aantal pagina's in een tussenruimte voordat een ellips (...) wordt toegevoegd. Aanbevolen waarde: 3"
+
+#: wp-paginate.php:365
+msgid "Page Gap:"
+msgstr "Pagina gap:"
+
+#: wp-paginate.php:362
+msgid "The number of links to always show at beginning and end of pagination. Recommended value: 1"
+msgstr "Het aantal links dat altijd aan het begin en einde van de paginering moet worden weergegeven. Aanbevolen waarde: 1"
+
+#: wp-paginate.php:355
+msgid "Page Anchors:"
+msgstr "Pagina ankers:"
+
+#: wp-paginate.php:352
+msgid "The number of page links to show before and after the current page. Recommended value: 3"
+msgstr "Het aantal pagina links dat voor en na de huidige pagina moet worden weergegeven. Aanbevolen waarde: 3"
+
+#: wp-paginate.php:345
+msgid "Page Range:"
+msgstr "Paginabereik:"
+
+#: wp-paginate.php:342
+msgid "Include the default stylesheet wp-paginate.css? WP-Paginate will first look for <code>wp-paginate.css</code> in your theme directory (<code>themes/%s</code>)."
+msgstr "Het standaard stylesheet wp-paginate.css opnemen? WP-Paginate zoekt eerst <code>wp-paginate.css</code> in je themafolder ( <code>themes/%s</code> )."
+
+#: wp-paginate.php:340
+msgid "WP-Paginate CSS File:"
+msgstr "WP-Paginate CSS bestand:"
+
+#: wp-paginate.php:337
+msgid "Show Before Markup and After Markup, even if the page list is empty?"
+msgstr "Voor markering en na markering weergeven, zelfs als de paginalijst leeg is?"
+
+#: wp-paginate.php:335
+msgid "Markup Display:"
+msgstr "Markeringsweergave:"
+
+#: wp-paginate.php:332
+msgid "The HTML markup to display after the pagination code."
+msgstr "De HTML-opmaak die moet worden weergegeven na de paginering code."
+
+#: wp-paginate.php:330
+msgid "After Markup:"
+msgstr "Na markering:"
+
+#: wp-paginate.php:327
+msgid "The HTML markup to display before the pagination code."
+msgstr "De HTML-opmaak die vóór de paginering code moet worden weergegeven."
+
+#: wp-paginate.php:325
+msgid "Before Markup:"
+msgstr "Vóór markering:"
+
+#: wp-paginate.php:322
+msgid "Advanced Settings"
+msgstr "Geavanceerde Instellingen"
+
+#: wp-paginate.php:318
+msgid "The text/HTML to display for the next page link."
+msgstr "De tekst/HTML die moet worden weergegeven voor de volgende pagina link."
+
+#: wp-paginate.php:316
+msgid "Next Page:"
+msgstr "Volgende pagina:"
+
+#: wp-paginate.php:313
+msgid "The text/HTML to display for the previous page link."
+msgstr "De tekst/HTML die moet worden weergegeven voor de vorige pagina link."
+
+#: wp-paginate.php:311
+msgid "Previous Page:"
+msgstr "Vorige pagina:"
+
+#: wp-paginate.php:308
+msgid "The text/HTML to display before the list of pages."
+msgstr "De tekst/HTML die moet worden weergegeven vóór de lijst met pagina's."
+
+#: wp-paginate.php:306
+msgid "Pagination Label:"
+msgstr "Pagineringslabel:"
+
+#: wp-paginate.php:294
+msgid "Whoops! There was a problem with the data you posted. Please try again."
+msgstr "Er was een probleem met de gegevens die jij hebt geplaatst. Probeer het opnieuw."
+
+#: wp-paginate.php:291
+msgid "Success! Your changes were successfully saved!"
+msgstr "Gelukt! Je wijzigingen zijn opgeslagen."
+
+#: wp-paginate.php:266
+msgid "Settings"
+msgstr "Instellingen"

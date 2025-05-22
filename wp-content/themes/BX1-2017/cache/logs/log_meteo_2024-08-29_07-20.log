@@ -1,0 +1,24 @@
+________________________________________________
+|             CALL API : START                |
+________________________________________________
+
+Informations : 
+Called API: meteo - 29 August 2024, 07:20
+Method: GETMETEO - Timeout : 300 - Cache : 1
+URL CALLED : https://api.openweathermap.org/data/2.5/forecast/daily?q=Brussels,be&units=metric&cnt=4&appid=ea18c0706135505149200c3836f29800
+-------------------------
+________________________________________________
+|             CALL API : START                |
+________________________________________________
+
+Informations : 
+Called API: meteo - 29 August 2024, 07:20
+Method: GETMETEO - Timeout : 300 - Cache : 1
+URL CALLED : https://api.openweathermap.org/data/2.5/forecast/daily?q=Brussels,be&units=metric&cnt=4&appid=ea18c0706135505149200c3836f29800
+-------------------------
+{"city":{"id":2800866,"name":"Brussels","coord":{"lon":4.3488,"lat":50.8504},"country":"BE","population":1019022,"timezone":7200},"cod":"200","message":0.7985416,"cnt":4,"list":[{"dt":1724929200,"sunrise":1724907137,"sunset":1724956504,"temp":{"day":24.21,"min":17.49,"max":24.69,"night":17.83,"eve":21.57,"morn":17.58},"feels_like":{"day":24.17,"night":17.1,"eve":21.27,"morn":17.59},"pressure":1017,"humidity":57,"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"speed":4.22,"deg":312,"gust":9.07,"clouds":40,"pop":0},{"dt":1725015600,"sunrise":1724993630,"sunset":1725042775,"temp":{"day":21.96,"min":15.55,"max":22.37,"night":19.12,"eve":19.93,"morn":15.55},"feels_like":{"day":21.44,"night":18.65,"eve":19.49,"morn":14.99},"pressure":1021,"humidity":47,"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"speed":6.13,"deg":53,"gust":12.26,"clouds":100,"pop":0},{"dt":1725102000,"sunrise":1725080123,"sunset":1725129044,"temp":{"day":23.76,"min":15.73,"max":26.64,"night":19.76,"eve":23.5,"morn":15.73},"feels_like":{"day":23.94,"night":20.19,"eve":23.99,"morn":15.53},"pressure":1018,"humidity":67,"weather":[{"id":501,"main":"Rain","description":"moderate rain","icon":"10d"}],"speed":6.18,"deg":57,"gust":12.59,"clouds":20,"pop":1,"rain":9.63},{"dt":1725188400,"sunrise":1725166615,"sunset":1725215314,"temp":{"day":27.19,"min":18.52,"max":28.07,"night":20.4,"eve":22.37,"morn":18.52},"feels_like":{"day":28.09,"night":20.69,"eve":22.73,"morn":18.8},"pressure":1013,"humidity":57,"weather":[{"id":501,"main":"Rain","description":"moderate rain","icon":"10d"}],"speed":3.58,"deg":159,"gust":9.56,"clouds":78,"pop":1,"rain":6.22}]}
+--- ENF OF RECEIVED DATA ---
+
+{"city":{"id":2800866,"name":"Brussels","coord":{"lon":4.3488,"lat":50.8504},"country":"BE","population":1019022,"timezone":7200},"cod":"200","message":0.7985416,"cnt":4,"list":[{"dt":1724929200,"sunrise":1724907137,"sunset":1724956504,"temp":{"day":24.21,"min":17.49,"max":24.69,"night":17.83,"eve":21.57,"morn":17.58},"feels_like":{"day":24.17,"night":17.1,"eve":21.27,"morn":17.59},"pressure":1017,"humidity":57,"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"speed":4.22,"deg":312,"gust":9.07,"clouds":40,"pop":0},{"dt":1725015600,"sunrise":1724993630,"sunset":1725042775,"temp":{"day":21.96,"min":15.55,"max":22.37,"night":19.12,"eve":19.93,"morn":15.55},"feels_like":{"day":21.44,"night":18.65,"eve":19.49,"morn":14.99},"pressure":1021,"humidity":47,"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"speed":6.13,"deg":53,"gust":12.26,"clouds":100,"pop":0},{"dt":1725102000,"sunrise":1725080123,"sunset":1725129044,"temp":{"day":23.76,"min":15.73,"max":26.64,"night":19.76,"eve":23.5,"morn":15.73},"feels_like":{"day":23.94,"night":20.19,"eve":23.99,"morn":15.53},"pressure":1018,"humidity":67,"weather":[{"id":501,"main":"Rain","description":"moderate rain","icon":"10d"}],"speed":6.18,"deg":57,"gust":12.59,"clouds":20,"pop":1,"rain":9.63},{"dt":1725188400,"sunrise":1725166615,"sunset":1725215314,"temp":{"day":27.19,"min":18.52,"max":28.07,"night":20.4,"eve":22.37,"morn":18.52},"feels_like":{"day":28.09,"night":20.69,"eve":22.73,"morn":18.8},"pressure":1013,"humidity":57,"weather":[{"id":501,"main":"Rain","description":"moderate rain","icon":"10d"}],"speed":3.58,"deg":159,"gust":9.56,"clouds":78,"pop":1,"rain":6.22}]}
+--- ENF OF RECEIVED DATA ---
+

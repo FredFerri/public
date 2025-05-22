@@ -1,0 +1,1551 @@
+# Translation of Plugins - hCaptcha for WP - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - hCaptcha for WP - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-04-01 16:44:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - hCaptcha for WP - Stable (latest release)\n"
+
+#: src/php/Settings/Integrations.php:889
+msgid "Manage integrations with popular plugins and themes such as Contact Form 7, Elementor Pro, WPForms, and more."
+msgstr "Gestiona integraciones con plugins y temas populares como Contact Form 7, Elementor Pro, WPForms y más."
+
+#: src/php/CF7/Admin.php:197
+msgid "hCaptcha field form-tag generator"
+msgstr "generador de etiquetas de formulario de campo hCaptcha"
+
+#: src/php/CF7/Admin.php:196
+msgid "hCaptcha field"
+msgstr "campo hCaptcha"
+
+#: src/php/Settings/Integrations.php:578
+msgid "Password Reset Form"
+msgstr "Formulario de restablecimiento de contraseña"
+
+#: src/php/Settings/Integrations.php:303
+msgid "Live Form in Admin"
+msgstr "Formulario integrado en administración"
+
+#: src/php/CF7/Admin.php:137
+msgid "The Stripe payment element already contains an invisible hCaptcha. No need to add it to the form."
+msgstr "El elemento de pago de Stripe ya contiene un hCaptcha invisible. No es necesario añadirlo al formulario."
+
+#: src/php/Admin/Notifications.php:453
+msgid "of"
+msgstr "de"
+
+#: src/php/Admin/Notifications.php:283 src/php/Admin/Notifications.php:305
+msgid "See an example"
+msgstr "Ver un ejemplo"
+
+#: src/php/Admin/Notifications.php:280
+msgid "Add hCaptcha to Elementor Pro Form in the Elementor admin editor."
+msgstr "Añadir hCaptcha al formulario Elementor Pro en el editor de administración de Elementor."
+
+#: src/php/Admin/Notifications.php:279
+msgid "Add hCaptcha to Elementor Pro Form"
+msgstr "Añadir hCaptcha al formulario de Elementor Pro"
+
+#: src/php/Admin/Notifications.php:373
+msgid "With the hCaptcha plugin, you can see a live form on the form edit admin page."
+msgstr "Con el plugin hCaptcha, puedes ver un formulario incrustado en la página de administración de edición de formularios."
+
+#: src/php/Admin/Notifications.php:372
+msgid "Live form in Contact Form 7 admin"
+msgstr "Formulario en vivo en el administrador de Contact Form 7"
+
+#: src/php/Admin/Notifications.php:274
+msgid "Try auto-activation"
+msgstr "Prueba la activación automática"
+
+#: src/php/Admin/Notifications.php:271
+msgid "Automatic activation of dependent plugins on the Integrations page. Try to activate Elementor or Woo Wishlists."
+msgstr "Activación automática de plugins dependientes en la página de integraciones. Prueba a activar Elementor o Woo Wishlists."
+
+#: src/php/Admin/Notifications.php:270
+msgid "Activation of dependent plugins"
+msgstr "Activación de plugins dependientes"
+
+#. Plugin Name of the plugin
+#: hcaptcha.php src/php/Admin/Privacy.php:28
+msgid "hCaptcha for WP"
+msgstr "hCaptcha for WP"
+
+#: src/php/Settings/ListPageBase.php:523
+msgid "Last 1 year"
+msgstr "Último año"
+
+#: src/php/Settings/ListPageBase.php:522
+msgid "Last 90 days"
+msgstr "Últimos 90 días"
+
+#: src/php/Settings/ListPageBase.php:521
+msgid "Last 30 days"
+msgstr "Últimos 30 días"
+
+#: src/php/Settings/ListPageBase.php:520
+msgid "Last 7 days"
+msgstr "Últimos 7 días"
+
+#: src/php/Settings/ListPageBase.php:519
+msgid "Yesterday"
+msgstr "Ayer"
+
+#: src/php/Settings/ListPageBase.php:518
+msgid "Today"
+msgstr "Hoy"
+
+#: src/php/Settings/ListPageBase.php:273
+msgid "Apply"
+msgstr "Aplicar"
+
+#: src/php/Settings/ListPageBase.php:253
+msgid "Datepicker options"
+msgstr "Opciones del selector de fecha"
+
+#: src/php/Settings/General.php:405
+msgid "When on, the hCaptcha admin menu is placed under Settings."
+msgstr "Cuando está activado, el menú de administración de hCaptcha se ubica en ajustes."
+
+#: src/php/Settings/General.php:403
+msgid "Tabs"
+msgstr "Pestañas"
+
+#: src/php/Settings/General.php:399
+msgid "Tabs Menu Under Settings"
+msgstr "Menú de pestañas en ajustes"
+
+#: src/php/Settings/General.php:394
+msgid "Force"
+msgstr "Forzar"
+
+#: src/php/Settings/SystemInfo.php:92
+msgid "Cannot copy info to the clipboard."
+msgstr "No se puede copiar información al portapapeles."
+
+#: src/php/Admin/Events/TableBase.php:99
+msgid "Number of items per page:"
+msgstr "Número de elementos por página:"
+
+#: src/php/Admin/Events/EventsTable.php:86
+msgid "Date GMT"
+msgstr "Fecha GMT"
+
+#: src/php/Admin/Events/EventsTable.php:81
+#: src/php/Admin/Events/FormsTable.php:72
+msgid "Table ordered by Form Id."
+msgstr "Tabla ordenada por Id. de Formulario."
+
+#: src/php/Admin/Events/EventsTable.php:75
+#: src/php/Admin/Events/FormsTable.php:66
+msgid "Table ordered by Source."
+msgstr "Tabla ordenada por fuente."
+
+#: src/php/Admin/Events/EventsTable.php:87
+msgid "Table ordered by Date GMT."
+msgstr "Tabla ordenada por Fecha GMT."
+
+#: src/php/Settings/Integrations.php:360
+msgid "Register"
+msgstr "Registrarse"
+
+#: src/php/Settings/General.php:724
+msgid "hCaptcha Enterprise Required"
+msgstr "necesario hCaptcha Enterprise"
+
+#: src/php/Settings/General.php:716
+msgid "hCaptcha Pro Required"
+msgstr "necesario hCaptcha Pro"
+
+#: src/php/Settings/General.php:634
+msgid "- Select Property -"
+msgstr "- Seleccionar propiedad -"
+
+#: src/php/Settings/General.php:600
+msgid "Allow collecting of User Agent headers of users sending forms."
+msgstr "Permitir la recopilación de cabeceras de agente de usuario de los usuarios que envían formularios."
+
+#: src/php/Settings/General.php:598
+msgid "Collect User Agent"
+msgstr "Recopilar agente de usuario"
+
+#: src/php/Settings/General.php:592
+msgid "Allow collecting of IP addresses from which forms were sent."
+msgstr "Permitir la recopilación de direcciones IP desde las que se enviaron formularios."
+
+#: src/php/Settings/General.php:590
+msgid "Collect IP"
+msgstr "Recopilar IP"
+
+#: src/php/Settings/General.php:586
+msgid "Collection"
+msgstr "Recopilación"
+
+#: src/php/Settings/General.php:574
+msgid "By turning the statistics on, you agree to the collection of non-personal data to improve the plugin."
+msgstr "Al activar las estadísticas, aceptas la recopilación de datos no personales para mejorar el plugin."
+
+#: src/php/Settings/General.php:572
+msgid "Enable Statistics"
+msgstr "Activar estadísticas"
+
+#: src/php/Settings/General.php:568 src/php/Settings/General.php:682
+msgid "Statistics"
+msgstr "Estadísticas"
+
+#: src/php/Settings/General.php:438
+msgid "Set property value."
+msgstr "Establecer el valor de la propiedad."
+
+#: src/php/Settings/General.php:435
+msgid "Value"
+msgstr "Valor"
+
+#: src/php/Admin/Notifications.php:262
+msgid "Force hCaptcha check before submitting the form and simplify the user experience."
+msgstr "Fuerza marcar hCaptcha antes de enviar el formulario y simplifica la experiencia del usuario."
+
+#: src/php/Admin/Notifications.php:261 src/php/Settings/General.php:390
+msgid "Force hCaptcha"
+msgstr "Forzar hCaptcha"
+
+#: src/php/Admin/Notifications.php:246
+msgid "upgrade to Pro"
+msgstr "actualizar a pro"
+
+#. translators: 1: statistics switch link, 2: Pro link, 3: the 'forms' page
+#. link.
+#: src/php/Admin/Notifications.php:237
+msgid "%1$s events statistics and %2$s to %3$s complete statistics on form events."
+msgstr "%1$s estadísticas de eventos y %2$s a %3$s estadísticas completas sobre eventos de formulario."
+
+#: src/php/Admin/Notifications.php:234
+msgid "Events admin page"
+msgstr "Página de administración de eventos"
+
+#: src/php/Admin/Notifications.php:229 src/php/Admin/Notifications.php:256
+msgid "Turn on stats"
+msgstr "Activar las estadísticas"
+
+#: src/php/Admin/Notifications.php:224 src/php/Admin/Notifications.php:251
+msgid "see"
+msgstr "ver"
+
+#: src/php/Admin/Notifications.php:219 src/php/Admin/Notifications.php:241
+msgid "Turn on"
+msgstr "Activar"
+
+#. translators: 1: statistics switch link, 2: the 'forms' page link.
+#: src/php/Admin/Notifications.php:215
+msgid "%1$s events statistics and %2$s how your forms are used."
+msgstr "%1$s estadísticas de eventos y %2$s cómo se utilizan tus formularios."
+
+#: src/php/Admin/Notifications.php:212
+msgid "Events statistics and Forms admin page"
+msgstr "Página de administración de formularios y estadísticas de eventos"
+
+#: src/php/Admin/Events/FormsTable.php:49
+#: src/php/Admin/Events/FormsTable.php:77 src/php/Settings/FormsPage.php:130
+msgid "Served"
+msgstr "Servido"
+
+#: src/php/Admin/Events/EventsTable.php:57
+msgid "Date"
+msgstr "Fecha"
+
+#: src/php/Admin/Events/EventsTable.php:56
+msgid "Errors"
+msgstr "Errores"
+
+#: src/php/Admin/Events/EventsTable.php:55
+msgid "User Agent"
+msgstr "Agente de usuario"
+
+#: src/php/Admin/Events/EventsTable.php:54
+msgid "IP"
+msgstr "IP"
+
+#: src/php/Settings/EventsPage.php:142
+msgid "Failed"
+msgstr "Fallido"
+
+#: src/php/Settings/EventsPage.php:141
+msgid "Succeed"
+msgstr "Tener éxito"
+
+#: src/php/Settings/EventsPage.php:64
+msgid "Events"
+msgstr "Eventos"
+
+#: src/php/Admin/Events/EventsTable.php:53
+#: src/php/Admin/Events/EventsTable.php:80
+#: src/php/Admin/Events/FormsTable.php:48
+#: src/php/Admin/Events/FormsTable.php:71
+msgid "Form Id"
+msgstr "Id del formulario"
+
+#: src/php/Admin/Events/EventsTable.php:52
+#: src/php/Admin/Events/EventsTable.php:74
+#: src/php/Admin/Events/FormsTable.php:47
+#: src/php/Admin/Events/FormsTable.php:65
+msgid "Source"
+msgstr "Origen"
+
+#: src/php/Settings/General.php:396
+msgid "Force hCaptcha check before submit."
+msgstr "Forzar la comprobación de hCaptcha antes de enviar."
+
+#: src/php/Settings/FormsPage.php:169
+msgid "It is an example of the Forms page."
+msgstr "Es un ejemplo de la página de Formularios."
+
+#. translators: 1: Statistics link.
+#: src/php/Settings/FormsPage.php:156
+msgid "Want to see forms statistics? Please turn on the %1$s on the General settings page."
+msgstr "¿Quieres ver las estadísticas de los formularios? Activa la casilla %1$s en la página de general de ajustes."
+
+#: src/php/Settings/FormsPage.php:56
+msgid "Forms"
+msgstr "Formularios"
+
+#: src/php/Settings/EventsPage.php:174 src/php/Settings/FormsPage.php:161
+msgid "Statistics switch"
+msgstr "Cambio de estadísticas"
+
+#. translators: 1: Statistics link, 2: Pro account link.
+#: src/php/Settings/EventsPage.php:169
+msgid "Want to see events statistics? Please turn on the %1$s on the General settings page and upgrade to %2$s."
+msgstr "¿Quieres ver las estadísticas de los eventos? Activa %1$s en la página de ajustes general y actualiza a %2$s."
+
+#: src/php/Admin/Notifications.php:265
+msgid "Turn on force"
+msgstr "Activar verificación forzada"
+
+#: src/php/Settings/General.php:432
+msgid "Select custom theme property."
+msgstr "Seleccionar propiedad del tema personalizado."
+
+#: src/php/Settings/Integrations.php:352 src/php/Settings/Integrations.php:359
+msgid "Login"
+msgstr "Acceder"
+
+#: src/php/Settings/General.php:798
+msgid "Before checking the site config, please complete the Active hCaptcha in the current section."
+msgstr "Antes de comprobar la configuración del sitio, completa el hCaptcha activo en la sección actual."
+
+#: src/php/Settings/General.php:796
+msgid "Checking site config..."
+msgstr "Comprobando configuración del sitio..."
+
+#: src/php/Admin/Notifications.php:207
+msgid "Get started"
+msgstr "Primeros pasos"
+
+#: src/php/Admin/Notifications.php:204
+msgid "The hCaptcha plugin commenced support for Enterprise features. Solve your fraud and abuse problem today."
+msgstr "El plugin hCaptcha comenzó a brindar soporte para funciones empresariales. Resuelve tu problema de fraude y abuso hoy mismo."
+
+#: src/php/Admin/Notifications.php:203
+msgid "Support for Enterprise features"
+msgstr "Compatibilidad con características empresariales"
+
+#: src/php/Admin/Notifications.php:173
+msgid "Rate hCaptcha plugin"
+msgstr "Valora el plugin hCaptcha"
+
+#: src/php/Settings/Integrations.php:970
+msgid "Cannot deactivate the only theme on the site."
+msgstr "No se puede desactivar el único tema del sitio."
+
+#: src/php/Settings/Integrations.php:969
+msgid "Select theme to activate:"
+msgstr "Selecciona el tema para activar:"
+
+#: src/php/Settings/Integrations.php:859
+msgid "Search plugins and themes..."
+msgstr "Buscar plugins y temas..."
+
+#: src/php/Settings/General.php:948
+msgid "Cannot save section status."
+msgstr "No se puede guardar el estado de la sección."
+
+#: src/php/includes/request.php:158
+msgid "Cannot decode hCaptcha server response."
+msgstr "No se puede decodificar la respuesta del servidor hCaptcha."
+
+#: src/php/Settings/General.php:497
+msgid "Backend"
+msgstr "Administración"
+
+#: src/php/Admin/Notifications.php:198
+msgid "Start search"
+msgstr "Iniciar búsqueda"
+
+#: src/php/Admin/Notifications.php:194
+msgid "Search on Integrations page"
+msgstr "Buscar en la página de integraciones"
+
+#: src/php/Settings/Integrations.php:973 src/php/Settings/ListPageBase.php:270
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: src/php/GravityForms/Field.php:300 src/php/NF/NF.php:178
+#: src/php/Settings/General.php:799 src/php/Settings/Integrations.php:972
+#: src/php/Settings/SystemInfo.php:93
+msgid "OK"
+msgstr "Aceptar"
+
+#: src/php/Settings/Integrations.php:971
+msgid "Unexpected error."
+msgstr "Error inesperado."
+
+#: src/php/Admin/Notifications.php:195
+msgid "You can search for plugin an themes on the Integrations page."
+msgstr "Puedes buscar plugins y temas en la página de integraciones."
+
+#: src/php/Settings/General.php:485
+msgid "Report API"
+msgstr "API de informes"
+
+#: src/php/Settings/General.php:458 src/php/Settings/General.php:464
+#: src/php/Settings/General.php:470 src/php/Settings/General.php:476
+#: src/php/Settings/General.php:482 src/php/Settings/General.php:488
+#: src/php/Settings/General.php:494 src/php/Settings/General.php:501
+msgid "See Enterprise docs."
+msgstr "Consulta la documentación empresarial."
+
+#: src/php/Settings/General.php:467
+msgid "Endpoint"
+msgstr "Punto final."
+
+#: src/php/Settings/Integrations.php:208
+msgid "Affiliates Register Form"
+msgstr "Formulario de registro de afiliados"
+
+#: src/php/Settings/Integrations.php:207
+msgid "Affiliates Login Form"
+msgstr "Formulario de acceso para afiliados"
+
+#: src/php/Settings/General.php:380
+msgid "Test: Enterprise Account (Bot Detected)"
+msgstr "Prueba: cuenta empresarial (bot detectado)"
+
+#: src/php/Settings/General.php:359
+msgid "Vietnamese"
+msgstr "Vietnamita"
+
+#: src/php/Settings/General.php:358
+msgid "Uzbek"
+msgstr "Uzbeko"
+
+#: src/php/Settings/General.php:357
+msgid "Urdu"
+msgstr "Urdu"
+
+#: src/php/Settings/General.php:356
+msgid "Ukrainian"
+msgstr "Ucraniano"
+
+#: src/php/Settings/General.php:354
+msgid "Turkmen"
+msgstr "Turcomano"
+
+#: src/php/Settings/General.php:353
+msgid "Turkish"
+msgstr "Turco"
+
+#: src/php/Settings/General.php:352
+msgid "Thai"
+msgstr "Tailandés"
+
+#: src/php/Settings/General.php:339
+msgid "Slovak"
+msgstr "Eslovaco"
+
+#: src/php/Settings/General.php:338
+msgid "Serbian"
+msgstr "Serbio"
+
+#: src/php/Settings/General.php:337
+msgid "Sinhala"
+msgstr "Cingalés"
+
+#: src/php/Settings/General.php:336
+msgid "Sindhi"
+msgstr "Sindi"
+
+#: src/php/Settings/General.php:335
+msgid "Shona"
+msgstr "Shona"
+
+#: src/php/Settings/General.php:334
+msgid "Samoan"
+msgstr "Samoano"
+
+#: src/php/Settings/General.php:333
+msgid "Russian"
+msgstr "Ruso"
+
+#: src/php/Settings/General.php:332
+msgid "Romanian"
+msgstr "Rumano"
+
+#: src/php/Settings/General.php:331
+msgid "Punjabi"
+msgstr "Punyabí"
+
+#: src/php/Settings/General.php:330
+msgid "Pashto"
+msgstr "Pastú"
+
+#: src/php/Settings/General.php:329
+msgid "Portuguese"
+msgstr "Portugués"
+
+#: src/php/Settings/General.php:328
+msgid "Polish"
+msgstr "Polaco"
+
+#: src/php/Settings/General.php:327
+msgid "Oriya"
+msgstr "Oriya"
+
+#: src/php/Settings/General.php:325
+msgid "Norwegian"
+msgstr "Noruego"
+
+#: src/php/Settings/General.php:310
+msgid "Kurdish"
+msgstr "Kurdo"
+
+#: src/php/Settings/General.php:309
+msgid "Korean"
+msgstr "Coreano"
+
+#: src/php/Settings/General.php:308
+msgid "Kirghiz"
+msgstr "Kirguís"
+
+#: src/php/Settings/General.php:307
+msgid "Kinyarwanda"
+msgstr "Kiñaruanda"
+
+#: src/php/Settings/General.php:306
+msgid "Khmer"
+msgstr "Camboyano"
+
+#: src/php/Settings/General.php:305
+msgid "Kazakh"
+msgstr "Kazajo"
+
+#: src/php/Settings/General.php:302
+msgid "Japanese"
+msgstr "Japonés"
+
+#: src/php/Settings/General.php:301
+msgid "Italian"
+msgstr "Italiano"
+
+#: src/php/Settings/General.php:300
+msgid "Irish"
+msgstr "Irlandés"
+
+#: src/php/Settings/General.php:299
+msgid "Indonesian"
+msgstr "Indonesio"
+
+#: src/php/Settings/General.php:298
+msgid "Igbo"
+msgstr "Igbo"
+
+#: src/php/Settings/General.php:297
+msgid "Icelandic"
+msgstr "Islandés"
+
+#: src/php/Settings/General.php:296
+msgid "Hungarian"
+msgstr "Húngaro"
+
+#: src/php/Settings/General.php:282
+msgid "French"
+msgstr "Francés"
+
+#: src/php/Settings/General.php:281
+msgid "Finnish"
+msgstr "Finlandés"
+
+#: src/php/Settings/General.php:280
+msgid "Persian"
+msgstr "Persa"
+
+#: src/php/Settings/General.php:279
+msgid "Estonian"
+msgstr "Estonio"
+
+#: src/php/Settings/General.php:278
+msgid "Esperanto"
+msgstr "Esperanto"
+
+#: src/php/Settings/General.php:277
+msgid "English"
+msgstr "Inglés"
+
+#: src/php/Settings/General.php:276
+msgid "Dutch"
+msgstr "Alemán"
+
+#: src/php/Settings/General.php:275
+msgid "Danish"
+msgstr "Danés"
+
+#: src/php/Settings/General.php:274
+msgid "Czech"
+msgstr "Checoslovaco"
+
+#: src/php/Settings/General.php:273
+msgid "Croatian"
+msgstr "Croata"
+
+#: src/php/Settings/General.php:272
+msgid "Corsican"
+msgstr "Corso"
+
+#: src/php/Settings/General.php:271
+msgid "Chinese Traditional"
+msgstr "Chino tradicional"
+
+#: src/php/Settings/General.php:270
+msgid "Chinese Simplified"
+msgstr "Chino simplificado"
+
+#: src/php/Settings/General.php:269
+msgid "Chinese"
+msgstr "Chino"
+
+#: src/php/Settings/General.php:268
+msgid "Cebuano"
+msgstr "Cebuano"
+
+#: src/php/Helpers/HCaptcha.php:348
+msgid "General settings page"
+msgstr "Página de ajustes generales."
+
+#: src/php/CF7/Admin.php:198
+msgid "Generate a form-tag for a hCaptcha field."
+msgstr "Generar una etiqueta de formulario para un campo hCaptcha."
+
+#: src/php/Affiliates/Register.php:138
+msgid "ERROR"
+msgstr "Error"
+
+#: src/php/Settings/General.php:346
+msgid "Swedish"
+msgstr "Sueco"
+
+#: src/php/Settings/General.php:345
+msgid "Swahili"
+msgstr "Suahili"
+
+#: src/php/Settings/General.php:344
+msgid "Sundanese"
+msgstr "Sundanés"
+
+#: src/php/Settings/General.php:343
+msgid "Spanish"
+msgstr "Español"
+
+#: src/php/Settings/General.php:341
+msgid "Somali"
+msgstr "Somalí"
+
+#: src/php/Settings/General.php:340
+msgid "Slovenian"
+msgstr "Esloveno"
+
+#: src/php/Settings/General.php:267
+msgid "Catalan"
+msgstr "Catalán"
+
+#: src/php/Settings/General.php:266
+msgid "Burmese"
+msgstr "Birmano"
+
+#: src/php/Settings/General.php:265
+msgid "Bosnian"
+msgstr "Bosnio"
+
+#: src/php/Settings/General.php:264
+msgid "Bulgarian"
+msgstr "Búlgaro"
+
+#: src/php/Settings/General.php:254
+msgid "--- Auto-Detect ---"
+msgstr "--- Detección automática ---"
+
+#: src/php/includes/request.php:90
+msgid "Bad hCaptcha signature!"
+msgstr "¡Firma hCaptcha incorrecta!"
+
+#: src/php/Settings/General.php:288
+msgid "Greek"
+msgstr "Griego"
+
+#: src/php/Settings/General.php:287
+msgid "German"
+msgstr "Alemán"
+
+#: src/php/Settings/General.php:314
+msgid "Lithuanian"
+msgstr "Lituano"
+
+#: src/php/Settings/General.php:313
+msgid "Latvian"
+msgstr "Letón"
+
+#: src/php/Settings/General.php:312
+msgid "Latin"
+msgstr "Latín"
+
+#: src/php/Settings/General.php:311
+msgid "Lao"
+msgstr "Laosiano"
+
+#: src/php/Settings/General.php:304
+msgid "Kannada"
+msgstr "Canarés"
+
+#: src/php/Settings/General.php:303
+msgid "Javanese"
+msgstr "Javanés"
+
+#: src/php/Settings/General.php:295
+msgid "Hmong"
+msgstr "Hmong"
+
+#: src/php/Settings/General.php:294
+msgid "Hindi"
+msgstr "Hindú"
+
+#: src/php/Settings/General.php:293
+msgid "Hebrew"
+msgstr "Hebreo"
+
+#: src/php/Settings/General.php:292
+msgid "Hawaiian"
+msgstr "Hawaiano"
+
+#: src/php/Settings/General.php:291
+msgid "Hausa"
+msgstr "Hausa"
+
+#: src/php/Settings/General.php:290
+msgid "Haitian"
+msgstr "Haitiano"
+
+#: src/php/Settings/General.php:289
+msgid "Gujarati"
+msgstr "Gujaratí"
+
+#: src/php/Settings/General.php:286
+msgid "Georgian"
+msgstr "Georgiano"
+
+#: src/php/Settings/General.php:285
+msgid "Galician"
+msgstr "Gallego"
+
+#: src/php/Settings/General.php:379
+msgid "Test: Enterprise Account (Safe End User)"
+msgstr "Prueba: cuenta empresarial (usuario final seguro)"
+
+#: src/php/Settings/General.php:378
+msgid "Test: Publisher Account"
+msgstr "Prueba: cuenta de editor"
+
+#: src/php/Settings/General.php:364
+msgid "Zulu"
+msgstr "Zulú"
+
+#: src/php/Settings/General.php:363
+msgid "Yoruba"
+msgstr "Yoruba"
+
+#: src/php/Settings/General.php:362
+msgid "Yiddish"
+msgstr "Yidis"
+
+#: src/php/Settings/General.php:361
+msgid "Xhosa"
+msgstr "Xhosa"
+
+#: src/php/Settings/General.php:360
+msgid "Welsh"
+msgstr "Galés"
+
+#: src/php/Settings/General.php:355
+msgid "Uyghur"
+msgstr "Uigur"
+
+#: src/php/Settings/General.php:351
+msgid "Telugu"
+msgstr "Télugu"
+
+#: src/php/Settings/General.php:350
+msgid "Tatar"
+msgstr "Tártaro"
+
+#: src/php/Settings/General.php:349
+msgid "Tamil"
+msgstr "Támil"
+
+#: src/php/Settings/General.php:284
+msgid "Gaelic"
+msgstr "Gaélico"
+
+#: src/php/Settings/General.php:283
+msgid "Frisian"
+msgstr "Frisón"
+
+#: src/php/Settings/General.php:263
+msgid "Bengali"
+msgstr "Bengalí"
+
+#: src/php/Settings/General.php:262
+msgid "Belarusian"
+msgstr "Bielorruso"
+
+#: src/php/Settings/General.php:261
+msgid "Basque"
+msgstr "Vasco"
+
+#: src/php/Settings/General.php:260
+msgid "Azerbaijani"
+msgstr "Azerbaiyano"
+
+#: src/php/Settings/General.php:259
+msgid "Armenian"
+msgstr "Armenio"
+
+#: src/php/Settings/General.php:258
+msgid "Arabic"
+msgstr "Árabe"
+
+#: src/php/Settings/General.php:257
+msgid "Amharic"
+msgstr "Amárico"
+
+#: src/php/Settings/General.php:256
+msgid "Albanian"
+msgstr "Albanés"
+
+#: src/php/Settings/General.php:255
+msgid "Afrikaans"
+msgstr "Africano"
+
+#: src/php/Settings/General.php:348
+msgid "Tajik"
+msgstr "Tayiko"
+
+#: src/php/Settings/General.php:347
+msgid "Tagalog"
+msgstr "Tagalo"
+
+#: src/php/Settings/General.php:342
+msgid "Southern Sotho"
+msgstr "Sotho del sur"
+
+#: src/php/Settings/General.php:326
+msgid "Nyanja"
+msgstr "Nyanja"
+
+#: src/php/Settings/General.php:324
+msgid "Nepali"
+msgstr "Nepalí"
+
+#: src/php/Settings/General.php:323
+msgid "Mongolian"
+msgstr "Mongol"
+
+#: src/php/Settings/General.php:322
+msgid "Marathi"
+msgstr "Maratí"
+
+#: src/php/Settings/General.php:321
+msgid "Maori"
+msgstr "Maorí"
+
+#: src/php/Settings/General.php:320
+msgid "Maltese"
+msgstr "Maltés"
+
+#: src/php/Settings/General.php:319
+msgid "Malayalam"
+msgstr "Malayo"
+
+#: src/php/Settings/General.php:318
+msgid "Malay"
+msgstr "Malayo"
+
+#: src/php/Settings/General.php:317
+msgid "Malagasy"
+msgstr "Malgache"
+
+#: src/php/Settings/General.php:316
+msgid "Macedonian"
+msgstr "Macedonio"
+
+#: src/php/Settings/General.php:315
+msgid "Luxembourgish"
+msgstr "Luxemburgués"
+
+#. translators: 1: Theme name.
+#: src/php/Settings/Integrations.php:1167
+msgid "%s theme is activated."
+msgstr "El tema %s está activado."
+
+#. translators: 1: Theme name.
+#: src/php/Settings/Integrations.php:968
+msgid "Deactivate %s theme?"
+msgstr "¿Desactivar el tema %s?"
+
+#. translators: 1: Theme name.
+#: src/php/Settings/Integrations.php:966
+msgid "Activate %s theme?"
+msgstr "¿Activar el tema %s?"
+
+#: src/php/Settings/Integrations.php:302 src/php/Settings/Integrations.php:418
+#: src/php/Settings/Integrations.php:672
+msgid "Form Embed"
+msgstr "Formulario para incrustar"
+
+#: src/php/Settings/Integrations.php:301 src/php/Settings/Integrations.php:417
+#: src/php/Settings/Integrations.php:671
+msgid "Form Auto-Add"
+msgstr "Añadir automáticamente al formulario"
+
+#: src/php/Settings/General.php:234
+msgid "Auto"
+msgstr "Automático"
+
+#: src/php/NF/NF.php:177
+msgid "Only one hCaptcha field allowed."
+msgstr "Sólo se permite un campo hCaptcha."
+
+#: src/php/GravityForms/Field.php:299
+msgid "Only one hCaptcha field can be added to the form."
+msgstr "Solo se puede añadir un campo hCaptcha al formulario."
+
+#: src/php/GravityForms/Field.php:158
+msgid "hCaptcha settings must be modified on the hCaptcha plugin General settings page."
+msgstr "los ajustes de hCaptcha deben modificarse en la página de general de ajustes del plugin hCaptcha."
+
+#: src/php/GravityForms/Field.php:153
+msgid "Adds a hCaptcha field to your form to help protect your website from spam and bot abuse."
+msgstr "Añadir un campo hCaptcha a tu formulario para ayudar a proteger tu sitio web contra spam y abuso de bots."
+
+#: src/php/Admin/Notifications.php:568
+msgid "Error removing dismissed notifications."
+msgstr "Error al quitar avisos descartados."
+
+#: src/php/Admin/Notifications.php:519
+msgid "Error dismissing notification."
+msgstr "Error al descartar el aviso."
+
+#: src/php/Admin/Notifications.php:169
+msgid "Read post"
+msgstr "Leer la entrada"
+
+#: src/php/Admin/Notifications.php:166
+msgid "hCaptcha Named a Technology Leader in Bot Management: 2023 SPARK Matrix™"
+msgstr "hCaptcha nombrado líder tecnológico en gestión de bots: 2023 SPARK Matrix™"
+
+#: src/php/Admin/Notifications.php:165
+msgid "hCaptcha's Leadership"
+msgstr "liderazgo de hCaptcha"
+
+#: src/php/includes/request.php:150
+msgid "Cannot communicate with hCaptcha server."
+msgstr "No se puede comunicar con el servidor hCaptcha."
+
+#: src/php/Settings/General.php:776
+msgid "Please complete hCaptcha and check the site config."
+msgstr "Completa hCaptcha y comprueba la configuración del sitio."
+
+#: src/php/Settings/General.php:775
+msgid "Credentials changed."
+msgstr "Credenciales cambiadas."
+
+#: src/php/Settings/General.php:211
+msgid "Active hCaptcha to Check Site Config"
+msgstr "Activa hCaptcha para comprobar la configuración del sitio"
+
+#: src/php/Settings/Integrations.php:636
+msgid "Forgot Password Form"
+msgstr "Formulario de contraseña olvidada"
+
+#: src/php/Settings/Integrations.php:531
+msgid "Protection Form"
+msgstr "Formulario de protección"
+
+#: src/php/Settings/Integrations.php:442
+msgid "Kadence Advanced Form"
+msgstr "Formulario avanzado de Kadence"
+
+#. translators: 1: link to the General setting page
+#: src/php/Helpers/HCaptcha.php:344
+msgid "When hCaptcha plugin is active and integration is on, hCaptcha settings must be modified on the %1$s."
+msgstr "Cuando el plugin hCaptcha está activo y la integración está activada, los ajustes de hCaptcha deben modificarse en %1$s."
+
+#: src/php/Helpers/HCaptcha.php:340
+msgid "hCaptcha plugin is active"
+msgstr "el plugin hCaptcha está activo"
+
+#: src/php/Admin/Notifications.php:404
+msgid "Notifications"
+msgstr "Avisos"
+
+#: src/php/Admin/Notifications.php:161
+msgid "Try Pro"
+msgstr "Prueba la versión Pro"
+
+#: src/php/Admin/Notifications.php:156
+msgid "Start a free trial in your dashboard"
+msgstr "Comienza una prueba gratuita en tu escritorio"
+
+#: src/php/Admin/Notifications.php:151
+msgid "hCaptcha Pro"
+msgstr "hCaptcha Pro"
+
+#. translators: 1: hCaptcha Pro link, 2: dashboard link.
+#: src/php/Admin/Notifications.php:147
+msgid "Want low friction and custom themes? %1$s is for you. %2$s, no credit card required."
+msgstr "¿Quieres temas personalizados y rapidos? %1$s es para ti. %2$s, no se requiere tarjeta de crédito."
+
+#: src/php/Admin/Notifications.php:144
+msgid "Try Pro for free"
+msgstr "Prueba Pro gratis"
+
+#: src/php/Admin/Notifications.php:140
+msgid "Get site keys"
+msgstr "Obtener claves del sitio"
+
+#: src/php/Admin/Notifications.php:135
+msgid "here"
+msgstr "aquí"
+
+#. translators: 1: hCaptcha link, 2: register link.
+#: src/php/Admin/Notifications.php:126
+msgid "To use %1$s, please register %2$s to get your site and secret keys."
+msgstr "Para utilizar %1$s, regístrate %2$s para obtener tu sitio y tus claves secretas."
+
+#: src/php/Admin/Notifications.php:123
+msgid "Get your hCaptcha site keys"
+msgstr "Obten las claves hCaptcha de tu sitio"
+
+#: src/php/Settings/General.php:224
+msgid "Reset"
+msgstr "Restablecer"
+
+#: src/php/Settings/General.php:222
+msgid "Reset Notifications"
+msgstr "Restablecer avisos"
+
+#: src/php/Settings/Integrations.php:539
+msgid "Recover Password Form"
+msgstr "Formulario de recuperación de contraseña"
+
+#: src/php/Settings/General.php:998
+msgid "Site configuration error"
+msgstr "Error de configuración del sitio"
+
+#: src/php/Settings/General.php:849
+msgid "hCaptcha is in invisible mode."
+msgstr "hCaptcha está en modo invisible."
+
+#: src/php/Settings/General.php:218
+msgid "Check"
+msgstr "Comprobar"
+
+#: src/php/Settings/General.php:216
+msgid "Check Site Config"
+msgstr "Comprobar la configuración del sitio"
+
+#: src/php/Settings/SystemInfo.php:46
+msgid "System Info"
+msgstr "Información del sistema"
+
+#: src/php/Settings/Integrations.php:680
+msgid "Subscribe Form"
+msgstr "Formulario de suscripción"
+
+#: src/php/Settings/SystemInfo.php:116
+msgid "Copy system info to clipboard"
+msgstr "Copiar información del sistema al portapapeles"
+
+#: src/php/Settings/SystemInfo.php:91
+msgid "System info copied to the clipboard."
+msgstr "Información del sistema copiada al portapapeles."
+
+#: src/php/Settings/Integrations.php:314
+msgid "Divi Email Optin Form"
+msgstr "Formulario de suscripción de correo electrónico Divi"
+
+#: src/php/Settings/Integrations.php:230
+msgid "Back In Stock Notifier Form"
+msgstr "Formulario de notificación de reposición de existencias"
+
+#. translators: 1: Plugin name.
+#: src/php/Settings/Integrations.php:1098
+msgid "%s plugin is deactivated."
+msgstr "El plugin %s está desactivado."
+
+#. translators: 1: Plugin name.
+#: src/php/Settings/Integrations.php:1060
+#: src/php/Settings/Integrations.php:1176
+msgid "%s plugin is activated."
+msgid_plural "%s plugins are activated."
+msgstr[0] "El plugin %s está activado."
+msgstr[1] "%s plugins están activados."
+
+#: src/php/Admin/Notifications.php:513 src/php/Admin/Notifications.php:564
+#: src/php/Settings/PluginSettingsBase.php:295
+msgid "You are not allowed to perform this action."
+msgstr "No tienes permisos para realizar esta acción."
+
+#: src/php/Admin/Notifications.php:508 src/php/Admin/Notifications.php:559
+#: src/php/CF7/Admin.php:328 src/php/Settings/PluginSettingsBase.php:290
+msgid "Your session has expired. Please reload the page."
+msgstr "Su sesión ha caducado. Por favor, vuelve a cargar la página."
+
+#. translators: 1: Plugin name.
+#: src/php/Settings/Integrations.php:964
+msgid "Deactivate %s plugin?"
+msgstr "¿Desactivar el plugin %s?"
+
+#. translators: 1: Plugin name.
+#: src/php/Settings/Integrations.php:962
+msgid "Activate %s plugin?"
+msgstr "¿Activar el plugin %s?"
+
+#: src/php/Settings/Integrations.php:892
+msgid "You can activate and deactivate a plugin or theme by clicking on its logo."
+msgstr "Puedes activar y desactivar un plugin o tema haciendo clic en su logotipo."
+
+#: src/php/Settings/Integrations.php:441
+msgid "Kadence Form"
+msgstr "Formulario de Kadence"
+
+#: src/php/Settings/General.php:565
+msgid "Delay time for loading the hCaptcha API script. Any negative value will prevent the API script from loading until user interaction: mouseenter, click, scroll or touch. This significantly improves Google Pagespeed Insights score."
+msgstr "Tiempo de demora para subir el script de API hCaptcha. Cualquier valor negativo evitará que el script de API se suba hasta que el usuario interactúe con el mouse, haga clic, se desplace o toque. Esto mejora significativamente la puntuación de Google Pagespeed Insights."
+
+#: src/php/Settings/General.php:559
+msgid "Delay showing hCaptcha, ms"
+msgstr "Retraso en la visualización de hCaptcha, ms"
+
+#: src/php/Settings/General.php:556
+msgid "Time interval in minutes when failed login attempts are counted."
+msgstr "Intervalo de tiempo en minutos en el que se cuentan los intentos fallidos de acceso."
+
+#: src/php/Settings/General.php:551
+msgid "Failed login attempts interval, min"
+msgstr "Intervalo de intentos de acceso fallidos, min"
+
+#: src/php/Settings/General.php:548
+msgid "Maximum number of failed login attempts before showing hCaptcha."
+msgstr "Número máximo de intentos de acceso fallidos antes de mostrar hCaptcha."
+
+#: src/php/Settings/General.php:543
+msgid "Login attempts before hCaptcha"
+msgstr "Intentos de acceso antes de hCaptcha"
+
+#: src/php/Settings/Integrations.php:200
+msgid "ACF Extended Form"
+msgstr "Formulario extendido de ACF"
+
+#: src/php/Settings/Integrations.php:223
+msgid "Avada Form"
+msgstr "Formulario de Avada"
+
+#: src/php/Settings/Integrations.php:332
+msgid "Button"
+msgstr "Botón"
+
+#: src/php/Settings/Integrations.php:192
+msgid "Post/Page Password Form"
+msgstr "Formulario de contraseña de entrada/página"
+
+#: src/php/Quform/Quform.php:112
+msgid "Please enable JavaScript to submit this form."
+msgstr "Por favor, activa JavaScript para enviar este formulario."
+
+#: src/php/includes/request.php:117 src/php/includes/request.php:351
+msgid "hCaptcha error:"
+msgid_plural "hCaptcha errors:"
+msgstr[0] "error de hCaptcha:"
+msgstr[1] "errores de hCaptcha:"
+
+#: src/php/includes/request.php:89
+msgid "Bad hCaptcha nonce!"
+msgstr "¡Nonce hCaptcha incorrecto!"
+
+#: src/php/includes/request.php:85
+msgid "The sitekey is not registered with the provided secret."
+msgstr "La clave del sitio no está registrada con el secreto proporcionado."
+
+#: src/php/includes/request.php:84
+msgid "You have used a testing sitekey but have not used its matching secret."
+msgstr "Has utilizado una clave de sitio de prueba pero no has utilizado tu secreto correspondiente"
+
+#: src/php/includes/request.php:81
+msgid "The request is invalid or malformed."
+msgstr "La solicitud no es válida o está mal formada."
+
+#: src/php/includes/request.php:78
+msgid "The response parameter (verification token) is invalid or malformed."
+msgstr "El parámetro de respuesta (token de verificación) no es válido o está mal formado."
+
+#: src/php/includes/request.php:77
+msgid "The response parameter (verification token) is missing."
+msgstr "Falta el parámetro de respuesta (token de verificación)."
+
+#: src/php/includes/request.php:76
+msgid "Your secret key is invalid or malformed."
+msgstr "Tu clave secreta no es válida o está mal formada."
+
+#: src/php/includes/request.php:75
+msgid "Your secret key is missing."
+msgstr "Falta tu clave secreta."
+
+#: src/php/DownloadManager/DownloadManager.php:105
+msgid "hCaptcha error"
+msgstr "error de hCaptcha"
+
+#: src/php/Settings/Integrations.php:878
+msgid "Inactive plugins and themes"
+msgstr "Plugins y temas inactivos"
+
+#: src/php/Settings/Integrations.php:656
+msgid "Create List Form"
+msgstr "Crear un formulario de lista"
+
+#: src/php/Settings/Integrations.php:648
+msgid "Order Tracking Form"
+msgstr "Formulario de seguimiento de pedidos"
+
+#: src/php/Settings/Integrations.php:340 src/php/Settings/Integrations.php:459
+#: src/php/Settings/Integrations.php:523 src/php/Settings/Integrations.php:617
+#: src/php/Settings/Integrations.php:645
+msgid "Checkout Form"
+msgstr "Formulario de finalizar compra"
+
+#: src/php/Settings/Integrations.php:249 src/php/Settings/Integrations.php:274
+#: src/php/Settings/Integrations.php:433
+msgid "Contact Form"
+msgstr "Formulario de contacto"
+
+#: src/php/Settings/Integrations.php:315
+msgid "Divi Login Form"
+msgstr "Formulario de acceso de Divi"
+
+#: src/php/Settings/Integrations.php:313
+msgid "Divi Contact Form"
+msgstr "Formulario de contacto de Divi"
+
+#: src/php/Settings/Integrations.php:312
+msgid "Divi Comment Form"
+msgstr "Formulario de comentarios de Divi"
+
+#: src/php/Settings/Integrations.php:215 src/php/Settings/Integrations.php:258
+#: src/php/Settings/Integrations.php:284 src/php/Settings/Integrations.php:351
+#: src/php/Settings/Integrations.php:367 src/php/Settings/Integrations.php:386
+#: src/php/Settings/Integrations.php:394 src/php/Settings/Integrations.php:401
+#: src/php/Settings/Integrations.php:409 src/php/Settings/Integrations.php:425
+#: src/php/Settings/Integrations.php:477 src/php/Settings/Integrations.php:485
+#: src/php/Settings/Integrations.php:508 src/php/Settings/Integrations.php:515
+#: src/php/Settings/Integrations.php:547 src/php/Settings/Integrations.php:555
+#: src/php/Settings/Integrations.php:562 src/php/Settings/Integrations.php:569
+#: src/php/Settings/Integrations.php:586 src/php/Settings/Integrations.php:593
+#: src/php/Settings/Integrations.php:600 src/php/Settings/Integrations.php:695
+msgid "Form"
+msgstr "Formulario"
+
+#: src/php/Settings/Integrations.php:241 src/php/Settings/Integrations.php:688
+msgid "Reply Form"
+msgstr "Formulario de respuesta"
+
+#: src/php/Settings/Integrations.php:193 src/php/Settings/Integrations.php:240
+#: src/php/Settings/Integrations.php:267 src/php/Settings/Integrations.php:277
+#: src/php/Settings/Integrations.php:293 src/php/Settings/Integrations.php:343
+#: src/php/Settings/Integrations.php:452 src/php/Settings/Integrations.php:461
+#: src/php/Settings/Integrations.php:469 src/php/Settings/Integrations.php:501
+#: src/php/Settings/Integrations.php:540 src/php/Settings/Integrations.php:577
+#: src/php/Settings/Integrations.php:609 src/php/Settings/Integrations.php:620
+#: src/php/Settings/Integrations.php:629 src/php/Settings/Integrations.php:638
+#: src/php/Settings/Integrations.php:649
+msgid "Register Form"
+msgstr "Formulario de registro"
+
+#: src/php/Settings/Integrations.php:191 src/php/Settings/Integrations.php:238
+#: src/php/Settings/Integrations.php:276 src/php/Settings/Integrations.php:292
+#: src/php/Settings/Integrations.php:342 src/php/Settings/Integrations.php:451
+#: src/php/Settings/Integrations.php:608 src/php/Settings/Integrations.php:619
+#: src/php/Settings/Integrations.php:628 src/php/Settings/Integrations.php:647
+msgid "Lost Password Form"
+msgstr "Formulario de contraseña perdida"
+
+#. translators: 1: plugin version.
+#: src/php/Settings/PluginSettingsBase.php:275
+msgid "Version %s"
+msgstr "Versión %s"
+
+#. translators: 1: plugin name, 2: wp.org review link with stars, 3: wp.org
+#. review link with text.
+#: src/php/Admin/Notifications.php:176
+#: src/php/Settings/PluginSettingsBase.php:240
+msgid "Please rate %1$s %2$s on %3$s. Thank you!"
+msgstr "Por favor, valora %1$s %2$s en %3$s. ¡Gracias!"
+
+#: src/php/Settings/Integrations.php:917
+msgid "Active plugins and themes"
+msgstr "Plugins y temas activos"
+
+#: src/php/Settings/Integrations.php:911
+msgid "request an integration"
+msgstr "solicitar una integración"
+
+#: src/php/Settings/Integrations.php:906
+msgid "shortcode"
+msgstr "shortcode"
+
+#. translators: 1: hCaptcha shortcode doc link, 2: integration doc link.
+#: src/php/Settings/Integrations.php:902
+msgid "Don't see your plugin or theme here? Use the `[hcaptcha]` %1$s or %2$s."
+msgstr "¿No ves tu plugin o tema aquí? Usa el `[hcaptcha]` %1$s o %2$s."
+
+#: src/php/Settings/Integrations.php:266
+msgid "Create Group Form"
+msgstr "Formulario para crear grupo"
+
+#: src/php/Settings/Integrations.php:239 src/php/Settings/Integrations.php:687
+msgid "New Topic Form"
+msgstr "Formulario de nuevo tema"
+
+#. translators: 1: hCaptcha render params doc link.
+#: src/php/Settings/General.php:446
+msgid "hCaptcha render %s (optional). Must be a valid JSON."
+msgstr "hCaptcha representa %s (opcional). Debe ser un JSON válido."
+
+#: src/php/Settings/Integrations.php:190 src/php/Settings/Integrations.php:237
+#: src/php/Settings/Integrations.php:250 src/php/Settings/Integrations.php:275
+#: src/php/Settings/Integrations.php:291 src/php/Settings/Integrations.php:341
+#: src/php/Settings/Integrations.php:450 src/php/Settings/Integrations.php:460
+#: src/php/Settings/Integrations.php:468 src/php/Settings/Integrations.php:492
+#: src/php/Settings/Integrations.php:500 src/php/Settings/Integrations.php:524
+#: src/php/Settings/Integrations.php:538 src/php/Settings/Integrations.php:576
+#: src/php/Settings/Integrations.php:607 src/php/Settings/Integrations.php:618
+#: src/php/Settings/Integrations.php:627 src/php/Settings/Integrations.php:637
+#: src/php/Settings/Integrations.php:646 src/php/Settings/Integrations.php:664
+msgid "Login Form"
+msgstr "Formulario de acceso"
+
+#: src/php/Settings/General.php:441
+msgid "Config Params"
+msgstr "Parámetros de configuración"
+
+#: src/php/Settings/General.php:423 src/php/Settings/General.php:676
+msgid "Enterprise"
+msgstr "Empresa"
+
+#: src/php/Settings/General.php:419
+msgid "Pro"
+msgstr "Pro"
+
+#. translators: 1: hCaptcha Pro link, 2: hCaptcha Enterprise link.
+#: src/php/Settings/General.php:416
+msgid "Note: only works on hCaptcha %1$s and %2$s site keys."
+msgstr "Nota: solo funciona con las claves del sitio hCaptcha %1$s y %2$s."
+
+#: src/php/Settings/General.php:412
+msgid "Enable Custom Themes"
+msgstr "Activar temas personalizados"
+
+#: src/php/Settings/General.php:408
+msgid "Custom Themes"
+msgstr "Temas personalizados"
+
+#: src/php/Settings/General.php:384
+msgid "Select live or test mode. In test mode, predefined keys are used."
+msgstr "Selecciona el modo en vivo o de prueba. En el modo de prueba, se utilizan claves predefinidas."
+
+#: src/php/Settings/General.php:372
+msgid "Mode"
+msgstr "Modo"
+
+#: src/php/Settings/General.php:366
+msgid "By default, hCaptcha will automatically detect the user's locale and localize widgets accordingly."
+msgstr "De forma por defecto, hCaptcha detectará automáticamente la configuración regional del usuario y localizará los widgets en consecuencia."
+
+#: src/php/Settings/General.php:250
+msgid "Language"
+msgstr "Idioma"
+
+#: src/php/Settings/General.php:247
+msgid "Select hCaptcha size."
+msgstr "Selecciona el tamaño de hCaptcha."
+
+#: src/php/Settings/General.php:239
+msgid "Size"
+msgstr "Tamaño"
+
+#: src/php/Settings/General.php:236
+msgid "Select hCaptcha theme."
+msgstr "Selecciona el tema hCaptcha."
+
+#: src/php/Settings/General.php:228
+msgid "Theme"
+msgstr "Tema"
+
+#: src/php/Settings/General.php:206
+msgid "Secret Key"
+msgstr "Clave secreta"
+
+#: src/php/Settings/General.php:199
+msgid "Site Key"
+msgstr "Clave del sitio"
+
+#: src/php/Settings/General.php:135
+msgid "General"
+msgstr "General"
+
+#. Description of the plugin
+#: hcaptcha.php
+msgid "hCaptcha keeps out bots and spam while putting privacy first. It is a drop-in replacement for reCAPTCHA."
+msgstr "hCaptcha evita el ingreso de bots y spam, y prioriza la privacidad. Es un reemplazo directo de reCAPTCHA."
+
+#: src/php/Settings/Integrations.php:189 src/php/Settings/Integrations.php:679
+msgid "Comment Form"
+msgstr "Formulario de comentarios"
+
+#: src/php/Settings/Integrations.php:117
+msgid "Integrations"
+msgstr "Integraciones"
+
+#: src/php/Settings/General.php:679
+msgid "Other"
+msgstr "Otro"
+
+#: src/php/Settings/General.php:673 src/php/Settings/ListPageBase.php:524
+msgid "Custom"
+msgstr "Personalizar"
+
+#: src/php/Settings/General.php:670
+msgid "Appearance"
+msgstr "Apariencia"
+
+#: src/php/Settings/General.php:667
+msgid "Keys"
+msgstr "Claves"
+
+#: src/php/Settings/General.php:534
+msgid "On multisite, use same settings for all sites of the network."
+msgstr "En el modo multisitio, utiliza los mismos ajustes para todos los sitios de la red."
+
+#: src/php/Settings/General.php:532
+msgid "Use network-wide settings"
+msgstr "Utiliza ajustes de toda la red"
+
+#: src/php/Settings/General.php:540
+msgid "Do not show hCaptcha for listed IP addresses. Please specify one IP address per line."
+msgstr "No mostrar hCaptcha para las direcciones IP indicadas. Especifica una dirección IP por línea."
+
+#: src/php/Settings/General.php:518
+msgid "Use if including both hCaptcha and reCAPTCHA on the same page."
+msgstr "Úsalo si se incluyen hCaptcha y reCAPTCHA en la misma página."
+
+#: src/php/Settings/General.php:516
+msgid "Disable reCAPTCHA Compatibility"
+msgstr "Desactivar la compatibilidad con reCAPTCHA"
+
+#: src/php/Settings/General.php:510
+msgid "Do not show hCaptcha to logged-in users."
+msgstr "No mostrar hCaptcha a los usuarios que hayan accedido."
+
+#: src/php/Settings/General.php:504
+msgid "Other Settings"
+msgstr "Otros ajustes"
+
+#: src/php/Settings/General.php:449
+msgid "parameters"
+msgstr "parámetros"
+
+#: src/php/ElementorPro/HCaptchaHandler.php:202
+msgid "To use hCaptcha, you need to add the Site and Secret keys."
+msgstr "Para utilizar hCaptcha, debes añadir las claves secretas del sitio."
+
+#: src/php/Settings/General.php:245
+msgid "Invisible"
+msgstr "Invisible"
+
+#: src/php/Settings/General.php:508
+msgid "Turn Off When Logged In"
+msgstr "Desactivar al conectar"
+
+#: src/php/WP/Comment.php:162
+msgid "Invalid Captcha"
+msgstr "Captcha no válido"
+
+#: src/php/Settings/PluginSettingsBase.php:150
+msgid "Settings"
+msgstr "Ajustes"
+
+#: src/php/Kadence/AdvancedForm.php:138 src/php/Kadence/Form.php:118
+msgid "hCaptcha Failed"
+msgstr "hCaptcha falló"
+
+#: src/php/Settings/PluginSettingsBase.php:141
+msgid "hCaptcha Settings"
+msgstr "ajustes de hCaptcha"
+
+#: src/php/includes/request.php:88
+msgid "The hCaptcha is invalid."
+msgstr "El hCaptcha no es válido."
+
+#. Author of the plugin
+#: hcaptcha.php src/php/Admin/Notifications.php:130 src/php/CF7/Admin.php:179
+#: src/php/ElementorPro/HCaptchaHandler.php:395 src/php/NF/Field.php:76
+#: src/php/Settings/PluginSettingsBase.php:55 src/php/UM/Base.php:144
+#: src/php/UM/Base.php:147
+msgid "hCaptcha"
+msgstr "hCaptcha"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: hcaptcha.php
+msgid "https://www.hcaptcha.com/"
+msgstr "https://www.hcaptcha.com/"
+
+#: src/php/includes/request.php:87 src/php/Settings/General.php:797
+msgid "Please complete the hCaptcha."
+msgstr "Por favor completa el hCaptcha."
+
+#: src/php/Settings/General.php:244
+msgid "Compact"
+msgstr "Compacto"
+
+#: src/php/Settings/General.php:243
+msgid "Normal"
+msgstr "Normal"
+
+#: src/php/Settings/General.php:233
+msgid "Dark"
+msgstr "Oscuro"
+
+#: src/php/Settings/General.php:232
+msgid "Light"
+msgstr "Claro"

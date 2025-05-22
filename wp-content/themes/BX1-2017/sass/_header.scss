@@ -1,0 +1,815 @@
+.siteHeader{
+	padding-top: 20px;
+	height: 130px;
+
+	&__iReporter{
+		float: right;
+		position: absolute;
+		top: 48px;
+		right: 20px;
+	    padding-top: 55px;
+	    @include get-sprite($icons,ireporter);
+	    background-position-x: center;
+	    &:visited{
+	    	color: $pink;
+	    }
+	    &:hover{
+	    	text-decoration: none;
+			color: $purple;
+			@include get-sprite($icons,ireporter-purple);
+			background-position-x: center;
+	    }
+	    &:visited:hover{
+			color: $purple;
+		}
+		&--mini{
+			position: static;
+			height: 29px;
+			width: 29px;
+			overflow: hidden;
+			text-indent: -9999px;
+			margin-top: 5px;
+			padding-top: 0;
+			@include get-sprite($icons,ireporter-mini);
+			&:hover{
+				@include get-sprite($icons,ireporter-purple-mini);
+			}
+		}
+	}
+	&--fixed{
+		position: fixed;
+		padding-top: 0;
+		top: -40px;
+		left: 0;
+		background-color: white;
+		height: 39px;
+		overflow: hidden;
+		width: 100%;
+		z-index: 120;
+		border-bottom: 1px solid $black;
+		transition: $transition_default;
+		&.show{
+			top: 0;
+		}
+		.secondMenu{
+			display: inline-block;
+			vertical-align: top;
+			border-top: 0;
+			border-bottom: 0;
+			nav{
+				width: auto;
+			}
+		}
+	}
+}
+
+.logo{
+	img{
+		width: 115px;
+		height: auto;
+		transition: all 0.15s ease-out;
+		margin-top: -7px;
+		&:hover,&:focus{
+			opacity: 0.8;
+		}
+	}
+	&--mini{
+		width: 38px;
+		height: 33px;
+		overflow: hidden;
+		display: inline-block;
+		margin-right: 30px;
+		margin-top: 3px;
+		img{
+			width: 100%;
+			margin-top: 0;
+		}
+	}
+}
+
+.openMenu{
+	color: $black;
+	transition: all 0.15s ease-out;
+	display: block;
+	float: left;
+	z-index: 101;
+	position: absolute;
+    left: 20px;
+    top: 55px;
+
+	span{
+		display: block;
+		background-color: $black;
+		width: 42px;
+		height: 2px;
+		margin-bottom: 14px;
+		transition: background-color 0.15s ease-out,transform 0.15s ease-out;
+		position: relative;
+	}
+	&:visited{
+		color: $black;
+	}
+	&:visited:hover{
+		color: $purple;
+	}
+	&--active{
+		color: $base_color;
+		z-index: 104;
+
+		span{
+			background-color: $pink;
+			&:first-child{
+				transform: rotate(-45deg);
+				top: 15px;
+				width: 48px;
+    			left: -2px;
+			}
+			&+span{
+				visibility: hidden;
+				&+span{
+					visibility: visible;
+					transform: rotate(45deg);
+					top: -17px;
+					width: 48px;
+    				left: -2px;
+				}
+			}
+		}
+	}
+	&:hover{
+		text-decoration: none;
+		color: $purple;
+
+		span{
+			background-color: $purple;
+		}
+	}
+}
+
+.menuPrincipal{
+	position: absolute;
+    background-color: white;
+    z-index: 103;
+	top: 0;
+	left: 0;
+    padding: 0;
+    overflow: hidden;
+	margin-left: -50%;
+	border-right: 1px solid $black;
+	width: 50%;
+	padding: 170px 100px 100px 255px;
+    transition: $transition_slow;
+	min-height: 100%;
+	opacity: 0;
+	box-sizing: border-box;
+	#menu-menu-principal>li a{
+		display: none;
+	}
+
+    &--active{
+		margin-left: 0;
+	    opacity: 1;
+	    #menu-menu-principal>li{
+	    	left: 0!important;
+	    }
+		#menu-menu-principal>li a{
+			display: block;
+		}
+	}
+
+	ul,li{
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		line-height: 1;
+	}
+	li{
+		position: relative;
+	    transition: left 0.6s ease-out;
+		a{
+			color: $base_color;
+			font-size: 20px;
+			display: block;
+			margin-bottom: 15px;
+			transition: $transition_default;
+			&:hover{
+				text-decoration: none;
+				color: $pink;
+			}
+		}
+		&.menu-item-has-children>a:after{
+			content: "";
+			width: 9px;
+			display: inline-block;
+			height: 10px;
+			@include get-sprite($icons,menu-down);
+			margin-left: 7px;
+			position: relative;
+    		top: -2px;
+		}
+		&.menu-item-has-children.open>a:after{
+			@include get-sprite($icons,menu-up);
+		}
+		.sub-menu{
+			display: none;
+			padding-left: 20px;
+		}
+		&.current-menu-item>a,&.current-menu-parent>a{
+			font-weight: bold;
+			color: $pink;
+		}
+	}
+}
+.no-js .menuPrincipal li .sub-menu{
+	display: block;
+}
+
+.openSearch{
+	@include get-sprite($icons,search);
+	height: 44px;
+	width: 45px;
+	display: block;
+	text-indent: -9999px;
+    float: left;
+	top: 51px;
+    left: 90px;
+    position: absolute;
+    z-index: 100;
+
+	&:hover{
+		@include get-sprite($icons,search-pink);
+	}
+}
+
+.searchForm{
+	position: absolute;
+    background-color: white;
+    z-index: 101;
+    top: 0;
+    left: 0;
+    margin-left: -51%;
+    height: 150px;
+    transition: $transition_slow;
+    padding: 0;
+    width: 50%;
+    border-right: 1px solid $black;
+    opacity: 0;
+    input,.searchForm__form,a{
+    	display: none;
+    }
+
+    &--active{
+    	opacity: 1;
+    	margin-left: 0;
+    	input,.searchForm__form,a{
+	    	display: inline-block;
+	    }
+    }
+    &__form{
+    	display: inline-block;
+    	margin-top: 12px;
+    	width: 50%;
+    	vertical-align: top;
+    	label{
+    		color: $light_gray;
+    	}
+    	input[type="search"]{
+	    	border: 0;
+	    	color: $base_color;
+	    	font-size: 20px;
+	    	padding: 10px 0;
+	    	border-bottom: 2px solid $verylight_gray;
+	    	transition: $transition_default;
+	    	float: left;
+	    	margin-bottom: 0;
+	    	&:focus{
+	    		outline: 0;
+	    		border-bottom: 2px solid $pink;
+	    	}
+	    	&.error{
+	    		border-bottom-color: $red;
+	    	}
+	    }
+    }
+    input[type="submit"]{
+    	border: 0;
+    	background-color: transparent;
+    	text-indent: -9999px;
+    	height: 44px;
+    	width: 45px;
+    	margin: 55px 20px 0 90px;
+    	@include get-sprite($icons,search-pink);
+    	transition: none;
+    	display: inline-block;
+    	&:hover{
+    		@include get-sprite($icons,search-purple);
+    		background-color: transparent;
+    	}
+    }
+    &__close{
+    	text-indent: -9999px;
+    	height: 36px;
+    	width: 36px;
+    	display: inline-block;
+    	margin-left: 20px;
+    	vertical-align: top;
+    	margin-top: 60px;
+    	@include get-sprite($icons,search-close-pink);
+    	&:hover{
+    		@include get-sprite($icons,search-close-purple);
+    	}
+    }
+}
+
+.meteo{
+	float: right;
+	margin-top: 18px;
+	ul,li{
+		padding: 0;
+		list-style: none;
+	}
+	&__block{
+		display: inline-block;
+		vertical-align: top;
+		text-align: center;
+		margin: 0 10px 0 0;
+		line-height: 1;
+		&__date{
+			display: block;
+			font-size: 14px;
+			text-transform: uppercase;
+			margin-bottom: 4px;
+		}
+		&__icon{
+			width: 30px;
+			height: 30px;
+			display: block;
+			margin: auto;
+			text-indent: -9999px;
+			margin-bottom: 4px;
+			@include get-sprite($icons,no-meteo);
+			&--TJ1{
+				@include get-sprite($icons,meteo-soleil-30);
+			}
+			&--TJ2{
+				@include get-sprite($icons,meteo-voile-30);
+			}
+			&--TJ3{
+				@include get-sprite($icons,meteo-nuageux-30);
+			}
+			&--TJ4{
+				@include get-sprite($icons,meteo-tres-nuageux-30);
+			}
+			&--TJ5{
+				@include get-sprite($icons,meteo-brouillard-30);
+			}
+			&--TJ6{
+				@include get-sprite($icons,meteo-pluie-30);
+			}
+			&--TJ7{
+				@include get-sprite($icons,meteo-pluie-30);
+			}
+			&--TJ8{
+				@include get-sprite($icons,meteo-neige-30);
+			}
+			&--TJ9{
+				@include get-sprite($icons,meteo-neige-30);
+			}
+			&--TJ10{
+				@include get-sprite($icons,meteo-pluie-30);
+			}
+			&--TJ11{
+				@include get-sprite($icons,meteo-averses-30);
+			}
+			&--TJ12{
+				@include get-sprite($icons,meteo-orages-30);
+			}
+			&--TJ13{
+				@include get-sprite($icons,meteo-orages-30);
+			}
+			&--TJ14{
+				@include get-sprite($icons,meteo-neige-30);
+			}
+			&--TJ15{
+				@include get-sprite($icons,meteo-neige-30);
+			}
+			&--TJ16{
+				@include get-sprite($icons,meteo-orages-30);
+			}
+			&--TJ17{
+				@include get-sprite($icons,meteo-orages-30);
+			}
+			&--TJ18{
+				@include get-sprite($icons,meteo-neige-30);
+			}
+			&--TJ21{
+				@include get-sprite($icons,meteo-neige-30);
+			}
+			&--TJ22{
+				@include get-sprite($icons,meteo-neige-30);
+			}
+			&--TJ24{
+				@include get-sprite($icons,meteo-brouillard-30);
+			}
+			&--TJ26{
+				@include get-sprite($icons,meteo-brouillard-30);
+			}
+			&--TJ27{
+				@include get-sprite($icons,meteo-brouillard-30);
+			}
+			&--TNN1{
+				@include get-sprite($icons,meteo-lune-30);
+			}
+			&--TNN2{
+				@include get-sprite($icons,meteo-voile-nuit-30);
+			}
+			&--TNN3{
+				@include get-sprite($icons,meteo-nuageux-30);
+			}
+			&--TNN4{
+				@include get-sprite($icons,meteo-tres-nuageux-30);
+			}
+			&--TNN5{
+				@include get-sprite($icons,meteo-brouillard-30);
+			}
+			&--TNN6{
+				@include get-sprite($icons,meteo-pluie-nuit-30);
+			}
+			&--TNN7{
+				@include get-sprite($icons,meteo-pluie-nuit-30);
+			}
+			&--TNN8{
+				@include get-sprite($icons,meteo-neige-30);
+			}
+			&--TNN9{
+				@include get-sprite($icons,meteo-neige-30);
+			}
+			&--TNN10{
+				@include get-sprite($icons,meteo-pluie-nuit-30);
+			}
+			&--TNN11{
+				@include get-sprite($icons,meteo-averses-30);
+			}
+			&--TNN12{
+				@include get-sprite($icons,meteo-orages-30);
+			}
+			&--TNN13{
+				@include get-sprite($icons,meteo-orages-30);
+			}
+			&--TNN14{
+				@include get-sprite($icons,meteo-neige-30);
+			}
+			&--TNN15{
+				@include get-sprite($icons,meteo-neige-30);
+			}
+			&--TNN16{
+				@include get-sprite($icons,meteo-orages-30);
+			}
+			&--TNN17{
+				@include get-sprite($icons,meteo-orages-30);
+			}
+			&--TNN18{
+				@include get-sprite($icons,meteo-neige-30);
+			}
+			&--TNN21{
+				@include get-sprite($icons,meteo-neige-30);
+			}
+			&--TNN22{
+				@include get-sprite($icons,meteo-neige-30);
+			}
+			&--TNN24{
+				@include get-sprite($icons,meteo-brouillard-30);
+			}
+			&--TNN26{
+				@include get-sprite($icons,meteo-brouillard-30);
+			}
+			&--TNN27{
+				@include get-sprite($icons,meteo-brouillard-30);
+			}
+		}
+		&__temp{
+			display: block;
+			font-size: 16px;
+			span{
+				font-size: 0.75em;
+				margin-left: -0.2em;
+			}
+		}
+		&--now{
+			width: 150px;
+			.meteo__block__date{
+				text-transform: none;
+			}
+			.meteo__block__icon{
+				width: 48px;
+				height: 48px;
+				display: inline-block;
+				vertical-align: bottom;
+				margin-bottom: 0;
+				@include get-sprite($icons,no-meteo-big);
+				&--TJ1{
+					@include get-sprite($icons,meteo-soleil-48);
+				}
+				&--TJ2{
+					@include get-sprite($icons,meteo-voile-48);
+				}
+				&--TJ3{
+					@include get-sprite($icons,meteo-nuageux-48);
+				}
+				&--TJ4{
+					@include get-sprite($icons,meteo-tres-nuageux-48);
+				}
+				&--TJ5{
+					@include get-sprite($icons,meteo-brouillard-48);
+				}
+				&--TJ6{
+					@include get-sprite($icons,meteo-pluie-48);
+				}
+				&--TJ7{
+					@include get-sprite($icons,meteo-pluie-48);
+				}
+				&--TJ8{
+					@include get-sprite($icons,meteo-neige-48);
+				}
+				&--TJ9{
+					@include get-sprite($icons,meteo-neige-48);
+				}
+				&--TJ10{
+					@include get-sprite($icons,meteo-pluie-48);
+				}
+				&--TJ11{
+					@include get-sprite($icons,meteo-averses-48);
+				}
+				&--TJ12{
+					@include get-sprite($icons,meteo-orages-48);
+				}
+				&--TJ13{
+					@include get-sprite($icons,meteo-orages-48);
+				}
+				&--TJ14{
+					@include get-sprite($icons,meteo-neige-48);
+				}
+				&--TJ15{
+					@include get-sprite($icons,meteo-neige-48);
+				}
+				&--TJ16{
+					@include get-sprite($icons,meteo-orages-48);
+				}
+				&--TJ17{
+					@include get-sprite($icons,meteo-orages-48);
+				}
+				&--TJ18{
+					@include get-sprite($icons,meteo-neige-48);
+				}
+				&--TJ21{
+					@include get-sprite($icons,meteo-neige-48);
+				}
+				&--TJ22{
+					@include get-sprite($icons,meteo-neige-48);
+				}
+				&--TJ24{
+					@include get-sprite($icons,meteo-brouillard-48);
+				}
+				&--TJ26{
+					@include get-sprite($icons,meteo-brouillard-48);
+				}
+				&--TJ27{
+					@include get-sprite($icons,meteo-brouillard-48);
+				}
+				&--TNN1{
+					@include get-sprite($icons,meteo-lune-48);
+				}
+				&--TNN2{
+					@include get-sprite($icons,meteo-voile-nuit-48);
+				}
+				&--TNN3{
+					@include get-sprite($icons,meteo-nuageux-48);
+				}
+				&--TNN4{
+					@include get-sprite($icons,meteo-tres-nuageux-48);
+				}
+				&--TNN5{
+					@include get-sprite($icons,meteo-brouillard-48);
+				}
+				&--TNN6{
+					@include get-sprite($icons,meteo-pluie-nuit-48);
+				}
+				&--TNN7{
+					@include get-sprite($icons,meteo-pluie-nuit-48);
+				}
+				&--TNN8{
+					@include get-sprite($icons,meteo-neige-48);
+				}
+				&--TNN9{
+					@include get-sprite($icons,meteo-neige-48);
+				}
+				&--TNN10{
+					@include get-sprite($icons,meteo-pluie-nuit-48);
+				}
+				&--TNN11{
+					@include get-sprite($icons,meteo-averses-48);
+				}
+				&--TNN12{
+					@include get-sprite($icons,meteo-orages-48);
+				}
+				&--TNN13{
+					@include get-sprite($icons,meteo-orages-48);
+				}
+				&--TNN14{
+					@include get-sprite($icons,meteo-neige-48);
+				}
+				&--TNN15{
+					@include get-sprite($icons,meteo-neige-48);
+				}
+				&--TNN16{
+					@include get-sprite($icons,meteo-orages-48);
+				}
+				&--TNN17{
+					@include get-sprite($icons,meteo-orages-48);
+				}
+				&--TNN18{
+					@include get-sprite($icons,meteo-neige-48);
+				}
+				&--TNN21{
+					@include get-sprite($icons,meteo-neige-48);
+				}
+				&--TNN22{
+					@include get-sprite($icons,meteo-neige-48);
+				}
+				&--TNN24{
+					@include get-sprite($icons,meteo-brouillard-48);
+				}
+				&--TNN26{
+					@include get-sprite($icons,meteo-brouillard-48);
+				}
+				&--TNN27{
+					@include get-sprite($icons,meteo-brouillard-48);
+				}
+			}
+			.meteo__block__temp{
+				font-size: 32px;
+				display: inline-block;
+				vertical-align: bottom;
+				margin-bottom: -4px;
+			}
+		}
+	}
+}
+
+.secondMenu{
+	border-bottom: 1px solid $black;
+	border-top: 1px solid $black;
+	position: relative;
+	z-index: 1;
+	&:after{
+		content: "";
+		display: block;
+		clear: both;
+	}
+	ul,li{
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+	}
+	nav{
+		float: left;
+		border-left: 1px solid $black;
+		width: 80%;
+		ul{
+			font-size: 0;
+			margin-top: -1px;
+		}
+		li{
+			display: inline-block;
+			vertical-align: middle;
+			min-width: 12%;
+			a{
+				text-decoration: none;
+				text-align: center;
+				color: $base_color;
+				display: block;
+				border-right: 1px solid $black;
+				padding: 10px 20px;
+				font-size: 14px;
+				transition: $transition_default;
+				box-sizing: border-box;
+				border-bottom: 1px solid $black;
+				border-top: 1px solid $black;
+				margin-bottom: -1px;
+				&:hover,&:focus{
+					color: white!important;
+					background-color: $pink;
+				}
+			}
+			&:nth-child(5) a{
+				color: white;
+				background-color: $pink;
+				&:hover{
+					background-color: $purple;
+				}
+			}
+			&:nth-child(6) a{
+				color: white;
+				background-color: $purple;
+				&:hover{
+					background-color: $pink;
+				}
+			}
+			&.current-menu-item{
+				a{
+					font-weight: bold;
+					color: $pink;
+				}
+				&:nth-child(5) a,&:nth-child(6) a{
+					color: white;
+				}
+			}
+		}
+	}
+}
+
+.tvFiles{
+	background-color: $verylight_gray;
+	border-bottom: 1px solid $base_color;
+	font-size: 0;
+	margin-top: -1px;
+	a{
+		font-weight: bold;
+		text-decoration: underline;
+		color: $pink;
+		&:hover{
+			color: $purple;
+		}
+	}
+	&__atTv{
+		width: 300px;
+		display: inline-block;
+		vertical-align: top;
+		border-right: 1px solid $base_color;
+		margin-right: -1px;
+		font-size: 14px;
+		span{
+			font-weight: bold;
+		}
+		p{
+			margin: 20px 20px 10px 0;
+		}
+	}
+	&__files{
+		display: inline-block;
+		font-size: 14px;
+		vertical-align: top;
+		ul,li{
+			margin: 0;
+			padding: 0;
+			list-style-type: none;
+		}
+		ul{
+			margin: 20px 20px 10px 0;
+		}
+		li{
+			display: inline-block;
+			&:before{
+				content: "|";
+				margin: 0 5px;
+			}
+			&:first-child:before{
+				display: none;
+			}
+		}
+		.flashNews{
+			font-weight: bold;
+			padding-bottom: 10px;
+			padding-left: 22px;
+			@include get-sprite($icons,flash);
+		}
+	}
+	&__atTv+.tvFiles__files ul{
+		margin: 20px 20px 10px;
+	}
+	&__atTv+.tvFiles__files .flashNews{
+		margin-left: 20px;
+	}
+	&__atTv+.tvFiles__files{
+		border-left: 1px solid $base_color;
+	}
+}
+
+.pubTop{
+	margin-top: 35px;
+	text-align: center;
+	overflow: hidden;
+	&__ad>span{
+		display: inline-block;
+		max-width: 700px;
+		padding: 10px;
+		color: $light_gray;
+    	background-color: $verylight_gray;
+    	margin: auto;
+	    font-size: 14px;
+	    font-style: italic;
+	}
+	&__ad{
+    	margin: auto;
+	}
+}

@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Direct - Elections | BX1</title>
+    <link rel='stylesheet' id='telebruxelles-style-css'  href='/wp-content/themes/BX1-2017/style.css' type='text/css' media='all' />
+    <script type='text/javascript' src='/wp-includes/js/jquery/jquery.js'></script>
+    <script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+    <script type='text/javascript' src='/wp-content/plugins/jonradio-multiple-themes/js/sticky.js'></script>
+    <script src="/wp-content/themes/BX1-2017/js/vendor/modernizr-2.8.3.min.js" ></script>
+    <script src="/wp-content/themes/BX1-2017/js/jwplayer-8.0.4/jwplayer.js" ></script>
+    <script type='text/javascript' src='/wp-includes/js/wp-embed.min.js'></script>
+    <script>jwplayer.key="n7VQpXP/SZ7cR00K5ffQht+bYPBv2r+tBwUnmo+h+A5KhLSq";</script>
+</head>
+<body>
+<header class="siteHeader">
+    <div class="inside">
+        <a href="https://bx1.be/" title="Retour à l'accueil" rel="home" class="logo"><img id="logoimg" src="https://bx1.be/wp-content/themes/BX1-2017/img/logo.png" alt="BX1 - Médias de Bruxelles" /></a>
+        <a href="#page" class="visuallyhidden">Passer la navigation</a>
+        <a href="#" class="openMenu" aria-expanded="false"><span></span><span></span><span></span>Menu</a>
+        <nav class="menuPrincipal">
+            <div class="menu-menu-principal-container"><ul id="menu-menu-principal" class="menu"><li id="menu-item-393825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-393825"><a href="https://bx1.be/">Accueil</a></li>
+                <li id="menu-item-456654" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown not-click menu-item-456654"><a href="#">Partenaires</a>
+                    <ul class="sub-menu">
+                        <li id="menu-item-456655" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-456655"><a href="https://bx1.be/yes-actiris-brussels/">Yes! par Actiris.brussels</a></li>
+                    </ul>
+                </li>
+                <li id="menu-item-393797" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-dropdown not-click menu-item-393797"><a href="https://bx1.be/bx1-plus/">Radio</a>
+                    <ul class="sub-menu">
+                        <li id="menu-item-393818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393818"><a href="https://bx1.be/bx1-plus/">Replay</a></li>
+                        <li id="menu-item-400501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-400501"><a href="https://bx1.be/podcasts-bx1-plus/">Podcasts</a></li>
+                        <li id="menu-item-393798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393798"><a href="https://bx1.be/grille-des-programmes-bx1/">Grille des programmes</a></li>
+                    </ul>
+                </li>
+                <li id="menu-item-602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-dropdown not-click menu-item-602"><a href="https://bx1.be/emissions/">TV</a>
+                    <ul class="sub-menu">
+                        <li id="menu-item-220875" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-220875"><a href="https://bx1.be/grille-des-programmes-tv-bx1/">Grille des programmes</a></li>
+                        <li id="menu-item-220283" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-220283"><a href="https://bx1.be/emissions/">Nos émissions</a></li>
+                        <li id="menu-item-393800" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393800"><a href="https://bx1.be/dernier-jt/">Dernier JT</a></li>
+                        <li id="menu-item-220284" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-220284"><a href="/emission">Replay</a></li>
+                    </ul>
+                </li>
+                <li id="menu-item-220280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-220280"><a href="https://bx1.be/mon-actu/">Mon BX1</a></li>
+                <li id="menu-item-97" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-97"><a href="https://bx1.be/category/sport/">Sport</a></li>
+                <li id="menu-item-220281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-220281"><a href="https://bx1.be/mobilite/">Trafic et travaux</a></li>
+                <li id="menu-item-445414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445414"><a href="https://bx1.be/agenda/">Agenda</a></li>
+                <li id="menu-item-393801" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown not-click menu-item-393801"><a href="https://bx1.be/blog/">Blogs</a>
+                    <ul class="sub-menu">
+                        <li id="menu-item-220439" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-220439"><a href="/blog/blog-mobilite/">Blog mobilité</a></li>
+                        <li id="menu-item-352388" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-352388"><a href="https://bx1.be/dossier/rue-de-la-loi/">Rue de la Loi</a></li>
+                    </ul>
+                </li>
+                <li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown not-click menu-item-50"><a href="/concours">Concours</a>
+                    <ul class="sub-menu">
+                        <li id="menu-item-220286" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-220286"><a href="/concours">Nos concours</a></li>
+                        <li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="https://bx1.be/reglement-des-concours-de-la-rubrique-concours-et-cadeaux/">Règlement</a></li>
+                    </ul>
+                </li>
+                <li id="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-dropdown not-click menu-item-60"><a title="BX1" href="https://bx1.be/connaitre-la-chaine/">BX1</a>
+                    <ul class="sub-menu">
+                        <li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61"><a href="https://bx1.be/connaitre-la-chaine/">Connaître BX1</a></li>
+                        <li id="menu-item-467037" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-467037"><a href="https://bx1.be/presentation-bx1/">Présentation BX1</a></li>
+                        <li id="menu-item-539" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-539"><a href="/annonce">Annonces et offres d&#8217;emploi</a></li>
+                        <li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="https://bx1.be/comment-capter-bx1/">Regarder et écouter BX1</a></li>
+                        <li id="menu-item-85811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85811"><a href="https://bx1.be/materiel-logo-bx1/">Matériel graphique</a></li>
+                        <li id="menu-item-338" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-338"><a href="https://bx1.be/espace-professionnel/">Espace pro</a></li>
+                        <li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="https://bx1.be/localisation/">Adresse</a></li>
+                    </ul>
+                </li>
+                <li id="menu-item-122030" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122030"><a href="https://bx1.be/pub/">Publicité</a></li>
+                <li id="menu-item-88" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a href="https://bx1.be/contact/">Contact</a></li>
+            </ul></div>
+        </nav>
+        <a href="https://bx1.be/alertez-nous" class="siteHeader__iReporter" title="Formulaire Alertez-nous">Alertez-nous</a>
+    </div>
+
+</header>
+
+<header class="siteHeader siteHeader--fixed">
+    <div class="inside">
+        <a href="https://bx1.be/" title="Retour à l'accueil" rel="home" class="logo logo--mini"><img src="https://bx1.be/wp-content/themes/BX1-2017/img/logo.png" alt="BX1 - Médias de Bruxelles" /></a>
+        <div class="secondMenu">
+            <nav>
+                <div class="menu-second-menu-container"><ul id="menu-second-menu" class="menu"><li id="menu-item-393827" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-393827"><a href="https://bx1.be/">Accueil</a></li>
+                    <li id="menu-item-393817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393817"><a href="https://bx1.be/elections2024/">Communales: résultats en direct</a></li>
+                    <li id="menu-item-393817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393817"><a href="https://bx1.be/dossier/communales-2024-les-resultats-par-commune/">Communales 2024: les résultats par commune</a></li>
+                    <li id="menu-item-393817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393817"><a href="https://bx1.be/bx1-plus/">BX1 Radio</a></li>
+                    <li id="menu-item-220290" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-220290"><a href="/lives/direct-tv/">Direct TV</a></li>
+                    <li id="menu-item-221483" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-221483"><a href="https://bx1.be/dernier-jt/">Dernier JT</a></li>
+                    <li id="menu-item-445411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445411"><a href="https://bx1.be/agenda/">Agenda</a></li>
+                </ul></div>          </nav>
+        </div>
+        <a href="https://bx1.be/alertez-nous" class="siteHeader__iReporter siteHeader__iReporter--mini" title="Formulaire Alertez-nous">Alertez-nous</a>
+    </div>
+</header>
+
+<div class="secondMenu">
+    <div class="inside">
+
+        <nav>
+            <div class="menu-second-menu-container"><ul id="menu-second-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-393827"><a href="https://bx1.be/">Accueil</a></li>
+                <li id="menu-item-393817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393817"><a href="https://bx1.be/elections2024/">Communales: résultats en direct</a></li>
+                <li id="menu-item-393817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393817"><a href="https://bx1.be/dossier/communales-2024-les-resultats-par-commune/">Communales 2024: les résultats par commune</a></li>
+                <li id="menu-item-393817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393817"><a href="https://bx1.be/bx1-plus/">BX1 Radio</a></li>
+                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-220290"><a href="/lives/direct-tv/">Direct TV</a></li>
+            </ul></div>        </nav>
+
+        <ul class="social social--top">
+            <li class="social__icon social__icon--twitter"><a href="https://twitter.com/bx1officiel?lang=fr" target="_blank" title="Profil Twitter de @BX1Officiel">Twitter</a></li>
+            <li class="social__icon social__icon--facebook"><a href="https://www.facebook.com/BX1officiel/" target="_blank" title="Page Facebook de @BX1officiel">Facebook</a></li>
+            <li class="social__icon social__icon--youtube"><a href="https://www.youtube.com/user/TeleBruxelles" target="_blank" title="Chaîne Youtube de BX1">Youtube</a></li>
+            <li class="social__icon social__icon--instagram"><a href="https://www.instagram.com/bx1_officiel/" target="_blank" title="Profil Instagram de bx1_officiel">Instagram</a></li>
+        </ul>
+
+    </div>
+</div>
+<div class="pubTop">
+    <div class="pubTop__ad">
+        <!-- ads - zone images publicitaires bannering_header -->
+        <div id="gestcom_52"></div>
+    </div>
+</div>
+<div id="page">
+    <div class="inside">
+        <div id="primary">
+
+            <main class="live">
+                <h1>Direct &#8211; Elections</h1>
+                <script src="https://cdn.jwplayer.com/libraries/Neb1cMqn.js" ></script>
+                <script type="text/javascript" charset="utf-8" async="" src="https://ssl.p.jwpcdn.com/player/v/8.33.2/vast.js"></script>
+                <div id="videoLive"></div>
+                <script>
+                        jwplayer("videoLive").setup({
+                          playlist: [{
+                              "sources": [{
+                                  "file": "rtmps://59959724487e3.streamlock.net:443/stream/live"
+                              }, {
+                                  "file": "https://59959724487e3.streamlock.net:443/stream/live/playlist.m3u8", type:"mp4"
+                              }]
+                          }],
+                          primary: 'html5',
+                          width: '100%',
+                          aspectratio: '16:9',
+                          autostart: true,
+                          androidhls: true,
+                          localization: {
+                                       loadingAd : 'Chargement de la publicité',
+                                       liveBroadcast : 'Direct'
+                                }
+                    });
+                  </script>
+            </main>
+        </div>
+    </div>
+</div>
+
+
+<div class="pubBottom">
+    <!-- ads - zone images publicitaires bannering_footer -->
+    <div id="gestcom_54"></div>
+</div>
+<footer class="footerPartners" >
+    <div class="inside">
+
+        <div class="row" data-equalizer data-options="equalize_on_stack: true">
+
+            <div style="display: none;">
+                https://www.stepstone.be/fr/                  </div>
+            <div class="footerPartners__partner">
+                <a href="https://www.stepstone.be/fr/" target="_blank" title="Voir le site de Stepstone (ouverture dans un nouvel onglet)">
+                    <img width="150" height="150" src="https://bx1.be/wp-content/uploads/2018/03/Stepstone-Nouveau-Logo-2019-150x150.jpg" class="attachment-Logo size-Logo wp-post-image" alt="" srcset="https://bx1.be/wp-content/uploads/2018/03/Stepstone-Nouveau-Logo-2019-150x150.jpg 150w, https://bx1.be/wp-content/uploads/2018/03/Stepstone-Nouveau-Logo-2019-96x96.jpg 96w, https://bx1.be/wp-content/uploads/2018/03/Stepstone-Nouveau-Logo-2019-415x415.jpg 415w, https://bx1.be/wp-content/uploads/2018/03/Stepstone-Nouveau-Logo-2019-175x175.jpg 175w, https://bx1.be/wp-content/uploads/2018/03/Stepstone-Nouveau-Logo-2019-260x260.jpg 260w, https://bx1.be/wp-content/uploads/2018/03/Stepstone-Nouveau-Logo-2019-48x48.jpg 48w, https://bx1.be/wp-content/uploads/2018/03/Stepstone-Nouveau-Logo-2019.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" />                    </a>
+            </div>
+
+            <div style="display: none;">
+                http://www.vivreici.be/                  </div>
+            <div class="footerPartners__partner">
+                <a href="http://www.vivreici.be/" target="_blank" title="Voir le site de Vivre Ici (ouverture dans un nouvel onglet)">
+                    <img width="150" height="75" src="https://bx1.be/wp-content/uploads/2016/02/Vivre-Ici-Logo-150x75.png" class="attachment-Logo size-Logo wp-post-image" alt="" srcset="https://bx1.be/wp-content/uploads/2016/02/Vivre-Ici-Logo-150x75.png 150w, https://bx1.be/wp-content/uploads/2016/02/Vivre-Ici-Logo.png 186w" sizes="(max-width: 150px) 100vw, 150px" />                    </a>
+            </div>
+
+            <div style="display: none;">
+                https://www.orpheevdb.be/                  </div>
+            <div class="footerPartners__partner">
+                <a href="https://www.orpheevdb.be/" target="_blank" title="Voir le site de Orphée VDB (ouverture dans un nouvel onglet)">
+                    <img width="150" height="113" src="https://bx1.be/wp-content/uploads/2015/06/orpheevdb-150x113.jpg" class="attachment-Logo size-Logo wp-post-image" alt="" srcset="https://bx1.be/wp-content/uploads/2015/06/orpheevdb-150x113.jpg 150w, https://bx1.be/wp-content/uploads/2015/06/orpheevdb.jpg 205w" sizes="(max-width: 150px) 100vw, 150px" />                    </a>
+            </div>
+
+            <div style="display: none;">
+                http://www.leopeeters.be/                  </div>
+            <div class="footerPartners__partner">
+                <a href="http://www.leopeeters.be/" target="_blank" title="Voir le site de Leo Peeters (ouverture dans un nouvel onglet)">
+                </a>
+            </div>
+
+            <div style="display: none;">
+                http://www.leopeeters.be/                  </div>
+            <div class="footerPartners__partner">
+                <a href="http://www.leopeeters.be/" target="_blank" title="Voir le site de Nissan Leo Peeters (ouverture dans un nouvel onglet)">
+                    <img width="150" height="150" src="https://bx1.be/wp-content/uploads/2015/05/Logo-Nissan-Leo-Peeters-150x150.jpg" class="attachment-Logo size-Logo wp-post-image" alt="" srcset="https://bx1.be/wp-content/uploads/2015/05/Logo-Nissan-Leo-Peeters-150x150.jpg 150w, https://bx1.be/wp-content/uploads/2015/05/Logo-Nissan-Leo-Peeters-96x96.jpg 96w, https://bx1.be/wp-content/uploads/2015/05/Logo-Nissan-Leo-Peeters-415x415.jpg 415w, https://bx1.be/wp-content/uploads/2015/05/Logo-Nissan-Leo-Peeters-600x600.jpg 600w, https://bx1.be/wp-content/uploads/2015/05/Logo-Nissan-Leo-Peeters-175x175.jpg 175w, https://bx1.be/wp-content/uploads/2015/05/Logo-Nissan-Leo-Peeters-260x260.jpg 260w, https://bx1.be/wp-content/uploads/2015/05/Logo-Nissan-Leo-Peeters-48x48.jpg 48w, https://bx1.be/wp-content/uploads/2015/05/Logo-Nissan-Leo-Peeters.jpg 630w" sizes="(max-width: 150px) 100vw, 150px" />                    </a>
+            </div>
+
+            <div style="display: none;">
+                http://www.rtbf.be/vivacite/                  </div>
+            <div class="footerPartners__partner">
+                <a href="http://www.rtbf.be/vivacite/" target="_blank" title="Voir le site de VivaBruxelles (ouverture dans un nouvel onglet)">
+                    <img width="150" height="38" src="https://bx1.be/wp-content/uploads/2014/08/logo-viva_3-150x38.png" class="attachment-Logo size-Logo wp-post-image" alt="" srcset="https://bx1.be/wp-content/uploads/2014/08/logo-viva_3-150x38.png 150w, https://bx1.be/wp-content/uploads/2014/08/logo-viva_3-415x104.png 415w, https://bx1.be/wp-content/uploads/2014/08/logo-viva_3-356x89.png 356w, https://bx1.be/wp-content/uploads/2014/08/logo-viva_3-260x65.png 260w, https://bx1.be/wp-content/uploads/2014/08/logo-viva_3.png 450w" sizes="(max-width: 150px) 100vw, 150px" />                    </a>
+            </div>
+
+            <div style="display: none;">
+                http://www.stib-mivb.be/                  </div>
+            <div class="footerPartners__partner">
+                <a href="http://www.stib-mivb.be/" target="_blank" title="Voir le site de STIB (ouverture dans un nouvel onglet)">
+                    <img width="111" height="150" src="https://bx1.be/wp-content/uploads/2015/05/Logo-STIB-111x150.png" class="attachment-Logo size-Logo wp-post-image" alt="" srcset="https://bx1.be/wp-content/uploads/2015/05/Logo-STIB-111x150.png 111w, https://bx1.be/wp-content/uploads/2015/05/Logo-STIB-307x415.png 307w, https://bx1.be/wp-content/uploads/2015/05/Logo-STIB-768x1038.png 768w, https://bx1.be/wp-content/uploads/2015/05/Logo-STIB-947x1280.png 947w, https://bx1.be/wp-content/uploads/2015/05/Logo-STIB-129x175.png 129w, https://bx1.be/wp-content/uploads/2015/05/Logo-STIB-260x351.png 260w, https://bx1.be/wp-content/uploads/2015/05/Logo-STIB.png 1200w" sizes="(max-width: 111px) 100vw, 111px" />                    </a>
+            </div>
+
+
+        </div>
+
+    </div>
+</footer><!-- #colophon -->
+
+<footer class="footerHighlight" >
+    <div class="inside">
+        <ul class="social social--bottom">
+            <li class="social__icon social__icon--twitter"><a href="https://twitter.com/bx1officiel?lang=fr" target="_blank" title="Profil Twitter de @BX1Officiel">Twitter</a></li>
+            <li class="social__icon social__icon--facebook"><a href="https://www.facebook.com/BX1officiel/" target="_blank" title="Page Facebook de @BX1officiel">Facebook</a></li>
+            <li class="social__icon social__icon--youtube"><a href="https://www.youtube.com/user/TeleBruxelles" target="_blank" title="Chaîne Youtube de BX1">Youtube</a></li>
+            <li class="social__icon social__icon--instagram"><a href="https://www.instagram.com/bx1_officiel/" target="_blank" title="Profil Instagram de bx1_officiel">Instagram</a></li>
+            <li class="social__icon social__icon--rss"><a href="../../feed" target="_blank" title="Le flux RSS du site bx1.be">RSS</a></li>
+        </ul>
+    </div>
+</footer>
+
+<footer class="footerEnd">
+    <div class="inside">
+        <div class="textwidget"><p><strong>Pour capter BX1 TV : TNT canal 55 (746 Mhz en polarisation verticale) | Proximus TV : Canal 10 | VOO : Canal 11 | Orange : Canal 13 | Telenet : Canal 10<br />
+        </strong></p>
+        </div>
+        <div class="menu-footer-1-container"><ul id="menu-footer-1" class="menu"><li id="menu-item-393803" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393803"><a href="https://bx1.be/bx1-plus/">Radio et podcasts</a></li>
+            <li id="menu-item-332447" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-332447"><a href="https://bx1.be/emissions/">Replay TV</a></li>
+            <li id="menu-item-221526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-221526"><a href="https://bx1.be/mon-actu/">Mon BX1</a></li>
+            <li id="menu-item-220294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-220294"><a href="https://bx1.be/dernier-jt/">Dernier JT</a></li>
+            <li id="menu-item-332448" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-332448"><a href="https://bx1.be/grille-des-programmes-tv-bx1/">Grille des programmes &#8211; BX1</a></li>
+            <li id="menu-item-393804" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393804"><a href="https://bx1.be/grille-des-programmes-bx1/">Grille des programmes – BX1 +</a></li>
+            <li id="menu-item-220295" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220295"><a href="https://bx1.be/category/sport/">Sport</a></li>
+            <li id="menu-item-332449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-332449"><a href="https://bx1.be/mobilite/">Trafic et travaux</a></li>
+        </ul></div>              <div class="menu-footer-2-container"><ul id="menu-footer-2" class="menu"><li id="menu-item-220296" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220296"><a href="https://bx1.be/category/anderlecht/">Anderlecht</a></li>
+        <li id="menu-item-220297" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220297"><a href="https://bx1.be/category/auderghem/">Auderghem</a></li>
+        <li id="menu-item-220298" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220298"><a href="https://bx1.be/category/berchem-sainte-agathe/">Berchem-Sainte-Agathe</a></li>
+        <li id="menu-item-220299" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220299"><a href="https://bx1.be/category/bruxelles-ville/">Bruxelles-ville</a></li>
+        <li id="menu-item-220300" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220300"><a href="https://bx1.be/category/crainhem/">Crainhem</a></li>
+        <li id="menu-item-220301" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220301"><a href="https://bx1.be/category/drogenbos/">Drogenbos</a></li>
+        <li id="menu-item-220302" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220302"><a href="https://bx1.be/category/etterbeek/">Etterbeek</a></li>
+        <li id="menu-item-220303" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220303"><a href="https://bx1.be/category/evere/">Evere</a></li>
+        <li id="menu-item-220304" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220304"><a href="https://bx1.be/category/forest/">Forest</a></li>
+        <li id="menu-item-220305" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220305"><a href="https://bx1.be/category/ganshoren/">Ganshoren</a></li>
+        <li id="menu-item-220306" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220306"><a href="https://bx1.be/category/ixelles/">Ixelles</a></li>
+        <li id="menu-item-220307" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220307"><a href="https://bx1.be/category/jette/">Jette</a></li>
+        <li id="menu-item-220308" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220308"><a href="https://bx1.be/category/koekelberg/">Koekelberg</a></li>
+        <li id="menu-item-220309" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220309"><a href="https://bx1.be/category/linkebeek/">Linkebeek</a></li>
+        <li id="menu-item-220310" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220310"><a href="https://bx1.be/category/molenbeek-saint-jean/">Molenbeek-Saint-Jean</a></li>
+        <li id="menu-item-220311" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220311"><a href="https://bx1.be/category/rhode-saint-genese/">Rhode-Saint-Genèse</a></li>
+        <li id="menu-item-220312" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220312"><a href="https://bx1.be/category/saint-gilles/">Saint-Gilles</a></li>
+        <li id="menu-item-220313" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220313"><a href="https://bx1.be/category/saint-josse-ten-noode/">Saint-Josse-ten-Noode</a></li>
+        <li id="menu-item-220314" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220314"><a href="https://bx1.be/category/schaerbeek/">Schaerbeek</a></li>
+        <li id="menu-item-220315" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220315"><a href="https://bx1.be/category/uccle/">Uccle</a></li>
+        <li id="menu-item-220316" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220316"><a href="https://bx1.be/category/watermael-boitsfort/">Watermael-Boitsfort</a></li>
+        <li id="menu-item-220317" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220317"><a href="https://bx1.be/category/wemmel/">Wemmel</a></li>
+        <li id="menu-item-220318" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220318"><a href="https://bx1.be/category/wezembeek-oppem/">Wezembeek-Oppem</a></li>
+        <li id="menu-item-220319" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220319"><a href="https://bx1.be/category/woluwe-saint-lambert/">Woluwe-Saint-Lambert</a></li>
+        <li id="menu-item-220320" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220320"><a href="https://bx1.be/category/woluwe-saint-pierre/">Woluwe-Saint-Pierre</a></li>
+    </ul></div>              <div class="menu-footer-3-container"><ul id="menu-footer-3" class="menu"><li id="menu-item-220321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-220321"><a href="https://bx1.be/connaitre-la-chaine/">Connaître BX1</a></li>
+        <li id="menu-item-220322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-220322"><a href="https://bx1.be/pub/">Publicité</a></li>
+        <li id="menu-item-445695" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445695"><a href="https://bx1.be/annonce?theme=classic">Offres d&#8217;emploi</a></li>
+        <li id="menu-item-220323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-220323"><a href="https://bx1.be/contact/">Contact</a></li>
+        <li id="menu-item-332446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-332446"><a href="https://bx1.be/mentions-legales/">Mentions légales</a></li>
+    </ul></div>                            <p class="footerEnd__signature"><img src="https://bx1.be/wp-content/themes/BX1-2017/img/logo.png" width="60" height="56" alt="BX1" /><span>© BX1 2024</span></p>
+    </div>
+</footer>
+<script src="/wp-content/themes/BX1-2017/js/main.js"></script>
+<div style="display: none;">
+    <div id="jr-mt-home-url" title="bx1.be"></div>
+    <div id="jr-mt-site-admin" title="bx1.be/wp-admin"></div>
+</div>
+<script type='text/javascript' src='https://bx1.be/wp-includes/js/hoverintent-js.min.js'></script>
+</body>
+</html>

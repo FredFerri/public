@@ -1,0 +1,11 @@
+{
+  "videos_directory_path":"/data/sites/bx1.be/httpdocs/videofiles",
+  "youtube":{
+    "client_id":"398108908943-0rt5hm07ce9isg32937jas7g1com72lj.apps.googleusercontent.com",
+    "client_secret":"gUyec8Wix14DZa09G1cgB9fV"
+  },
+  "facebook":{
+    "app_id":"301668760316648",
+    "app_secret":"a7cd86d5f6174f1cd73dc81528ff36c2"
+  }
+}

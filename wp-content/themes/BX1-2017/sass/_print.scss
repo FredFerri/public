@@ -1,0 +1,45 @@
+@media print { 
+
+	a[href]:after{
+    	content: none!important;
+  	}
+  	a{
+  		text-decoration: none!important;
+  	}
+  	.openMenu,.openSearch,.siteHeader__iReporter,.menuPrincipal,.searchForm,.meteo,.secondMenu,.tvFiles,
+  	.pubTop,.siteHeader--fixed,#pubAside,.pubBottom,.footerPartners,.footerHighlight,
+  	.menu-footer-1-container,.menu-footer-2-container,.menu-footer-3-container,.menu-footer-4-container,.tweets,#video,.meta>h2,
+  	#dernierJT,.wp-paginate,#videoLive,.allLink{
+  		display: none;
+  	}
+  	.logo img{
+	  	width: 2cm;
+  	}
+  	.siteHeader{
+  		height: auto;
+  		padding: 0;
+  		margin: 0;
+  	}
+  	.footerEnd strong{
+  		font-weight: normal;
+  	}
+  	.news,.sideFil,.meta,.content .content{
+  		width: 100%!important;
+  		display: block!important;
+  		margin: 0!important;
+  	}
+  	.news+.sideFil{
+  		padding-top: 1cm;
+  	}
+  	.footerEnd__signature{
+  		margin-top: 0.5cm;
+  		img{
+  			width: 0.5cm;
+  		}
+  	}
+  	figure img,.content>img{
+  		max-width: 10cm!important;
+  		margin: auto;
+  	}
+
+}

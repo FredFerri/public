@@ -1,0 +1,1273 @@
+# Translation of Plugins - GDPR Cookie Compliance (CCPA ready) - Stable (latest release) in Greek
+# This file is distributed under the same license as the Plugins - GDPR Cookie Compliance (CCPA ready) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-10-02 09:06:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - GDPR Cookie Compliance (CCPA ready) - Stable (latest release)\n"
+
+#: views/moove/admin/settings/help.php:791
+msgid "Disable tabindex attribute for buttons"
+msgstr "Απενεργοποίηση της ιδιότητας tabindex για τα κουμπιά"
+
+#: views/moove/admin/settings/general-settings.php:320
+msgid "(The Cookie Setting Screen will be closed)"
+msgstr "(Η οθόνη ρύθμισης cookie θα κλείσει)"
+
+#: views/moove/admin/settings/banner-settings.php:354
+#: views/moove/admin/settings/general-settings.php:336
+msgid "(The cookies are accepted and the cookie banner does not re-appear until the cookie consent expires.)"
+msgstr "(Τα cookies γίνονται αποδεκτά και το παράθυρο ρύθμισης cookie δεν επανεμφανίζεται μέχρι να λήξει η συγκατάθεση για τα cookies.)"
+
+#: views/moove/admin/settings/banner-settings.php:353
+#: views/moove/admin/settings/general-settings.php:335
+msgid "as an Accept button"
+msgstr "ως κουμπί αποδοχής"
+
+#: views/moove/admin/settings/banner-settings.php:346
+#: views/moove/admin/settings/general-settings.php:328
+msgid "(The cookies are rejected and the cookie banner does not re-appear until the cookie consent expires.)"
+msgstr "(Τα cookies απορρίπτονται και το cookie banner δεν επανεμφανίζεται μέχρι να λήξει η συγκατάθεση των cookies.)"
+
+#: views/moove/admin/settings/banner-settings.php:345
+#: views/moove/admin/settings/general-settings.php:327
+msgid "as a Reject button"
+msgstr "ως κουμπί απόρριψης"
+
+#: views/moove/admin/settings/banner-settings.php:337
+#: views/moove/admin/settings/general-settings.php:319
+msgid "as a Close button"
+msgstr "ως κουμπί \"Κλείσιμο\""
+
+#: views/moove/admin/settings/banner-settings.php:326
+#: views/moove/admin/settings/general-settings.php:308
+msgid "Choose how the Close button should behave"
+msgstr "Επιλέξτε τη συμπεριφορά του κουμπιού κλεισίματος"
+
+#: views/moove/admin/settings/help.php:474
+msgid "official Google Dev Guides."
+msgstr "επίσημοι οδηγοί Google Dev."
+
+#: views/moove/admin/settings/help.php:474
+msgid "More details on this implementation in the "
+msgstr "Περισσότερες λεπτομέρειες σχετικά με αυτή την εφαρμογή στο "
+
+#: views/moove/admin/settings/help.php:242
+msgid "use WPML with our plugin."
+msgstr "χρησιμοποιήστε το WPML με το πρόσθετό μας."
+
+#: views/moove/admin/settings/help.php:165
+#: views/moove/admin/settings/help.php:242
+msgid "More info about how to"
+msgstr "Περισσότερες πληροφορίες για το πώς να"
+
+#: views/moove/admin/settings/banner-settings.php:338
+msgid "(The Cookie Banner becomes hidden for the duration of the current browsing session, without accepting or rejecting cookies. The Cookie Banner will re-appear when the user next visits your site.)"
+msgstr "(Το cookie banner αποκρύπτεται κατά τη διάρκεια της τρέχουσας περιόδου περιήγησης, χωρίς την αποδοχή ή απόρριψη των cookies. Το cookie banner θα επανεμφανιστεί όταν ο χρήστης επισκεφθεί ξανά τον ιστότοπό σας)."
+
+#: views/moove/admin/settings/help.php:526
+msgid "GTM / Javascript consent variables"
+msgstr "Μεταβλητές συγκατάθεσης GTM / Javascript"
+
+#: views/moove/admin/settings/help.php:470
+msgid "GTM / GA consent settings"
+msgstr "Ρυθμίσεις συγκατάθεσης GTM / GA"
+
+#: views/moove/admin/settings/help.php:165
+msgid "configure GA/GTM consent settings."
+msgstr "παραμετροποιήσετε τις ρυθμίσεις συγκατάθεσης GA/GTM."
+
+#: views/moove/admin/settings/help.php:164
+msgid "Our plugin supports both the GTM & GA consent variables natively."
+msgstr "Το πρόσθετό μας υποστηρίζει εγγενώς τις μεταβλητές συναίνεσης GTM & GA."
+
+#: views/moove/admin/settings/help.php:161
+msgid "How to configure GA / GTM consent settings"
+msgstr "Πώς να παραμετροποιήσετε τις ρυθμίσεις συγκατάθεσης GA / GTM"
+
+#: views/moove/admin/settings/google-site-kit.php:15
+msgid "Google Site Kit - Integration"
+msgstr "Google Site Kit - Ενσωμάτωση"
+
+#: class-moove-gdpr-actions.php:778
+msgid "Google Site Kit"
+msgstr "Google Site Kit"
+
+#: views/moove/admin/settings/help.php:241
+msgid "Once you install the WPML plugin to your site, all you need to do is to switch to the language where you want to translate content in. Then you can start updating the content in the CMS the same way as you do on the main language."
+msgstr "Μόλις εγκαταστήσετε το πρόσθετο WPML στον ιστότοπό σας, το μόνο που χρειάζεται να κάνετε είναι να αλλάξετε στη γλώσσα στην οποία θέλετε να μεταφράσετε το περιεχόμενο. Στη συνέχεια, μπορείτε να αρχίσετε να ενημερώνετε το περιεχόμενο στο CMS με τον ίδιο τρόπο που κάνετε στην κύρια γλώσσα."
+
+#: views/moove/admin/settings/help.php:240
+msgid "Our plugin is compatible with WPML out of the box, no special set up is required."
+msgstr "Το πρόσθετό μας είναι πλήρως συμβατό με το WPML, δεν απαιτείται ειδική ρύθμιση."
+
+#: views/moove/admin/settings/help.php:237
+msgid "WPML Compatibility"
+msgstr "Συμβατότητα με WPML"
+
+#: views/moove/admin/settings/help.php:19
+msgid "Troubleshooting"
+msgstr "Επίλυση προβλημάτων"
+
+#: views/moove/admin/settings/settings-page.php:19
+msgid "This plugin is useful in preparing your site for cookie compliance, data protection and privacy regulations."
+msgstr "Αυτό το πρόσθετο είναι χρήσιμο για την προετοιμασία του ιστότοπού σας για τη συμμόρφωση με τους κανονισμούς των cookies, την προστασία δεδομένων και τους κανονισμούς απορρήτου."
+
+#: views/moove/admin/settings/settings-page.php:16
+msgid "GDPR Cookie Compliance Plugin (CCPA ready)"
+msgstr "Πρόσθετο GDPR Cookie Compliance (CCPA ready)"
+
+#: views/moove/admin/settings/help.php:15
+#: views/moove/admin/settings/settings-page.php:124
+msgid "Documentation"
+msgstr "Τεκμηρίωση"
+
+#: views/moove/admin/settings/help.php:632
+msgid "Please note, without our \"temporary cookie\", the cookie banner will be displayed for the user on every page load - this is because the site will not recognise this user since their previous selection was not saved anywhere."
+msgstr "Σημειώστε ότι, χωρίς το \"προσωρινό cookie\" μας, το cookie banner θα εμφανίζεται στον χρήστη σε κάθε φόρτωση σελίδας - αυτό οφείλεται στο γεγονός ότι ο ιστότοπος δεν θα αναγνωρίζει αυτόν τον χρήστη, καθώς η προηγούμενη επιλογή του δεν έχει αποθηκευτεί πουθενά."
+
+#: views/moove/admin/settings/help.php:631
+msgid "However, you can prevent the plugin from storing user preferences into our temporary cookie by using the hook below."
+msgstr "Ωστόσο, μπορείτε να αποτρέψετε το πρόσθετο από το να αποθηκεύει τις προτιμήσεις του χρήστη στο προσωρινό μας cookie χρησιμοποιώντας το παρακάτω hook."
+
+#: views/moove/admin/settings/help.php:630
+msgid "The cookie banner will be displayed again at the next browsing session so the user can change their preferences then."
+msgstr "Το cookie banner θα εμφανιστεί ξανά στην επόμενη περίοδο περιήγησης, ώστε ο χρήστης να μπορέσει να αλλάξει τις προτιμήσεις του τότε."
+
+#: views/moove/admin/settings/help.php:629
+msgid "By default, our plugin stores user preferences in \"moove_gdpr_popup\" cookie. When a user rejects cookies, we do not show the cookie banner again during the same browsing session - this is achieved by using our temporary cookie that tells us that this user rejected cookies."
+msgstr "Από προεπιλογή, το πρόσθετό μας αποθηκεύει τις προτιμήσεις του χρήστη στο cookie \"moove_gdpr_popup\". Όταν ένας χρήστης απορρίπτει τα cookies, δεν εμφανίζουμε ξανά το cookie banner κατά τη διάρκεια της ίδιας περιόδου περιήγησης - αυτό επιτυγχάνεται με τη χρήση του προσωρινού cookie μας που μας λέει ότι αυτός ο χρήστης απέρριψε τα cookies."
+
+#: views/moove/admin/settings/help.php:626
+msgid "Prevent storing a \"temporary reject cookie\" when cookies are rejected"
+msgstr "Αποτρέψτε την αποθήκευση ενός \"προσωρινού cookie απόρριψης\" όταν τα cookies απορρίπτονται"
+
+#: views/moove/admin/settings/branding.php:77
+msgid "Brand Colour"
+msgstr "Χρώμα brand"
+
+#. Description of the plugin
+msgid "Our plugin is useful in preparing your site for the following data protection and privacy regulations: GDPR, CCPA, PIPEDA, AAP, LGPD and others."
+msgstr "Το πρόσθετό μας είναι χρήσιμο για την προετοιμασία του ιστότοπού σας για τους ακόλουθους κανονισμούς προστασίας δεδομένων και απορρήτου: GDPR, CCPA, PIPEDA, AAP, LGPD και άλλους."
+
+#: views/moove/admin/settings/banner-settings.php:190
+#: views/moove/admin/settings/general-settings.php:189
+msgid "You can change the order by drag & drop"
+msgstr "Μπορείτε να αλλάξετε τη σειρά με drag & drop"
+
+#: views/moove/admin/settings/banner-settings.php:189
+#: views/moove/admin/settings/general-settings.php:188
+msgid "Button Setup"
+msgstr "Ρύθμιση κουμπιών"
+
+#: views/moove/admin/settings/general-settings.php:276
+msgid "Reject All - Button Label"
+msgstr "Απόρριψη όλων - Λεζάντα κουμπιού"
+
+#: views/moove/admin/settings/general-settings.php:263
+msgid "Reject All button"
+msgstr "Κουμπί απόρριψης όλων"
+
+#: views/moove/admin/settings/general-settings.php:232
+msgid "Enable All button"
+msgstr "Κουμπί ενεργοποίησης όλων"
+
+#: views/moove/admin/settings/general-settings.php:201
+msgid "Save Settings button"
+msgstr "Κουμπί αποθήκευσης ρυθμίσεων"
+
+#: class-moove-gdpr-content.php:382
+msgid "Enter a new licence key:"
+msgstr "Εισάγετε ένα νέο κλειδί άδειας χρήσης:"
+
+#: class-gdpr-modules.php:395
+#: views/moove/admin/settings/general-settings.php:279
+msgid "Reject All"
+msgstr "Απόρριψη όλων"
+
+#: views/moove/admin/settings/banner-settings.php:213
+msgid "Accept button allows users to accept all cookies."
+msgstr "Το κουμπί της αποδοχής δίνει τη δυνατότητα στους χρήστες να αποδεχτούν όλα τα cookies."
+
+#: views/moove/admin/settings/banner-settings.php:202
+msgid "Accept button"
+msgstr "Κουμπί \"Αποδοχή\""
+
+#: views/moove/admin/settings/help.php:207
+msgid "There is only one exception where we cannot sync users consent between subsites and that’s when you’re using different domains (subdomains are fine). Browsers will treat each domain as separate entity and our plugin will be unable to alter cookies stored by the other domain. This is a security feature in browsers to prevent hacking."
+msgstr "Υπάρχει μόνο μία εξαίρεση όπου δεν μπορούμε να συγχρονίσουμε τη συναίνεση των χρηστών μεταξύ ιστότοπων του δικτύου και αυτή είναι όταν χρησιμοποιείτε διαφορετικούς τομείς (οι υποτομείς είναι εντάξει). Οι περιηγητές θα αντιμετωπίζουν κάθε τομέα ως ξεχωριστή οντότητα και το πρόσθετό μας μας δεν θα μπορεί να τροποποιεί τα cookies που είναι αποθηκευμένα από τον άλλο τομέα. Αυτό είναι ένα χαρακτηριστικό ασφαλείας στους περιηγητές για την αποφυγή του hacking."
+
+#: views/moove/admin/settings/help.php:206
+msgid "For example, if user agrees to cookies on one subsite (example.com/one/ or one.example.com), then we can automatically sync their consent and cookies will be accepted on the other subsites too (example.com/two/ or two.example.com)."
+msgstr "Για παράδειγμα, εάν ο χρήστης αποδεχτεί τα cookies σε έναν ιστότοπο του δικτύου (example.com/one/ ή one.example.com), τότε μπορούμε να συγχρονίσουμε αυτόματα τη συγκατάθεσή του και τα cookies θα γίνονται αποδεκτά και στους άλλους ιστότοπους του ίδιου δικτύου (example.com/two/ ή two.example.com)."
+
+#: views/moove/admin/settings/help.php:205
+msgid "We can sync users consent across your multisite network as long as your subsites are using the same domain and either folder or subdomain structure."
+msgstr "Μπορούμε να συγχρονίσουμε τη συναίνεση των χρηστών σε όλο το δίκτυο πολλαπλών ιστότοπων, εφόσον οι πολλαπλοί ιστότοποί σας χρησιμοποιούν τον ίδιο τομέα και την ίδια δομή φακέλων ή υποτομέα."
+
+#: views/moove/admin/settings/help.php:204
+msgid "Yes, the plugin supports subdomains on the same WordPress Multisite Network as part of our Premium Add-on"
+msgstr "Ναι, το πρόσθετο υποστηρίζει υποτομείς στο ίδιο δίκτυο πολλαπλών ιστοτόπων WordPress ως μέρος του Premium Add-on"
+
+#: views/moove/admin/settings/help.php:201
+msgid "Does the plugin support subdomains or subfolders on multisite network?"
+msgstr "Υποστηρίζει το πρόσθετο υποτομείς ή υποφακέλους σε δίκτυο πολλαπλών ιστοτόπων;"
+
+#: views/moove/admin/settings/help.php:727
+msgid "Delay script execution"
+msgstr "Καθυστέρηση εκτέλεσης script"
+
+#: views/moove/admin/settings/help.php:664
+msgid "Remove jQuery script dependency"
+msgstr "Αφαίρεση εξάρτησης του script από το jQuery"
+
+#: views/moove/admin/settings/help.php:645
+msgid "Define CDN URLs"
+msgstr "Ορίστε τους συνδέσμους CDN "
+
+#: views/moove/admin/settings/help.php:174
+msgid "What are \"Strictly Necessary Cookies / Essential Cookies\"?"
+msgstr "Τι είναι τα \"Απολύτως απαραίτητα cookies / Απαραίτητα Cookies\";"
+
+#: views/moove/admin/settings/help.php:140
+msgid "To REJECT cookies"
+msgstr "Για απόρριψη των cookies"
+
+#: views/moove/admin/settings/help.php:138
+msgid "To ACCEPT all cookies"
+msgstr "Για αποδοχή όλων των cookies"
+
+#: views/moove/admin/settings/help.php:137
+msgid "You can use the following links to accept or reject cookies straight-away. "
+msgstr "Μπορείτε να χρησιμοποιήσετε τους παρακάτω συνδέσμους για την απευθείας αποδοχή ή απόρριψη των cookies."
+
+#: views/moove/admin/settings/help.php:134
+msgid "Can I use direct links to “Accept” or “Reject” cookies?"
+msgstr "Μπορώ να χρησιμοποιήσω απευθείας συνδέσμους για την αποδοχή ή την απόρριψη των cookies;"
+
+#: views/moove/admin/settings/help.php:118
+msgid "How can I link directly to the Cookie Settings pop-up screen?"
+msgstr "Πώς μπορώ να δημιουργήσω έναν σύνδεσμο που να ανοίγει απευθείας το αναδυόμενο παράθυρο με τις ρυθμίσεις των cookies;"
+
+#: class-moove-gdpr-content.php:151
+msgid "Adjust your settings"
+msgstr "Προσαρμόστε τις ρυθμίσεις σας"
+
+#: views/moove/admin/settings/banner-settings.php:173
+msgid "settings"
+msgstr "ρυθμίσεις"
+
+#: views/moove/admin/settings/banner-settings.php:171
+msgid "You can use the following shortcut to link the Cookie Settings Screen:"
+msgstr "Μπορείτε να χρησιμοποιήσετε την ακόλουθη συντόμευση για να εισάγετε έναν σύνδεσμο προς την Οθόνη Ρυθμίσεων των Cookies:"
+
+#: class-gdpr-modules.php:156
+#: views/moove/admin/settings/banner-settings.php:157
+msgid "You can find out more about which cookies we are using or switch them off in [%s]settings[/%s]."
+msgstr "Μπορείτε να μάθετε ποια cookies χρησιμοποιούμε ή να τα απενεργοποιήσετε στις [%s]ρυθμίσεις[/%s]."
+
+#: class-gdpr-modules.php:155
+#: views/moove/admin/settings/banner-settings.php:156
+msgid "We are using cookies to give you the best experience on our website."
+msgstr "Χρησιμοποιούμε cookies για να σας προσφέρουμε τη βέλτιστη εμπειρία πλοήγησης στον ιστότοπό μας."
+
+#: gdpr-modules/modal/content-sections/advanced.php:16
+#: gdpr-modules/modal/content-sections/strictly.php:19
+#: gdpr-modules/modal/content-sections/third_party.php:16
+msgid "Enable or Disable Cookies"
+msgstr "Ενεργοποίηση ή απενεργοποίηση των Cookies"
+
+#: gdpr-modules/modal/modal-base-onepage.php:12
+#: gdpr-modules/modal/modal-base-onepage.php:13
+#: gdpr-modules/modal/modal-base-tabs.php:12
+#: gdpr-modules/modal/modal-base-tabs.php:13
+msgid "Close GDPR Cookie Settings"
+msgstr "Κλείσιμο Ρυθμίσεων Cookie GDPR"
+
+#: gdpr-modules/modal/modal-base-onepage.php:9
+#: gdpr-modules/modal/modal-base-tabs.php:9
+msgid "GDPR Settings Screen"
+msgstr "Οθόνη ρυθμίσεων GDPR"
+
+#: gdpr-modules/infobar/infobar-base.php:10
+msgid "GDPR Cookie Banner"
+msgstr "Cookie Banner για GDPR"
+
+#: views/moove/admin/settings/general-settings.php:437
+msgid "Reset plugin to default state"
+msgstr "Επαναφέρετε το πρόσθετο στη προεπιλεγμένη κατάσταση"
+
+#: views/moove/admin/settings/general-settings.php:434
+msgid "This action will remove all of your custom modifications and settings"
+msgstr "Αυτή η ενέργεια θα καταργήσει όλες τις τροποποιήσεις και ρυθμίσεις σας"
+
+#: views/moove/admin/settings/general-settings.php:434
+msgid "Please confirm that you would like to reset the plugin settings to the default state"
+msgstr "Επιβεβαιώστε ότι θέλετε να επαναφέρετε τις ρυθμίσεις του πρόσθετου στην προεπιλεγμένη τους κατάσταση"
+
+#: views/moove/admin/settings/general-settings.php:419
+msgid "Reset Settings"
+msgstr "Επαναφορά ρυθμίσεων"
+
+#: views/moove/admin/settings/general-settings.php:399
+msgid "Powered by GDPR"
+msgstr "Υποστηρίζεται από το GDPR"
+
+#: views/moove/admin/settings/general-settings.php:392
+msgid "(Enter 0 if you want the consent to expire at the end of the current browsing session.)"
+msgstr "(Πληκτρολογήστε 0 εάν θέλετε η συγκατάθεση να λήξει στο τέλος της τρέχουσας περιόδου περιήγησης.)"
+
+#: views/moove/admin/settings/general-settings.php:383
+msgid "Consent expiry"
+msgstr "Λήξη της συγκατάθεσης"
+
+#: views/moove/admin/settings/general-settings.php:361
+msgid "Checkbox Labels"
+msgstr "Λεζάντες Checkbox"
+
+#: views/moove/admin/settings/general-settings.php:245
+msgid "Enable All - Button Label"
+msgstr "Ενεργοποίηση Όλων - Λεζάντα κουμπιού"
+
+#: views/moove/admin/settings/general-settings.php:217
+msgid "Save Changes"
+msgstr "Αποθήκευση αλλαγών"
+
+#: views/moove/admin/settings/general-settings.php:214
+msgid "Save Settings - Button Label"
+msgstr "Αποθήκευση Ρυθμίσεων - Λεζάντα κουμπιού"
+
+#: views/moove/admin/settings/general-settings.php:179
+msgid "One page layout"
+msgstr "Μορφή μονοσέλιδου"
+
+#: views/moove/admin/settings/general-settings.php:173
+msgid "Tabs layout"
+msgstr "Διάταξη καρτελών"
+
+#: views/moove/admin/settings/general-settings.php:168
+msgid "Choose your layout"
+msgstr "Επιλέξτε τη διάταξή σας"
+
+#: views/moove/admin/settings/general-settings.php:161
+msgid "Cookie Settings Screen - General Setup"
+msgstr "Οθόνη ρυθμίσεων cookie - Γενική εγκατάσταση"
+
+#: views/moove/admin/settings/cookie-banner-manager.php:15
+msgid "Hide Cookie Banner on Selected Posts / Pages"
+msgstr "Απόκρυψη του Cookie banner από επιλεγμένα άρθρα / σελίδες"
+
+#: views/moove/admin/settings/stats.php:15
+msgid "GDPR Analytics"
+msgstr "Στατιστικά GDPR"
+
+#: views/moove/admin/settings/full-screen-mode.php:15
+msgid "Full-Screen Mode Setup"
+msgstr "Ρύθμιση λειτουργίας πλήρους οθόνης"
+
+#: views/moove/admin/settings/help.php:897
+msgid "Default capability: manage_options"
+msgstr "Προεπιλεγμένη δυνατότητα χρήστη: manage_options"
+
+#: views/moove/admin/settings/help.php:894
+msgid "GDPR Cookie Compliance Settings Page - Permissions"
+msgstr "Σελίδα ρυθμίσεων GDPR Cookie Compliance - Πρόσβαση χρηστών"
+
+#: views/moove/admin/settings/help.php:863
+msgid "Disable comments until cookies are accepted"
+msgstr "Απενεργοποίηση των σχολίων μέχρι να γίνουν αποδεκτά τα cookies"
+
+#: views/moove/admin/settings/help.php:824
+msgid "Custom tracking code on language sites (WPML, qTranslate, WP Multilang, Polylang)"
+msgstr "Προσαρμοσμένος κώδικας παρακολούθησης σε ιστότοπους γλωσσών (WPML, qTranslate, WP Multilang, Polylang)"
+
+#: views/moove/admin/settings/help.php:413
+msgid "By default, our plugin uses AJAX script injection to function properly, however, this may sometimes cause high server load. For that reason, you can disable the AJAX script and enable static script injection using the following hook. You will also need to purge all caches for the hook to start working."
+msgstr "Από προεπιλογή, το πρόσθετό μας χρησιμοποιεί AJAX script injection για να λειτουργεί σωστά, ωστόσο, αυτό μπορεί μερικές φορές να προκαλέσει υψηλό φόρτο στον διακομιστή. Για το λόγο αυτό, μπορείτε να απενεργοποιήσετε το AJAX script και να ενεργοποιήσετε στατικό script injection χρησιμοποιώντας το ακόλουθο hook. Θα χρειαστεί επίσης να καθαρίσετε όλες τις προσωρινές μνήμες αποθήκευσης για να αρχίσει να λειτουργεί το hook."
+
+#: views/moove/admin/settings/help.php:410
+msgid "Prevent ajax script injection"
+msgstr "Αποτροπή ajax script injection"
+
+#: views/moove/admin/settings/help.php:806
+msgid "Disable script caching"
+msgstr "Απενεργοποίηση script caching"
+
+#: views/moove/admin/settings/help.php:768
+msgid "Hook for WooCommerce Facebook Pixel plugin"
+msgstr "Hook για το πρόσθετο WooCommerce Facebook Pixel"
+
+#: views/moove/admin/settings/help.php:745
+msgid "Compatibility with Pixel Your Site plugin"
+msgstr "Συμβατότητα με το πρόσθετο Pixel Your Site"
+
+#: views/moove/admin/settings/help.php:700
+msgid "Read cookie values with JavaScript"
+msgstr "Διαβάστε τις τιμές του cookie με Javascript"
+
+#: views/moove/admin/settings/help.php:686
+msgid "Default value: SameSite=Lax"
+msgstr "Προεπιλεγμένη τιμή: SameSite=Lax"
+
+#: views/moove/admin/settings/help.php:682
+msgid "Define custom cookie attribute (SameSite)"
+msgstr "Ορίστε προσαρμοσμένη ιδιότητα στο cookie (SameSite)"
+
+#: views/moove/admin/settings/help.php:602
+msgid "Disable Monster Insights based on cookie selected"
+msgstr "Απενεργοποιήστε το Monster Insights με βάση το επιλεγμένο cookie"
+
+#: views/moove/admin/settings/help.php:585
+msgid "Make \"Reject\" button less visible"
+msgstr "Κάντε το κουμπί \"Απόρριψη\" λιγότερο ορατό"
+
+#: views/moove/admin/settings/help.php:566
+msgid "Custom css for buttons"
+msgstr "Προσαρμοσμένη css για τα κουμπιά"
+
+#: views/moove/admin/settings/help.php:429
+msgid "If you find that our GDPR Cookie Compliance Banner or the Settings Screen is covered by another element on your site, you can add the following to your functions.php"
+msgstr "Εάν διαπιστώσετε ότι το GDPR Cookie Compliance Banner ή η οθόνη ρυθμίσεων καλύπτεται από κάποιο άλλο στοιχείο στον ιστότοπό σας, μπορείτε να προσθέσετε τα ακόλουθα στο αρχείο functions.php."
+
+#: views/moove/admin/settings/help.php:426
+msgid "Set custom z-index"
+msgstr "Ορίστε προσαρμοσμένο z-index"
+
+#: views/moove/admin/settings/help.php:545
+msgid "Extend styles"
+msgstr "Επέκταση στυλ"
+
+#: views/moove/admin/settings/help.php:448
+msgid "PHP cookie checker"
+msgstr "Ελεγκτής PHP cookie"
+
+#: views/moove/admin/settings/help.php:395
+msgid "Enable force reload"
+msgstr "Ενεργοποίηση Εξαναγκασμένης επαναφόρτωσης"
+
+#: views/moove/admin/settings/help.php:376
+msgid "HOOK to GDPR custom ADVANCED-PARTY script by php – FOOTER"
+msgstr "HOOK to GDPR custom ADVANCED-PARTY script by php – FOOTER"
+
+#: views/moove/admin/settings/help.php:357
+msgid "HOOK to GDPR custom ADVANCED-PARTY script by php – BODY"
+msgstr "HOOK to GDPR custom ADVANCED-PARTY script by php – BODY"
+
+#: views/moove/admin/settings/help.php:338
+msgid "HOOK to GDPR custom ADVANCED-PARTY script by php – HEAD"
+msgstr "HOOK to GDPR custom ADVANCED-PARTY script by php – HEAD"
+
+#: views/moove/admin/settings/help.php:319
+msgid "HOOK to GDPR custom 3RD-PARTY script by php – FOOTER"
+msgstr "HOOK to GDPR custom 3RD-PARTY script by php – FOOTER"
+
+#: views/moove/admin/settings/help.php:300
+msgid "HOOK to GDPR custom 3RD-PARTY script by php – BODY"
+msgstr "HOOK to GDPR custom 3RD-PARTY script by php – BODY"
+
+#: views/moove/admin/settings/help.php:281
+msgid "HOOK to GDPR custom 3RD-PARTY script by php – HEAD"
+msgstr "HOOK to GDPR custom 3RD-PARTY script by php – HEAD"
+
+#: views/moove/admin/settings/help.php:277
+msgid "Please note that these are just examples - some bespoke development work may be required to customise these code snippets to your specific requirements."
+msgstr "Σημειώστε ότι αυτά είναι απλά παραδείγματα - μπορεί να απαιτηθεί κάποια εξειδικευμένη επεξεργασία του κώδικα για την προσαρμογή αυτών των αποσπασμάτων κώδικα στις δικές σας ειδικές απαιτήσεις."
+
+#: views/moove/admin/settings/help.php:276
+msgid "Here you can find the default hooks & custom scripts available in our plugin."
+msgstr "Εδώ μπορείτε να βρείτε τα προεπιλεγμένα hooks και τα προσαρμοσμένα script που είναι διαθέσιμα στο πρόσθετό μας."
+
+#: views/moove/admin/settings/help.php:267
+msgid "THIS PLUGIN DOES NOT MAKE YOUR WEBSITE COMPLIANT. YOU ARE RESPONSIBLE FOR ENSURING THAT ALL LEGAL REQUIREMENTS ARE MET ON YOUR WEBSITE."
+msgstr "Αυτό το πρόσθετο δεν καθιστά τον ιστότοπό σας αυτόματα συμβατό. Είστε αποκλειστικά υπεύθυνοι να διασφαλίσετε ότι ο ιστότοπός σας πληροί όλες τις νομικές απαιτήσεις."
+
+#: views/moove/admin/settings/help.php:266
+msgid "This plugin is just a template and needs to be setup correctly in order to work properly."
+msgstr "Αυτό το πρόσθετο είναι απλώς ένα πρότυπο και πρέπει να ρυθμιστεί σωστά για να λειτουργήσει σωστά."
+
+#: views/moove/admin/settings/help.php:263
+msgid "Does this plugin guarantee that I will comply with data protection laws?"
+msgstr "Αυτό το πρόσθετο εγγυάται ότι θα συμμορφωθώ με τους νόμους περί προστασίας δεδομένων;"
+
+#: views/moove/admin/settings/help.php:255
+msgid "Consent Log here"
+msgstr "Καταγραφή Συγκατάθεσης εδώ"
+
+#: views/moove/admin/settings/help.php:255
+msgid "You can see the preview of"
+msgstr "Μπορείτε να δείτε την προεπισκόπηση του"
+
+#: views/moove/admin/settings/help.php:254
+msgid "The data stored includes: Consent Date, User IP address, Cookies Accepted and User Email (for logged-in users)."
+msgstr "Τα αποθηκευμένα δεδομένα περιλαμβάνουν: Ημερομηνία συγκατάθεσης, διεύθυνση IP χρήστη, αποδεκτά cookies και email Χρήστη (για συνδεδεμένους χρήστες)."
+
+#: views/moove/admin/settings/help.php:253
+msgid "The Consent Log features stores all data in your WordPress website database."
+msgstr "Οι λειτουργίες Καταγραφής Συγκατάθεσης αποθηκεύουν όλα τα δεδομένα στη βάση δεδομένων του ιστότοπού WordPress σας."
+
+#: views/moove/admin/settings/help.php:250
+msgid "What information does the Consent Log store and where is it stored?"
+msgstr "Ποιες πληροφορίες αποθηκεύει η Καταγραφή Συγκατάθεσης και πού αποθηκεύονται;"
+
+#: views/moove/admin/settings/help.php:229
+msgid "Yes. Once you setup the plugin, you should delete the scripts you uploaded to the plugin from your website’s code to ensure that your scripts are not loaded twice."
+msgstr "Ναι. Αφού ρυθμίσετε το πρόσθετο, θα πρέπει να διαγράψετε τα scripts που ανεβάσατε στο πρόσθετο από τον κώδικα του ιστότοπού σας για να διασφαλίσετε ότι τα scripts σας δεν φορτώνονται δύο φορές."
+
+#: views/moove/admin/settings/help.php:226
+msgid "Once I add scripts to this plugin, should I delete them from the website’s code?"
+msgstr "Μόλις προσθέσω scripts σε αυτό το πρόσθετο, θα πρέπει να τα διαγράψω από τον κώδικα του ιστότοπου;"
+
+#: views/moove/admin/settings/help.php:218
+msgid "This plugin only restricts cookies for scripts that you have setup in the Plugin Settings. If you want to block all cookies, you have to add all scripts that use cookies into the Settings of this plugin."
+msgstr "Αυτό το πρόσθετο περιορίζει τα cookies μόνο για τα scripts που έχετε ρυθμίσει στις Ρυθμίσεις Πρόσθετου. Αν θέλετε να μπλοκάρετε όλα τα cookies, πρέπει να προσθέσετε όλα τα scripts που χρησιμοποιούν cookies μέσα στις Ρυθμίσεις του πρόσθετου."
+
+#: views/moove/admin/settings/help.php:215
+msgid "Does this plugin block all cookies?"
+msgstr "Αυτό το πρόσθετο μπλοκάρει όλα τα cookies;"
+
+#: views/moove/admin/settings/help.php:193
+msgid "pre-defined advanced hooks here"
+msgstr "προκαθορισμένων hooks για προχωρημένους εδώ"
+
+#: views/moove/admin/settings/help.php:193
+msgid "You can also find the list of all"
+msgstr "Μπορείτε επίσης να βρείτε την λίστα όλων των"
+
+#: views/moove/admin/settings/help.php:192
+msgid "You will find the list of popular hooks here:"
+msgstr "Θα βρείτε τη λίστα με τα δημοφιλή hooks εδώ:"
+
+#: views/moove/admin/settings/help.php:192
+msgid "Yes, we have implemented hooks that allow you to implement custom code snippets."
+msgstr "Ναι, έχουμε υλοποιήσει hooks που σας επιτρέπουν να προσθέσετε προσαρμοσμένο κώδικα."
+
+#: views/moove/admin/settings/help.php:189
+msgid "Can I use custom code or hooks with your plugin?"
+msgstr "Μπορώ να χρησιμοποιήσω προσαρμοσμένο κώδικα ή hooks με το πρόσθετό σας;"
+
+#: views/moove/admin/settings/help.php:179
+msgid "We are not storing any sensitive or personal data there, the cookie file contains only one of the following strings:"
+msgstr "Δεν αποθηκεύουμε ευαίσθητα ή προσωπικά δεδομένα εκεί, το αρχείο cookie περιέχει μόνο ένα από τα ακόλουθα strings:"
+
+#: views/moove/admin/settings/help.php:178
+msgid "For example, we use Strictly Necessary Cookies to save information about which cookies the user consented to."
+msgstr "Για παράδειγμα, χρησιμοποιούμε Απολύτως απαραίτητα cookies για να αποθηκεύσουμε πληροφορίες σχετικά με τα cookies στα οποία ο χρήστης έδωσε τη συγκατάθεσή του."
+
+#: views/moove/admin/settings/help.php:177
+msgid "The \"Strictly Necessary Cookies\", sometimes called Essential Cookies, are cookies that are necessary for your site to function properly."
+msgstr "Τα \"Απολύτως απαραίτητα cookies\",  που μερικές φορές αποκαλούνται και απαραίτητα cookies, είναι cookies που είναι απαραίτητα για τη σωστή λειτουργία του ιστότοπού σας."
+
+#: views/moove/admin/settings/help.php:153
+msgid "To view the scripts you can use the Developer Console in Chrome browser (Inspect Element feature)."
+msgstr "Για να δείτε τα scripts μπορείτε να χρησιμοποιήσετε την Κονσόλα προγραμματιστή στο πρόγραμμα περιήγησης Chrome (λειτουργία Inspect Element)."
+
+#: views/moove/admin/settings/help.php:152
+msgid "Our plugin loads scripts using JavaScript which is why you cannot find them when viewing the page source code."
+msgstr "Το πρόσθετό μας φορτώνει script χρησιμοποιώντας JavaScript, γι' αυτό και δεν μπορείτε να τα βρείτε κατά την προβολή του πηγαίου κώδικα της σελίδας."
+
+#: views/moove/admin/settings/help.php:149
+msgid "The scripts added to the plugin settings are not visible in the page source code."
+msgstr "Τα scripts που προστίθενται στις ρυθμίσεις του πρόσθετου δεν είναι ορατά στον πηγαίο κώδικα της σελίδας."
+
+#: views/moove/admin/settings/help.php:124
+msgid "Absolute Path"
+msgstr "Απόλυτη διαδρομή"
+
+#: views/moove/admin/settings/help.php:122
+msgid "Relative Path (RECOMMENDED)"
+msgstr "Σχετική διαδρομή (Προτεινόμενη)"
+
+#: views/moove/admin/settings/help.php:121
+msgid "You can use the following to display the Cookie Settings Screen window:"
+msgstr "Μπορείτε να χρησιμοποιήσετε τους παρακάτω τρόπους για να εμφανίσετε το παράθυρο με τις ρυθμίσεις των cookies:"
+
+#: views/moove/admin/settings/help.php:23
+msgid "Premium Shortcodes"
+msgstr "Premium shortcodes"
+
+#: views/moove/admin/settings/help.php:22
+msgid "Premium Hooks"
+msgstr "Premium hooks"
+
+#: views/moove/admin/settings/help.php:21
+#: views/moove/admin/settings/help.php:192
+msgid "Default Hooks"
+msgstr "Προεπιλεγμένα hooks"
+
+#: views/moove/admin/settings/help.php:20
+msgid "FAQ"
+msgstr "Συχνές Ερωτήσεις"
+
+#: views/moove/admin/settings/geo-location.php:15
+msgid "Geo Location Setup"
+msgstr "Ρύθμιση γεωεντοπισμού"
+
+#: views/moove/admin/settings/floating-button.php:148
+msgid "Button - Font Colour"
+msgstr "Κουμπί - Χρώμα γραμμάτων"
+
+#: views/moove/admin/settings/floating-button.php:133
+msgid "Button - Hover Background Colour"
+msgstr "Κουμπί - Χρώμα υπόβαθρο αιώρησης"
+
+#: views/moove/admin/settings/floating-button.php:120
+msgid "Button - Background Colour"
+msgstr "Χρώμα φόντου κουμπιού"
+
+#: views/moove/admin/settings/floating-button.php:112
+msgid "Hidden"
+msgstr "Κρυφό"
+
+#: views/moove/admin/settings/floating-button.php:112
+msgid "Visible"
+msgstr "Ορατό"
+
+#: views/moove/admin/settings/floating-button.php:106
+msgid "Visibility on mobile"
+msgstr "Ορατότητα σε κινητά"
+
+#: views/moove/admin/settings/floating-button.php:97
+msgid "You can align the position eg.: <strong>top: 20px; right: 20px;</strong>"
+msgstr "Μπορείτε να ευθυγραμμίσετε τη θέση π.χ.: <strong>top: 20px; right: 20px;</strong>"
+
+#: views/moove/admin/settings/floating-button.php:91
+msgid "Button - Custom Position (CSS)"
+msgstr "Κουμπί - Προσαρμοσμένη θέση (CSS)"
+
+#: views/moove/admin/settings/floating-button.php:82
+msgid "Button - Hover Label"
+msgstr "Κουμπί - Λεζάντα Hover"
+
+#: views/moove/admin/settings/advanced-cookies.php:211
+#: views/moove/admin/settings/third-party-cookies.php:236
+msgid "For example, you can use it for Google Analytics script or any other 3rd party code snippets."
+msgstr "Για παράδειγμα, μπορείτε να το χρησιμοποιήσετε για το Google Analytics script ή οποιοδήποτε άλλο 3rd party απόσπασμα κώδικα."
+
+#: views/moove/admin/settings/advanced-cookies.php:200
+#: views/moove/admin/settings/third-party-cookies.php:224
+msgid "Add scripts that you would like to be inserted to the FOOTER section of your pages when user accepts these cookies"
+msgstr "Προσθέστε script που θα θέλατε να εισάγονται στην ενότητα FOOTER των σελίδων σας όταν ο χρήστης αποδέχεται αυτά τα cookies"
+
+#: views/moove/admin/settings/advanced-cookies.php:180
+#: views/moove/admin/settings/third-party-cookies.php:202
+msgid "Add scripts that you would like to be inserted to the BODY section of your pages when user accepts these cookies"
+msgstr "Προσθέστε script που θα θέλατε να εισαχθούν στην ενότητα BODY των σελίδων σας όταν ο χρήστης αποδέχεται αυτά τα cookies"
+
+#: views/moove/admin/settings/advanced-cookies.php:171
+#: views/moove/admin/settings/advanced-cookies.php:191
+#: views/moove/admin/settings/third-party-cookies.php:192
+#: views/moove/admin/settings/third-party-cookies.php:214
+msgid "For example, you can use it for Google Tag Manager script or any other 3rd party code snippets."
+msgstr "Για παράδειγμα, μπορείτε να το χρησιμοποιήσετε για το Google Tag Manager script ή οποιοδήποτε άλλο 3rd party απόσπασμα κώδικα."
+
+#: views/moove/admin/settings/advanced-cookies.php:160
+#: views/moove/admin/settings/third-party-cookies.php:180
+msgid "Add scripts that you would like to be inserted to the HEAD section of your pages when user accepts these cookies"
+msgstr "Προσθέστε script που θα θέλατε να εισάγονται στην ενότητα HEAD των σελίδων σας όταν ο χρήστης αποδέχεται αυτά τα cookies"
+
+#: views/moove/admin/settings/advanced-cookies.php:151
+#: views/moove/admin/settings/third-party-cookies.php:170
+msgid "Footer Section"
+msgstr "Περιοχή υποσέλιδου"
+
+#: views/moove/admin/settings/advanced-cookies.php:148
+#: views/moove/admin/settings/third-party-cookies.php:165
+msgid "Body Section"
+msgstr "Περιοχή κυρίως μέρους"
+
+#: views/moove/admin/settings/advanced-cookies.php:145
+#: views/moove/admin/settings/third-party-cookies.php:160
+msgid "Head Section"
+msgstr "Ενότητα Head"
+
+#: views/moove/admin/settings/advanced-cookies.php:141
+#: views/moove/admin/settings/third-party-cookies.php:154
+msgid "Please fill out at least one of these fields:"
+msgstr "Παρακαλούμε συμπληρώστε τουλάχιστον ένα από αυτά τα πεδία:"
+
+#: views/moove/admin/settings/advanced-cookies.php:140
+#: views/moove/admin/settings/third-party-cookies.php:153
+msgid "Paste your codes and snippets below. They will be added to all pages if user enables these cookies."
+msgstr "Επικολλήστε τα αποσπάσματα κώδικά σας παρακάτω. Θα προστεθούν σε όλες τις σελίδες αν ο χρήστης ενεργοποιήσει αυτά τα cookies."
+
+#: views/moove/admin/settings/advanced-cookies.php:91
+#: views/moove/admin/settings/third-party-cookies.php:102
+msgid "by default cookies should be"
+msgstr "από προεπιλογή τα cookies θα πρέπει να είναι"
+
+#: views/moove/admin/settings/advanced-cookies.php:90
+#: views/moove/admin/settings/third-party-cookies.php:101
+msgid "Default status"
+msgstr "Προεπιλεγμένη κατάσταση"
+
+#: views/moove/admin/settings/accept-on-scroll.php:15
+msgid "Accept Cookies on Scroll / Hide timer"
+msgstr "Αποδοχή Cookies κατά την κύλιση / Απόκρυψη χρονοδιακόπτη"
+
+#: views/moove/admin/settings/settings-page.php:87
+msgid "General Settings"
+msgstr "Γενικές ρυθμίσεις"
+
+#: views/moove/admin/settings/floating-button.php:61
+#: views/moove/admin/settings/floating-button.php:68
+#: views/moove/admin/settings/settings-page.php:84
+msgid "Floating Button"
+msgstr "Αιωρούμενo κουμπί"
+
+#: views/moove/admin/settings/settings-page.php:70
+msgid "dismiss notice"
+msgstr "απόρριψη ειδοποίησης"
+
+#. translators: %s: version number
+#: views/moove/admin/settings/settings-page.php:68
+msgid "You are currently editing: %s version"
+msgstr "Αυτή τη στιγμή τροποποιείτε την έκδοση: %s"
+
+#: views/moove/admin/settings/settings-page.php:66
+msgid "We have detected that you have a multi-language setup."
+msgstr "Εντοπίσαμε ότι έχετε πολυγλωσσική εγκατάσταση."
+
+#: views/moove/admin/settings/settings-page.php:39
+msgid "You need to insert the relevant script for the settings to be saved."
+msgstr "Πρέπει να εισαγάγετε το σχετικό script για να αποθηκευτούν οι ρυθμίσεις."
+
+#: views/moove/admin/settings/settings-page.php:31
+#: views/moove/admin/settings/settings-page.php:42
+msgid "Dismiss this notice."
+msgstr "Απορρίψτε την παρούσα ειδοποίηση."
+
+#: views/moove/admin/settings/settings-page.php:29
+msgid "Settings saved."
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν"
+
+#: views/moove/admin/settings/banner-settings.php:402
+msgid "Light"
+msgstr "Φωτεινό"
+
+#: views/moove/admin/settings/banner-settings.php:402
+msgid "Dark"
+msgstr "Σκοτεινό"
+
+#: views/moove/admin/settings/banner-settings.php:397
+msgid "Colour scheme"
+msgstr "Χρωματικό θέμα"
+
+#: views/moove/admin/settings/banner-settings.php:384
+msgid "Bottom"
+msgstr "Κάτω μέρος"
+
+#: views/moove/admin/settings/banner-settings.php:381
+msgid "Top"
+msgstr "Επάνω"
+
+#: views/moove/admin/settings/banner-settings.php:378
+msgid "Cookie Banner position"
+msgstr "Θέση του Cookie banner"
+
+#: views/moove/admin/settings/banner-settings.php:312
+#: views/moove/admin/settings/general-settings.php:294
+msgid "Close button"
+msgstr "Κουμπί κλεισίματος"
+
+#: views/moove/admin/settings/banner-settings.php:294
+msgid "Settings - Button Label"
+msgstr "Ρυθμίσεις - Λεζάντα κουμπιού"
+
+#: views/moove/admin/settings/banner-settings.php:288
+msgid "Settings button opens up the Cookie Settings Screen."
+msgstr "Το κουμπί ρυθμίσεων ανοίγει την οθόνη Ρυθμίσεων Cookie."
+
+#: views/moove/admin/settings/banner-settings.php:275
+msgid "Settings button"
+msgstr "Κουμπί ρυθμίσεων"
+
+#: views/moove/admin/settings/banner-settings.php:257
+msgid "Reject - Button Label"
+msgstr "Απόρριψη - Λεζάντα κουμπιού"
+
+#: views/moove/admin/settings/banner-settings.php:251
+msgid "Reject button allows users to reject all cookies."
+msgstr "Το κουμπί της απόρριψης δίνει τη δυνατότητα στους χρήστες να απορρίψουν όλα τα cookies."
+
+#: views/moove/admin/settings/banner-settings.php:237
+msgid "Reject button"
+msgstr "Κουμπί απόρριψης"
+
+#: views/moove/admin/settings/banner-settings.php:219
+msgid "Accept - Button Label"
+msgstr "Αποδοχή - Λεζάντα κουμπιού"
+
+#: views/moove/admin/settings/banner-settings.php:148
+msgid "Cookie Banner Content"
+msgstr "Περιεχόμενο του Cookie banner"
+
+#: views/moove/admin/settings/banner-settings.php:128
+#: views/moove/admin/settings/settings-page.php:81
+msgid "Cookie Banner Settings"
+msgstr "Ρυθμίσεις cookie banner"
+
+#: views/moove/admin/settings/export-import.php:15
+msgid "Export / Import Settings"
+msgstr "Εξαγωγή / εισαγωγή ρυθμίσεων"
+
+#: views/moove/admin/settings/advanced-cookies.php:83
+#: views/moove/admin/settings/banner-settings.php:141
+#: views/moove/admin/settings/cookie-policy.php:74
+#: views/moove/admin/settings/third-party-cookies.php:95
+msgid "Off"
+msgstr "Ανενεργό"
+
+#: views/moove/admin/settings/advanced-cookies.php:83
+#: views/moove/admin/settings/banner-settings.php:141
+#: views/moove/admin/settings/cookie-policy.php:74
+#: views/moove/admin/settings/third-party-cookies.php:95
+msgid "On"
+msgstr "Ενεργό"
+
+#: views/moove/admin/settings/advanced-cookies.php:77
+#: views/moove/admin/settings/banner-settings.php:135
+#: views/moove/admin/settings/cookie-policy.php:67
+#: views/moove/admin/settings/third-party-cookies.php:88
+msgid "Turn"
+msgstr "Κατάσταση"
+
+#: views/moove/admin/settings/branding.php:209
+msgid "Enter your CDN root URL to enable CDN for GDPR Lity library files. The URL can be http, https or protocol-relative"
+msgstr "Εισάγετε τη CDN root URL για να ενεργοποιήσετε το CDN για τα αρχεία της βιβλιοθήκης GDPR Lity. Η διεύθυνση URL μπορεί να είναι http, https ή protocol-relative"
+
+#: views/moove/admin/settings/branding.php:209
+msgid "Optional, leave it empty to use default domain"
+msgstr "Προαιρετικό, αφήστε το κενό για να χρησιμοποιήσετε το προεπιλεγμένο domain"
+
+#: views/moove/admin/settings/branding.php:204
+msgid "CDN Base URL"
+msgstr "CDN Base URL"
+
+#: views/moove/admin/settings/branding.php:187
+msgid "Specify custom font"
+msgstr "Καθορισμός προσαρμοσμένης γραμματοσειράς"
+
+#: views/moove/admin/settings/branding.php:183
+msgid "Inherit font-family from your WordPress theme"
+msgstr "Χρήση γραμματοσειράς από το θέμα εμφάνισης του WordPress"
+
+#: views/moove/admin/settings/branding.php:179
+msgid "Default"
+msgstr "Προεπιλογή"
+
+#: views/moove/admin/settings/branding.php:176
+msgid "Choose font"
+msgstr "Επιλογή γραμματοσειράς"
+
+#: views/moove/admin/settings/branding.php:166
+msgid "Squared corners"
+msgstr "Τετραγωνισμένες γωνίες"
+
+#: views/moove/admin/settings/branding.php:160
+msgid "Rounded corners"
+msgstr "Στρογγυλεμένες γωνίες"
+
+#: views/moove/admin/settings/branding.php:155
+msgid "Button Style"
+msgstr "Στυλ κουμπιού"
+
+#: views/moove/admin/settings/branding.php:147
+msgid "Right"
+msgstr "Δεξιά"
+
+#: views/moove/admin/settings/branding.php:145
+msgid "Center"
+msgstr "Κέντρο"
+
+#: views/moove/admin/settings/branding.php:142
+msgid "Left"
+msgstr "Αριστερά"
+
+#: views/moove/admin/settings/branding.php:139
+msgid "Logo Position"
+msgstr "Θέση λογότυπου"
+
+#: views/moove/admin/settings/branding.php:91
+msgid "pixels"
+msgstr "pixels"
+
+#: views/moove/admin/settings/branding.php:91
+msgid "Recommended size:"
+msgstr "Προτεινόμενο μέγεθος:"
+
+#: views/moove/admin/settings/branding.php:90
+msgid "Cookie Settings Logo"
+msgstr "Λογότυπο ρυθμίσων cookie"
+
+#: views/moove/admin/settings/branding.php:83
+#: views/moove/admin/settings/floating-button.php:126
+#: views/moove/admin/settings/floating-button.php:141
+#: views/moove/admin/settings/floating-button.php:154
+msgid "Select"
+msgstr "Επιλογή"
+
+#: views/moove/admin/settings/branding.php:70
+#: views/moove/admin/settings/settings-page.php:78
+msgid "Branding"
+msgstr "Branding"
+
+#: views/moove/admin/settings/settings-page.php:129
+#: views/moove/admin/settings/video-tutorial.php:15
+msgid "Video Tutorial"
+msgstr "Βίντεο εκμάθησης"
+
+#: views/moove/admin/settings/strictly-necessary-cookies.php:191
+msgid "Disable the Full Screen Mode"
+msgstr "Απενεργοποίηση της λειτουργίας πλήρους οθόνης"
+
+#: views/moove/admin/settings/strictly-necessary-cookies.php:187
+msgid "Please note that Full Screen Mode feature requires the Strictly Necessary Cookies to be always enabled (otherwise the Cookie Banner would be displayed at every visit)."
+msgstr "Σημειώστε ότι η λειτουργία πλήρους οθόνης απαιτεί να είναι πάντα ενεργοποιημένα τα Απολύτως απαραίτητα cookies (διαφορετικά το Cookie Banner θα εμφανίζετε σε κάθε επίσκεψη)."
+
+#: views/moove/admin/settings/strictly-necessary-cookies.php:185
+msgid "This option is not available in Full Screen Mode"
+msgstr "Αυτή η επιλογή δεν είναι διαθέσιμη στη λειτουργία πλήρους οθόνης"
+
+#: views/moove/admin/settings/strictly-necessary-cookies.php:162
+msgid "This warning message will be displayed if the Strictly necessary cookies are not enabled and the user try to enable the \"Third Party\" or \"Additional cookies\""
+msgstr "Αυτή η προειδοποίηση θα εμφανιστεί εάν τα απολύτως απαραίτητα cookies δεν είναι ενεργοποιημένα και ο χρήστης προσπαθήσει να ενεργοποιήσει τα \"3rd Party\" ή τα \"Πρόσθετα\" cookies."
+
+#: views/moove/admin/settings/strictly-necessary-cookies.php:147
+msgid "Strictly necessary required message."
+msgstr "Μήνυμα απολύτως απαραίτητων cookies."
+
+#: views/moove/admin/settings/strictly-necessary-cookies.php:140
+msgid "This warning message will be displayed when user disables the Strictly Necessary Cookies."
+msgstr "Αυτή η προειδοποίηση θα εμφανιστεί όταν ο χρήστης απενεργοποιήσει τα Απολύτως απαραίτητα cookies."
+
+#: views/moove/admin/settings/strictly-necessary-cookies.php:126
+msgid "Tab Warning Message"
+msgstr "Προειδοποιητικό μήνυμα καρτέλας"
+
+#: views/moove/admin/settings/strictly-necessary-cookies.php:85
+msgid "Always enabled and content hidden from user"
+msgstr "Πάντα ενεργοποιημένα και το περιεχόμενο κρυμμένο από τον χρήστη"
+
+#: views/moove/admin/settings/strictly-necessary-cookies.php:83
+msgid "Always enabled (user cannot disable it but can see the content)"
+msgstr "Πάντα ενεργοποιημένα (ο χρήστης δεν μπορεί να τα ενεργοποιήσει αλλά μπορεί να δει το περιεχόμενο της καρτέλας)"
+
+#: views/moove/admin/settings/strictly-necessary-cookies.php:81
+msgid "Optional (user selects their preferences)"
+msgstr "Προαιρετικά (ο χρήστης επιλέγει τις προτιμήσεις του)"
+
+#: views/moove/admin/settings/strictly-necessary-cookies.php:77
+msgid "Choose functionality"
+msgstr "Επιλέξτε λειτουργία"
+
+#: views/moove/admin/settings/advanced-cookies.php:231
+#: views/moove/admin/settings/banner-settings.php:414
+#: views/moove/admin/settings/branding.php:220
+#: views/moove/admin/settings/cookie-policy.php:117
+#: views/moove/admin/settings/floating-button.php:167
+#: views/moove/admin/settings/general-settings.php:417
+#: views/moove/admin/settings/privacy-overview.php:94
+#: views/moove/admin/settings/strictly-necessary-cookies.php:175
+#: views/moove/admin/settings/third-party-cookies.php:257
+msgid "Save changes"
+msgstr "Αποθήκευση αλλαγών"
+
+#: views/moove/admin/settings/advanced-cookies.php:115
+#: views/moove/admin/settings/cookie-policy.php:90
+#: views/moove/admin/settings/privacy-overview.php:69
+#: views/moove/admin/settings/strictly-necessary-cookies.php:102
+#: views/moove/admin/settings/third-party-cookies.php:128
+msgid "Tab Content"
+msgstr "Περιεχόμενο καρτέλας"
+
+#: views/moove/admin/settings/advanced-cookies.php:106
+#: views/moove/admin/settings/cookie-policy.php:81
+#: views/moove/admin/settings/privacy-overview.php:60
+#: views/moove/admin/settings/strictly-necessary-cookies.php:91
+#: views/moove/admin/settings/third-party-cookies.php:117
+msgid "Tab Title"
+msgstr "Τίτλος καρτέλας"
+
+#: views/moove/admin/settings/licence.php:116
+msgid "Deactivate Licence"
+msgstr "Απενεργοποίηση άδειας χρήσης"
+
+#: views/moove/admin/settings/licence.php:114
+msgid "This action will remove all of the premium features from your website."
+msgstr "Αυτή η ενέργεια θα αφαιρέσει όλα τα premium χαρακτηριστικά από τον ιστότοπό σας."
+
+#: views/moove/admin/settings/licence.php:114
+msgid "Please confirm that you would like to de-activate this licence."
+msgstr "Επιβεβαιώστε ότι θέλετε να απενεργοποιήσετε αυτήν την άδεια."
+
+#: views/moove/admin/settings/licence.php:15
+#: views/moove/admin/settings/settings-page.php:139
+msgid "Licence Manager"
+msgstr "Διαχείριση αδειών χρήσης"
+
+#: class-moove-gdpr-content.php:540
+msgid "There is a new version of GDPR Cookie Compliance - Premium Add-On."
+msgstr "Υπάρχει μία νέα έκδοση του GDPR Cookie Compliance - Premium Add-On."
+
+#: class-moove-gdpr-content.php:428
+msgid "Enter licence key:"
+msgstr "Εισαγάγετε το κλειδί άδειας χρήσης:"
+
+#: class-moove-gdpr-content.php:415
+msgid "Enter your licence key:"
+msgstr "Εισαγάγετε το κλειδί άδειας χρήσης:"
+
+#: class-moove-gdpr-content.php:363
+msgid "You can buy more licences from our [store_link]online store[/store_link]."
+msgstr "Μπορείτε να αγοράσετε περισσότερες άδειες χρήσης από το [store_link]διαδικτυακό κατάστημά[/store_link] μας."
+
+#: class-moove-gdpr-content.php:360
+msgid "Buy more licences"
+msgstr "Αγορά περισσότερων αδειών χρήσης"
+
+#: class-moove-gdpr-content.php:345
+msgid "Enter new licence key"
+msgstr "Εισαγάγετε το νέο κλειδί άδειας χρήσης"
+
+#: class-moove-gdpr-content.php:340
+msgid "Your licence has expired. You will not receive the latest updates and features unless you renew your licence."
+msgstr "Η άδειά σας έχει λήξει. Δεν θα λαμβάνετε τις πιο πρόσφατες ενημερώσεις και τα νέα χαρακτηριστικά εάν δεν ανανεώσετε την άδειά σας."
+
+#: class-moove-gdpr-content.php:339
+msgid "Renew your licence"
+msgstr "Ανανέωση της άδειας χρήσης"
+
+#: class-moove-gdpr-content.php:310 class-moove-gdpr-content.php:400
+msgid "You can buy licences from our [store_link]online store[/store_link]."
+msgstr "Μπορείτε να αγοράσετε άδειες χρήσης από το [store_link]διαδικτυακό κατάστημά[/store_link] μας."
+
+#: class-moove-gdpr-content.php:307 class-moove-gdpr-content.php:397
+msgid "Buy licence"
+msgstr "Αγορά άδειας χρήσης"
+
+#: class-moove-gdpr-content.php:290 class-moove-gdpr-content.php:297
+#: class-moove-gdpr-content.php:303
+msgid "Activate"
+msgstr "Ενεργοποίηση"
+
+#: class-moove-gdpr-content.php:180
+msgid "Please enable Strictly Necessary Cookies first so that we can save your preferences!"
+msgstr "Παρακαλούμε ενεργοποιήστε πρώτα τα απολύτως απαραίτητα cookies ώστε να μπορέσουμε να αποθηκεύσουμε τις προτιμήσεις σας!"
+
+#: class-moove-gdpr-content.php:148
+msgid "To unlock, please enable the cookies!"
+msgstr "Για να ξεκλειδώσετε, ενεργοποιήστε τα cookies!"
+
+#: class-moove-gdpr-content.php:147
+msgid "Sorry,<br /> the content is blocked!"
+msgstr "Συγγνώμη,<br /> το περιεχόμενο είναι μπλοκαρισμένο!"
+
+#: class-moove-gdpr-content.php:134
+msgid "More information about our [privacy_link]Cookie Policy[/privacy_link]"
+msgstr "Περισσότερες πληροφορίες σχετικά με την [privacy_link]Πολιτική Cookie[/privacy_link]"
+
+#: class-moove-gdpr-content.php:120
+msgid "Keeping this cookie enabled helps us to improve our website."
+msgstr "Η διατήρηση αυτού του cookie μας επιτρέπει να βελτιώσουμε τον ιστότοπό μας."
+
+#: class-moove-gdpr-content.php:119
+msgid "This website uses Google Analytics to collect anonymous information such as the number of visitors to the site, and the most popular pages."
+msgstr "Αυτός ο ιστότοπος χρησιμοποιεί το Google Analytics για τη συλλογή ανώνυμων πληροφοριών, όπως τον αριθμό επισκεπτών στον ιστότοπο και τις πιο δημοφιλείς σελίδες."
+
+#: class-moove-gdpr-content.php:109
+msgid "This website uses the following additional cookies:</p><p>(List the cookies that you are using on the website here.)"
+msgstr "Αυτός ο ιστότοπος χρησιμοποιεί τα ακόλουθα πρόσθετα cookies: </p> <p> (Αναφέρετε εδώ τα cookie που χρησιμοποιείτε στον ιστότοπο.)"
+
+#: class-moove-gdpr-content.php:98
+msgid "If you disable this cookie, we will not be able to save your preferences. This means that every time you visit this website you will need to enable or disable cookies again."
+msgstr "Εάν απενεργοποιήσετε αυτό το cookie, δεν θα μπορέσουμε να αποθηκεύσουμε τις προτιμήσεις σας. Αυτό σημαίνει ότι κάθε φορά που επισκέπτεστε αυτόν τον ιστότοπο θα χρειαστεί να ενεργοποιήσετε ή να απενεργοποιήσετε ξανά τα cookies."
+
+#: class-moove-gdpr-content.php:82
+msgid "Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings."
+msgstr "Το αυστηρώς απαραίτητο cookie θα πρέπει να είναι ενεργοποιημένο ανά πάσα στιγμή, ώστε να μπορέσουμε να αποθηκεύσουμε τις προτιμήσεις σας για ρυθμίσεις cookie."
+
+#: class-moove-gdpr-content.php:37
+msgid "This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful."
+msgstr "Αυτός ο ιστότοπος χρησιμοποιεί cookies για να σας παρέχουμε την καλύτερη δυνατή εμπειρία χρήστη. Οι πληροφορίες των cookies αποθηκεύονται στο πρόγραμμα περιήγησής σας και εκτελούν λειτουργίες όπως η αναγνώρισή σας όταν επιστρέφετε στον ιστότοπό μας και βοηθώντας την ομάδα μας να καταλάβει ποια τμήματα του ιστότοπου μας θεωρείτε πιο ενδιαφέροντα και χρήσιμα."
+
+#: class-moove-gdpr-actions.php:772
+#: views/moove/admin/settings/renew-consent.php:15
+msgid "Renew Consent"
+msgstr "Ανανέωση συγκατάθεσης"
+
+#: class-moove-gdpr-actions.php:768
+#: views/moove/admin/settings/consent-log.php:15
+msgid "Consent Log"
+msgstr "Καταγραφή Συγκατάθεσης"
+
+#: class-moove-gdpr-actions.php:764
+#: views/moove/admin/settings/cookie-declaration.php:15
+msgid "Cookie Declaration"
+msgstr "Δήλωση Cookie"
+
+#: class-moove-gdpr-actions.php:760
+#: views/moove/admin/settings/iframe-blocker.php:15
+msgid "Iframe Blocker"
+msgstr "Αποκλεισμός Iframe"
+
+#: class-moove-gdpr-actions.php:756
+msgid "Hide Cookie Banner"
+msgstr "Απόκρυψη του Cookie banner"
+
+#: class-moove-gdpr-actions.php:752
+msgid "Geo Location"
+msgstr "Γεωεντοπισμός"
+
+#: class-moove-gdpr-actions.php:748
+msgid "Analytics"
+msgstr "Στατιστικά"
+
+#: class-moove-gdpr-actions.php:744
+msgid "Full-screen / Cookiewall"
+msgstr "Πλήρης οθόνη / Cookiewall"
+
+#: class-moove-gdpr-actions.php:740
+msgid "Accept on Scroll / Hide timer"
+msgstr "Αποδοχή κατά την Κύλιση / Απόκρυψη χρονοδιακόπτη"
+
+#: class-moove-gdpr-actions.php:736
+#: views/moove/admin/settings/multisite-settings.php:15
+msgid "Multisite Settings"
+msgstr "Ρυθμίσεις Multisite"
+
+#: class-moove-gdpr-actions.php:732
+msgid "Export/Import Settings"
+msgstr "Ρυθμίσεις Εξαγωγής/Εισαγωγής"
+
+#. Plugin Name of the plugin
+#: class-moove-gdpr-actions.php:719
+msgid "GDPR Cookie Compliance"
+msgstr "GDPR Cookie Compliance"
+
+#: class-moove-gdpr-actions.php:401 class-moove-gdpr-actions.php:402
+#: class-moove-gdpr-actions.php:419 class-moove-gdpr-actions.php:420
+msgid "Close GDPR Cookie Banner"
+msgstr "Κλείσιμο του Cookie banner για το GDPR"
+
+#: class-moove-gdpr-actions.php:372
+#: views/moove/admin/settings/banner-settings.php:260
+msgid "Reject"
+msgstr "Απόρριψη"
+
+#: gdpr-functions.php:131
+msgid "Buy Premium"
+msgstr "Aγοράστε το Premium"
+
+#: gdpr-functions.php:124 views/moove/admin/settings/settings-page.php:134
+#: views/moove/admin/settings/support.php:15
+msgid "Support"
+msgstr "Υποστήριξη"
+
+#: class-moove-gdpr-actions.php:383 gdpr-functions.php:118
+#: views/moove/admin/settings/banner-settings.php:297
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: moove-gdpr.php:94
+msgid "Rate"
+msgstr "Αξιολόγηση"
+
+#: class-gdpr-modules.php:389
+msgid "Save Settings"
+msgstr "Αποθήκευση Ρυθμίσεων"
+
+#: class-gdpr-modules.php:392
+#: views/moove/admin/settings/general-settings.php:248
+msgid "Enable All"
+msgstr "Ενεργοποίηση όλων"
+
+#: class-gdpr-modules.php:368 class-gdpr-modules.php:433
+#: views/moove/admin/settings/cookie-policy.php:57
+#: views/moove/admin/settings/settings-page.php:116
+msgid "Cookie Policy"
+msgstr "Πολιτική Cookies"
+
+#: class-gdpr-modules.php:311 class-gdpr-modules.php:425
+#: views/moove/admin/settings/settings-page.php:103
+#: views/moove/admin/settings/third-party-cookies.php:77
+msgid "3rd Party Cookies"
+msgstr "3rd Party Cookies"
+
+#: class-gdpr-modules.php:283 class-gdpr-modules.php:429
+#: views/moove/admin/settings/advanced-cookies.php:67
+#: views/moove/admin/settings/settings-page.php:110
+msgid "Additional Cookies"
+msgstr "Πρόσθετα cookies"
+
+#: class-gdpr-modules.php:265 class-gdpr-modules.php:295
+#: class-gdpr-modules.php:323
+#: views/moove/admin/settings/advanced-cookies.php:98
+#: views/moove/admin/settings/banner-settings.php:208
+#: views/moove/admin/settings/banner-settings.php:243
+#: views/moove/admin/settings/banner-settings.php:281
+#: views/moove/admin/settings/banner-settings.php:318
+#: views/moove/admin/settings/floating-button.php:74
+#: views/moove/admin/settings/general-settings.php:207
+#: views/moove/admin/settings/general-settings.php:238
+#: views/moove/admin/settings/general-settings.php:269
+#: views/moove/admin/settings/general-settings.php:300
+#: views/moove/admin/settings/general-settings.php:371
+#: views/moove/admin/settings/third-party-cookies.php:109
+msgid "Disabled"
+msgstr "Απενεργοποιημένο"
+
+#: class-gdpr-modules.php:264 class-gdpr-modules.php:294
+#: class-gdpr-modules.php:322
+#: views/moove/admin/settings/advanced-cookies.php:98
+#: views/moove/admin/settings/banner-settings.php:208
+#: views/moove/admin/settings/banner-settings.php:243
+#: views/moove/admin/settings/banner-settings.php:281
+#: views/moove/admin/settings/banner-settings.php:318
+#: views/moove/admin/settings/floating-button.php:74
+#: views/moove/admin/settings/general-settings.php:207
+#: views/moove/admin/settings/general-settings.php:238
+#: views/moove/admin/settings/general-settings.php:269
+#: views/moove/admin/settings/general-settings.php:300
+#: views/moove/admin/settings/general-settings.php:368
+#: views/moove/admin/settings/third-party-cookies.php:109
+msgid "Enabled"
+msgstr "Ενεργοποιημένο"
+
+#: class-gdpr-modules.php:253 class-gdpr-modules.php:421
+#: views/moove/admin/settings/settings-page.php:96
+#: views/moove/admin/settings/strictly-necessary-cookies.php:67
+msgid "Strictly Necessary Cookies"
+msgstr "Απολύτως απαραίτητα cookies"
+
+#: class-gdpr-modules.php:178 class-moove-gdpr-content.php:150
+#: views/moove/admin/settings/banner-settings.php:222
+msgid "Accept"
+msgstr "Αποδοχή"
+
+#: class-gdpr-modules.php:93 class-gdpr-modules.php:231
+#: class-gdpr-modules.php:417
+#: views/moove/admin/settings/privacy-overview.php:49
+#: views/moove/admin/settings/settings-page.php:90
+msgid "Privacy Overview"
+msgstr "Επισκόπηση απορρήτου"
+
+#: class-gdpr-modules.php:81 views/moove/admin/settings/floating-button.php:85
+msgid "Change cookie settings"
+msgstr "Αλλαγή ρυθμίσεων cookie"
+
+#. Author URI of the plugin
+msgid "https://www.mooveagency.com"
+msgstr "https://www.mooveagency.com"
+
+#. Author of the plugin
+msgid "Moove Agency"
+msgstr "Moove Agency"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/gdpr-cookie-compliance/"
+msgstr "https://wordpress.org/plugins/gdpr-cookie-compliance/"

@@ -1,0 +1,880 @@
+# Translation of Plugins - Advanced Database Cleaner - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - Advanced Database Cleaner - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-19 20:32:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - Advanced Database Cleaner - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://www.sigmaplugin.com"
+msgstr "https://www.sigmaplugin.com"
+
+#. Author of the plugin/theme
+msgid "Younes JFR."
+msgstr "Younes JFR."
+
+#. Description of the plugin/theme
+msgid "Clean database by deleting unused data such as 'old revisions', 'old drafts', 'orphan options', etc. Optimize database and more."
+msgstr "'Eski sürümler', 'eski taslaklar', 'kullanılmayan seçenekler' gibi kullanılmayan verileri silerek veritabanınızı temizleyin. Veritabanınızı optimize edin ve daha fazlasını yapın."
+
+#. Plugin URI of the plugin/theme
+msgid "https://sigmaplugin.com/downloads/wordpress-advanced-database-cleaner"
+msgstr "https://sigmaplugin.com/downloads/wordpress-advanced-database-cleaner"
+
+#. Plugin Name of the plugin/theme
+msgid "Advanced Database Cleaner"
+msgstr "Advanced Database Cleaner"
+
+#: includes/sidebar.php:35
+msgid "Developed by:"
+msgstr "Geliştirici:"
+
+#: includes/sidebar.php:28
+msgid "Create a ticket"
+msgstr "Destek talebi oluştur"
+
+#: includes/sidebar.php:24
+msgid "Having issues?"
+msgstr "Problem mi yaşıyorsunuz?"
+
+#: includes/sidebar.php:13
+msgid "Please rate us"
+msgstr "Lütfen bizi değerlendirin"
+
+#: includes/sidebar.php:3
+msgid "By making a donation, you help me supporting this plugin!"
+msgstr "Bağış yaparak eklentinin geliştirilmesi konusunda bana destek olabilirsiniz."
+
+#: includes/premium_page.php:38
+msgid "Buy one time, get lifetime updates!"
+msgstr "Bir kez satın alın, ömür boyu güncellemelerden faydalanın"
+
+#: includes/premium_page.php:36
+msgid "Buy now!"
+msgstr "Şimdi satın al"
+
+#: includes/premium_page.php:29
+msgid "Great support service"
+msgstr "Muhteşem destek servisi"
+
+#: includes/premium_page.php:28
+msgid "No additional fees"
+msgstr "İlave ücret yoktur"
+
+#: includes/premium_page.php:27
+msgid "Get technical support"
+msgstr "Teknik destek al"
+
+#: includes/premium_page.php:26
+msgid "Get lifetime support"
+msgstr "Ömür boyu destek alın"
+
+#: includes/premium_page.php:20
+msgid "We are available to support you!"
+msgstr "Size destek vermek için her zaman hazırız"
+
+#: includes/premium_page.php:19
+msgid "Need support as well ?"
+msgstr "Desteğe mi ihtiyacınız var?"
+
+#: includes/premium_page.php:13
+msgid "Detect orphan cron tasks"
+msgstr "Sahipsiz zamanlanmış görevleri tespit et"
+
+#: includes/premium_page.php:10
+msgid "View items before cleaning"
+msgstr "Temizlemeden önce ögeleri görüntüle"
+
+#: includes/premium_page.php:4
+msgid "Find more advanced features!"
+msgstr "Daha fazla gelişmiş özellik"
+
+#: includes/premium_page.php:3
+msgid "Need more features ?"
+msgstr "Daha fazla mı özellik gerekiyor?"
+
+#: includes/overview_settings.php:135
+msgid "Save settings"
+msgstr "Ayarları kaydet"
+
+#: includes/overview_settings.php:131
+msgid "Reminds you to make a backup of your database"
+msgstr "Veritabanı yedeği oluşturmanız için hatırlatma yapar"
+
+#: includes/overview_settings.php:129
+msgid "Show welcome message"
+msgstr "Hoşgeldin mesajı göster"
+
+#: includes/overview_settings.php:124
+msgid "Displays a menu at the left bar of your WP admin"
+msgstr "WP yönetim panelinde sol menü içerisinde menü görüntüler"
+
+#: includes/overview_settings.php:122
+msgid "Show plugin left menu"
+msgstr "Eklenti sol menüsünü göster"
+
+#: includes/overview_settings.php:117
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: includes/overview_settings.php:110
+msgid "Local time"
+msgstr "Yerel zaman"
+
+#: includes/overview_settings.php:107
+msgid "seconds"
+msgstr "saniye"
+
+#: includes/overview_settings.php:106
+msgid "Script Max timeout"
+msgstr "Betik zaman aşımı"
+
+#: includes/overview_settings.php:102
+msgid "Number of sites"
+msgstr "Site sayısı"
+
+#: includes/overview_settings.php:98
+msgid "WP multisite Enabled ?"
+msgstr "WP çoklu site özelliği aktif"
+
+#: includes/overview_settings.php:94
+msgid "Total cron tasks"
+msgstr "Toplam zamanlanmış görev"
+
+#: includes/overview_settings.php:90
+msgid "Total options"
+msgstr "Toplam seçenek"
+
+#: includes/overview_settings.php:86
+msgid "Tables to optimize"
+msgstr "Optimize edilecek tablolar"
+
+#: includes/overview_settings.php:82
+msgid "Total tables"
+msgstr "Toplam tablo"
+
+#: includes/overview_settings.php:78
+msgid "Total unused data"
+msgstr "Toplam kullanılmayan veri"
+
+#: includes/overview_settings.php:74
+msgid "Database size"
+msgstr "Veritabanı boyutu"
+
+#: includes/overview_settings.php:70
+msgid "WP Version"
+msgstr "WP sürümü"
+
+#: includes/overview_settings.php:67
+msgid "Overview"
+msgstr "Genel bakış"
+
+#: includes/overview_settings.php:61
+msgid "Settings saved successfully!"
+msgstr "Ayarlar başarıyla kaydedildi"
+
+#: includes/overview_settings.php:54
+msgid "No"
+msgstr "Hayır"
+
+#: includes/overview_settings.php:51
+msgid "Yes"
+msgstr "Evet"
+
+#: includes/overview_settings.php:27
+msgid "Indicates the total number of rows in your option table, including transients..."
+msgstr "Veritabanı ayar satırındaki kısa süreli bilgiler ile birlikte toplam rakamı belirtir."
+
+#: includes/overview_settings.php:22
+msgid "Indicates the total number of rows in your option tables of all your network sites, including transients..."
+msgstr "Tüm websitesi ağınızın seçenek tablolarında yer alan kısa süreli bilgilerin dahil olduğu toplam satır sayısını belirtir"
+
+#: includes/functions.php:393
+msgid "One-off event"
+msgstr "Bir defalık olay"
+
+#: includes/functions.php:390
+msgid "Unknown!"
+msgstr "Bilinmiyor"
+
+#: includes/functions.php:185
+msgid "WP tables"
+msgstr "WP tabloları"
+
+#: includes/functions.php:184
+msgid "Themes tables"
+msgstr "Tema tabloları"
+
+#: includes/functions.php:183
+msgid "Plugins tables"
+msgstr "Eklenti tabloları"
+
+#: includes/functions.php:182
+msgid "Orphan tables"
+msgstr "Sahipsiz tablolar"
+
+#: includes/functions.php:181
+msgid "All tables"
+msgstr "Tüm tablolar"
+
+#: includes/functions.php:175
+msgid "WP options"
+msgstr "WP seçenekleri"
+
+#: includes/functions.php:174
+msgid "Themes options"
+msgstr "Tema seçenekleri"
+
+#: includes/functions.php:173
+msgid "Plugins options"
+msgstr "Eklenti seçenekleri"
+
+#: includes/functions.php:172
+msgid "Orphan options"
+msgstr "Sahipsiz seçenekler"
+
+#: includes/functions.php:171
+msgid "All options"
+msgstr "Tüm seçenekler"
+
+#: includes/functions.php:165
+msgid "WP tasks"
+msgstr "WP görevleri"
+
+#: includes/functions.php:164
+msgid "Themes tasks"
+msgstr "Tema görevleri"
+
+#: includes/functions.php:163
+msgid "Plugins tasks"
+msgstr "Eklenti görevleri"
+
+#: includes/functions.php:162
+msgid "Orphan tasks"
+msgstr "Sahipsiz görevler"
+
+#: includes/functions.php:161
+msgid "All tasks"
+msgstr "Tüm görevler"
+
+#: includes/functions.php:102
+msgid "Dashboard Transient Feed"
+msgstr "Kontrol paneli geçici beslemeler"
+
+#: includes/functions.php:101
+msgid "Orphan Relationships"
+msgstr "Sahipsiz ilişkilendirmeler"
+
+#: includes/functions.php:100
+msgid "Orphan Commentmeta"
+msgstr "Sahipsiz yorum bilgileri"
+
+#: includes/functions.php:99
+msgid "Orphan Postmeta"
+msgstr "Sahipsiz yazı bilgileri"
+
+#: includes/functions.php:97
+msgid "Spam Comments"
+msgstr "İstenmeyen yorumlar"
+
+#: includes/functions.php:94
+msgid "Auto Drafts"
+msgstr "Otomatik taslaklar"
+
+#: includes/custom-clean-view/class_clean_revision.php:120
+msgid "Custom cleaning : <b>Revisions</b>"
+msgstr "Varsayılan temizleme : <b>Sürümler</b>"
+
+#: includes/custom-clean-view/class_clean_revision.php:38
+msgid "Revision title"
+msgstr "Sürüm başlığı"
+
+#: includes/custom-clean-view/class_clean_revision.php:18
+#: includes/functions.php:92
+msgid "Revisions"
+msgstr "Sürümler"
+
+#: includes/custom-clean-view/class_clean_revision.php:17
+msgid "Revision"
+msgstr "Sürüm"
+
+#: includes/custom-clean-view/class_clean_relationships.php:120
+msgid "Custom cleaning : <b>Orphan relationships</b>"
+msgstr "Varsayılan temizleme : <b>Sahipsiz ilişkilendirmeler</b>"
+
+#: includes/custom-clean-view/class_clean_relationships.php:39
+msgid "Term order"
+msgstr "Terim sıralaması"
+
+#: includes/custom-clean-view/class_clean_relationships.php:38
+msgid "Term taxonomy id"
+msgstr "Terim taksonomi id"
+
+#: includes/custom-clean-view/class_clean_relationships.php:37
+msgid "Object id"
+msgstr "Nesne id"
+
+#: includes/custom-clean-view/class_clean_relationships.php:18
+msgid "Relationships"
+msgstr "İlişkiler"
+
+#: includes/custom-clean-view/class_clean_relationships.php:17
+msgid "Relationship"
+msgstr "İlişki"
+
+#: includes/custom-clean-view/class_clean_postmeta.php:120
+msgid "Custom cleaning : <b>Orphan postmeta</b>"
+msgstr "Varsayılan temizleme : <b>Sahipsiz meta yazı</b>"
+
+#: includes/custom-clean-view/class_clean_postmeta.php:38
+msgid "Post meta key"
+msgstr "Yazı meta anahtar"
+
+#: includes/custom-clean-view/class_clean_postmeta.php:18
+msgid "Posts meta"
+msgstr "Meta yazı bilgileri"
+
+#: includes/custom-clean-view/class_clean_postmeta.php:17
+msgid "Post meta"
+msgstr "Meta yazı bilgisi"
+
+#: includes/custom-clean-view/class_clean_draft_trash.php:29
+msgid "Trash post title"
+msgstr "Silinen yazı başlığı"
+
+#: includes/custom-clean-view/class_clean_draft_trash.php:28
+#: includes/functions.php:95
+msgid "Trash posts"
+msgstr "Silinen yazılar"
+
+#: includes/custom-clean-view/class_clean_draft_trash.php:27
+msgid "Trash post"
+msgstr "Silinen yazı"
+
+#: includes/custom-clean-view/class_clean_draft_trash.php:25
+msgid "Auto draft title"
+msgstr "Otomatik taslak başlığı"
+
+#: includes/custom-clean-view/class_clean_draft_trash.php:24
+msgid "Auto drafts"
+msgstr "Otomatik taslaklar"
+
+#: includes/custom-clean-view/class_clean_draft_trash.php:23
+msgid "Auto draft"
+msgstr "Otomatik taslak"
+
+#: includes/custom-clean-view/class_clean_draft_trash.php:21
+msgid "Draft title"
+msgstr "Taslak başlığı"
+
+#: includes/custom-clean-view/class_clean_draft_trash.php:20
+#: includes/functions.php:93
+msgid "Drafts"
+msgstr "Taslaklar"
+
+#: includes/custom-clean-view/class_clean_draft_trash.php:19
+msgid "Draft"
+msgstr "Taslak"
+
+#: includes/custom-clean-view/class_clean_dashboard_transient_feed.php:120
+msgid "Custom cleaning : <b>Dashboard transient feed</b>"
+msgstr "Varsayılan temizleme : <b>Kontrol paneli kısa süreli beslemeler</b>"
+
+#: includes/custom-clean-view/class_clean_dashboard_transient_feed.php:38
+msgid "Feed name"
+msgstr "Besleme ismi"
+
+#: includes/custom-clean-view/class_clean_dashboard_transient_feed.php:37
+msgid "Feed id"
+msgstr "Besleme id"
+
+#: includes/custom-clean-view/class_clean_dashboard_transient_feed.php:18
+msgid "Dashboard transients feed"
+msgstr "Kontrol paneli kısa süreli beslemeler"
+
+#: includes/custom-clean-view/class_clean_dashboard_transient_feed.php:17
+msgid "Dashboard transient feed"
+msgstr "Kontrol paneli kısa süreli besleme"
+
+#: includes/custom-clean-view/class_clean_commentmeta.php:120
+msgid "Custom cleaning : <b>Orphan commentmeta</b>"
+msgstr "Varsayılan temizleme : <b>sahipsiz meta yorum</b>"
+
+#: includes/custom-clean-view/class_clean_commentmeta.php:39
+#: includes/custom-clean-view/class_clean_postmeta.php:39
+msgid "Meta value"
+msgstr "Meta değeri"
+
+#: includes/custom-clean-view/class_clean_commentmeta.php:38
+msgid "Comment meta key"
+msgstr "Yorum meta anahtarı"
+
+#: includes/custom-clean-view/class_clean_commentmeta.php:37
+#: includes/custom-clean-view/class_clean_postmeta.php:37
+msgid "Meta id"
+msgstr "Meta id"
+
+#: includes/custom-clean-view/class_clean_commentmeta.php:18
+msgid "Comments meta"
+msgstr "Meta yorumlar"
+
+#: includes/custom-clean-view/class_clean_commentmeta.php:17
+msgid "Comment meta"
+msgstr "Meta yorum"
+
+#: includes/custom-clean-view/class_clean_comment.php:134
+#: includes/custom-clean-view/class_clean_draft_trash.php:136
+msgid "Custom cleaning : "
+msgstr "Varsayılan temizleme : "
+
+#: includes/custom-clean-view/class_clean_comment.php:52
+#: includes/custom-clean-view/class_clean_draft_trash.php:55
+#: includes/custom-clean-view/class_clean_revision.php:39
+msgid "Date"
+msgstr "Tarih"
+
+#: includes/custom-clean-view/class_clean_comment.php:51
+msgid "Content"
+msgstr "İçerik"
+
+#: includes/custom-clean-view/class_clean_comment.php:50
+msgid "Author"
+msgstr "Yazar"
+
+#: includes/custom-clean-view/class_clean_comment.php:49
+#: includes/custom-clean-view/class_clean_draft_trash.php:53
+#: includes/custom-clean-view/class_clean_revision.php:37
+msgid "ID"
+msgstr "ID"
+
+#: includes/custom-clean-view/class_clean_comment.php:25
+#: includes/functions.php:98
+msgid "Trash comments"
+msgstr "Silinmiş yorumlar"
+
+#: includes/custom-clean-view/class_clean_comment.php:24
+msgid "Trash comment"
+msgstr "Silinmiş yorum"
+
+#: includes/custom-clean-view/class_clean_comment.php:22
+msgid "Spam comments"
+msgstr "İstenmeyen yorumlar"
+
+#: includes/custom-clean-view/class_clean_comment.php:21
+msgid "Spam comment"
+msgstr "İstenmeyen yorum"
+
+#: includes/custom-clean-view/class_clean_comment.php:19
+#: includes/functions.php:96
+msgid "Pending comments"
+msgstr "Onay bekleyen yorumlar"
+
+#: includes/custom-clean-view/class_clean_comment.php:18
+msgid "Pending comment"
+msgstr "Onay bekleyen yorum"
+
+#: includes/class_optimize_tables.php:262
+msgid "Run optimization monthly"
+msgstr "Optimizasyonu aylık olarak çalıştır"
+
+#: includes/class_optimize_tables.php:259
+msgid "Run optimization weekly"
+msgstr "Optimizasyonu haftalık olarak çalıştır"
+
+#: includes/class_optimize_tables.php:256
+msgid "Run optimization daily"
+msgstr "Optimizasyonu günlük olarak çalıştır"
+
+#: includes/class_optimize_tables.php:253
+msgid "Run optimization twice a day"
+msgstr "Optimizasyonu günde iki kez çalıştır"
+
+#: includes/class_optimize_tables.php:250
+msgid "Run optimization hourly"
+msgstr "Optimizasyonu her saat çalıştır"
+
+#: includes/class_optimize_tables.php:235
+msgid "table(s) should be optimized!"
+msgstr "tablo(lar) optimize edilmeli!"
+
+#: includes/class_optimize_tables.php:232
+msgid "Your database is optimized!"
+msgstr "Veritabanınız optimize edildi"
+
+#: includes/class_optimize_tables.php:207
+msgid "Selected tables successfully optimized!"
+msgstr "Seçili tablolar optimize edildi"
+
+#: includes/class_optimize_tables.php:186
+msgid "All tables are optimized!"
+msgstr "Tüm tablolar optimize edildi"
+
+#: includes/class_optimize_tables.php:125
+msgid "Lost"
+msgstr "Kayıp"
+
+#: includes/class_optimize_tables.php:118
+msgid "Indicates the total lost space in the table"
+msgstr "Tablo içerisindeki toplam kayıp alanı belirtir"
+
+#: includes/class_optimize_tables.php:30
+msgid "The optimization schedule saved successfully!"
+msgstr "Optimizasyon zamanlaması başarıyla kaydedildi"
+
+#: includes/class_general_cleanup.php:226
+msgid "You are about to clean some of your unused data. This operation is irreversible. Don't forget to make a backup first."
+msgstr "Kullanılmayan bazı bilgileri temizlemek üzeresiniz. Bu işlemin geri dönüşü yoktur. İşleme devam etmeden önce veritabanı yedeğini almayı unutmayın."
+
+#: includes/class_general_cleanup.php:215
+#: includes/class_optimize_tables.php:274
+msgid "not set"
+msgstr "ayarlanmadı"
+
+#: includes/class_general_cleanup.php:209
+#: includes/class_optimize_tables.php:268
+msgid "Next run:"
+msgstr "Sonraki çalışma:"
+
+#: includes/class_general_cleanup.php:206
+#: includes/class_optimize_tables.php:265
+msgid "Save"
+msgstr "Kaydet"
+
+#: includes/class_general_cleanup.php:203
+msgid "Run clean-up monthly"
+msgstr "Temizleme işlemini aylık olarak çalıştır"
+
+#: includes/class_general_cleanup.php:200
+msgid "Run clean-up weekly"
+msgstr "Temizleme işlemini haftalık olarak çalıştır"
+
+#: includes/class_general_cleanup.php:197
+msgid "Run clean-up daily"
+msgstr "Temizleme işlemini günlük olarak çalıştır"
+
+#: includes/class_general_cleanup.php:194
+msgid "Run clean-up twice a day"
+msgstr "Temizleme işlemini günde iki kez çalıştır"
+
+#: includes/class_general_cleanup.php:191
+msgid "Run clean-up hourly"
+msgstr "Temizleme işlemini her saat çalıştır"
+
+#: includes/class_general_cleanup.php:188
+#: includes/class_optimize_tables.php:247
+msgid "Not scheduled"
+msgstr "Zamanlama yok"
+
+#: includes/class_general_cleanup.php:181
+#: includes/class_optimize_tables.php:240
+msgid "Schedule"
+msgstr "Zamanlama"
+
+#: includes/class_general_cleanup.php:177
+msgid "element(s) should be cleaned!"
+msgstr "eleman(lar) temizlenmeli"
+
+#: includes/class_general_cleanup.php:149
+msgid "Selected elements successfully cleaned!"
+msgstr "Seçili elemanlar başarıyla temizlendi"
+
+#: includes/class_general_cleanup.php:128
+#: includes/class_general_cleanup.php:174
+msgid "Your database is clean!"
+msgstr "Veritabanı temiz"
+
+#: includes/class_general_cleanup.php:121
+#: includes/custom-clean-view/class_clean_comment.php:107
+#: includes/custom-clean-view/class_clean_commentmeta.php:93
+#: includes/custom-clean-view/class_clean_dashboard_transient_feed.php:93
+#: includes/custom-clean-view/class_clean_draft_trash.php:109
+#: includes/custom-clean-view/class_clean_postmeta.php:93
+#: includes/custom-clean-view/class_clean_relationships.php:93
+#: includes/custom-clean-view/class_clean_revision.php:93
+msgid "Clean"
+msgstr "Temizle"
+
+#: includes/class_general_cleanup.php:72
+msgid "View"
+msgstr "Görünüm"
+
+#: includes/class_general_cleanup.php:71
+msgid "Count"
+msgstr "Sayı"
+
+#: includes/class_general_cleanup.php:70
+msgid "Element to clean"
+msgstr "Temizlenecek eleman"
+
+#: includes/class_general_cleanup.php:28
+msgid "The clean-up schedule saved successfully!"
+msgstr "Temizleme işlemi için zamanlama başarıyla kaydedildi"
+
+#: includes/class_general_cleanup.php:16
+msgid "Elements"
+msgstr "Elemanlar"
+
+#: includes/class_general_cleanup.php:15
+msgid "Element"
+msgstr "Eleman"
+
+#: includes/class_clean_tables.php:224
+msgid "You are about to clean some of your tables. This operation is irreversible. Don't forget to make a backup first."
+msgstr "Bazı tabloları temizlemek üzeresiniz. Bu işlemin geri dönüşü yoktur. İşleme devam etmeden önce veritabanı yedeğini almayı unutmayın."
+
+#: includes/class_clean_tables.php:209
+msgid "Below the list of all your tables. Please do not delete any table unless you really know what you are doing!"
+msgstr "Aşağıda tüm tablolar listelenmiştir. Lütfen gerçekten ne yaptığınızdan emin değilseniz hiçbir tabloyu silmeyiniz"
+
+#: includes/class_clean_tables.php:193 includes/premium_page.php:12
+msgid "Detect orphan tables"
+msgstr "Sahipsiz tabloları tespit et"
+
+#: includes/class_clean_tables.php:149
+msgid "Selected tables cleaned successfully!"
+msgstr "Seçili tablolar başarıyla temizlendi"
+
+#: includes/class_clean_tables.php:58
+msgid "Size"
+msgstr "Boyut"
+
+#: includes/class_clean_tables.php:57
+msgid "Rows"
+msgstr "Satır"
+
+#: includes/class_clean_tables.php:56 includes/class_optimize_tables.php:123
+msgid "Table name"
+msgstr "Tablo ismi"
+
+#: includes/class_clean_tables.php:55 includes/class_optimize_tables.php:122
+msgid "Prefix"
+msgstr "Ön ek"
+
+#: includes/class_clean_tables.php:51
+msgid "Indicates the creator of the table. It can be a plugin name, a theme name or WordPress itself."
+msgstr "Tabloyu oluşturucuyu tespit eder. Bu bir eklenti, tema yada Wordpress'in kendisi olabilir."
+
+#: includes/class_clean_tables.php:19 includes/class_optimize_tables.php:17
+msgid "Table"
+msgstr "Tablo"
+
+#: includes/class_clean_options.php:241
+msgid "You are about to clean some of your options. This operation is irreversible. Don't forget to make a backup first."
+msgstr "Bazı seçenekleri temizlemek üzeresiniz. Bu işlemin geri dönüşü yoktur. İşleme devam etmeden önce veritabanı yedeğini almayı unutmayın."
+
+#: includes/class_clean_options.php:226
+msgid "Below the list of all your options. Please do not delete any option unless you really know what you are doing!"
+msgstr "Aşağıda tüm seçenekler listelenmiştir. Lütfen gerçekten ne yaptığınızdan emin değilseniz hiçbir seçeneği silmeyiniz"
+
+#: includes/class_clean_options.php:210 includes/premium_page.php:11
+msgid "Detect orphan options"
+msgstr "Sahipsiz seçenekleri tespit et"
+
+#: includes/class_clean_options.php:166
+msgid "Selected options cleaned successfully!"
+msgstr "Seçili ayarlar başarıyla temizlendi"
+
+#: includes/class_clean_options.php:57
+#: includes/custom-clean-view/class_clean_dashboard_transient_feed.php:39
+msgid "Autoload"
+msgstr "Otomatik yükleme"
+
+#: includes/class_clean_options.php:56
+msgid "Value"
+msgstr "Değer"
+
+#: includes/class_clean_options.php:55
+msgid "Option name"
+msgstr "Seçenek ismi"
+
+#: includes/class_clean_options.php:51
+msgid "Indicates the creator of the option. It can be a plugin name, a theme name or WordPress itself."
+msgstr "Ayar oluşturucuyu tespit eder. Bu bir eklenti, tema yada Wordpress'in kendisi olabilir."
+
+#: includes/class_clean_options.php:19
+msgid "Option"
+msgstr "Seçenek"
+
+#: includes/class_clean_cron.php:247 includes/class_clean_options.php:249
+#: includes/class_clean_tables.php:232 includes/class_general_cleanup.php:234
+#: includes/class_optimize_tables.php:285
+msgid "Please select an action!"
+msgstr "Lütfen bir eylem seçin!"
+
+#: includes/class_clean_cron.php:245 includes/class_clean_options.php:247
+#: includes/class_clean_tables.php:230 includes/class_general_cleanup.php:232
+#: includes/class_optimize_tables.php:283
+msgid "Action required"
+msgstr "Eylem gerekli"
+
+#: includes/class_clean_cron.php:242 includes/class_clean_options.php:244
+#: includes/class_clean_tables.php:227 includes/class_general_cleanup.php:229
+msgid "Are you sure to continue?"
+msgstr "Devam etmek istediğinizden emin misiniz?"
+
+#: includes/class_clean_cron.php:239
+msgid "You are about to clean some of your scheduled tasks. This operation is irreversible. Don't forget to make a backup first."
+msgstr "Bazı zamanlanmış görevleri temizlemek üzeresiniz. Bu işlemin geri dönüşü yoktur. İşleme devam etmeden önce veritabanı yedeğini almayı unutmayın."
+
+#: includes/class_clean_cron.php:237 includes/class_clean_options.php:239
+#: includes/class_clean_tables.php:222 includes/class_general_cleanup.php:224
+msgid "Cleaning..."
+msgstr "Temizleniyor..."
+
+#: includes/class_clean_cron.php:224
+msgid "Below the list of all your scheduled tasks. Please do not delete any task unless you really know what you are doing!"
+msgstr "Aşağıda tüm zamanlanmış görevler listelenmiştir. Lütfen gerçekten ne yaptığınızdan emin değilseniz hiçbir görevi silmeyiniz"
+
+#: includes/class_clean_cron.php:214 includes/class_clean_options.php:216
+#: includes/class_clean_tables.php:199
+msgid "Please wait!"
+msgstr "Lütfen bekleyin"
+
+#: includes/class_clean_cron.php:208
+msgid "Detect orphan tasks"
+msgstr "Kullanılmayan görevleri tespit et"
+
+#: includes/class_clean_cron.php:164
+msgid "Selected scheduled tasks cleaned successfully!"
+msgstr "Seçili olan zamanlanmış görevler silindi"
+
+#: includes/class_clean_cron.php:121 includes/class_clean_options.php:123
+#: includes/class_clean_tables.php:125
+#: includes/custom-clean-view/class_clean_comment.php:114
+#: includes/custom-clean-view/class_clean_commentmeta.php:100
+#: includes/custom-clean-view/class_clean_dashboard_transient_feed.php:100
+#: includes/custom-clean-view/class_clean_draft_trash.php:116
+#: includes/custom-clean-view/class_clean_postmeta.php:100
+#: includes/custom-clean-view/class_clean_relationships.php:100
+#: includes/custom-clean-view/class_clean_revision.php:100
+#: includes/functions.php:191
+msgid "Available in Pro version!"
+msgstr "Pro sürümde etkin"
+
+#: includes/class_clean_cron.php:119 includes/class_clean_options.php:121
+#: includes/class_clean_tables.php:123
+msgid "No tasks found!"
+msgstr "Görev bulunamadı"
+
+#: includes/class_clean_cron.php:111 includes/class_clean_options.php:113
+#: includes/class_clean_tables.php:115
+msgid "Delete"
+msgstr "Sil"
+
+#: includes/class_clean_cron.php:58 includes/class_clean_options.php:59
+#: includes/class_clean_tables.php:60
+msgid "Belongs to"
+msgstr "Dahil olunan"
+
+#: includes/class_clean_cron.php:57 includes/class_clean_options.php:58
+#: includes/class_clean_tables.php:59 includes/class_optimize_tables.php:124
+#: includes/custom-clean-view/class_clean_comment.php:53
+#: includes/custom-clean-view/class_clean_commentmeta.php:40
+#: includes/custom-clean-view/class_clean_dashboard_transient_feed.php:40
+#: includes/custom-clean-view/class_clean_draft_trash.php:56
+#: includes/custom-clean-view/class_clean_postmeta.php:40
+#: includes/custom-clean-view/class_clean_relationships.php:40
+#: includes/custom-clean-view/class_clean_revision.php:40
+msgid "Site id"
+msgstr "Site id"
+
+#: includes/class_clean_cron.php:56
+msgid "Next run - Frequency"
+msgstr "Sonraki çalışma sıklığı"
+
+#: includes/class_clean_cron.php:55
+msgid "Hook name"
+msgstr "Kanca ismi"
+
+#: includes/class_clean_cron.php:51
+msgid "Indicates the creator of the cron task. It can be a plugin name, a theme name or WordPress itself."
+msgstr "Cron görevi oluşturucuyu tespit eder. Bu bir eklenti, tema yada Wordpress'in kendisi olabilir."
+
+#: includes/class_clean_cron.php:25 includes/class_clean_cron.php:228
+#: includes/class_clean_options.php:25 includes/class_clean_options.php:230
+#: includes/class_clean_tables.php:25 includes/class_clean_tables.php:213
+#: includes/custom-clean-view/class_clean_comment.php:15
+#: includes/custom-clean-view/class_clean_commentmeta.php:14
+#: includes/custom-clean-view/class_clean_dashboard_transient_feed.php:14
+#: includes/custom-clean-view/class_clean_draft_trash.php:16
+#: includes/custom-clean-view/class_clean_postmeta.php:14
+#: includes/custom-clean-view/class_clean_relationships.php:14
+#: includes/custom-clean-view/class_clean_revision.php:14
+msgid "Please upgrade to pro version"
+msgstr "Lütfen pro sürüme geçin"
+
+#: includes/class_clean_cron.php:24 includes/class_clean_cron.php:228
+#: includes/class_clean_options.php:24 includes/class_clean_options.php:230
+#: includes/class_clean_tables.php:24 includes/class_clean_tables.php:213
+#: includes/custom-clean-view/class_clean_comment.php:14
+#: includes/custom-clean-view/class_clean_commentmeta.php:13
+#: includes/custom-clean-view/class_clean_dashboard_transient_feed.php:13
+#: includes/custom-clean-view/class_clean_draft_trash.php:15
+#: includes/custom-clean-view/class_clean_postmeta.php:13
+#: includes/custom-clean-view/class_clean_relationships.php:13
+#: includes/custom-clean-view/class_clean_revision.php:13
+msgid "This feature is available in Pro version only."
+msgstr "Bu özellik sadece Pro sürümde geçerlidir."
+
+#: includes/class_clean_cron.php:20
+msgid "Tasks"
+msgstr "Görevler"
+
+#: includes/class_clean_cron.php:19
+msgid "Task"
+msgstr "Görev"
+
+#: advanced-db-cleaner.php:244
+msgid "Premium"
+msgstr "Premium"
+
+#: advanced-db-cleaner.php:243
+msgid "Overview & Settings"
+msgstr "Genel bakış ve ayarlar"
+
+#: advanced-db-cleaner.php:242
+msgid "Scheduled tasks"
+msgstr "Zamanlanmış görevler"
+
+#: advanced-db-cleaner.php:241 includes/class_clean_options.php:20
+msgid "Options"
+msgstr "Seçenekler"
+
+#: advanced-db-cleaner.php:240 includes/class_clean_tables.php:20
+#: includes/class_optimize_tables.php:18
+msgid "Tables"
+msgstr "Tablolar"
+
+#: advanced-db-cleaner.php:239 includes/class_optimize_tables.php:179
+msgid "Optimize"
+msgstr "Optimize et"
+
+#: advanced-db-cleaner.php:238
+msgid "General clean-up"
+msgstr "Genel temizlik"
+
+#: advanced-db-cleaner.php:231
+msgid "Once you read and understand this message, you can disable it from settings Tab."
+msgstr "Bu mesajı okuyup anladıysanız ayarlar sekmesinden kapatabilirsiniz."
+
+#: advanced-db-cleaner.php:229
+msgid "Before doing any clean-up, please make sure to always backup your database first."
+msgstr "Herhangi bir temizleme işleminden önce database yedeğinizi alın."
+
+#: advanced-db-cleaner.php:227
+msgid "Welcome!"
+msgstr "Hoşgeldiniz"
+
+#: advanced-db-cleaner.php:117
+msgid "Once monthly"
+msgstr "Ayda bir"
+
+#: advanced-db-cleaner.php:112
+msgid "Once weekly"
+msgstr "Haftada bir"

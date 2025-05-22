@@ -1,0 +1,24 @@
+________________________________________________
+|             CALL API : START                |
+________________________________________________
+
+Informations : 
+Called API: meteo - 9 April 2025, 00:40
+Method: GETMETEO - Timeout : 300 - Cache : 1
+URL CALLED : https://api.openweathermap.org/data/2.5/forecast/daily?q=Brussels,be&units=metric&cnt=4&appid=ea18c0706135505149200c3836f29800
+-------------------------
+________________________________________________
+|             CALL API : START                |
+________________________________________________
+
+Informations : 
+Called API: meteo - 9 April 2025, 00:40
+Method: GETMETEO - Timeout : 300 - Cache : 1
+URL CALLED : https://api.openweathermap.org/data/2.5/forecast/daily?q=Brussels,be&units=metric&cnt=4&appid=ea18c0706135505149200c3836f29800
+-------------------------
+{"city":{"id":2800866,"name":"Brussels","coord":{"lon":4.3488,"lat":50.8504},"country":"BE","population":1019022,"timezone":7200},"cod":"200","message":0.0197679,"cnt":4,"list":[{"dt":1744196400,"sunrise":1744174837,"sunset":1744223236,"temp":{"day":14.79,"min":2.44,"max":15.94,"night":7.97,"eve":14.6,"morn":2.44},"feels_like":{"day":13.55,"night":5.64,"eve":13.45,"morn":-0.66},"pressure":1026,"humidity":47,"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"speed":4.85,"deg":24,"gust":9.3,"clouds":49,"pop":0},{"dt":1744282800,"sunrise":1744261107,"sunset":1744309733,"temp":{"day":13.99,"min":4.97,"max":16.74,"night":8.56,"eve":15.16,"morn":6.68},"feels_like":{"day":12.83,"night":6.98,"eve":14.19,"morn":4.52},"pressure":1029,"humidity":53,"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"speed":5.15,"deg":356,"gust":6.92,"clouds":30,"pop":0},{"dt":1744369200,"sunrise":1744347378,"sunset":1744396231,"temp":{"day":16.67,"min":6.01,"max":19.1,"night":10.52,"eve":16.85,"morn":6.01},"feels_like":{"day":15.62,"night":9.43,"eve":15.97,"morn":5.25},"pressure":1024,"humidity":47,"weather":[{"id":801,"main":"Clouds","description":"few clouds","icon":"02d"}],"speed":4.3,"deg":333,"gust":5.59,"clouds":11,"pop":0},{"dt":1744455600,"sunrise":1744433649,"sunset":1744482728,"temp":{"day":20.15,"min":8.18,"max":21.8,"night":14.93,"eve":17.34,"morn":8.76},"feels_like":{"day":19.4,"night":14.18,"eve":16.72,"morn":6.77},"pressure":1014,"humidity":45,"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"speed":4.87,"deg":100,"gust":10.56,"clouds":66,"pop":0}]}
+--- ENF OF RECEIVED DATA ---
+
+{"city":{"id":2800866,"name":"Brussels","coord":{"lon":4.3488,"lat":50.8504},"country":"BE","population":1019022,"timezone":7200},"cod":"200","message":0.0197679,"cnt":4,"list":[{"dt":1744196400,"sunrise":1744174837,"sunset":1744223236,"temp":{"day":14.79,"min":2.44,"max":15.94,"night":7.97,"eve":14.6,"morn":2.44},"feels_like":{"day":13.55,"night":5.64,"eve":13.45,"morn":-0.66},"pressure":1026,"humidity":47,"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"speed":4.85,"deg":24,"gust":9.3,"clouds":49,"pop":0},{"dt":1744282800,"sunrise":1744261107,"sunset":1744309733,"temp":{"day":13.99,"min":4.97,"max":16.74,"night":8.56,"eve":15.16,"morn":6.68},"feels_like":{"day":12.83,"night":6.98,"eve":14.19,"morn":4.52},"pressure":1029,"humidity":53,"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"speed":5.15,"deg":356,"gust":6.92,"clouds":30,"pop":0},{"dt":1744369200,"sunrise":1744347378,"sunset":1744396231,"temp":{"day":16.67,"min":6.01,"max":19.1,"night":10.52,"eve":16.85,"morn":6.01},"feels_like":{"day":15.62,"night":9.43,"eve":15.97,"morn":5.25},"pressure":1024,"humidity":47,"weather":[{"id":801,"main":"Clouds","description":"few clouds","icon":"02d"}],"speed":4.3,"deg":333,"gust":5.59,"clouds":11,"pop":0},{"dt":1744455600,"sunrise":1744433649,"sunset":1744482728,"temp":{"day":20.15,"min":8.18,"max":21.8,"night":14.93,"eve":17.34,"morn":8.76},"feels_like":{"day":19.4,"night":14.18,"eve":16.72,"morn":6.77},"pressure":1014,"humidity":45,"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"speed":4.87,"deg":100,"gust":10.56,"clouds":66,"pop":0}]}
+--- ENF OF RECEIVED DATA ---
+

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:spotify="https://www.spotify.com/ns/rss" version="2.0">
+<channel>
+    <title>BX1+ - Toujours + d'actu</title>
+    <link>
+    https://bx1plus.be/
+  </link>
+    <description>Toujours + d’actu, présenté par Fabrice Grosfilley, dresse un tableau complet de l’actualité de Bruxelles et ses 19 communes. Avec des chroniques chaque jour : l’édito, le face à face, le micro ouvert ou encore la vie du web. L’émission s’est terminée le 24 décembre 2021 et laisse place au 12h30 et à + d’Actu.</description>
+    <itunes:summary>Toujours + d’actu, présenté par Fabrice Grosfilley, dresse un tableau complet de l’actualité de Bruxelles et ses 19 communes. Avec des chroniques chaque jour : l’édito, le face à face, le micro ouvert ou encore la vie du web. L’émission s’est terminée le 24 décembre 2021 et laisse place au 12h30 et à + d’Actu.</itunes:summary>
+    <copyright>BX1 &#xA9; <?php echo date("Y");?>. Tous droits réservés.</copyright> 
+    <image>
+      <url>https://bx1plus.be/img/podcasts/logo_toujoursplusactu_grand.jpg</url> 
+      <title>Toujours + d'Actu</title> 
+      <link>https://bx1plus.be/</link>
+    </image>
+    <author>BX1</author> 
+    <itunes:author>BX1</itunes:author> 
+    <itunes:owner>
+      <itunes:name>BX1</itunes:name>
+      <itunes:email>web@bx1.be</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit> 
+    <itunes:category text="News" />
+    <language>fr</language>
+    <spotify:countryOfOrigin>be</spotify:countryOfOrigin>
+    <lastBuildDate><?php 
+$dt = new DateTime('now', new DateTimezone('Europe/Brussels'));
+echo $dt->format('D, d M Y H:i:s O');
+    ?></lastBuildDate> 
+    <itunes:image href="https://bx1plus.be/img/podcasts/logo_toujoursplusactu_grand.jpg" />
+<?php 
+//Let's use WP functions
+require_once("../../../wp-load.php");
+date_default_timezone_set('Europe/Brussels');
+  $loop = new WP_Query( array('post_type' => 'radio-emission', 'meta_key' => '_yoast_wpseo_primary_radio-type_emissions','meta_value' => '13253','posts_per_page' => -1));
+    while ( $loop->have_posts() ) :
+      $loop->the_post();
+      $do_not_duplicate[] = $post->ID;
+      if (types_render_field('video-chronique') != ""){
+      ?>
+    <item>  
+      <title><?php echo get_the_title(); ?></title>
+      <guid>https://bx1.be/?p=<?php echo $post->ID;?></guid>
+      <link>https://bx1.be/?p=<?php echo $post->ID;?></link>
+      <pubDate><?php echo date(DATE_RFC1123, get_post_meta ($post->ID, 'wpcf-date-chronique', true));?></pubDate>
+      <author>web@bx1.be (BX1)</author>
+      <itunes:author>bx1</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bx1plus.be/img/podcasts/logo_toujoursplusactu_grand.jpg" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/<?php echo types_render_field('video-chronique');?>.mp3" type="audio/mpeg" length="1"/>
+      <itunes:duration><?php echo types_render_field('duree-chronique');?></itunes:duration>
+      <?php
+
+        //Create XML Friendly Title
+
+        $badchar    = array("&");
+        $goodchar   = array("-");
+
+        $goodsummary = str_replace($badchar, $goodchar, types_render_field('sous-titre-itunes'));
+        ?>
+      <itunes:summary><?php echo $goodsummary;?></itunes:summary>
+      <description><?php echo $goodsummary;?></description>
+    </item>
+  <?php
+}
+    endwhile;
+ ?>
+</channel>
+</rss>

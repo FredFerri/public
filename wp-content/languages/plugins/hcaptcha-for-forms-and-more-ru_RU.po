@@ -1,0 +1,1983 @@
+# Translation of Plugins - hCaptcha for WP - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - hCaptcha for WP - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-04-28 09:14:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - hCaptcha for WP - Stable (latest release)\n"
+
+#: src/php/Settings/Integrations.php:375
+msgid "Booking"
+msgstr "Бронирование"
+
+#: src/php/Settings/General.php:708
+msgid "Content"
+msgstr "Содержимое"
+
+#: src/php/Settings/General.php:555
+msgid "When enabled, all plugin data will be removed when uninstalling the plugin."
+msgstr "При включении все данные плагина будут удалены при деинсталляции плагина."
+
+#: src/php/Settings/General.php:552
+msgid "Remove Data on Uninstall"
+msgstr "Удалить данные при деинсталляции"
+
+#: src/php/Settings/General.php:521
+msgid "Protect content of listed URLs. Please specify one URL per line. You may use regular expressions."
+msgstr "Защитите содержимое перечисленных URL-адресов. Укажите один URL на строку. Можно использовать регулярные выражения."
+
+#: src/php/Settings/General.php:518
+msgid "Protected URLs"
+msgstr "Защищенные URL-адреса"
+
+#: src/php/Settings/General.php:515
+msgid "Protect site content from bots with hCaptcha."
+msgstr "Защитите содержимое сайта от ботов с помощью hCaptcha."
+
+#: src/php/Settings/General.php:509
+msgid "Content Settings"
+msgstr "Настройки содержимого"
+
+#. translators: 1: hCaptcha link.
+#: src/php/ProtectContent/ProtectContent.php:478
+msgid "Privacy and security by %1$s"
+msgstr "Конфиденциальность и безопасность посредством %1$s"
+
+#: src/php/ProtectContent/ProtectContent.php:469
+msgid "The hCaptcha plugin"
+msgstr "Плагин hCaptcha"
+
+#. translators: 1: Site link.
+#: src/php/ProtectContent/ProtectContent.php:456
+msgid "%1$s needs to review the security of your connection before proceeding."
+msgstr "%1$s необходимо проверить безопасность вашего подключения перед продолжением."
+
+#: src/php/ProtectContent/ProtectContent.php:425
+msgid "Verifying you are human. This may take a few seconds."
+msgstr "Проверка того, что вы человек. Это может занять несколько секунд."
+
+#: src/php/Admin/WhatsNew.php:289 src/php/Settings/General.php:513
+msgid "Protect Content"
+msgstr "Защитить содержимое"
+
+#: src/php/Admin/WhatsNew.php:285
+msgid "Set up protected URLs to prevent these pages from being accessed by bots."
+msgstr "Настройте защищенные URL-адреса, чтобы предотвратить доступ к этим страницам ботами."
+
+#. translators: 1: Pro link.
+#: src/php/Admin/WhatsNew.php:278
+msgid "Protect selected site URLs from bots with hCaptcha. Works best with %1$s 99.9%% passive mode."
+msgstr "Защитите выбранные URL-адреса сайтов от ботов с помощью hCaptcha. Работает наилучшим образом с %1$s 99.9%% пассивным режимом."
+
+#: src/php/Admin/WhatsNew.php:273
+msgid "Site Content Protection"
+msgstr "Защита содержимого сайта"
+
+#: src/php/Admin/WhatsNew.php:272 src/php/Admin/WhatsNew.php:299
+msgid "New Feature"
+msgstr "Новая функция"
+
+#: src/php/Admin/WhatsNew.php:244
+msgid "What's New in hCaptcha"
+msgstr "Что нового в hCaptcha"
+
+#: src/php/Admin/WhatsNew.php:207
+msgid "See the new features!"
+msgstr "Встречайте новые функции!"
+
+#: src/php/Admin/Notifications.php:284
+msgid "Protect"
+msgstr "Защитить"
+
+#. translators: 1: Pro link.
+#: src/php/Admin/Notifications.php:280
+msgid "%1$s selected site URLs from bots with hCaptcha. Works best with %2$s 99.9%% passive mode."
+msgstr "%1$s выбранные URL-адреса сайтов от ботов с hCaptcha. Работает лучше всего в режиме пассивного режима %2$s 99.9%%."
+
+#: src/php/Admin/Notifications.php:277
+msgid "Protect Site Content"
+msgstr "Защитить содержимое сайта"
+
+#: src/php/Settings/General.php:955
+msgid "Site config is valid. Save your changes."
+msgstr "Конфигурация сайта действительна. Сохраните ваши изменения."
+
+#. translators: 1: privacy link, 2: terms link.
+#: src/php/Admin/Privacy.php:132
+msgid "For more information about hCaptcha’s privacy policy and terms of use, please visit the following links: %1$s and %2$s."
+msgstr "Для получения дополнительной информации о политике конфиденциальности и условиях использования hCaptcha, пожалуйста, посетите следующие ссылки: %1$s и %2$s."
+
+#: src/php/Admin/Privacy.php:127
+msgid "IMI acts as a \"data processor\" acting on behalf of its customers as defined under the GDPR, and a \"service provider\" for the purposes of the California Consumer Privacy Act (CCPA)."
+msgstr "IMI действует как \"обработчик данных\" от имени своих клиентов, как определено в рамках GDPR, и как \"поставщик услуг\" в целях Закона о конфиденциальности потребителей Калифорнии (CCPA)."
+
+#: src/php/Admin/Privacy.php:124
+msgid "and other forms of abuse that can harm our service or other users of our service."
+msgstr "и другие формы насилия, которые могут нанести вред нашему сервису или другим пользователям нашего сервиса."
+
+#: src/php/Admin/Privacy.php:121
+msgid "In addition, processing may also be based on Art. 6(1)(f) of the GDPR: our online service has a legitimate interest in protecting the service from abusive automated crawling, spam,"
+msgstr "Кроме того, обработка также может основываться на статье 6(1)(f) GDPR: наш онлайн-сервис имеет законный интерес в защите сервиса от злоупотреблений автоматизированным сканированием, спамом,"
+
+#: src/php/Admin/Privacy.php:118
+msgid "and that activities performed by the user are not related to fraud or abuse."
+msgstr "и что действия, выполненные пользователем, не связаны с мошенничеством или злоупотреблением."
+
+#: src/php/Admin/Privacy.php:115
+msgid "Our online service (including our website, mobile apps, and any other apps or other forms of access offered by us) needs to ensure that it is interacting with a human, not a bot,"
+msgstr "Наш онлайн-сервис (включая наш веб-сайт, мобильные приложения и любые другие приложения или другие формы доступа, предлагаемые нами) должен обеспечить взаимодействие с человеком, а не с ботом."
+
+#: src/php/Admin/Privacy.php:112
+msgid "or in order to take steps at the request of the website visitor prior to entering into a contract."
+msgstr "либо для принятия мер по запросу посетителя веб-сайта до заключения контракта."
+
+#: src/php/Admin/Privacy.php:109
+msgid "Data processing is based on Art. 6(1)(b) of the GDPR: the processing of personal data is necessary for the performance of a contract to which the website visitor is party (for example, the website terms)"
+msgstr "Обработка данных основана на статье 6(1)(b) GDPR: обработка персональных данных необходима для выполнения контракта, стороной которого является посетитель веб-сайта (например, условия веб-сайта)."
+
+#: src/php/Admin/Privacy.php:106
+msgid "Website or app visitors are not advised that such an analysis is taking place if the user is not shown a challenge."
+msgstr "Посетителям веб-сайта или приложения не сообщается о том, что такой анализ проводится, если пользователю не показано испытание."
+
+#: src/php/Admin/Privacy.php:103
+msgid "hCaptcha analysis in the \"invisible mode\" may take place completely in the background."
+msgstr "Анализ hCaptcha в \"невидимом режиме\" может происходить полностью в фоновом режиме."
+
+#: src/php/Admin/Privacy.php:100
+msgid "The data collected during the analysis will be forwarded to IMI."
+msgstr "Данные, собранные во время анализа, будут переданы в IMI."
+
+#: src/php/Admin/Privacy.php:97
+msgid "For the analysis, hCaptcha evaluates various information (e.g. IP address, how long the visitor has been on the website or app, or mouse movements made by the user)."
+msgstr "Для анализа hCaptcha оценивает различную информацию (например, IP-адрес, сколько времени посетитель находится на веб-сайте или приложении, или движения мыши, сделанные пользователем)."
+
+#: src/php/Admin/Privacy.php:94
+msgid "This analysis starts automatically as soon as the website or mobile app visitor enters a part of the website or app with hCaptcha enabled."
+msgstr "Этот анализ запускается автоматически сразу же после того, как посетитель веб-сайта или мобильного приложения входит в часть веб-сайта или приложения с включенным hCaptcha."
+
+#: src/php/Admin/Privacy.php:91
+msgid "To do this, hCaptcha analyzes the behavior of the website or mobile app visitor based on various characteristics."
+msgstr "Для этого hCaptcha анализирует поведение посетителя веб-сайта или мобильного приложения на основе различных характеристик."
+
+#: src/php/Admin/Privacy.php:88
+msgid "hCaptcha is used to check whether user actions on our online service (such as submitting a login or contact form) meet our security requirements."
+msgstr "hCaptcha используется для проверки того, соответствуют ли действия пользователя на нашем онлайн-сервисе (например, отправка формы входа или контактной формы) нашим требованиям безопасности."
+
+#: src/php/Admin/Privacy.php:85
+msgid "This service is provided by Intuition Machines, Inc., a Delaware US Corporation (\"IMI\")."
+msgstr "Этот сервис предоставляется компанией Intuition Machines, Inc., американской корпорацией штата Делавэр («IMI»)."
+
+#: src/php/Admin/Privacy.php:82
+msgid "We use the hCaptcha security service (hereinafter \"hCaptcha\") on our website."
+msgstr "Мы используем службу безопасности hCaptcha (далее - \"hCaptcha\") на нашем веб-сайте."
+
+#: src/php/Admin/Privacy.php:77
+msgid "We use the hCaptcha service to protect forms on our website from spam and automated bots. hCaptcha provides a verification mechanism to distinguish between human users and bots."
+msgstr "Мы используем сервис hCaptcha для защиты форм на нашем веб-сайте от спама и автоматизированных ботов. hCaptcha предоставляет механизм верификации для различения между человеческими пользователями и ботами."
+
+#: src/php/Admin/Notifications.php:266 src/php/Admin/WhatsNew.php:313
+msgid "Invisible Size"
+msgstr "Невидимая"
+
+#: src/php/Admin/Notifications.php:261 src/php/Admin/WhatsNew.php:308
+#: src/php/Admin/WhatsNew.php:318
+msgid "Upgrade to Pro"
+msgstr "Обновить до Pro"
+
+#. translators: 1: Pro link, 2: size select link.
+#: src/php/Admin/Notifications.php:257 src/php/Admin/WhatsNew.php:304
+msgid "%1$s and use %2$s. The hCaptcha widget will not appear, and the Challenge popup will be shown only to bots."
+msgstr "%1$s и используйте %2$s. Виджет hCaptcha не появится, и всплывающее окно Challenge будет показано только ботам."
+
+#: src/php/Admin/Notifications.php:254 src/php/Admin/WhatsNew.php:300
+msgid "Friction-free “No CAPTCHA” & 99.9% passive modes"
+msgstr "Неинтерактивный «Без CAPTCHA» и 99,9% пассивный режимы"
+
+#: src/php/Settings/ListPageBase.php:319
+msgid "Selected items have been successfully deleted."
+msgstr "Выбранные элементы были успешно удалены."
+
+#: src/php/Settings/Integrations.php:304
+msgid "Replace Really Simple CAPTCHA"
+msgstr "Заменить Really Simple CAPTCHA"
+
+#: src/php/Settings/General.php:566
+msgid "Allowlisted IPs"
+msgstr "Разрешенные IP-адреса"
+
+#. translators: 1: Number of elements.
+#: src/php/Settings/FormsPage.php:189
+msgid "The chart is limited to displaying a maximum of %1$s elements."
+msgstr "Диаграмма ограничена отображением максимум %1$s элементов."
+
+#: src/php/FluentForm/Form.php:178
+msgid "Login failed. Please reload the page."
+msgstr "Ошибка входа. Пожалуйста, перезагрузите страницу."
+
+#: src/php/CF7/Admin.php:334
+msgid "You do not have permission to update the form."
+msgstr "У вас нет разрешения на обновление формы."
+
+#: src/php/Settings/ListPageBase.php:212
+msgid "Doing bulk action..."
+msgstr "Выполняется массовое действие..."
+
+#: src/php/Settings/ListPageBase.php:211
+msgid "Please select at least one item to perform this action on."
+msgstr "Выберите хотя бы один элемент для совершения действия."
+
+#: src/php/Settings/ListPageBase.php:210
+msgid "Please select a bulk action."
+msgstr "Пожалуйста, выберите массовое действие."
+
+#: src/php/Settings/ListPageBase.php:327
+msgid "Invalid bulk action."
+msgstr "Недопустимое массовое действие."
+
+#: src/php/Settings/ListPageBase.php:312
+msgid "Failed to delete the selected items."
+msgstr "Не удалось удалить выбранные элементы."
+
+#: src/php/AutoVerify/AutoVerify.php:130
+msgid "The form was submitted successfully."
+msgstr "Форма была успешно отправлена."
+
+#: src/php/Admin/Events/TableBase.php:143
+msgid "Delete"
+msgstr "Удалить"
+
+#: src/php/Settings/Integrations.php:1723
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "Не удалось подключиться к файловой системе. Пожалуйста, подтвердите свои учетные данные."
+
+#: src/php/Settings/Integrations.php:1517
+msgid "Sorry, you are not allowed to install themes on this site."
+msgstr "Извините, вам не разрешено устанавливать темы на этот сайт."
+
+#: src/php/Settings/Integrations.php:1511
+msgid "No theme specified."
+msgstr "Не указана тема."
+
+#: src/php/Settings/Integrations.php:1305
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "Извините, вам не разрешено устанавливать плагины на этот сайт."
+
+#: src/php/Settings/Integrations.php:1299
+msgid "No plugin specified."
+msgstr "Не указан плагин."
+
+#. translators: 1: Theme name, 2: Error message.
+#: src/php/Settings/Integrations.php:1170
+msgid "Error activating %1$s theme: %2$s"
+msgstr "Ошибка при активации темы %1$s: %2$s"
+
+#. translators: 1: Theme name, 2: Error message.
+#: src/php/Settings/Integrations.php:1164
+msgid "Error installing and activating %1$s theme: %2$s"
+msgstr "Ошибка установки и активации темы %1$s: %2$s"
+
+#. translators: 1: Plugin name, 2: Error message.
+#: src/php/Settings/Integrations.php:1099
+msgid "Error activating %1$s plugin: %2$s"
+msgstr "Ошибка при активации плагина %1$s: %2$s"
+
+#. translators: 1: Plugin name, 2: Error message.
+#: src/php/Settings/Integrations.php:1093
+msgid "Error installing and activating %1$s plugin: %2$s"
+msgstr "Ошибка установки и активации плагина %1$s: %2$s"
+
+#. translators: 1: Plugin name.
+#: src/php/Settings/Integrations.php:1065
+msgid "%s plugin is installed and activated."
+msgid_plural "%s plugins are installed and activated."
+msgstr[0] "Плагин %s установлен и активирован."
+msgstr[1] "Плагины %s установлены и активированы."
+msgstr[2] "Плагины %s установлены и активированы."
+
+#. translators: 1: Theme name.
+#: src/php/Settings/Integrations.php:975
+msgid "Install and activate %s theme?"
+msgstr "Установить и активировать тему %s?"
+
+#. translators: 1: Plugin name.
+#: src/php/Settings/Integrations.php:973
+msgid "Install and activate %s plugin?"
+msgstr "Установить и активировать плагин %s?"
+
+#: src/php/Settings/General.php:612
+msgid "Store collected IP and User Agent locally as hashed values to conform to GDPR requirements."
+msgstr "Храните собранные IP-адреса и User Agent локально в виде хешированных значений, чтобы соответствовать требованиям GDPR."
+
+#: src/php/Settings/General.php:609
+msgid "Collect Anonymously"
+msgstr "Собирать анонимно"
+
+#: src/php/Settings/General.php:546
+msgid "Avoid specifying errors like \"invalid username\" or \"invalid password\" to limit information exposure to attackers."
+msgstr "Избегайте указания ошибок типа \"недопустимое имя пользователя\" или \"недопустимый пароль\", чтобы ограничить раскрытие информации злоумышленникам."
+
+#: src/php/Settings/General.php:544
+msgid "Hide Login Errors"
+msgstr "Скрыть ошибки входа"
+
+#: src/php/Abstracts/LoginBase.php:184
+msgid "Login failed."
+msgstr "Вход не удался."
+
+#. translators: 1: Theme name.
+#: src/php/Settings/Integrations.php:1134
+msgid "No default theme found."
+msgstr "Тема по умолчанию не найдена."
+
+#: src/php/Settings/Integrations.php:387
+msgid "Extra Login Form"
+msgstr "Форма Extra Login"
+
+#: src/php/Settings/Integrations.php:386
+msgid "Extra Email Optin Form"
+msgstr "Форма Extra Email Optin"
+
+#: src/php/Settings/Integrations.php:385
+msgid "Extra Contact Form"
+msgstr "Форма Extra Contact"
+
+#: src/php/Settings/Integrations.php:384
+msgid "Extra Comment Form"
+msgstr "Форма Extra Comment"
+
+#: src/php/Settings/Integrations.php:325
+msgid "Divi Builder Login Form"
+msgstr "Форма Divi Builder Login"
+
+#: src/php/Settings/Integrations.php:324
+msgid "Divi Builder Email Optin Form"
+msgstr "Форма Divi Builder Email Optin"
+
+#: src/php/Settings/Integrations.php:323
+msgid "Divi Builder Contact Form"
+msgstr "Форма Divi Builder Contact"
+
+#: src/php/Settings/Integrations.php:322
+msgid "Divi Builder Comment Form"
+msgstr "Форма Divi Builder Comment"
+
+#: src/php/includes/request.php:83
+msgid "The remoteip parameter is not a valid IP address or blinded value."
+msgstr "Параметр remoteip не является допустимым IP-адресом или скрытым значением."
+
+#: src/php/includes/request.php:82
+msgid "The remoteip parameter is missing."
+msgstr "Параметр remoteip отсутствует."
+
+#: src/php/includes/request.php:80
+msgid "The response parameter (verification token) was already verified once."
+msgstr "Параметр ответа (токен проверки) уже был проверен один раз."
+
+#: src/php/includes/request.php:79
+msgid "The response parameter (verification token) is expired. (120s default)"
+msgstr "Параметр ответа (токен проверки) истек. (по умолчанию 120 секунд)"
+
+#: src/php/Settings/Integrations.php:904
+msgid "Manage integrations with popular plugins and themes such as Contact Form 7, Elementor Pro, WPForms, and more."
+msgstr "Управляйте интеграциями с популярными плагинами и темами, такими как Contact Form 7, Elementor Pro, WPForms и другими."
+
+#: src/php/CF7/Admin.php:197
+msgid "hCaptcha field form-tag generator"
+msgstr "Генератор форм-меток для поля hCaptcha"
+
+#: src/php/CF7/Admin.php:196
+msgid "hCaptcha field"
+msgstr "Поле hCaptcha"
+
+#: src/php/Settings/Integrations.php:593
+msgid "Password Reset Form"
+msgstr "Форма сброса пароля"
+
+#: src/php/Settings/Integrations.php:303
+msgid "Live Form in Admin"
+msgstr "Живая форма в админ-панели"
+
+#: src/php/CF7/Admin.php:145 src/php/CF7/Admin.php:360
+msgid "Live Form"
+msgstr "Живая форма"
+
+#: src/php/CF7/Admin.php:137
+msgid "The Stripe payment element already contains an invisible hCaptcha. No need to add it to the form."
+msgstr "Элемент оплаты Stripe уже содержит невидимый hCaptcha. Нет необходимости добавлять его в форму."
+
+#: src/php/Admin/Notifications.php:452
+msgid "of"
+msgstr "из"
+
+#: src/php/Admin/Notifications.php:368
+msgid "Use live form"
+msgstr "Используйте живую форму"
+
+#: src/php/Admin/Notifications.php:365
+msgid "With the hCaptcha plugin, you can see a live form on the form edit admin page."
+msgstr "С плагином hCaptcha вы можете видеть живую форму на странице редактирования формы в админ-панели."
+
+#: src/php/Admin/Notifications.php:364
+msgid "Live form in Contact Form 7 admin"
+msgstr "Живая форма в админке Contact Form 7"
+
+#: src/php/Admin/Notifications.php:248 src/php/Admin/Notifications.php:271
+#: src/php/Admin/Notifications.php:294
+msgid "See an example"
+msgstr "Смотрите пример"
+
+#: src/php/Admin/Notifications.php:245
+msgid "Add hCaptcha to Elementor Pro Form in the Elementor admin editor."
+msgstr "Добавьте hCaptcha в форму Elementor Pro в редакторе администратора Elementor."
+
+#: src/php/Admin/Notifications.php:244
+msgid "Add hCaptcha to Elementor Pro Form"
+msgstr "Добавьте hCaptcha к форме Elementor Pro."
+
+#: src/php/Admin/Notifications.php:239
+msgid "Try auto-activation"
+msgstr "Попробуйте автоактивацию"
+
+#: src/php/Admin/Notifications.php:236
+msgid "Automatic activation of dependent plugins on the Integrations page. Try to activate Elementor or Woo Wishlists."
+msgstr "Автоматическое активирование зависимых плагинов на странице Интеграций. Попробуйте активировать Elementor или Woo Wishlists."
+
+#: src/php/Admin/Notifications.php:235
+msgid "Activation of dependent plugins"
+msgstr "Активация зависимых плагинов"
+
+#. Plugin Name of the plugin
+#: hcaptcha.php
+msgid "hCaptcha for WP"
+msgstr "hCaptcha для WP"
+
+#: src/php/Settings/ListPageBase.php:523
+msgid "Last 1 year"
+msgstr "1 год"
+
+#: src/php/Settings/ListPageBase.php:522
+msgid "Last 90 days"
+msgstr "90 дней"
+
+#: src/php/Settings/ListPageBase.php:521
+msgid "Last 30 days"
+msgstr "30 дней"
+
+#: src/php/Settings/ListPageBase.php:520
+msgid "Last 7 days"
+msgstr "7 дней"
+
+#: src/php/Settings/ListPageBase.php:519
+msgid "Yesterday"
+msgstr "Вчера"
+
+#: src/php/Settings/ListPageBase.php:518
+msgid "Today"
+msgstr "Сегодня"
+
+#: src/php/Settings/ListPageBase.php:273
+msgid "Apply"
+msgstr "Применить"
+
+#: src/php/Settings/ListPageBase.php:253
+msgid "Datepicker options"
+msgstr "Настройки даты"
+
+#: src/php/Settings/General.php:410
+msgid "When on, the hCaptcha admin menu is placed under Settings."
+msgstr "Когда включено, меню администратора hCaptcha размещается в разделе \"Настройки\"."
+
+#: src/php/Settings/General.php:408
+msgid "Tabs"
+msgstr "Вкладки"
+
+#: src/php/Settings/General.php:404
+msgid "Tabs Menu Under Settings"
+msgstr "Меню со вкладками в Настройках"
+
+#: src/php/Settings/General.php:399
+msgid "Force"
+msgstr "Форсировать"
+
+#: src/php/Settings/SystemInfo.php:92
+msgid "Cannot copy info to the clipboard."
+msgstr "Невозможно скопировать информацию в буфер обмена."
+
+#: src/php/Admin/Events/FormsTable.php:78
+msgid "Table ordered by Served Count."
+msgstr "Таблица упорядочена по количеству обслуженных."
+
+#: src/php/Admin/Events/EventsTable.php:87
+msgid "Table ordered by Date GMT."
+msgstr "Таблица упорядочена по дате по Гринвичу."
+
+#: src/php/Admin/Events/EventsTable.php:86
+msgid "Date GMT"
+msgstr "Дата GMT"
+
+#: src/php/Admin/Events/EventsTable.php:81
+#: src/php/Admin/Events/FormsTable.php:72
+msgid "Table ordered by Form Id."
+msgstr "Таблица упорядочена по Id формы."
+
+#: src/php/Admin/Events/EventsTable.php:75
+#: src/php/Admin/Events/FormsTable.php:66
+msgid "Table ordered by Source."
+msgstr "Таблица упорядочена по источнику."
+
+#: src/php/Admin/Events/TableBase.php:99
+msgid "Number of items per page:"
+msgstr "Количество элементов на странице."
+
+#: src/php/Settings/Integrations.php:360
+msgid "Register"
+msgstr "Регистрация"
+
+#: src/php/Settings/General.php:756
+msgid "hCaptcha Enterprise Required"
+msgstr "Требуется hCaptcha Enterprise"
+
+#: src/php/Settings/General.php:748
+msgid "hCaptcha Pro Required"
+msgstr "Требуется hCaptcha Pro"
+
+#: src/php/Settings/General.php:663
+msgid "- Select Property -"
+msgstr "- Выберите свойство -"
+
+#: src/php/Settings/General.php:629
+msgid "Allow collecting of User Agent headers of users sending forms."
+msgstr "Разрешить сбор заголовков User Agent пользователей, отправляющих формы."
+
+#: src/php/Settings/General.php:627
+msgid "Collect User Agent"
+msgstr "Собирать User Agent"
+
+#: src/php/Settings/General.php:621
+msgid "Allow collecting of IP addresses from which forms were sent."
+msgstr "Разрешить сбор IP-адресов, с которых были отправлены формы."
+
+#: src/php/Settings/General.php:619
+msgid "Collect IP"
+msgstr "Собирать IP"
+
+#: src/php/Settings/General.php:615
+msgid "Collection"
+msgstr "Сбор"
+
+#: src/php/Settings/General.php:603
+msgid "By turning the statistics on, you agree to the collection of non-personal data to improve the plugin."
+msgstr "Включая статистику, вы соглашаетесь на сбор неперсональных данных для улучшения плагина."
+
+#: src/php/Settings/General.php:601
+msgid "Enable Statistics"
+msgstr "Включить статистику"
+
+#: src/php/Settings/General.php:597 src/php/Settings/General.php:714
+msgid "Statistics"
+msgstr "Статистика"
+
+#: src/php/Settings/General.php:443
+msgid "Set property value."
+msgstr "Установить значение свойства."
+
+#: src/php/Settings/General.php:440
+msgid "Value"
+msgstr "Значение"
+
+#: src/php/Settings/General.php:437
+msgid "Select custom theme property."
+msgstr "Выберите свойство пользовательской темы."
+
+#: src/php/Settings/General.php:433
+msgid "Property"
+msgstr "Свойство"
+
+#: src/php/Settings/General.php:401
+msgid "Force hCaptcha check before submit."
+msgstr "Принудительно проверять hCaptcha перед отправкой."
+
+#: src/php/Settings/FormsPage.php:169
+msgid "It is an example of the Forms page."
+msgstr "Это пример страницы Формы."
+
+#. translators: 1: Statistics link.
+#: src/php/Settings/FormsPage.php:156
+msgid "Want to see forms statistics? Please turn on the %1$s on the General settings page."
+msgstr "Хотите увидеть статистику форм? Пожалуйста, включите %1$s на странице настроек."
+
+#: src/php/Settings/FormsPage.php:56
+msgid "Forms"
+msgstr "Формы"
+
+#: src/php/Settings/EventsPage.php:200 src/php/Settings/FormsPage.php:181
+msgid "Your browser does not support the canvas element."
+msgstr "Ваш браузер не поддерживает элемент canvas."
+
+#: src/php/Settings/EventsPage.php:188
+msgid "It is an example of the Events page."
+msgstr "Это пример страницы События."
+
+#: src/php/Settings/EventsPage.php:180
+msgid "Pro account"
+msgstr "Учётная запись Pro"
+
+#: src/php/Settings/EventsPage.php:174 src/php/Settings/FormsPage.php:161
+msgid "Statistics switch"
+msgstr "Переключатель статистики"
+
+#. translators: 1: Statistics link, 2: Pro account link.
+#: src/php/Settings/EventsPage.php:169
+msgid "Want to see events statistics? Please turn on the %1$s on the General settings page and upgrade to %2$s."
+msgstr "Хотите увидеть статистику событий? Пожалуйста, включите %1$s на странице настроек и обновитесь до %2$s."
+
+#: src/php/Settings/EventsPage.php:142
+msgid "Failed"
+msgstr "Неудачные"
+
+#: src/php/Settings/EventsPage.php:141
+msgid "Succeed"
+msgstr "Успешные"
+
+#: src/php/Settings/EventsPage.php:64
+msgid "Events"
+msgstr "События"
+
+#: src/php/Admin/Notifications.php:230
+msgid "Turn on force"
+msgstr "Включить принудительную проверку"
+
+#: src/php/Admin/Notifications.php:227
+msgid "Force hCaptcha check before submitting the form and simplify the user experience."
+msgstr "Принудительно проверять hCaptcha перед отправкой формы и упрощать действия пользователя."
+
+#: src/php/Admin/Notifications.php:226 src/php/Settings/General.php:395
+msgid "Force hCaptcha"
+msgstr "Принудительно проверять hCaptcha"
+
+#: src/php/Admin/Notifications.php:211
+msgid "upgrade to Pro"
+msgstr "обновить до Pro"
+
+#. translators: 1: statistics switch link, 2: Pro link, 3: the 'forms' page
+#. link.
+#: src/php/Admin/Notifications.php:202
+msgid "%1$s events statistics and %2$s to %3$s complete statistics on form events."
+msgstr "%1$s статистику событий and %2$s для того, чтобы %3$s полную статистику событий формы."
+
+#: src/php/Admin/Notifications.php:199
+msgid "Events admin page"
+msgstr "Страница События"
+
+#: src/php/Admin/Notifications.php:194 src/php/Admin/Notifications.php:221
+msgid "Turn on stats"
+msgstr "Включите статистику"
+
+#: src/php/Admin/Notifications.php:189 src/php/Admin/Notifications.php:216
+msgid "see"
+msgstr "увидеть"
+
+#: src/php/Admin/Notifications.php:184 src/php/Admin/Notifications.php:206
+msgid "Turn on"
+msgstr "Включите"
+
+#. translators: 1: statistics switch link, 2: the 'forms' page link.
+#: src/php/Admin/Notifications.php:180
+msgid "%1$s events statistics and %2$s how your forms are used."
+msgstr "%1$s статистику событий и %2$s, как используются ваши формы."
+
+#: src/php/Admin/Notifications.php:177
+msgid "Events statistics and Forms admin page"
+msgstr "Статистика событий и страница Формы"
+
+#: src/php/Admin/Events/FormsTable.php:49
+#: src/php/Admin/Events/FormsTable.php:77 src/php/Settings/FormsPage.php:130
+msgid "Served"
+msgstr "Обслужено"
+
+#: src/php/Admin/Events/EventsTable.php:57
+msgid "Date"
+msgstr "Дата"
+
+#: src/php/Admin/Events/EventsTable.php:56
+msgid "Errors"
+msgstr "Ошибки"
+
+#: src/php/Admin/Events/EventsTable.php:55
+msgid "User Agent"
+msgstr "User Agent"
+
+#: src/php/Admin/Events/EventsTable.php:54
+msgid "IP"
+msgstr "IP"
+
+#: src/php/Admin/Events/EventsTable.php:53
+#: src/php/Admin/Events/EventsTable.php:80
+#: src/php/Admin/Events/FormsTable.php:48
+#: src/php/Admin/Events/FormsTable.php:71
+msgid "Form Id"
+msgstr "Id формы"
+
+#: src/php/Admin/Events/EventsTable.php:52
+#: src/php/Admin/Events/EventsTable.php:74
+#: src/php/Admin/Events/FormsTable.php:47
+#: src/php/Admin/Events/FormsTable.php:65
+msgid "Source"
+msgstr "Источник"
+
+#: src/php/Settings/Integrations.php:352 src/php/Settings/Integrations.php:359
+msgid "Login"
+msgstr "Логин"
+
+#: src/php/Settings/General.php:830
+msgid "Before checking the site config, please complete the Active hCaptcha in the current section."
+msgstr "Перед проверкой конфигурации сайта, пожалуйста, решите Активную hCaptcha в текущем разделе."
+
+#: src/php/Settings/General.php:828
+msgid "Checking site config..."
+msgstr "Проверка конфигурации сайта..."
+
+#: src/php/Admin/Notifications.php:172
+msgid "Get started"
+msgstr "Начало работы"
+
+#: src/php/Admin/Notifications.php:169
+msgid "The hCaptcha plugin commenced support for Enterprise features. Solve your fraud and abuse problem today."
+msgstr "Плагин hCaptcha начал поддержку функций для предприятий. Решите свою проблему с мошенничеством и злоупотреблением уже сегодня."
+
+#: src/php/Admin/Notifications.php:168
+msgid "Support for Enterprise features"
+msgstr "Поддержка функций для предприятий"
+
+#: src/php/Admin/Notifications.php:154
+msgid "Rate"
+msgstr "Поставить оценку"
+
+#: src/php/Admin/Notifications.php:138
+msgid "Rate hCaptcha plugin"
+msgstr "Оцените плагин hCaptcha"
+
+#: src/php/Settings/Integrations.php:988 src/php/Settings/ListPageBase.php:270
+msgid "Cancel"
+msgstr "Отменить"
+
+#: src/php/GravityForms/Field.php:300 src/php/NF/NF.php:178
+#: src/php/Settings/General.php:831 src/php/Settings/Integrations.php:987
+#: src/php/Settings/SystemInfo.php:93
+msgid "OK"
+msgstr "OK"
+
+#: src/php/Settings/Integrations.php:986
+msgid "Unexpected error."
+msgstr "Непредвиденная ошибка."
+
+#: src/php/Settings/Integrations.php:985
+msgid "Cannot deactivate the only theme on the site."
+msgstr "Невозможно деактивировать единственную тему на сайте."
+
+#: src/php/Settings/Integrations.php:984
+msgid "Select theme to activate:"
+msgstr "Выберите тему для активации:"
+
+#: src/php/Settings/Integrations.php:874
+msgid "Search plugins and themes..."
+msgstr "Искать плагины и темы..."
+
+#: src/php/Settings/General.php:979
+msgid "Cannot save section status."
+msgstr "Не удается сохранить статус раздела."
+
+#: src/php/includes/request.php:158
+msgid "Cannot decode hCaptcha server response."
+msgstr "Не удается расшифровать ответ сервера hCaptcha."
+
+#: src/php/Settings/General.php:502
+msgid "Backend"
+msgstr "Бэкенд"
+
+#: src/php/Admin/Notifications.php:163
+msgid "Start search"
+msgstr "Начать поиск"
+
+#: src/php/Admin/Notifications.php:160
+msgid "You can search for plugin an themes on the Integrations page."
+msgstr "Теперь вы можете искать плагины и темы на странице Интеграции."
+
+#: src/php/Admin/Notifications.php:159
+msgid "Search on Integrations page"
+msgstr "Поиск на странице Интеграций"
+
+#: src/php/Settings/General.php:496
+msgid "Sentry"
+msgstr "Сторож"
+
+#: src/php/Settings/General.php:490
+msgid "Report API"
+msgstr "API отчётов"
+
+#: src/php/Settings/General.php:484
+msgid "Image Host"
+msgstr "Хост изображений"
+
+#: src/php/Settings/General.php:478
+msgid "Host"
+msgstr "Хост"
+
+#: src/php/Settings/General.php:472
+msgid "Endpoint"
+msgstr "Эндпойнт"
+
+#: src/php/Settings/General.php:466
+msgid "Asset Host"
+msgstr "Хост ассетов"
+
+#: src/php/Settings/General.php:463 src/php/Settings/General.php:469
+#: src/php/Settings/General.php:475 src/php/Settings/General.php:481
+#: src/php/Settings/General.php:487 src/php/Settings/General.php:493
+#: src/php/Settings/General.php:499 src/php/Settings/General.php:506
+msgid "See Enterprise docs."
+msgstr "Смотрите документацию Enterprise."
+
+#: src/php/Settings/General.php:459
+msgid "API Host"
+msgstr "Хост API"
+
+#: src/php/Settings/Integrations.php:208
+msgid "Affiliates Register Form"
+msgstr "Форма Affiliates Register"
+
+#: src/php/Settings/Integrations.php:207
+msgid "Affiliates Login Form"
+msgstr "Форма Affiliates Login"
+
+#: src/php/Settings/General.php:385
+msgid "Test: Enterprise Account (Bot Detected)"
+msgstr "Тест: Учётная запись предприятия (обнаружен бот)"
+
+#: src/php/Settings/General.php:384
+msgid "Test: Enterprise Account (Safe End User)"
+msgstr "Тест: Учётная запись предприятия (безопасный конечный пользователь)"
+
+#: src/php/Settings/General.php:383
+msgid "Test: Publisher Account"
+msgstr "Тест: Учётная запись издателя"
+
+#: src/php/Settings/General.php:382
+msgid "Live"
+msgstr "Реальный"
+
+#: src/php/Settings/General.php:369
+msgid "Zulu"
+msgstr "Зулусский"
+
+#: src/php/Settings/General.php:368
+msgid "Yoruba"
+msgstr "Йоруба"
+
+#: src/php/Settings/General.php:367
+msgid "Yiddish"
+msgstr "Идиш"
+
+#: src/php/Settings/General.php:366
+msgid "Xhosa"
+msgstr "Коса"
+
+#: src/php/Settings/General.php:365
+msgid "Welsh"
+msgstr "Валлийский"
+
+#: src/php/Settings/General.php:364
+msgid "Vietnamese"
+msgstr "Вьетнамский"
+
+#: src/php/Settings/General.php:363
+msgid "Uzbek"
+msgstr "Узбекский"
+
+#: src/php/Settings/General.php:362
+msgid "Urdu"
+msgstr "Урду"
+
+#: src/php/Settings/General.php:361
+msgid "Ukrainian"
+msgstr "Украинский"
+
+#: src/php/Settings/General.php:360
+msgid "Uyghur"
+msgstr "Уйгур"
+
+#: src/php/Settings/General.php:359
+msgid "Turkmen"
+msgstr "Туркменский"
+
+#: src/php/Settings/General.php:358
+msgid "Turkish"
+msgstr "Турецкий"
+
+#: src/php/Settings/General.php:357
+msgid "Thai"
+msgstr "Тайский"
+
+#: src/php/Settings/General.php:356
+msgid "Telugu"
+msgstr "Телугу"
+
+#: src/php/Settings/General.php:355
+msgid "Tatar"
+msgstr "Татарский"
+
+#: src/php/Settings/General.php:354
+msgid "Tamil"
+msgstr "Tamil"
+
+#: src/php/Settings/General.php:353
+msgid "Tajik"
+msgstr "Таджикский"
+
+#: src/php/Settings/General.php:352
+msgid "Tagalog"
+msgstr "Тагальский"
+
+#: src/php/Settings/General.php:351
+msgid "Swedish"
+msgstr "Шведский"
+
+#: src/php/Settings/General.php:350
+msgid "Swahili"
+msgstr "Суахили"
+
+#: src/php/Settings/General.php:349
+msgid "Sundanese"
+msgstr "Сунданский"
+
+#: src/php/Settings/General.php:348
+msgid "Spanish"
+msgstr "Испанский"
+
+#: src/php/Settings/General.php:347
+msgid "Southern Sotho"
+msgstr "Северный сото"
+
+#: src/php/Settings/General.php:346
+msgid "Somali"
+msgstr "Сомалийский"
+
+#: src/php/Settings/General.php:345
+msgid "Slovenian"
+msgstr "Словенский"
+
+#: src/php/Settings/General.php:344
+msgid "Slovak"
+msgstr "Словацкий"
+
+#: src/php/Settings/General.php:343
+msgid "Serbian"
+msgstr "Сербский"
+
+#: src/php/Settings/General.php:342
+msgid "Sinhala"
+msgstr "Сингальский"
+
+#: src/php/Settings/General.php:341
+msgid "Sindhi"
+msgstr "Синдхи"
+
+#: src/php/Settings/General.php:340
+msgid "Shona"
+msgstr "Шона"
+
+#: src/php/Settings/General.php:339
+msgid "Samoan"
+msgstr "Самоанский"
+
+#: src/php/Settings/General.php:338
+msgid "Russian"
+msgstr "Русский"
+
+#: src/php/Settings/General.php:337
+msgid "Romanian"
+msgstr "Румынский"
+
+#: src/php/Settings/General.php:336
+msgid "Punjabi"
+msgstr "Панджаби"
+
+#: src/php/Settings/General.php:335
+msgid "Pashto"
+msgstr "Пушту"
+
+#: src/php/Settings/General.php:334
+msgid "Portuguese"
+msgstr "Португальский"
+
+#: src/php/Settings/General.php:333
+msgid "Polish"
+msgstr "Польский"
+
+#: src/php/Settings/General.php:332
+msgid "Oriya"
+msgstr "Орийский"
+
+#: src/php/Settings/General.php:331
+msgid "Nyanja"
+msgstr "Ньянджа"
+
+#: src/php/Settings/General.php:330
+msgid "Norwegian"
+msgstr "Норвежский"
+
+#: src/php/Settings/General.php:329
+msgid "Nepali"
+msgstr "Непальский"
+
+#: src/php/Settings/General.php:328
+msgid "Mongolian"
+msgstr "Монгольский"
+
+#: src/php/Settings/General.php:327
+msgid "Marathi"
+msgstr "Маратхский"
+
+#: src/php/Settings/General.php:326
+msgid "Maori"
+msgstr "Маори"
+
+#: src/php/Settings/General.php:325
+msgid "Maltese"
+msgstr "Мальтийский"
+
+#: src/php/Settings/General.php:324
+msgid "Malayalam"
+msgstr "Малайяламский"
+
+#: src/php/Settings/General.php:323
+msgid "Malay"
+msgstr "Малайский"
+
+#: src/php/Settings/General.php:322
+msgid "Malagasy"
+msgstr "Малагасийский"
+
+#: src/php/Settings/General.php:321
+msgid "Macedonian"
+msgstr "Македонский"
+
+#: src/php/Settings/General.php:320
+msgid "Luxembourgish"
+msgstr "Люксембургский"
+
+#: src/php/Settings/General.php:319
+msgid "Lithuanian"
+msgstr "Литовский"
+
+#: src/php/Settings/General.php:318
+msgid "Latvian"
+msgstr "Латвийский"
+
+#: src/php/Settings/General.php:317
+msgid "Latin"
+msgstr "Latin"
+
+#: src/php/Settings/General.php:316
+msgid "Lao"
+msgstr "Лаосский"
+
+#: src/php/Settings/General.php:315
+msgid "Kurdish"
+msgstr "Курдский"
+
+#: src/php/Settings/General.php:314
+msgid "Korean"
+msgstr "Корейский"
+
+#: src/php/Settings/General.php:313
+msgid "Kirghiz"
+msgstr "Киргизский"
+
+#: src/php/Settings/General.php:312
+msgid "Kinyarwanda"
+msgstr "Киньяруандский"
+
+#: src/php/Settings/General.php:311
+msgid "Khmer"
+msgstr "Кхмерский"
+
+#: src/php/Settings/General.php:310
+msgid "Kazakh"
+msgstr "Казахский"
+
+#: src/php/Settings/General.php:309
+msgid "Kannada"
+msgstr "Каннада"
+
+#: src/php/Settings/General.php:308
+msgid "Javanese"
+msgstr "Яванский"
+
+#: src/php/Settings/General.php:307
+msgid "Japanese"
+msgstr "Японская"
+
+#: src/php/Settings/General.php:306
+msgid "Italian"
+msgstr "Итальянский"
+
+#: src/php/Settings/General.php:305
+msgid "Irish"
+msgstr "Ирландский"
+
+#: src/php/Settings/General.php:304
+msgid "Indonesian"
+msgstr "Индонезийский"
+
+#: src/php/Settings/General.php:303
+msgid "Igbo"
+msgstr "Игбо"
+
+#: src/php/Settings/General.php:302
+msgid "Icelandic"
+msgstr "Исландский"
+
+#: src/php/Settings/General.php:301
+msgid "Hungarian"
+msgstr "Венгерский"
+
+#: src/php/Settings/General.php:300
+msgid "Hmong"
+msgstr "Хмонг"
+
+#: src/php/Settings/General.php:299
+msgid "Hindi"
+msgstr "Hindi"
+
+#: src/php/Settings/General.php:298
+msgid "Hebrew"
+msgstr "Иврит"
+
+#: src/php/Settings/General.php:297
+msgid "Hawaiian"
+msgstr "Гавайский"
+
+#: src/php/Settings/General.php:296
+msgid "Hausa"
+msgstr "Хауса"
+
+#: src/php/Settings/General.php:295
+msgid "Haitian"
+msgstr "Гаитянский"
+
+#: src/php/Settings/General.php:294
+msgid "Gujarati"
+msgstr "Гуджаратский"
+
+#: src/php/Settings/General.php:293
+msgid "Greek"
+msgstr "Греческий"
+
+#: src/php/Settings/General.php:292
+msgid "German"
+msgstr "Немецкий"
+
+#: src/php/Settings/General.php:291
+msgid "Georgian"
+msgstr "Грузинский"
+
+#: src/php/Settings/General.php:290
+msgid "Galician"
+msgstr "Галисийский"
+
+#: src/php/Settings/General.php:289
+msgid "Gaelic"
+msgstr "Гэльский"
+
+#: src/php/Settings/General.php:288
+msgid "Frisian"
+msgstr "Фризский"
+
+#: src/php/Settings/General.php:287
+msgid "French"
+msgstr "Французский"
+
+#: src/php/Settings/General.php:286
+msgid "Finnish"
+msgstr "Финский"
+
+#: src/php/Settings/General.php:285
+msgid "Persian"
+msgstr "Персидский"
+
+#: src/php/Settings/General.php:284
+msgid "Estonian"
+msgstr "Эстонский"
+
+#: src/php/Settings/General.php:283
+msgid "Esperanto"
+msgstr "Эсперанто"
+
+#: src/php/Settings/General.php:282
+msgid "English"
+msgstr "Английский"
+
+#: src/php/Settings/General.php:281
+msgid "Dutch"
+msgstr "Голландский"
+
+#: src/php/Settings/General.php:280
+msgid "Danish"
+msgstr "Датский"
+
+#: src/php/Settings/General.php:279
+msgid "Czech"
+msgstr "Чешский"
+
+#: src/php/Settings/General.php:278
+msgid "Croatian"
+msgstr "Хорватский"
+
+#: src/php/Settings/General.php:277
+msgid "Corsican"
+msgstr "Корсиканский"
+
+#: src/php/Settings/General.php:276
+msgid "Chinese Traditional"
+msgstr "Китайский традиционный"
+
+#: src/php/Settings/General.php:275
+msgid "Chinese Simplified"
+msgstr "Китайский упрощенный"
+
+#: src/php/Settings/General.php:274
+msgid "Chinese"
+msgstr "Китайский"
+
+#: src/php/Settings/General.php:273
+msgid "Cebuano"
+msgstr "Себуанский"
+
+#: src/php/Settings/General.php:272
+msgid "Catalan"
+msgstr "Каталонский"
+
+#: src/php/Settings/General.php:271
+msgid "Burmese"
+msgstr "Бирманский"
+
+#: src/php/Settings/General.php:270
+msgid "Bosnian"
+msgstr "Боснийский"
+
+#: src/php/Settings/General.php:269
+msgid "Bulgarian"
+msgstr "Болгарский"
+
+#: src/php/Settings/General.php:268
+msgid "Bengali"
+msgstr "Бенгальский"
+
+#: src/php/Settings/General.php:267
+msgid "Belarusian"
+msgstr "Беларусский"
+
+#: src/php/Settings/General.php:266
+msgid "Basque"
+msgstr "Баскский"
+
+#: src/php/Settings/General.php:265
+msgid "Azerbaijani"
+msgstr "Азербайджанский"
+
+#: src/php/Settings/General.php:264
+msgid "Armenian"
+msgstr "Армянский"
+
+#: src/php/Settings/General.php:263
+msgid "Arabic"
+msgstr "Арабский"
+
+#: src/php/Settings/General.php:262
+msgid "Amharic"
+msgstr "Амхарский"
+
+#: src/php/Settings/General.php:261
+msgid "Albanian"
+msgstr "Албанский"
+
+#: src/php/Settings/General.php:260
+msgid "Afrikaans"
+msgstr "Африканский"
+
+#: src/php/Settings/General.php:259
+msgid "--- Auto-Detect ---"
+msgstr "--- Автоопределение ---"
+
+#: src/php/includes/request.php:90
+msgid "Bad hCaptcha signature!"
+msgstr "Неверная подпись hCaptcha!"
+
+#: src/php/Helpers/HCaptcha.php:348
+msgid "General settings page"
+msgstr "Страница общих настроек"
+
+#: src/php/CF7/Admin.php:198
+msgid "Generate a form-tag for a hCaptcha field."
+msgstr "Создайте тег формы для поля hCaptcha."
+
+#: src/php/Affiliates/Register.php:138
+msgid "ERROR"
+msgstr "ОШИБКА"
+
+#. translators: 1: Theme name.
+#: src/php/Settings/Integrations.php:1182
+msgid "%s theme is activated."
+msgstr "Тема %s активирована."
+
+#. translators: 1: Theme name.
+#: src/php/Settings/Integrations.php:983
+msgid "Deactivate %s theme?"
+msgstr "Деактивировать тему %s?"
+
+#. translators: 1: Theme name.
+#: src/php/Settings/Integrations.php:981
+msgid "Activate %s theme?"
+msgstr "Активировать тему %s?"
+
+#: src/php/Settings/Integrations.php:302 src/php/Settings/Integrations.php:426
+#: src/php/Settings/Integrations.php:687
+msgid "Form Embed"
+msgstr "Вставка в форму"
+
+#: src/php/Settings/Integrations.php:301 src/php/Settings/Integrations.php:425
+#: src/php/Settings/Integrations.php:686
+msgid "Form Auto-Add"
+msgstr "Авто-добавление в форму"
+
+#: src/php/Settings/General.php:239
+msgid "Auto"
+msgstr "Авто"
+
+#: src/php/NF/NF.php:177
+msgid "Only one hCaptcha field allowed."
+msgstr "Разрешено только одно поле hCaptcha."
+
+#: src/php/GravityForms/Field.php:299
+msgid "Only one hCaptcha field can be added to the form."
+msgstr "В форму можно добавить только одно поле hCaptcha."
+
+#: src/php/GravityForms/Field.php:158
+msgid "hCaptcha settings must be modified on the hCaptcha plugin General settings page."
+msgstr "Настройки hCaptcha должны быть изменены на странице общих настроек плагина hCaptcha."
+
+#: src/php/GravityForms/Field.php:153
+msgid "Adds a hCaptcha field to your form to help protect your website from spam and bot abuse."
+msgstr "Добавляет поле hCaptcha в вашу форму, чтобы помочь защитить ваш веб-сайт от спама и злоупотребления ботами."
+
+#: src/php/Admin/Notifications.php:567
+msgid "Error removing dismissed notifications."
+msgstr "Ошибка удаления отклоненных уведомлений."
+
+#: src/php/Admin/Notifications.php:518
+msgid "Error dismissing notification."
+msgstr "Ошибка отклонения уведомления."
+
+#: src/php/Admin/Notifications.php:134
+msgid "Read post"
+msgstr "Читать запись"
+
+#: src/php/Admin/Notifications.php:131
+msgid "hCaptcha Named a Technology Leader in Bot Management: 2023 SPARK Matrix™"
+msgstr "hCaptcha отмечена как Технологический Лидер в Bot Management: 2023 SPARK Matrix™"
+
+#: src/php/Admin/Notifications.php:130
+msgid "hCaptcha's Leadership"
+msgstr "Лидерство hCaptcha"
+
+#: src/php/includes/request.php:150
+msgid "Cannot communicate with hCaptcha server."
+msgstr "Ошибка при взаимодействии с сервером hCaptcha"
+
+#: src/php/Settings/General.php:808
+msgid "Please complete hCaptcha and check the site config."
+msgstr "Пожалуйста, заполните hCaptcha и проверьте конфигурацию сайта."
+
+#: src/php/Settings/General.php:807
+msgid "Credentials changed."
+msgstr "Данные доступа изменены."
+
+#: src/php/Settings/General.php:216
+msgid "Active hCaptcha to Check Site Config"
+msgstr "Активная hCaptcha для проверки конфигурации сайта"
+
+#: src/php/Settings/Integrations.php:651
+msgid "Forgot Password Form"
+msgstr "Форма забытого пароля"
+
+#: src/php/Settings/Integrations.php:539 src/php/Settings/Integrations.php:546
+msgid "Protection Form"
+msgstr "Форма защиты"
+
+#: src/php/Settings/Integrations.php:450
+msgid "Kadence Advanced Form"
+msgstr "Продвинутая форма Kadence"
+
+#. translators: 1: link to the General setting page
+#: src/php/Helpers/HCaptcha.php:344
+msgid "When hCaptcha plugin is active and integration is on, hCaptcha settings must be modified on the %1$s."
+msgstr "Когда hCaptcha плагин активирован и интеграция включена, hCaptcha установки должны быть модифицированы в %1$s."
+
+#: src/php/Helpers/HCaptcha.php:340
+msgid "hCaptcha plugin is active"
+msgstr "hCaptcha плагин активен"
+
+#: src/php/Settings/General.php:229
+msgid "Reset"
+msgstr "Сбросить"
+
+#: src/php/Settings/General.php:227
+msgid "Reset Notifications"
+msgstr "Сбросить уведомления"
+
+#: src/php/Admin/Notifications.php:396
+msgid "Notifications"
+msgstr "Уведомления"
+
+#: src/php/Admin/Notifications.php:126
+msgid "Try Pro"
+msgstr "Попробовать Pro"
+
+#: src/php/Admin/Notifications.php:121
+msgid "Start a free trial in your dashboard"
+msgstr "Начните бесплатный пробный период в вашей панели управления"
+
+#: src/php/Admin/Notifications.php:116
+msgid "hCaptcha Pro"
+msgstr "hCaptcha Pro"
+
+#. translators: 1: hCaptcha Pro link, 2: dashboard link.
+#: src/php/Admin/Notifications.php:112
+msgid "Want low friction and custom themes? %1$s is for you. %2$s, no credit card required."
+msgstr "Хотите минимальное взаимодействие и пользовательские темы? %1$s для вас. %2$s, кредитная карта не требуется."
+
+#: src/php/Admin/Notifications.php:109
+msgid "Try Pro for free"
+msgstr "Попробуйте Pro бесплатно"
+
+#: src/php/Admin/Notifications.php:105
+msgid "Get site keys"
+msgstr "Получить ключи сайта"
+
+#: src/php/Admin/Notifications.php:100
+msgid "here"
+msgstr "здесь"
+
+#. translators: 1: hCaptcha link, 2: register link.
+#: src/php/Admin/Notifications.php:91
+msgid "To use %1$s, please register %2$s to get your site and secret keys."
+msgstr "Чтобы использовать %1$s, пожалуйста, зарегистрируйтесь %2$s, чтобы получить свой ключ сайта и секретный ключ."
+
+#: src/php/Admin/Notifications.php:88
+msgid "Get your hCaptcha site keys"
+msgstr "Получить ключи hCaptcha для сайта"
+
+#: src/php/Settings/Integrations.php:554
+msgid "Recover Password Form"
+msgstr "Форма Recover Password"
+
+#: src/php/Settings/General.php:1029
+msgid "Site configuration error"
+msgstr "Ошибка конфигурации сайта"
+
+#: src/php/Settings/General.php:881
+msgid "hCaptcha is in invisible mode."
+msgstr "hCaptcha находится в невидимом режиме."
+
+#: src/php/Settings/General.php:223
+msgid "Check"
+msgstr "Проверить"
+
+#: src/php/Settings/General.php:221
+msgid "Check Site Config"
+msgstr "Проверить конфигурацию сайта"
+
+#: src/php/Settings/SystemInfo.php:116
+msgid "Copy system info to clipboard"
+msgstr "Копировать системную информацию в буфер обмена"
+
+#: src/php/Settings/SystemInfo.php:91
+msgid "System info copied to the clipboard."
+msgstr "Системная информация скопирована в буфер обмена."
+
+#: src/php/Settings/SystemInfo.php:46
+msgid "System Info"
+msgstr "Система"
+
+#: src/php/Settings/Integrations.php:695
+msgid "Subscribe Form"
+msgstr "Форма подписки"
+
+#: src/php/Settings/Integrations.php:314
+msgid "Divi Email Optin Form"
+msgstr "Форма Divi Email Optin"
+
+#: src/php/Settings/Integrations.php:230
+msgid "Back In Stock Notifier Form"
+msgstr "Форма Back In Stock Notifier"
+
+#. translators: 1: Plugin name.
+#: src/php/Settings/Integrations.php:1113
+msgid "%s plugin is deactivated."
+msgstr "Плагин %s был деактивирован."
+
+#. translators: 1: Plugin name.
+#: src/php/Settings/Integrations.php:1075
+#: src/php/Settings/Integrations.php:1191
+msgid "%s plugin is activated."
+msgid_plural "%s plugins are activated."
+msgstr[0] "Плагин %s активирован."
+msgstr[1] "Плагины %s активированы."
+msgstr[2] "Плагины %s активированы."
+
+#: src/php/Admin/Notifications.php:512 src/php/Admin/Notifications.php:563
+#: src/php/Admin/WhatsNew.php:184 src/php/Settings/PluginSettingsBase.php:297
+msgid "You are not allowed to perform this action."
+msgstr "Вам не разрешено выполнять это действие."
+
+#: src/php/Admin/Notifications.php:507 src/php/Admin/Notifications.php:558
+#: src/php/Admin/WhatsNew.php:179 src/php/CF7/Admin.php:328
+#: src/php/Settings/PluginSettingsBase.php:292
+msgid "Your session has expired. Please reload the page."
+msgstr "Ваша сессия истекла. Пожалуйста, перегрузите страницу."
+
+#. translators: 1: Plugin name.
+#: src/php/Settings/Integrations.php:979
+msgid "Deactivate %s plugin?"
+msgstr "Деактивировать плагин %s?"
+
+#. translators: 1: Plugin name.
+#: src/php/Settings/Integrations.php:977
+msgid "Activate %s plugin?"
+msgstr "Активировать плагин %s?"
+
+#: src/php/Settings/Integrations.php:907
+msgid "You can activate and deactivate a plugin or theme by clicking on its logo."
+msgstr "Вы можете активировать и деактивировать плагин или тему по клику на логотип."
+
+#: src/php/Settings/Integrations.php:449
+msgid "Kadence Form"
+msgstr "Форма Kadence"
+
+#: src/php/Settings/Integrations.php:200
+msgid "ACF Extended Form"
+msgstr "Форма ACF Extended"
+
+#: src/php/Settings/General.php:594
+msgid "Delay time for loading the hCaptcha API script. Any negative value will prevent the API script from loading until user interaction: mouseenter, click, scroll or touch. This significantly improves Google Pagespeed Insights score."
+msgstr "Время задержки загрузки API-скрипта hCaptcha. Любое отрицательное значение не позволит API-скрипту загрузиться до момента взаимодействия с пользователем: mouseenter, click, scroll или touch. Это значительно улучшает показатели Google Pagespeed Insights."
+
+#: src/php/Settings/General.php:588
+msgid "Delay showing hCaptcha, ms"
+msgstr "Задержка при отображении hCaptcha, мс"
+
+#: src/php/Settings/General.php:585
+msgid "Time interval in minutes when failed login attempts are counted."
+msgstr "Интервал времени в минутах, в течение которого ведется подсчет неудачных попыток входа в систему."
+
+#: src/php/Settings/General.php:580
+msgid "Failed login attempts interval, min"
+msgstr "Интервал неудачных попыток входа, мин"
+
+#: src/php/Settings/General.php:577
+msgid "Maximum number of failed login attempts before showing hCaptcha."
+msgstr "Максимальное количество неудачных попыток входа в систему перед показом hCaptcha."
+
+#: src/php/Settings/General.php:572
+msgid "Login attempts before hCaptcha"
+msgstr "Попытки входа в систему до появления hCaptcha"
+
+#: src/php/Settings/Integrations.php:223
+msgid "Avada Form"
+msgstr "Форма Avada"
+
+#: src/php/Settings/Integrations.php:332
+msgid "Button"
+msgstr "Кнопка"
+
+#: src/php/Settings/Integrations.php:192
+msgid "Post/Page Password Form"
+msgstr "Форма пароля поста/страницы"
+
+#: src/php/Quform/Quform.php:112
+msgid "Please enable JavaScript to submit this form."
+msgstr "Пожалуйста, включите JavaScript для отправки этой формы."
+
+#: src/php/includes/request.php:117 src/php/includes/request.php:351
+msgid "hCaptcha error:"
+msgid_plural "hCaptcha errors:"
+msgstr[0] "Ошибка hCaptcha:"
+msgstr[1] "Ошибки hCaptcha:"
+msgstr[2] "Ошибки hCaptcha:"
+
+#: src/php/includes/request.php:89
+msgid "Bad hCaptcha nonce!"
+msgstr "Неправильный код hCaptcha nonce!"
+
+#: src/php/includes/request.php:85
+msgid "The sitekey is not registered with the provided secret."
+msgstr "Ключ сайта не зарегистрирован с предоставленным секретом."
+
+#: src/php/includes/request.php:84
+msgid "You have used a testing sitekey but have not used its matching secret."
+msgstr "Вы использовали тестовый ключ сайта, но не использовали соответствующий ему секрет."
+
+#: src/php/includes/request.php:81
+msgid "The request is invalid or malformed."
+msgstr "Запрос недействителен или неправильно сформирован."
+
+#: src/php/includes/request.php:78
+msgid "The response parameter (verification token) is invalid or malformed."
+msgstr "Параметр ответа (токен проверки) недействителен или неправильно сформирован."
+
+#: src/php/includes/request.php:77
+msgid "The response parameter (verification token) is missing."
+msgstr "Отсутствует параметр ответа (токен проверки)."
+
+#: src/php/includes/request.php:76
+msgid "Your secret key is invalid or malformed."
+msgstr "Ваш секретный ключ недействителен или неправильно сформирован."
+
+#: src/php/includes/request.php:75
+msgid "Your secret key is missing."
+msgstr "Ваш секретный ключ отсутствует."
+
+#: src/php/DownloadManager/DownloadManager.php:105
+msgid "hCaptcha error"
+msgstr "Ошибка hCaptcha"
+
+#. translators: 1: plugin version.
+#: src/php/Settings/PluginSettingsBase.php:277
+msgid "Version %s"
+msgstr "Версия %s"
+
+#. translators: 1: plugin name, 2: wp.org review link with stars, 3: wp.org
+#. review link with text.
+#: src/php/Admin/Notifications.php:141
+#: src/php/Settings/PluginSettingsBase.php:241
+msgid "Please rate %1$s %2$s on %3$s. Thank you!"
+msgstr "Пожалуйста, оцените %1$s %2$s на %3$s. Спасибо!"
+
+#: src/php/Settings/Integrations.php:932
+msgid "Active plugins and themes"
+msgstr "Активные плагины и темы"
+
+#: src/php/Settings/Integrations.php:926
+msgid "request an integration"
+msgstr "запросить интеграцию"
+
+#: src/php/Settings/Integrations.php:921
+msgid "shortcode"
+msgstr "шорткод"
+
+#. translators: 1: hCaptcha shortcode doc link, 2: integration doc link.
+#: src/php/Settings/Integrations.php:917
+msgid "Don't see your plugin or theme here? Use the `[hcaptcha]` %1$s or %2$s."
+msgstr "Не видите здесь своего плагина или тему? Используйте `[hcaptcha]` %1$s или %2$s."
+
+#: src/php/Settings/Integrations.php:893
+msgid "Inactive plugins and themes"
+msgstr "Неактивные плагины и темы"
+
+#: src/php/Settings/Integrations.php:671
+msgid "Create List Form"
+msgstr "Форма Create List"
+
+#: src/php/Settings/Integrations.php:663
+msgid "Order Tracking Form"
+msgstr "Форма Order Tracking"
+
+#: src/php/Settings/Integrations.php:340 src/php/Settings/Integrations.php:467
+#: src/php/Settings/Integrations.php:531 src/php/Settings/Integrations.php:632
+#: src/php/Settings/Integrations.php:660
+msgid "Checkout Form"
+msgstr "Форма Checkout"
+
+#: src/php/Settings/Integrations.php:249 src/php/Settings/Integrations.php:274
+#: src/php/Settings/Integrations.php:441
+msgid "Contact Form"
+msgstr "Форма Contact"
+
+#: src/php/Settings/Integrations.php:315
+msgid "Divi Login Form"
+msgstr "Форма Divi Login"
+
+#: src/php/Settings/Integrations.php:313
+msgid "Divi Contact Form"
+msgstr "Форма Divi Contact"
+
+#: src/php/Settings/Integrations.php:312
+msgid "Divi Comment Form"
+msgstr "Форма Divi Comment"
+
+#: src/php/Settings/Integrations.php:215 src/php/Settings/Integrations.php:258
+#: src/php/Settings/Integrations.php:284 src/php/Settings/Integrations.php:351
+#: src/php/Settings/Integrations.php:367 src/php/Settings/Integrations.php:394
+#: src/php/Settings/Integrations.php:402 src/php/Settings/Integrations.php:409
+#: src/php/Settings/Integrations.php:417 src/php/Settings/Integrations.php:433
+#: src/php/Settings/Integrations.php:485 src/php/Settings/Integrations.php:493
+#: src/php/Settings/Integrations.php:516 src/php/Settings/Integrations.php:523
+#: src/php/Settings/Integrations.php:562 src/php/Settings/Integrations.php:570
+#: src/php/Settings/Integrations.php:577 src/php/Settings/Integrations.php:584
+#: src/php/Settings/Integrations.php:601 src/php/Settings/Integrations.php:608
+#: src/php/Settings/Integrations.php:615 src/php/Settings/Integrations.php:710
+msgid "Form"
+msgstr "Форма"
+
+#: src/php/Settings/Integrations.php:266
+msgid "Create Group Form"
+msgstr "Форма Create Group"
+
+#: src/php/Settings/Integrations.php:241 src/php/Settings/Integrations.php:703
+msgid "Reply Form"
+msgstr "Форма Reply"
+
+#: src/php/Settings/Integrations.php:239 src/php/Settings/Integrations.php:702
+msgid "New Topic Form"
+msgstr "Форма New Topic"
+
+#: src/php/Settings/Integrations.php:193 src/php/Settings/Integrations.php:240
+#: src/php/Settings/Integrations.php:267 src/php/Settings/Integrations.php:277
+#: src/php/Settings/Integrations.php:293 src/php/Settings/Integrations.php:343
+#: src/php/Settings/Integrations.php:460 src/php/Settings/Integrations.php:469
+#: src/php/Settings/Integrations.php:477 src/php/Settings/Integrations.php:509
+#: src/php/Settings/Integrations.php:555 src/php/Settings/Integrations.php:592
+#: src/php/Settings/Integrations.php:624 src/php/Settings/Integrations.php:635
+#: src/php/Settings/Integrations.php:644 src/php/Settings/Integrations.php:653
+#: src/php/Settings/Integrations.php:664
+msgid "Register Form"
+msgstr "Форма Register"
+
+#: src/php/Settings/Integrations.php:191 src/php/Settings/Integrations.php:238
+#: src/php/Settings/Integrations.php:276 src/php/Settings/Integrations.php:292
+#: src/php/Settings/Integrations.php:342 src/php/Settings/Integrations.php:459
+#: src/php/Settings/Integrations.php:623 src/php/Settings/Integrations.php:634
+#: src/php/Settings/Integrations.php:643 src/php/Settings/Integrations.php:662
+msgid "Lost Password Form"
+msgstr "Форма Lost Password"
+
+#: src/php/Settings/Integrations.php:190 src/php/Settings/Integrations.php:237
+#: src/php/Settings/Integrations.php:250 src/php/Settings/Integrations.php:275
+#: src/php/Settings/Integrations.php:291 src/php/Settings/Integrations.php:341
+#: src/php/Settings/Integrations.php:458 src/php/Settings/Integrations.php:468
+#: src/php/Settings/Integrations.php:476 src/php/Settings/Integrations.php:500
+#: src/php/Settings/Integrations.php:508 src/php/Settings/Integrations.php:532
+#: src/php/Settings/Integrations.php:553 src/php/Settings/Integrations.php:591
+#: src/php/Settings/Integrations.php:622 src/php/Settings/Integrations.php:633
+#: src/php/Settings/Integrations.php:642 src/php/Settings/Integrations.php:652
+#: src/php/Settings/Integrations.php:661 src/php/Settings/Integrations.php:679
+msgid "Login Form"
+msgstr "Форма Login"
+
+#: src/php/Settings/Integrations.php:189 src/php/Settings/Integrations.php:694
+msgid "Comment Form"
+msgstr "Форма Comment"
+
+#: src/php/Settings/Integrations.php:117
+msgid "Integrations"
+msgstr "Интеграции"
+
+#: src/php/Settings/General.php:711
+msgid "Other"
+msgstr "Прочее"
+
+#: src/php/Settings/General.php:702 src/php/Settings/ListPageBase.php:524
+msgid "Custom"
+msgstr "Кастомизация"
+
+#: src/php/Settings/General.php:699
+msgid "Appearance"
+msgstr "Внешний вид"
+
+#: src/php/Settings/General.php:696
+msgid "Keys"
+msgstr "Ключи"
+
+#: src/php/Settings/General.php:563
+msgid "On multisite, use same settings for all sites of the network."
+msgstr "При многосайтовости используйте одинаковые настройки для всех сайтов сети."
+
+#: src/php/Settings/General.php:561
+msgid "Use network-wide settings"
+msgstr "Использовать единые настройки по мультисайту"
+
+#: src/php/Settings/General.php:569
+msgid "Do not show hCaptcha for listed IP addresses. Please specify one IP address per line."
+msgstr "Не показывать hCaptcha для перечисленных IP-адресов. Пожалуйста, указывайте по одному IP-адресу в строке."
+
+#: src/php/Settings/General.php:538
+msgid "Use if including both hCaptcha and reCAPTCHA on the same page."
+msgstr "Используется, если на одной странице присутствуют и hCaptcha, и reCAPTCHA."
+
+#: src/php/Settings/General.php:536
+msgid "Disable reCAPTCHA Compatibility"
+msgstr "Отключить совместимость с reCAPTCHA"
+
+#: src/php/Settings/General.php:530
+msgid "Do not show hCaptcha to logged-in users."
+msgstr "Не показывать hCaptcha вошедшим в систему пользователям."
+
+#: src/php/Settings/General.php:524
+msgid "Other Settings"
+msgstr "Прочие настройки"
+
+#: src/php/Settings/General.php:454
+msgid "parameters"
+msgstr "параметры"
+
+#. translators: 1: hCaptcha render params doc link.
+#: src/php/Settings/General.php:451
+msgid "hCaptcha render %s (optional). Must be a valid JSON."
+msgstr "hCaptcha %s отображения (необязательно). Должен быть корректным JSON."
+
+#: src/php/Settings/General.php:446
+msgid "Config Params"
+msgstr "Параметры конфигурации"
+
+#: src/php/Settings/General.php:428 src/php/Settings/General.php:705
+msgid "Enterprise"
+msgstr "Предприятие"
+
+#: src/php/Admin/Notifications.php:289 src/php/Admin/WhatsNew.php:282
+#: src/php/Settings/General.php:424
+msgid "Pro"
+msgstr "Pro"
+
+#. translators: 1: hCaptcha Pro link, 2: hCaptcha Enterprise link.
+#: src/php/Settings/General.php:421
+msgid "Note: only works on hCaptcha %1$s and %2$s site keys."
+msgstr "Примечание: работает только с ключами сайта hCaptcha %1$s и %2$s."
+
+#: src/php/Settings/General.php:417
+msgid "Enable Custom Themes"
+msgstr "Разрешить кастомные темы"
+
+#: src/php/Settings/General.php:413
+msgid "Custom Themes"
+msgstr "Кастомные темы"
+
+#: src/php/Settings/General.php:389
+msgid "Select live or test mode. In test mode, predefined keys are used."
+msgstr "Выберите режим реального времени или тестовый режим. В тестовом режиме используются предопределенные клавиши."
+
+#: src/php/Settings/General.php:377
+msgid "Mode"
+msgstr "Режим"
+
+#: src/php/Settings/General.php:371
+msgid "By default, hCaptcha will automatically detect the user's locale and localize widgets accordingly."
+msgstr "По умолчанию hCaptcha автоматически определяет локаль пользователя и соответствующим образом локализует виджеты."
+
+#: src/php/Settings/General.php:255
+msgid "Language"
+msgstr "Язык"
+
+#: src/php/Settings/General.php:252
+msgid "Select hCaptcha size."
+msgstr "Выберите размер hCaptcha."
+
+#: src/php/Settings/General.php:244
+msgid "Size"
+msgstr "Размер"
+
+#: src/php/Settings/General.php:241
+msgid "Select hCaptcha theme."
+msgstr "Выберите тему hCaptcha."
+
+#: src/php/Settings/General.php:233
+msgid "Theme"
+msgstr "Тема"
+
+#: src/php/Settings/General.php:211
+msgid "Secret Key"
+msgstr "Секретный ключ"
+
+#: src/php/Settings/General.php:204
+msgid "Site Key"
+msgstr "Ключ сайта"
+
+#: src/php/Settings/General.php:140
+msgid "General"
+msgstr "Общие"
+
+#. Description of the plugin
+#: hcaptcha.php
+msgid "hCaptcha keeps out bots and spam while putting privacy first. It is a drop-in replacement for reCAPTCHA."
+msgstr "hCaptcha защищает от ботов и спама, ставя на первое место конфиденциальность. Она является полноценной заменой reCAPTCHA."
+
+#: src/php/ElementorPro/HCaptchaHandler.php:202
+msgid "To use hCaptcha, you need to add the Site and Secret keys."
+msgstr "Чтобы использовать hCaptcha, вам нужно добавить ключ API и Секретный ключ."
+
+#: src/php/Settings/General.php:250
+msgid "Invisible"
+msgstr "Невидимый"
+
+#: src/php/Settings/General.php:528
+msgid "Turn Off When Logged In"
+msgstr "Отключить для вошедших пользователей"
+
+#: src/php/WP/Comment.php:162
+msgid "Invalid Captcha"
+msgstr "Неверная капча"
+
+#: src/php/Settings/PluginSettingsBase.php:150
+msgid "Settings"
+msgstr "Настройки"
+
+#: src/php/Kadence/AdvancedForm.php:138 src/php/Kadence/Form.php:118
+msgid "hCaptcha Failed"
+msgstr "Ошибка капчи"
+
+#: src/php/includes/request.php:87 src/php/Settings/General.php:829
+msgid "Please complete the hCaptcha."
+msgstr "Пожалуйста, заполните капчу."
+
+#: src/php/Settings/General.php:249
+msgid "Compact"
+msgstr "Компактный"
+
+#: src/php/Settings/General.php:248
+msgid "Normal"
+msgstr "Обычный"
+
+#: src/php/Settings/General.php:238
+msgid "Dark"
+msgstr "Тёмная"
+
+#: src/php/Settings/General.php:237
+msgid "Light"
+msgstr "Светлая"
+
+#: src/php/Settings/PluginSettingsBase.php:141
+msgid "hCaptcha Settings"
+msgstr "Настройки hCaptcha"
+
+#: src/php/includes/request.php:88
+msgid "The hCaptcha is invalid."
+msgstr "Неверная капча."
+
+#. Author of the plugin
+#: hcaptcha.php src/php/Admin/Notifications.php:95 src/php/CF7/Admin.php:179
+#: src/php/ElementorPro/HCaptchaHandler.php:395 src/php/NF/Field.php:76
+#: src/php/Settings/PluginSettingsBase.php:55 src/php/UM/Base.php:144
+#: src/php/UM/Base.php:147
+msgid "hCaptcha"
+msgstr "hCaptcha"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: hcaptcha.php
+msgid "https://www.hcaptcha.com/"
+msgstr "https://hcaptcha.com/"

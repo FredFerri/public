@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8' />
+<link href='../core/main.css' rel='stylesheet' />
+<link href='../daygrid/main.css' rel='stylesheet' />
+<link href='../timegrid/main.css' rel='stylesheet' />
+<link href='../list/main.css' rel='stylesheet' />
+<script src='../core/main.js'></script>
+<script src='../core/locales-all.js'></script>
+<script src='../interaction/main.js'></script>
+<script src='../daygrid/main.js'></script>
+<script src='../timegrid/main.js'></script>
+<script src='../list/main.js'></script>
+<script>
+
+  document.addEventListener('DOMContentLoaded', function() {
+    var initialLocaleCode = 'en';
+    var localeSelectorEl = document.getElementById('locale-selector');
+    var calendarEl = document.getElementById('calendar');
+
+    var calendar = new FullCalendar.Calendar(calendarEl, {
+      plugins: [ 'interaction', 'dayGrid', 'timeGrid', 'list' ],
+      header: {
+        left: 'prev',
+        center: 'title',
+        right: 'today next'
+      },
+      locale: 'fr',
+      buttonIcons: true, // show the prev/next text
+      weekNumbers: false,
+      navLinks: false, // can click day/week names to navigate views
+      editable: false,
+      eventLimit: false, // allow "more" link when too many events
+      events: [
+          { start : '2020-01-23', title : 'Bertrand Estrangin- “Kujungka- Young and Old Together”' }, { start : '2020-01-23', title : 'Bai Kamara Jr & The Voodoo Sniffers' }, { start : '2020-01-23', title : 'Je parle à un homme qui ne tient pas en place' }, { start : '2020-01-23', title : 'Countdown - VF' }, { start : '2020-01-23', title : 'F.C. De Kampioenen 4 - NV' }, { start : '2020-01-23', title : 'La Voie de la Justice - OV' }, { start : '2020-01-23', title : 'Les Incognitos - VF' }, { start : '2020-01-23', title : '1917 - OV' }, { start : '2020-01-23', title : 'Jumanji: Next Level - VF' }, { start : '2020-01-23', title : 'La Reine des Neiges 2 - VF' }, { start : '2020-01-23', title : 'Star Wars: L\'Ascension de Skywalker - VF' }, { start : '2020-01-23', title : 'Musée Foyer: DoucheFLUX' }, { start : '2020-01-23', title : 'IL TRADITORE' }, { start : '2020-01-23', title : 'Des caravelles & des batailles' }, { start : '2020-01-23', title : '"Kurdewarî, pays des Kurdes" par Maxime Crozet' }, { start : '2020-01-23', title : 'Les Falaises' }, { start : '2020-01-23', title : 'Visites guidées Architects at Play' }, { start : '2020-01-23', title : 'Dieu le père' }, { start : '2020-01-23', title : 'Memento Mons, Cabinets de découvertes' }, { start : '2020-01-23', title : 'LITTLE JOE' }, { start : '2020-01-23', title : 'SEULES LES BETES' }, { start : '2020-01-23', title : 'Matan Mittwoch, solo show' }, { start : '2020-01-23', title : 'Manhattan Lockdown - VF' }, { start : '2020-01-23', title : 'Jumanji: Next Level - OV' }, { start : '2020-01-23', title : 'La Reine des Neiges 2 - OV' }]
+    });
+
+    calendar.render();
+  });
+
+</script>
+<style>
+
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 14px;
+  }
+
+  #top {
+    background: #eee;
+    border-bottom: 1px solid #ddd;
+    padding: 0 10px;
+    line-height: 40px;
+    font-size: 12px;
+  }
+
+  #calendar {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 10px;
+  }
+
+</style>
+</head>
+<body>
+
+
+  <div id='calendar'></div>
+
+</body>
+</html>

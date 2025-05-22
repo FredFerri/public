@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+ <channel>
+  <title>BX1 - Le cinéma belge et ses histoires</title>
+  <link>https://bx1plus.be/</link>
+  <description>Un cinéaste, des histoires. Maëlle Grand Bossi explore les étapes de l'aventure de la réalisation d'un film belge avec un réalisateur.</description>
+  <itunes:summary>Un cinéaste, des histoires. Maëlle Grand Bossi explore les étapes de l'aventure de la réalisation d'un film belge avec un réalisateur.</itunes:summary>
+  <copyright>BX1 - 2025. Tous droits réservés.</copyright>
+  <image>
+   <url>https://bx1.be/wp-content/uploads/2025/04/1.jpg</url>
+   <title>https://bx1.be/wp-content/uploads/2025/04/1.jpg</title>
+  </image>
+  <itunes:author>BX1</itunes:author>
+  <itunes:owner>
+   <itunes:name>BX1+</itunes:name>
+   <itunes:email>web@bx1.be</itunes:email>
+  </itunes:owner>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:category text="News"/>
+  <language>fr</language>
+  <lastBuildDate>Wed, 14 May 2025 17:15:15 +0200</lastBuildDate>
+  <itunes:image href="https://bx1.be/wp-content/uploads/2025/04/1.jpg"/>
+  <item>
+   <title>Le cinéma belge et ses histoires avec César Diaz &amp;#8211; Mexico 86</title>
+   <guid>752576</guid>
+   <link>https://bx1.be/?p=752576</link>
+   <pubDate></pubDate>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="https://bx1.be/wp-content/uploads/2025/04/1.jpg"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EJL_CINEMA_HIST_2.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>Le cinéma belge et ses histoires avec César Diaz - Mexico 86</itunes:summary>
+   <description>Le cinéma belge et ses histoires avec César Diaz - Mexico 86</description>
+  </item>
+  <item>
+   <title>Le cinéma belge et ses histoires avec Delphine Girard &amp;#8211; Quitter la nuit</title>
+   <guid>752609</guid>
+   <link>https://bx1.be/?p=752609</link>
+   <pubDate></pubDate>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="https://bx1.be/wp-content/uploads/2025/04/1.jpg"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EJL_HIST_CINE_DELPHINE.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>Le cinéma belge et ses histoires avec Delphine Girard - Quitter la nuit</itunes:summary>
+   <description>Le cinéma belge et ses histoires avec Delphine Girard - Quitter la nuit</description>
+  </item>
+  <item>
+   <title>Le cinéma belge et ses histoires avec Michèle Jacob &amp;#8211; Les enfants perdus</title>
+   <guid>752606</guid>
+   <link>https://bx1.be/?p=752606</link>
+   <pubDate></pubDate>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="https://bx1.be/wp-content/uploads/2025/04/1.jpg"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EJL_HIST_CINE_MICHELLE.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>Le cinéma belge et ses histoires avec Michèle Jacob - Les enfants perdus</itunes:summary>
+   <description>Le cinéma belge et ses histoires avec Michèle Jacob - Les enfants perdus</description>
+  </item>
+  <item>
+   <title>Le cinéma belge et ses histoires avec Ish et Monir Aït Hamou- BXL</title>
+   <guid>752600</guid>
+   <link>https://bx1.be/?p=752600</link>
+   <pubDate></pubDate>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="https://bx1.be/wp-content/uploads/2025/04/1.jpg"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EJL_HIST_CINE_BXL.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>Le cinéma belge et ses histoires avec Ish et Monir Aït Hamou- BXL</itunes:summary>
+   <description>Le cinéma belge et ses histoires avec Ish et Monir Aït Hamou- BXL</description>
+  </item>
+  <item>
+   <title>Le cinéma belge et ses histoires avec Fabrice Du Welz &amp;#8211; Maldoror</title>
+   <guid>752550</guid>
+   <link>https://bx1.be/?p=752550</link>
+   <pubDate></pubDate>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="https://bx1.be/wp-content/uploads/2025/04/1.jpg"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EJL_CINEMA_HIST_1.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>Le cinéma belge et ses histoires avec Fabrice Du Welz</itunes:summary>
+   <description>Le cinéma belge et ses histoires avec Fabrice Du Welz</description>
+  </item>
+ </channel>
+</rss>

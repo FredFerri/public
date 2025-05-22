@@ -1,0 +1,240 @@
+$color-bx1-pink: #EB1F7C;
+$color-light: #FFFFFF;
+$color-box-border: silver;
+$categories-id-list: 1 23 49 57 70 71 74 84 87 88 90 102 118;
+$categories-name-list: "Concert" "Exposition" "Théâtre" "Clubbing" "Foire et Salon" "Marchés et Brocantes" "Sport" "Divers" "Divers / Kermesses et Festivités" "Divers / Jeux et Quizz" "Animations" "Visites Guidées" "Festivals";
+$colors-list: #7863ff #7f2d94 #ff4a4a #7564e2 #aea4ee #ce3f3f #10a665 #006767 #810000 #670000 #c9a2bf #f279d5 #f593fb;
+$colors-text-list: #FFFFFF #FFFFFF #FFFFFF #FFFFFF #000000 #000000 #FFFFFF #FFFFFF #FFFFFF #000000 #000000 #000000 #000000;
+.results-layout{
+  background-color:$color-bx1-pink;
+  text-align: right;
+  color: $color-light;
+  margin: 15px 0;
+  padding: 10px;
+  div.buttons{
+    right:0px;
+    i{
+      cursor: pointer;
+    }
+  }
+}
+.results-agenda{
+  column-count: 5;
+  column-gap: 1em;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+  div.calitem{
+    display: inline-block;
+    margin: 0 0 1em;
+    width: 100%;
+    h4,span{
+      padding: 0 7px;
+    }
+    img{
+      margin: auto;
+    }
+    span{
+      display: block;
+      &.item-category{
+        font-size: 9pt;
+        text-align: left;
+        margin-top: 5px;
+      }
+      &.item-button{
+        margin-top: 10px;
+        cursor:pointer;
+        padding:5px;
+        color:$color-light;
+        font-size: 10pt;
+        text-align: center;
+        font-weight: bold;
+      }
+      &.item-date{
+        font-size: 12px;
+        font-family: sys-tt, sans-serif;
+      }
+      &.item-location{
+        font-size: 20px;
+        font-family: titular, sans-serif;
+        padding-bottom: 7px!important;
+      }
+    }
+    h4{
+      margin-top: 4px;
+      margin-bottom: 10px;
+    }
+  }
+}
+.period_picker_input{
+  top: -13px!important;
+  line-height: 1.4!important;
+  font-size: 16px!important;
+  padding: 8px 0!important;
+}
+.agenda-detail{
+  .title{
+    font-size: 1.25rem;
+    h1{
+      font-family: titular, sans-serif;
+      padding-left: 15px;
+      margin-bottom: 0;
+    }
+    @each $current-category in $categories-id-list {
+      $i: index($categories-id-list, $current-category);
+      $color: nth($colors-list, $i);
+      $text-color: nth($colors-text-list, $i);
+      $red: red($color);
+      $green: green($color);
+      $blue: blue($color);
+      /* #{$current-category} - #{nth($categories-name-list, $i)} */
+      &.category#{nth($categories-id-list,$i)} {
+        background-color: $color;
+        color: $text-color;
+      }
+    }
+  }
+  .links div{
+    display: inline-block;
+    span{
+      display: none;
+    }
+  }
+  .categories{
+    font-size: 0.65rem;
+    line-height: 1.5rem;
+    vertical-align: baseline;
+    padding-left: 20px;
+    font-family: titular, sans-serif;
+    .square{
+      width: 12px;
+      height: 12px;
+      border-radius: 3px;
+      display: inline-block;
+      margin-right:10px;
+    }
+    h1{
+      margin-top: 0;
+    }
+    @each $current-category in $categories-id-list {
+      $i: index($categories-id-list, $current-category);
+      $color: nth($colors-list, $i);
+      $red: red($color);
+      $green: green($color);
+      $blue: blue($color);
+      /* #{$current-category} - #{nth($categories-name-list, $i)} */
+      &.category#{nth($categories-id-list,$i)} {
+
+        border-top: 3px solid $color;
+        color: $color;
+        .square{
+          background-color: $color;
+        }
+      }
+    }
+  }
+
+  .row {
+    div{
+      display: inline-block;
+    }
+    .imagetop {
+      width: 64%!important;
+      padding-right: 8px;
+      margin: auto;
+      text-align: center;
+      img{
+        max-height: 650px!important;
+        border-radius: 8px;
+      }
+    }
+    .informations {
+
+      vertical-align: top;
+      width: 33%!important;
+      padding-left: 8px;
+      & span
+        {
+          margin-top:0!important;
+        }
+      & div{
+        padding-left: 8px;
+      }
+      .infotitle{
+        display: table-cell;
+        font-weight: bold;
+      }
+      & .infocontent.address span{
+        width: 49%!important;
+        display: inline-block!important;
+        margin:0!important;
+        font-weight: normal!important;
+
+      }
+    }
+  }
+  .description, .medias, .informations{
+    text-align: justify;
+    span{
+      font-family: titular, sans-serif;
+      font-size: 1.4rem;
+      display: block;
+      width: 100%!important;
+      font-weight: bold;
+      margin-top: 30px;
+      margin-bottom: 15px;
+      padding-top:4px;
+      padding-left:15px;
+      padding-bottom: 4px;
+      @each $current-category in $categories-id-list {
+        $i: index($categories-id-list, $current-category);
+        $color: nth($colors-list, $i);
+        $text-color: nth($colors-text-list, $i);
+        $red: red($color);
+        $green: green($color);
+        $blue: blue($color);
+        /* #{$current-category} - #{nth($categories-name-list, $i)} */
+        &.category#{nth($categories-id-list,$i)} {
+          background-color: $color;
+          color: $text-color;
+        }
+      }
+    }
+    img{
+    margin: 8px;
+    border-radius: 8px;
+    }
+  }
+  .description span.daysopen,.description span.hoursopen{
+    margin:0;
+    padding: 0;
+    padding-left: 20px;
+    width: 20%!important;
+    display: inline-block;
+  }
+  .medias .medialist{
+    column-count: 4;
+    column-gap: 1em;
+  }
+}
+/* Class par type d'événements*/
+@each $current-category in $categories-id-list {
+  $i: index($categories-id-list, $current-category);
+  $color: nth($colors-list, $i);
+  $red: red($color);
+  $green: green($color);
+  $blue: blue($color);
+  /* #{$current-category} - #{nth($categories-name-list, $i)} */
+  .type-#{nth($categories-id-list,$i)} {
+    border:1px solid $color-box-border;
+    background-color: rgba($red, $green, $blue, 0.20);
+    img{
+      border-bottom: 4px solid $color;
+    }
+    .item-category{
+      color: $color;
+    }
+    i.bubbles, .item-button{
+      background-color: $color;
+    }
+  }
+}

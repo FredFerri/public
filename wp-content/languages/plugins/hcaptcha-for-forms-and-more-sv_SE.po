@@ -1,0 +1,255 @@
+# Translation of Plugins - hCaptcha for WP - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - hCaptcha for WP - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-09 17:44:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - hCaptcha for WP - Stable (latest release)\n"
+
+#: src/php/Settings/Integrations.php:332
+msgid "Button"
+msgstr "Knapp"
+
+#: src/php/includes/request.php:75
+msgid "Your secret key is missing."
+msgstr "Din hemliga nyckel saknas."
+
+#: src/php/DownloadManager/DownloadManager.php:105
+msgid "hCaptcha error"
+msgstr "hCaptcha-fel"
+
+#: src/php/includes/request.php:117 src/php/includes/request.php:351
+msgid "hCaptcha error:"
+msgid_plural "hCaptcha errors:"
+msgstr[0] "hCaptcha-fel:"
+msgstr[1] "hCaptcha-fel:"
+
+#: src/php/includes/request.php:89
+msgid "Bad hCaptcha nonce!"
+msgstr "Felaktig engångskod för hCaptcha!"
+
+#. translators: 1: plugin version.
+#: src/php/Settings/PluginSettingsBase.php:275
+msgid "Version %s"
+msgstr "Version %s"
+
+#: src/php/Settings/Integrations.php:917
+msgid "Active plugins and themes"
+msgstr "Aktiva tillägg och teman"
+
+#: src/php/Settings/Integrations.php:906
+msgid "shortcode"
+msgstr "kortkod"
+
+#: src/php/Settings/Integrations.php:340 src/php/Settings/Integrations.php:459
+#: src/php/Settings/Integrations.php:523 src/php/Settings/Integrations.php:617
+#: src/php/Settings/Integrations.php:645
+msgid "Checkout Form"
+msgstr "Kassaformulär"
+
+#: src/php/Settings/Integrations.php:249 src/php/Settings/Integrations.php:274
+#: src/php/Settings/Integrations.php:433
+msgid "Contact Form"
+msgstr "Kontaktformulär"
+
+#: src/php/Settings/Integrations.php:215 src/php/Settings/Integrations.php:258
+#: src/php/Settings/Integrations.php:284 src/php/Settings/Integrations.php:351
+#: src/php/Settings/Integrations.php:367 src/php/Settings/Integrations.php:386
+#: src/php/Settings/Integrations.php:394 src/php/Settings/Integrations.php:401
+#: src/php/Settings/Integrations.php:409 src/php/Settings/Integrations.php:425
+#: src/php/Settings/Integrations.php:477 src/php/Settings/Integrations.php:485
+#: src/php/Settings/Integrations.php:508 src/php/Settings/Integrations.php:515
+#: src/php/Settings/Integrations.php:547 src/php/Settings/Integrations.php:555
+#: src/php/Settings/Integrations.php:562 src/php/Settings/Integrations.php:569
+#: src/php/Settings/Integrations.php:586 src/php/Settings/Integrations.php:593
+#: src/php/Settings/Integrations.php:600 src/php/Settings/Integrations.php:695
+msgid "Form"
+msgstr "Formulär"
+
+#: src/php/Settings/Integrations.php:241 src/php/Settings/Integrations.php:688
+msgid "Reply Form"
+msgstr "Svarsformulär"
+
+#: src/php/Settings/Integrations.php:193 src/php/Settings/Integrations.php:240
+#: src/php/Settings/Integrations.php:267 src/php/Settings/Integrations.php:277
+#: src/php/Settings/Integrations.php:293 src/php/Settings/Integrations.php:343
+#: src/php/Settings/Integrations.php:452 src/php/Settings/Integrations.php:461
+#: src/php/Settings/Integrations.php:469 src/php/Settings/Integrations.php:501
+#: src/php/Settings/Integrations.php:540 src/php/Settings/Integrations.php:577
+#: src/php/Settings/Integrations.php:609 src/php/Settings/Integrations.php:620
+#: src/php/Settings/Integrations.php:629 src/php/Settings/Integrations.php:638
+#: src/php/Settings/Integrations.php:649
+msgid "Register Form"
+msgstr "Registreringsformulär"
+
+#: src/php/Settings/Integrations.php:191 src/php/Settings/Integrations.php:238
+#: src/php/Settings/Integrations.php:276 src/php/Settings/Integrations.php:292
+#: src/php/Settings/Integrations.php:342 src/php/Settings/Integrations.php:451
+#: src/php/Settings/Integrations.php:608 src/php/Settings/Integrations.php:619
+#: src/php/Settings/Integrations.php:628 src/php/Settings/Integrations.php:647
+msgid "Lost Password Form"
+msgstr "Formulär för glömt lösenord"
+
+#: src/php/Settings/Integrations.php:189 src/php/Settings/Integrations.php:679
+msgid "Comment Form"
+msgstr "Kommentarsformulär"
+
+#: src/php/Settings/Integrations.php:117
+msgid "Integrations"
+msgstr "Integrationer"
+
+#: src/php/Settings/General.php:679
+msgid "Other"
+msgstr "Andra"
+
+#: src/php/Settings/General.php:673 src/php/Settings/ListPageBase.php:524
+msgid "Custom"
+msgstr "Anpassad"
+
+#: src/php/Settings/General.php:670
+msgid "Appearance"
+msgstr "Utseende"
+
+#: src/php/Settings/General.php:667
+msgid "Keys"
+msgstr "Nycklar"
+
+#: src/php/Settings/General.php:504
+msgid "Other Settings"
+msgstr "Andra inställningar"
+
+#: src/php/Settings/Integrations.php:190 src/php/Settings/Integrations.php:237
+#: src/php/Settings/Integrations.php:250 src/php/Settings/Integrations.php:275
+#: src/php/Settings/Integrations.php:291 src/php/Settings/Integrations.php:341
+#: src/php/Settings/Integrations.php:450 src/php/Settings/Integrations.php:460
+#: src/php/Settings/Integrations.php:468 src/php/Settings/Integrations.php:492
+#: src/php/Settings/Integrations.php:500 src/php/Settings/Integrations.php:524
+#: src/php/Settings/Integrations.php:538 src/php/Settings/Integrations.php:576
+#: src/php/Settings/Integrations.php:607 src/php/Settings/Integrations.php:618
+#: src/php/Settings/Integrations.php:627 src/php/Settings/Integrations.php:637
+#: src/php/Settings/Integrations.php:646 src/php/Settings/Integrations.php:664
+msgid "Login Form"
+msgstr "Inloggningsformulär"
+
+#: src/php/Settings/General.php:449
+msgid "parameters"
+msgstr "parametrar"
+
+#: src/php/Settings/General.php:423 src/php/Settings/General.php:676
+msgid "Enterprise"
+msgstr "Enterprise"
+
+#: src/php/Settings/General.php:419
+msgid "Pro"
+msgstr "Pro"
+
+#: src/php/Settings/General.php:412
+msgid "Enable Custom Themes"
+msgstr "Aktivera anpassade teman"
+
+#: src/php/Settings/General.php:408
+msgid "Custom Themes"
+msgstr "Anpassade teman"
+
+#: src/php/Settings/General.php:372
+msgid "Mode"
+msgstr "Läge"
+
+#: src/php/Settings/General.php:250
+msgid "Language"
+msgstr "Språk"
+
+#: src/php/Settings/General.php:239
+msgid "Size"
+msgstr "Storlek"
+
+#: src/php/Settings/General.php:228
+msgid "Theme"
+msgstr "Tema"
+
+#: src/php/Settings/General.php:206
+msgid "Secret Key"
+msgstr "Hemlig nyckel"
+
+#: src/php/Settings/General.php:199
+msgid "Site Key"
+msgstr "Webbplatsnyckel"
+
+#: src/php/Settings/General.php:135
+msgid "General"
+msgstr "Allmänt"
+
+#: src/php/Settings/General.php:510
+msgid "Do not show hCaptcha to logged-in users."
+msgstr "Visa inte hCaptcha för inloggade användare."
+
+#: src/php/Settings/Integrations.php:878
+msgid "Inactive plugins and themes"
+msgstr "Inaktiva tillägg och teman"
+
+#: src/php/Settings/General.php:245
+msgid "Invisible"
+msgstr "Osynlig"
+
+#: src/php/Settings/General.php:508
+msgid "Turn Off When Logged In"
+msgstr "Stäng av när man är inloggad"
+
+#: src/php/WP/Comment.php:162
+msgid "Invalid Captcha"
+msgstr "Ogiltig Captcha"
+
+#: src/php/Settings/PluginSettingsBase.php:150
+msgid "Settings"
+msgstr "Inställningar"
+
+#: src/php/Kadence/AdvancedForm.php:138 src/php/Kadence/Form.php:118
+msgid "hCaptcha Failed"
+msgstr "hCaptcha misslyckades"
+
+#: src/php/Settings/General.php:244
+msgid "Compact"
+msgstr "Kompakt"
+
+#: src/php/Settings/General.php:243
+msgid "Normal"
+msgstr "Normal"
+
+#: src/php/Settings/General.php:233
+msgid "Dark"
+msgstr "Mörk"
+
+#: src/php/Settings/General.php:232
+msgid "Light"
+msgstr "Ljus"
+
+#: src/php/Settings/PluginSettingsBase.php:141
+msgid "hCaptcha Settings"
+msgstr "Inställningar för hCaptcha"
+
+#. Author of the plugin
+#: hcaptcha.php src/php/Admin/Notifications.php:130 src/php/CF7/Admin.php:179
+#: src/php/ElementorPro/HCaptchaHandler.php:395 src/php/NF/Field.php:76
+#: src/php/Settings/PluginSettingsBase.php:55 src/php/UM/Base.php:144
+#: src/php/UM/Base.php:147
+msgid "hCaptcha"
+msgstr "hCaptcha"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: hcaptcha.php
+msgid "https://www.hcaptcha.com/"
+msgstr "https://www.hcaptcha.com/"
+
+#: src/php/includes/request.php:87 src/php/Settings/General.php:797
+msgid "Please complete the hCaptcha."
+msgstr "Slutför hCaptcha."
+
+#: src/php/includes/request.php:88
+msgid "The hCaptcha is invalid."
+msgstr "hCaptcha är ogiltigt."

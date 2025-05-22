@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+ <channel>
+  <title>BX1 - Service à table</title>
+  <link>https://bx1plus.be/</link>
+  <description></description>
+  <itunes:summary></itunes:summary>
+  <copyright>BX1 - 2025. Tous droits réservés.</copyright>
+  <image>
+   <url></url>
+   <title></title>
+  </image>
+  <itunes:author>BX1</itunes:author>
+  <itunes:owner>
+   <itunes:name>BX1+</itunes:name>
+   <itunes:email>web@bx1.be</itunes:email>
+  </itunes:owner>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:category text="News"/>
+  <language>fr</language>
+  <lastBuildDate>Wed, 14 May 2025 17:15:25 +0200</lastBuildDate>
+  <itunes:image href=""/>
+  <item>
+   <title>Ça s’est passé hier à Bruxelles avec Camille Loiseau &amp;#8211; 02/09/2024</title>
+   <guid>697167</guid>
+   <link>https://bx1.be/?p=697167</link>
+   <pubDate>Mon, 02 Sep 2024 02:00:00 +0200</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href=""/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELB00388_Service.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>Camille Loiseau vous fait revivre sa sortie culturelle de la veille. Retour sur le Brussels Open Air Festival.</itunes:summary>
+   <description>Camille Loiseau vous fait revivre sa sortie culturelle de la veille. Retour sur le Brussels Open Air Festival.</description>
+  </item>
+ </channel>
+</rss>

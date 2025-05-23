@@ -30,11 +30,3 @@ $post_thumbnail_id = get_post_thumbnail_id($post->ID);
 		</figure>
 	</a>
 </article>
-
-git rm --cached wp-content/updraft/backup_2024-07-30-1127_BX1_74cad4d9c419-uploads10.zip
-git add .gitignore
-git commit -m "Stop tracking wp-content/updraft/backup_2024-07-30-1127_BX1_74cad4d9c419-themes5.zip"
-
-git filter-branch --force --index-filter \
-"git rm --cached --ignore-unmatch wp-content/plugins.zip" \
---prune-empty --tag-name-filter cat -- --all

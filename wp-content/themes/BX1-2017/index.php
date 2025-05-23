@@ -11,7 +11,7 @@
  * @package TeleBruxelles
  */
 
-get_header(); ?>
+get_header('v2'); ?>
 
    <section class="news">
 
@@ -34,14 +34,14 @@ get_header(); ?>
               ),
           ),
           // Activer le tri personnalisé pour afficher les articles mis en avant en premier
-          'featured_news_order' => true,
+          // 'featured_news_order' => true,
           'paged' => get_query_var('paged')
       );
 
       $queryNews = new WP_Query($argsNews);
       
       // Mettre en cache les résultats pendant 5 minutes
-      set_transient($transient_name, $queryNews, 5 * MINUTE_IN_SECONDS);
+      set_transient($transient_name, $queryNews, 2 * MINUTE_IN_SECONDS);
       ?>
 
       <?php if ( have_posts() ) : ?>
@@ -52,11 +52,11 @@ get_header(); ?>
           <?php
             while ( $queryNews->have_posts() ) : $queryNews->the_post();
             $videoFileName = get_post_meta($post->ID, 'wpcf-video-name-news', true);
-            $flash = get_post_meta($post->ID, 'wpcf-flash-news', true);
-            $sport = in_category('sport');
-            $redaction = in_category('dossiers-redaction');
-            $bonus = in_category('bx1-bonus');
-            $exclusif = get_post_meta($post->ID, 'wpcf-info-bx1', true);
+            $flash    = wp_get_post_terms($post->ID, 'flash_news', array('fields' => 'slugs'));
+            $sport          = has_category('sport', $post);
+            $redaction      = has_category('dossiers-redaction', $post);
+            $bonus          = has_category('bx1-bonus', $post);
+            $exclusif       = in_array('oui', wp_get_post_terms($post->ID, 'exclusif-blog', array('fields' => 'slugs')));
             $count++;
               if(get_option('home_pres') == 'news'){
                 $even_odd_class = ( ($count % 2) == 0 ) ? "odd" : "even";
@@ -66,8 +66,7 @@ get_header(); ?>
               }
           ?>
             <article class="news__article <?php if($videoFileName != ''){echo 'news__article--video ';} echo $even_odd_class; ?>">
-             <a href="<?php the_permalink(); ?>" title="Lire l'article <?php the_title(); ?>">
-              <h3><?php the_title(); ?> <span class="date"><?php echo get_the_date('d F Y'); ?></span></h3>
+             <a href="<?php the_permalink(); ?>" title="Lire l'article <?php the_title(); ?>">              
                 <figure>
                   <?php if($flash == '1'): ?><span class="flash">Flash info</span><?php endif; ?>
                   <?php if($sport == '1'): ?><span class="flash flash--sport">Sport</span><?php endif; ?>
@@ -76,6 +75,7 @@ get_header(); ?>
                   <?php if($exclusif == '1'): ?><span class="flash exclusif">Info BX1</span><?php endif; ?>
                   <?php the_post_thumbnail('medium'); ?>
                 </figure>
+                <h3><?php the_title(); ?> <span class="date"><?php echo get_the_date('d F Y'); ?></span></h3>
               </a>
             </article>
           <?php endwhile; ?>
@@ -91,9 +91,9 @@ get_header(); ?>
 
     </section>
 
-    <section class="sideFil">
-      <?php //dynamic_sidebar('filinfo'); ?>
-      <?php //get_sidebar('sidebar-1'); ?>
-    </section>
+   <section class="sideFil">
+      <?php dynamic_sidebar('filinfo2'); ?>
+      <?php dynamic_sidebar('sidebar-3'); ?>
+   </section>
 
-<?php get_footer(); ?>
+<?php get_footer('v2'); ?>

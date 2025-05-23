@@ -7,7 +7,7 @@
  * @package TeleBruxelles
  */
 
-get_header(); ?>
+get_header('v2'); ?>
 
 <section class="news news--grille"> 
 
@@ -159,4 +159,4 @@ get_header(); ?>
     <?php get_sidebar(); ?>
   </section>
 
-<?php get_footer(); ?>
+<?php get_footer('v2'); ?>

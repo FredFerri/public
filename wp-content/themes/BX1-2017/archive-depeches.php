@@ -7,7 +7,7 @@
  * @package TeleBruxelles
  */
 
-get_header(); ?>
+get_header('v2'); ?>
 
   <section class="sideFil sideFil--big">
 
@@ -85,8 +85,11 @@ get_header(); ?>
         <?php endwhile; ?>
       <?php wp_reset_postdata(); endif; ?>
       <a href="../news" title="Voir Toutes les news" class="allLink allLink--mini">Toutes les news</a>
-      <?php get_sidebar('sidebar-1'); ?>
     </section>
 
-<?php get_sidebar(); ?>
-<?php get_footer(); ?>
+   <section class="sideFil">
+      <?php dynamic_sidebar('filinfo2'); ?>
+      <?php dynamic_sidebar('sidebar-3'); ?>
+   </section>
+
+<?php get_footer('V2'); ?>

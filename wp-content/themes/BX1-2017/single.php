@@ -9,7 +9,7 @@
 
 get_header('v2'); ?>
 
-      <main>
+      <main class="single-main" style="display: flex; justify-content: space-between; width: 100%;">
          <?php while ( have_posts() ) : the_post(); ?>
             <?php get_template_part( 'content', 'single' ); ?>
          <?php endwhile; // end of the loop. ?>

@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Redirection - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-09-12 16:01:54+0000\n"
+"PO-Revision-Date: 2025-05-08 12:13:08+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2149,23 +2149,23 @@ msgstr "Välj allt"
 msgid "Sorry, something went wrong loading the data - please try again"
 msgstr "Något gick fel när data laddades – försök igen"
 
-#: redirection-strings.php:454 redirection.js:2
+#: redirection-strings.php:454
 msgid "Thanks for subscribing! {{a}}Click here{{/a}} if you need to return to your subscription."
 msgstr "Tack för att du prenumererar! {{a}}Klicka här{{/a}} om du behöver gå tillbaka till din prenumeration."
 
-#: redirection-strings.php:453 redirection-strings.php:455 redirection.js:2
+#: redirection-strings.php:453 redirection-strings.php:455
 msgid "Newsletter"
 msgstr "Nyhetsbrev"
 
-#: redirection-strings.php:456 redirection.js:2
+#: redirection-strings.php:456
 msgid "Want to keep up to date with changes to Redirection?"
 msgstr "Vill du bli uppdaterad om ändringar i Redirection?"
 
-#: redirection-strings.php:457 redirection.js:2
+#: redirection-strings.php:457
 msgid "Sign up for the tiny Redirection newsletter - a low volume newsletter about new features and changes to the plugin. Ideal if you want to test beta changes before release."
 msgstr "Prenumerera på vårt lilla nyhetsbrev om Redirection – ett lågfrekvent nyhetsbrev om nya funktioner och förändringar i tillägget. Utmärkt om du vill testa beta-versioner innan release."
 
-#: redirection-strings.php:458 redirection.js:2
+#: redirection-strings.php:458
 msgid "Your email address:"
 msgstr "Din e-postadress:"
 
@@ -2478,7 +2478,7 @@ msgstr "URL"
 msgid "Modified Posts"
 msgstr "Modifierade inlägg"
 
-#: database/schema/latest.php:138 models/group.php:236
+#: database/schema/latest.php:138 models/group.php:237
 #: redirection-strings.php:269 redirection.js:2
 msgid "Redirections"
 msgstr "Omdirigeringar"

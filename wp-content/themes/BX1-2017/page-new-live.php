@@ -7,7 +7,7 @@
  * @package TeleBruxelles
  */
 
-get_header(); ?>
+get_header('v2'); ?>
 
 <section class="news">
     <?php
@@ -43,8 +43,8 @@ get_header(); ?>
 </section>
 
 <section class="sideFil">
-	<?php dynamic_sidebar('filinfo'); ?>
-	<?php get_sidebar(); ?>
+  <?php dynamic_sidebar('filinfo2'); ?>
+  <?php dynamic_sidebar('sidebar-3'); ?>
 </section>
 
-<?php get_footer(); ?>
+<?php get_footer('v2'); ?>

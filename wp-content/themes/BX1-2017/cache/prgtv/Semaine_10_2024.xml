@@ -1,0 +1,4314 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Grilles>
+<Grille>
+<Date>02/03/2024</Date>
+<Pgm>
+<Heure>06:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>06:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>06:25</Heure>
+<Programme>Hors cadre 01</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Hors cadre</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>06:35</Heure>
+<Programme>Le Tram 01</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Le Tram</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>06:57</Heure>
+<Programme>Capsule quartier</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>07:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>07:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>07:25</Heure>
+<Programme>Hors cadre 02</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Hors cadre</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>07:35</Heure>
+<Programme>Le Tram 02</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Le Tram</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>07:53</Heure>
+<Programme>Capsule quartier</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>08:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>08:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>08:25</Heure>
+<Programme>Hors cadre 03</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Hors cadre</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>08:35</Heure>
+<Programme>Le Tram 03</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Le Tram</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>08:53</Heure>
+<Programme>Capsule quartier</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>09:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>09:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>09:25</Heure>
+<Programme>Hors cadre 01</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Hors cadre</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>09:40</Heure>
+<Programme>Le Tram</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Tram</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>09:53</Heure>
+<Programme>Capsule quartier</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>10:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>10:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>10:25</Heure>
+<Programme>Hors cadre 02</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Hors cadre</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>10:36</Heure>
+<Programme>Le Tram 02</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Tram</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>10:53</Heure>
+<Programme>Capsule quartier</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>11:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>11:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>11:26</Heure>
+<Programme>Hors cadre 03</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Hors cadre</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>11:37</Heure>
+<Programme>Le Tram 03</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Tram</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>11:53</Heure>
+<Programme>Capsule quartier</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>12:00</Heure>
+<Programme>Drugs in Brussel</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Télébruxelles</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>13:00</Heure>
+<Programme>Drugs in Brussel</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Télébruxelles</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>14:00</Heure>
+<Programme>Drugs in Brussel</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Télébruxelles</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>15:00</Heure>
+<Programme>Drugs in Brussel</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Télébruxelles</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>16:00</Heure>
+<Programme>Drugs in Brussel</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Télébruxelles</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>17:00</Heure>
+<Programme>Drugs in Brussel</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Télébruxelles</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:00</Heure>
+<Programme>Le 18H week-end</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Le Journal du Week-End</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:15</Heure>
+<Programme>Foutsal</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Foutsal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:30</Heure>
+<Programme>Bx1 Comedy club</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Télébruxelles</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>19:43</Heure>
+<Programme>Foutsal</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Foutsal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>20:00</Heure>
+<Programme>Le 18H week-end</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal du Week-End</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>20:15</Heure>
+<Programme>Foutsal</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Foutsal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>20:30</Heure>
+<Programme>Bx1 Comedy club</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Télébruxelles</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:43</Heure>
+<Programme>Foutsal</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Foutsal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:00</Heure>
+<Programme>Le 18H week-end</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal du Week-End</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:15</Heure>
+<Programme>Foutsal</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Foutsal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:30</Heure>
+<Programme>Bx1 Comedy club</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Télébruxelles</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>23:43</Heure>
+<Programme>Foutsal</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Foutsal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>00:00</Heure>
+<Programme>Le 18H week-end</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal du Week-End</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>00:10</Heure>
+<Programme>After</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>@fter</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>00:30</Heure>
+<Programme>En Stoemelings</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>En Stoemelings</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>01:00</Heure>
+<Programme>Le 18H week-end</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal du Week-End</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>01:10</Heure>
+<Programme>After</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>@fter</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>01:30</Heure>
+<Programme>En Stoemelings</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>En Stoemelings</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>02:00</Heure>
+<Programme>Le 18H week-end</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal du Week-End</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>02:10</Heure>
+<Programme>After</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>@fter</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>02:30</Heure>
+<Programme>En Stoemelings</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>En Stoemelings</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>03:00</Heure>
+<Programme>Le 18H week-end</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal du Week-End</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>03:10</Heure>
+<Programme>After</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>@fter</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>03:30</Heure>
+<Programme>En Stoemelings</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>En Stoemelings</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>04:00</Heure>
+<Programme>Le 18H week-end</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal du Week-End</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>04:10</Heure>
+<Programme>After</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>@fter</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>04:30</Heure>
+<Programme>En Stoemelings</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>En Stoemelings</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>05:00</Heure>
+<Programme>Le 18H week-end</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal du Week-End</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>05:10</Heure>
+<Programme>After</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>@fter</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>05:30</Heure>
+<Programme>En Stoemelings</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>En Stoemelings</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+</Grille>
+<Grille>
+<Date>03/03/2024</Date>
+<Pgm>
+<Heure>06:00</Heure>
+<Programme>Y'a pas de planète B</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Alors on change</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>06:15</Heure>
+<Programme>Bx1 Comedy club</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Télébruxelles</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>07:30</Heure>
+<Programme>Y'a pas de planète B</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Alors on change</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>07:45</Heure>
+<Programme>Bx1 Comedy club</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Télébruxelles</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>08:55</Heure>
+<Programme>Y'a pas de planète B</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Alors on change</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>09:15</Heure>
+<Programme>Bx1 Comedy club</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Télébruxelles</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>10:25</Heure>
+<Programme>Y'a pas de planète B</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Alors on change</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>10:40</Heure>
+<Programme>Bx1 Comedy club</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Télébruxelles</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>11:55</Heure>
+<Programme>Match Hockey 1ère mi-temps</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Match Hockey</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>12:35</Heure>
+<Programme>Match Hockey mi-temps</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Match Hockey</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>12:45</Heure>
+<Programme>Match Hockey 2ème mi-temps</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Match Hockey</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>13:30</Heure>
+<Programme>Curieux de nature</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Télés locales</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>14:00</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>14:30</Heure>
+<Programme>Curieux de nature</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Télés locales</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>15:00</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>15:30</Heure>
+<Programme>Curieux de nature</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Télés locales</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>16:00</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>16:30</Heure>
+<Programme>Curieux de nature</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Télés locales</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>17:00</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>17:30</Heure>
+<Programme>Curieux de nature</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Télés locales</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:00</Heure>
+<Programme>Le 18H week-end</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Le Journal du Week-End</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:15</Heure>
+<Programme>After</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>@fter</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:30</Heure>
+<Programme>Connaissez-vous</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Connaissez-vous</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>19:30</Heure>
+<Programme>Le 18H week-end</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal du Week-End</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>19:45</Heure>
+<Programme>After</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>@fter</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>20:00</Heure>
+<Programme>Connaissez-vous</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Connaissez-vous</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:00</Heure>
+<Programme>Le 18H week-end</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal du Week-End</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:15</Heure>
+<Programme>After</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>@fter</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:30</Heure>
+<Programme>Le 18H week-end</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal du Week-End</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:45</Heure>
+<Programme>After</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>@fter</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:00</Heure>
+<Programme>Match Hockey 1ère mi-temps</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Match Hockey</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:40</Heure>
+<Programme>Match Hockey mi-temps</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Match Hockey</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:50</Heure>
+<Programme>Match Hockey 2ème mi-temps</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Match Hockey</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>23:30</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>00:00</Heure>
+<Programme>Connaissez-vous</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Connaissez-vous</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>01:00</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>01:30</Heure>
+<Programme>Connaissez-vous</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Connaissez-vous</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>02:30</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>03:00</Heure>
+<Programme>Connaissez-vous</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Connaissez-vous</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>04:00</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>04:30</Heure>
+<Programme>Connaissez-vous</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Connaissez-vous</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>05:30</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+</Grille>
+<Grille>
+<Date>04/03/2024</Date>
+<Pgm>
+<Heure>06:00</Heure>
+<Programme>Gym Yoga</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Télés locales</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>07:00</Heure>
+<Programme>Gym Yoga</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Télés locales</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>08:00</Heure>
+<Programme>Bonjour Bruxelles</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Bonjour Bruxelles</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>09:00</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>09:30</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>10:00</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>10:30</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>11:00</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>11:30</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>12:00</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>12:30</Heure>
+<Programme>Le 12H30</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Le 12H30</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>12:45</Heure>
+<Programme>Le 12H30</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le 12H30</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>13:00</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>13:30</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>14:00</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>14:30</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>15:00</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>15:30</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>16:00</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>16:30</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>17:00</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>17:30</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:25</Heure>
+<Programme>Sport</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Sport</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:56</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>19:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>19:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>19:30</Heure>
+<Programme>Sport</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Sport</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>19:56</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>20:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>20:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>20:30</Heure>
+<Programme>Sport</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Sport</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>20:56</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:30</Heure>
+<Programme>Sport</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Sport</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:56</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:26</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:30</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:45</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>23:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>23:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>23:30</Heure>
+<Programme>Sport</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Sport</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>23:56</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>00:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>00:15</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>00:30</Heure>
+<Programme>En Stoemelings</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>En Stoemelings</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>01:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>01:15</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>01:35</Heure>
+<Programme>En Stoemelings</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>En Stoemelings</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>02:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>02:15</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>02:35</Heure>
+<Programme>En Stoemelings</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>En Stoemelings</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>03:05</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>03:20</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>03:35</Heure>
+<Programme>En Stoemelings</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>En Stoemelings</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>04:05</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>04:20</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>04:40</Heure>
+<Programme>En Stoemelings</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>En Stoemelings</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>05:10</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>05:25</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>05:40</Heure>
+<Programme>En Stoemelings</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>En Stoemelings</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+</Grille>
+<Grille>
+<Date>05/03/2024</Date>
+<Pgm>
+<Heure>06:00</Heure>
+<Programme>Gym Yoga</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Télés locales</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>07:00</Heure>
+<Programme>Gym Yoga</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Télés locales</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>08:00</Heure>
+<Programme>Bonjour Bruxelles</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Bonjour Bruxelles</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>09:00</Heure>
+<Programme>Sport</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Sport</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>09:30</Heure>
+<Programme>Sport</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Sport</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>10:00</Heure>
+<Programme>Sport</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Sport</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>10:30</Heure>
+<Programme>Sport</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Sport</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>11:00</Heure>
+<Programme>Sport</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Sport</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>11:30</Heure>
+<Programme>Sport</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Sport</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>12:00</Heure>
+<Programme>Sport</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Sport</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>12:30</Heure>
+<Programme>Le 12H30</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Le 12H30</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>12:45</Heure>
+<Programme>Le 12H30</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le 12H30</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>13:02</Heure>
+<Programme>Sport</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Sport</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>13:30</Heure>
+<Programme>Sport</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Sport</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>14:00</Heure>
+<Programme>Sport</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Sport</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>14:30</Heure>
+<Programme>Sport</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Sport</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>15:00</Heure>
+<Programme>Sport</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Sport</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>15:30</Heure>
+<Programme>Sport</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Sport</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>16:00</Heure>
+<Programme>Sport</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Sport</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>16:30</Heure>
+<Programme>Sport</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Sport</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>17:00</Heure>
+<Programme>Sport</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Sport</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>17:30</Heure>
+<Programme>Sport</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Sport</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:25</Heure>
+<Programme>Autrement 01</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Autrement</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:56</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>19:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>19:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>19:30</Heure>
+<Programme>Autrement 02</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Autrement</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>19:56</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>20:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>20:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>20:30</Heure>
+<Programme>Autrement 03</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Autrement</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>20:56</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:30</Heure>
+<Programme>Autrement 01</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Autrement</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:56</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:26</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:30</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:45</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>23:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>23:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>23:30</Heure>
+<Programme>Autrement 03</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Autrement</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>23:56</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>00:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>00:15</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>00:30</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>01:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>01:15</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>01:35</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>02:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>02:15</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>02:35</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>03:05</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>03:20</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>03:35</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>04:05</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>04:20</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>04:40</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>05:10</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>05:25</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>05:40</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+</Grille>
+<Grille>
+<Date>06/03/2024</Date>
+<Pgm>
+<Heure>06:00</Heure>
+<Programme>Gym Yoga</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Télés locales</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>07:00</Heure>
+<Programme>Gym Yoga</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Télés locales</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>08:00</Heure>
+<Programme>Bonjour Bruxelles</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Bonjour Bruxelles</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>09:00</Heure>
+<Programme>Autrement 01</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Autrement</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>09:30</Heure>
+<Programme>Autrement 02</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Autrement</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>10:00</Heure>
+<Programme>Autrement 03</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Autrement</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>10:30</Heure>
+<Programme>Autrement 01</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Autrement</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>11:00</Heure>
+<Programme>Autrement 02</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Autrement</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>11:30</Heure>
+<Programme>Autrement 03</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Autrement</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>12:00</Heure>
+<Programme>Autrement 01</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Autrement</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>12:30</Heure>
+<Programme>Le 12H30</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Le 12H30</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>12:45</Heure>
+<Programme>Le 12H30</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le 12H30</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>13:00</Heure>
+<Programme>Autrement 01</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Autrement</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>13:30</Heure>
+<Programme>Autrement 02</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Autrement</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>14:00</Heure>
+<Programme>Question d'actualité</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Questions d'actualité</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>16:00</Heure>
+<Programme>Autrement 03</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Autrement</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>16:30</Heure>
+<Programme>Autrement 01</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Autrement</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>17:00</Heure>
+<Programme>Autrement 02</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Autrement</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>17:25</Heure>
+<Programme>Autrement 03</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Autrement</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:25</Heure>
+<Programme>Versus 01</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Versus</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:56</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>19:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>19:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>19:30</Heure>
+<Programme>Versus 02</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Versus</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>19:56</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>20:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>20:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>20:30</Heure>
+<Programme>Versus 03</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Versus</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>20:56</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:30</Heure>
+<Programme>Versus 01</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Versus</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:56</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:26</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:30</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:45</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>23:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>23:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>23:30</Heure>
+<Programme>Versus 03</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Versus</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>23:56</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>00:00</Heure>
+<Programme>Question d'actualité</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Questions d'actualité</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>02:00</Heure>
+<Programme>Question d'actualité</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Questions d'actualité</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>04:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>04:15</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>04:30</Heure>
+<Programme>Le Tram</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Le Tram</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>04:50</Heure>
+<Programme>After</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>@fter</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>05:05</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>05:20</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>05:40</Heure>
+<Programme>Le Tram</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Tram</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+</Grille>
+<Grille>
+<Date>07/03/2024</Date>
+<Pgm>
+<Heure>06:00</Heure>
+<Programme>Gym Yoga</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Télés locales</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>07:00</Heure>
+<Programme>Gym Yoga</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Télés locales</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>08:00</Heure>
+<Programme>Bonjour Bruxelles</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Bonjour Bruxelles</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>09:00</Heure>
+<Programme>Versus 01</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Versus</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>09:25</Heure>
+<Programme>Versus 02</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Versus</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>10:00</Heure>
+<Programme>Versus 03</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Versus</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>10:30</Heure>
+<Programme>Versus 01</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Versus</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>11:00</Heure>
+<Programme>Versus 02</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Versus</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>11:30</Heure>
+<Programme>Versus 03</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Versus</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>12:00</Heure>
+<Programme>Versus 01</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Versus</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>12:30</Heure>
+<Programme>Le 12H30</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Le 12H30</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>12:45</Heure>
+<Programme>Le 12H30</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le 12H30</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>13:00</Heure>
+<Programme>Versus 01</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Versus</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>13:30</Heure>
+<Programme>Versus 02</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Versus</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>14:00</Heure>
+<Programme>Versus 03</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Versus</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>14:30</Heure>
+<Programme>Versus 01</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Versus</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>15:00</Heure>
+<Programme>Versus 02</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Versus</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>15:30</Heure>
+<Programme>Versus 03</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Versus</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>16:00</Heure>
+<Programme>Versus 01</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Versus</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>16:30</Heure>
+<Programme>Versus 02</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Versus</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>17:00</Heure>
+<Programme>Versus 03</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Versus</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>17:30</Heure>
+<Programme>Versus 01</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Versus</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:25</Heure>
+<Programme>Mont des Arts 01</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Mont des Arts</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:56</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>19:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>19:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>19:30</Heure>
+<Programme>Mont des Arts 02</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Mont des Arts</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>19:56</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>20:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>20:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>20:30</Heure>
+<Programme>Mont des Arts 03</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Mont des Arts</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>20:56</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:30</Heure>
+<Programme>Mont des Arts 01</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Mont des Arts</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:56</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:26</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:30</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:45</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>23:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>23:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>23:30</Heure>
+<Programme>Mont des Arts 03</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Mont des Arts</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>23:56</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>00:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>00:15</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>00:30</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>01:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>01:15</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>01:30</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>02:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>02:15</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>02:30</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>03:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>03:15</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>03:30</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>04:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>04:15</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>04:30</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>05:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>05:15</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>05:30</Heure>
+<Programme>Station Europe</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Station Europe</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+</Grille>
+<Grille>
+<Date>08/03/2024</Date>
+<Pgm>
+<Heure>06:00</Heure>
+<Programme>Gym Yoga</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Télés locales</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>07:00</Heure>
+<Programme>Gym Yoga</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Télés locales</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>08:00</Heure>
+<Programme>Bonjour Bruxelles</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Bonjour Bruxelles</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>09:00</Heure>
+<Programme>Mont des Arts 01</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Mont des Arts</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>09:30</Heure>
+<Programme>Mont des Arts 02</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Mont des Arts</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>10:00</Heure>
+<Programme>Mont des Arts 03</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Mont des Arts</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>10:30</Heure>
+<Programme>Mont des Arts 01</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Mont des Arts</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>11:00</Heure>
+<Programme>Mont des Arts 02</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Mont des Arts</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>11:30</Heure>
+<Programme>Mont des Arts 03</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Mont des Arts</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>12:00</Heure>
+<Programme>Mont des Arts 01</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Mont des Arts</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>12:30</Heure>
+<Programme>Le 12H30</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Le 12H30</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>12:45</Heure>
+<Programme>Le 12H30</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le 12H30</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>13:00</Heure>
+<Programme>Mont des Arts 01</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Mont des Arts</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>13:30</Heure>
+<Programme>Mont des Arts 02</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Mont des Arts</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>14:00</Heure>
+<Programme>Mont des Arts 03</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Mont des Arts</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>14:30</Heure>
+<Programme>Mont des Arts 01</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Mont des Arts</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>15:00</Heure>
+<Programme>Mont des Arts 02</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Mont des Arts</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>15:30</Heure>
+<Programme>Mont des Arts 03</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Mont des Arts</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>16:00</Heure>
+<Programme>Mont des Arts 01</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Mont des Arts</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>16:25</Heure>
+<Programme>Mont des Arts 02</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Mont des Arts</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>16:55</Heure>
+<Programme>Mont des Arts 03</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Mont des Arts</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>17:30</Heure>
+<Programme>Mont des Arts 01</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Mont des Arts</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:25</Heure>
+<Programme>Hors Cadre 01</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Hors cadre</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:40</Heure>
+<Programme>After 01</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>@fter</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>18:56</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>19:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>19:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>19:25</Heure>
+<Programme>Hors Cadre 02</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Hors cadre</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>19:40</Heure>
+<Programme>After 02</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>@fter</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>19:56</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>20:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>20:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>20:25</Heure>
+<Programme>Hors Cadre 03</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>Hors cadre</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>20:40</Heure>
+<Programme>After 03</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>@fter</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>20:56</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:25</Heure>
+<Programme>Hors Cadre 01</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Hors cadre</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:40</Heure>
+<Programme>After 01</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>@fter</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>21:56</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:26</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:30</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>0</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>22:45</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>23:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>23:15</Heure>
+<Programme>Le Courier recommandé</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Courier recommandé</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>23:30</Heure>
+<Programme>Hors Cadre 03</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Hors cadre</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>23:40</Heure>
+<Programme>After 03</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>@fter</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>23:56</Heure>
+<Programme>Capsules quartiers</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Divers</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>00:00</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>00:15</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>00:30</Heure>
+<Programme>Le Tram</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Tram</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>00:50</Heure>
+<Programme>After</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>@fter</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>01:08</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>01:23</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>01:38</Heure>
+<Programme>Le Tram</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Tram</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>01:58</Heure>
+<Programme>After</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>@fter</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>02:16</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>02:31</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>02:46</Heure>
+<Programme>Le Tram</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Tram</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>03:06</Heure>
+<Programme>After</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>@fter</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>03:24</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>03:39</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>03:54</Heure>
+<Programme>Le Tram</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Tram</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>04:14</Heure>
+<Programme>After</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>@fter</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>04:32</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>04:47</Heure>
+<Programme>Le 22h30 de Vivre ici</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>JT Vivre ici</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>05:05</Heure>
+<Programme>Le 18H</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Journal</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>0</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>05:20</Heure>
+<Programme>Le Tram</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>Le Tram</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+<Pgm>
+<Heure>05:35</Heure>
+<Programme>After</Programme>
+<Est_Rediffusion>1</Est_Rediffusion>
+<Serie>@fter</Serie>
+<Soustitrage>0</Soustitrage>
+<SoustitreMalentendants>1</SoustitreMalentendants>
+<Audiodescription>0</Audiodescription>
+<LangueSignes>0</LangueSignes>
+</Pgm>
+</Grille>
+</Grilles>

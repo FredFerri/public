@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Elementor Website Builder &#8211; More Than Just a Page Builder - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-01 13:19:50+0000\n"
+"PO-Revision-Date: 2025-05-19 08:58:08+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -11,6 +11,14 @@ msgstr ""
 "Language: fr\n"
 "Project-Id-Version: Plugins - Elementor Website Builder &#8211; More Than Just a Page Builder - Stable (latest release)\n"
 
+#: includes/controls/gallery.php:127 includes/controls/media.php:323
+msgid "Connect Now"
+msgstr "Se connecter maintenant"
+
+#: includes/controls/gallery.php:126 includes/controls/media.php:322
+msgid "This image isn't optimized. You need to connect your Image Optimizer account first."
+msgstr "Cette image n‘a pas été optimisée. Vous devez d‘abord vous connecter à votre compte Image Optimizer."
+
 #: modules/nested-tabs/widgets/nested-tabs.php:182
 msgid "Add Tab"
 msgstr "Ajouter un onglet"
@@ -18,6 +26,10 @@ msgstr "Ajouter un onglet"
 #: modules/element-cache/module.php:127
 msgid "Element Cache"
 msgstr "Cache de l’élément"
+
+#: modules/atomic-widgets/elements/div-block/div-block.php:28
+msgid "Div Block"
+msgstr "Bloc Div"
 
 #: modules/ai/site-planner-connect/module.php:51
 msgid "Approve & Connect"
@@ -46,6 +58,14 @@ msgstr "Hello+"
 #: includes/elements/container.php:1393 includes/widgets/common-base.php:271
 msgid "Grid Item"
 msgstr "Élément de grille"
+
+#: core/experiments/manager.php:379
+msgid "To improve page load performance and user privacy, replace Google Fonts CDN links with self-hosted font files. This approach downloads and serves font files directly from your server, eliminating external requests to Google's servers."
+msgstr "Pour améliorer les performances de chargement des pages et la confidentialité de l’utilisateur/utilisatrice, remplacez les liens CDN Google Fonts par des fichiers de polices auto-hébergés. Cette approche télécharge et diffuse les fichiers de polices directement à partir de votre serveur, ce qui élimine les requêtes externes adressées aux serveurs de Google."
+
+#: core/experiments/manager.php:378
+msgid "Load Google Fonts locally"
+msgstr "Charger les polices Google localement"
 
 #: modules/ai/site-planner-connect/module.php:50
 msgid "To connect your site to Site Planner, you need to generate an app password."
@@ -115,6 +135,10 @@ msgstr "Ajoutez des animations de survol et des effets CSS."
 msgid "Combine text, buttons, and images."
 msgstr "Combinez du texte, des boutons et des images."
 
+#: modules/promotions/promotion-data.php:76
+msgid "Boost Conversions with CTAs"
+msgstr "Boostez les conversions avec les CTA"
+
 #: modules/promotions/promotion-data.php:63
 msgid "Seamlessly customize video appearance."
 msgstr "Personnaliser l’apparence de la vidéo de manière transparente."
@@ -147,9 +171,21 @@ msgstr "Activez les classes CSS globales."
 msgid "Global Classes"
 msgstr "Classes globales"
 
+#: modules/ai/feature-intro/product-image-unification-intro.php:35
+msgid "Now you can process images in bulk and standardized the background and ratio - no manual editing required!"
+msgstr "Vous pouvez désormais traiter des images en masse et normaliser l’arrière-plan et le ratio - Aucune modification manuelle n’est nécessaire !"
+
+#: modules/ai/feature-intro/product-image-unification-intro.php:34
+msgid "New! Unify pack-shots with Elementor AI"
+msgstr "Nouveau ! Unifiez les pack-shots avec Elementor AI"
+
 #: includes/widgets/video.php:612
 msgid "Video Playlist widget"
 msgstr "Widget liste de lecture vidéo"
+
+#: includes/widgets/testimonial.php:249
+msgid "Loop Carousel widget"
+msgstr "Widget Carrousel en boucle"
 
 #: includes/widgets/image-carousel.php:653
 msgid "Space Between Dots"
@@ -178,6 +214,10 @@ msgstr "Embarquez des vidéos avec un contrôle total."
 #: modules/promotions/promotion-data.php:42
 msgid "Bring Headlines to Life"
 msgstr "Donnez vie aux titres"
+
+#: core/admin/admin-notices.php:440
+msgid "Improve Transactional Email Deliverability"
+msgstr "Améliorez la délivrabilité des e-mails transactionnels"
 
 #: modules/checklist/steps/setup-header.php:70
 msgid "Add a header"
@@ -1113,6 +1153,10 @@ msgstr "Horaire"
 #: modules/link-in-bio/base/widget-link-in-bio-base.php:493
 msgid "Enter your number"
 msgstr "Saisissez votre numéro"
+
+#: includes/settings/settings.php:407
+msgid "Improve loading times on your site by selecting the optimization tools that best fit your requirements."
+msgstr "Accélérez le temps de chargement de votre site en sélectionnant les outils d’optimisation les plus adaptés à vos besoins."
 
 #: core/settings/editor-preferences/model.php:75
 msgid "Dark mode"

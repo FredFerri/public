@@ -15,7 +15,7 @@ if($_GET['support'] == 1)
     ini_set('display_startup_errors', 1);
     error_reporting(E_ALL);
   }
-get_header(); ?>
+get_header('v2'); ?>
 <style>
      .news__article{
         padding-top: 15px;
@@ -286,4 +286,4 @@ get_header(); ?>
         
   </section>
 
-<?php get_footer(); ?>
+<?php get_footer('v2'); ?>

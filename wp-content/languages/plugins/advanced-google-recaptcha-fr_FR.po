@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Advanced Google reCAPTCHA - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-10-02 18:25:13+0000\n"
+"PO-Revision-Date: 2025-05-15 13:19:29+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -10,6 +10,14 @@ msgstr ""
 "X-Generator: GlotPress/4.0.1\n"
 "Language: fr\n"
 "Project-Id-Version: Plugins - Advanced Google reCAPTCHA - Stable (latest release)\n"
+
+#: libs/ajax.php:23 libs/ajax.php:247 libs/ajax.php:380
+msgid "You are not allowed to run this action."
+msgstr "Vous n’avez pas l’autorisation d’effectuer cette action."
+
+#: libs/ajax.php:127
+msgid "Unknown response token."
+msgstr "Réponse inconnue du jeton."
 
 #: libs/ajax.php:122
 msgid "Unknown response."

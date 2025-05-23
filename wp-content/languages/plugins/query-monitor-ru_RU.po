@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Query Monitor &#8211; The developer tools panel for WordPress - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-04 19:58:17+0000\n"
+"PO-Revision-Date: 2025-05-13 05:43:37+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -48,7 +48,7 @@ msgstr "Вкрапление: %s"
 
 #: output/html/hooks.php:36
 msgid "Hooks, Actions, & Filters"
-msgstr "Хуки, Действия и Фильтры"
+msgstr "Хуки, События и Фильтры"
 
 #: output/html/environment.php:245
 msgid "Development Mode"
@@ -68,7 +68,7 @@ msgstr "Нет вхождений."
 #: output/html/doing_it_wrong.php:43
 msgctxt "Doing it Wrong"
 msgid "Doing it Wrong (%s)"
-msgstr "Делает это неправильно (%s)"
+msgstr "Неправильное действие (%s)"
 
 #: output/html/doing_it_wrong.php:41
 msgid "Doing it Wrong occurrences"
@@ -82,7 +82,7 @@ msgstr "Всего: %s"
 
 #: output/html/doing_it_wrong.php:31
 msgid "Doing it Wrong"
-msgstr "Делать это неправильно"
+msgstr "Неправильное действие"
 
 #. translators: %s: Name of WordPress filter
 #: dispatchers/Html.php:609
@@ -1060,7 +1060,7 @@ msgstr "Проверки возможностей"
 #. translators: %s: Number of transient values that were updated
 #: output/html/transients.php:148
 msgid "Transient Updates (%s)"
-msgstr "Транзитный кэш (%s)"
+msgstr "Обновления транзиентов (%s)"
 
 #: output/html/transients.php:51
 msgctxt "size of transient value"

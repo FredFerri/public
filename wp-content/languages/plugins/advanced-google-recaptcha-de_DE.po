@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Advanced Google reCAPTCHA - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-10-02 18:27:45+0000\n"
+"PO-Revision-Date: 2025-05-15 13:19:13+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -10,6 +10,14 @@ msgstr ""
 "X-Generator: GlotPress/4.0.1\n"
 "Language: de\n"
 "Project-Id-Version: Plugins - Advanced Google reCAPTCHA - Stable (latest release)\n"
+
+#: libs/ajax.php:23 libs/ajax.php:247 libs/ajax.php:380
+msgid "You are not allowed to run this action."
+msgstr "Du hast keine Berechtigung für diese Aktion."
+
+#: libs/ajax.php:127
+msgid "Unknown response token."
+msgstr "Unbekannte Antwort des Tokens."
 
 #: libs/ajax.php:122
 msgid "Unknown response."
@@ -43,6 +51,18 @@ msgstr "<strong>Fehler</strong>: reCAPTCHA-Überprüfungsanfrage fehlgeschlagen<
 msgid "<strong>ERROR</strong>: Inactive account"
 msgstr "<strong>Fehler</strong>: Inaktives Konto"
 
+#. translators: %1$s is replaced with the current PHP version, %2$s is replaced
+#. with the URL to WordPress update PHP support page
+#: libs/setup.php:97
+msgid "WP Captcha plugin <b>requires PHP version 5.6.20</b> or higher to function properly. You are using PHP version %1$s. Please <a href=\"%2$s\" target=\"_blank\">update it</a>."
+msgstr "Das WP-Captcha-Plugin <b>erfordert PHP-Version 5.6.20</b> oder höher, um richtig zu funktionieren. Du verwendest die PHP-Version %1$s. Bitte <a href=\"%2$s\" target=\"_blank\">aktualisiere sie</a>."
+
+#. translators: %1$s is replaced with the current WordPress version, %2$s is
+#. replaced with the URL to WordPress update page in the Dashboard
+#: libs/setup.php:83
+msgid "WP Captcha plugin <b>requires WordPress version 4.6</b> or higher to function properly. You are using WordPress version %1$s. Please <a href=\"%2$s\">update it</a>."
+msgstr "Das WP-Captcha-Plugin <b>erfordert WordPress-Version 4.6</b> oder höher, um richtig zu funktionieren. Du verwendest WordPress Version %1$s. Bitte <a href=\"%2$s\">aktualisiere sie</a>."
+
 #: libs/functions.php:1259
 msgid "Unknown template ID."
 msgstr "Unbekannte Template-ID."
@@ -55,6 +75,11 @@ msgstr "Template aktiviert."
 msgid "Login form protected by"
 msgstr "Anmeldeformular geschützt durch"
 
+#: libs/functions.php:290 libs/functions.php:301 libs/functions.php:306
+#: libs/functions.php:318
+msgid "<strong>ERROR</strong>: reCAPTCHA verification failed.<br /><br />Please try again."
+msgstr "<strong>Fehler</strong>: reCAPTCHA-Überprüfung fehlgeschlagen.<br /><br />Bitte versuche es erneut."
+
 #. translators: %s is replaced with the lost password URL
 #: libs/functions.php:277
 msgid "<strong>ERROR</strong>: Incorrect password. <a href=\"%s\" title=\"Password Lost and Found\">Lost your password</a>?"
@@ -64,11 +89,6 @@ msgstr "<strong>Fehler</strong>: Falsches Passwort. <a href=\"%s\" title=\"Passw
 #: libs/functions.php:262
 msgid "<strong>ERROR</strong>: Invalid username. <a href=\"%s\" title=\"Password Lost and Found\">Lost your password</a>?"
 msgstr "<strong>Fehler</strong>: Falscher Benutzername. <a href=\"%s\" title=\"Passwort zurücksetzen\">Passwort vergessen</a>?"
-
-#: libs/functions.php:290 libs/functions.php:301 libs/functions.php:306
-#: libs/functions.php:318
-msgid "<strong>ERROR</strong>: reCAPTCHA verification failed.<br /><br />Please try again."
-msgstr "<strong>Fehler</strong>: reCAPTCHA-Überprüfung fehlgeschlagen.<br /><br />Bitte versuche es erneut."
 
 #: libs/functions.php:255
 msgid "<strong>ERROR</strong>: The password field is empty."
@@ -198,18 +218,6 @@ msgstr "Zugangssperren"
 msgid "Do not open this file directly."
 msgstr "Öffne diese Datei nicht direkt."
 
-#. translators: %1$s is replaced with the current PHP version, %2$s is replaced
-#. with the URL to WordPress update PHP support page
-#: libs/setup.php:97
-msgid "WP Captcha plugin <b>requires PHP version 5.6.20</b> or higher to function properly. You are using PHP version %1$s. Please <a href=\"%2$s\" target=\"_blank\">update it</a>."
-msgstr "Das WP-Captcha-Plugin <b>erfordert PHP-Version 5.6.20</b> oder höher, um richtig zu funktionieren. Du verwendest die PHP-Version %1$s. Bitte <a href=\"%2$s\" target=\"_blank\">aktualisiere sie</a>."
-
-#. translators: %1$s is replaced with the current WordPress version, %2$s is
-#. replaced with the URL to WordPress update page in the Dashboard
-#: libs/setup.php:83
-msgid "WP Captcha plugin <b>requires WordPress version 4.6</b> or higher to function properly. You are using WordPress version %1$s. Please <a href=\"%2$s\">update it</a>."
-msgstr "Das WP-Captcha-Plugin <b>erfordert WordPress-Version 4.6</b> oder höher, um richtig zu funktionieren. Du verwendest WordPress Version %1$s. Bitte <a href=\"%2$s\">aktualisiere sie</a>."
-
 #. Author URI of the plugin
 #: advanced-google-recaptcha.php
 msgid "https://www.webfactoryltd.com/"
@@ -225,6 +233,10 @@ msgstr "WebFactory Ltd"
 msgid "https://getwpcaptcha.com/"
 msgstr "https://getwpcaptcha.com/"
 
+#: libs/functions.php:405 libs/functions.php:425
+msgid "ERROR:"
+msgstr "Fehler:"
+
 #: libs/admin.php:539
 msgid "Save Changes"
 msgstr "Änderungen speichern "
@@ -233,16 +245,12 @@ msgstr "Änderungen speichern "
 msgid "Settings"
 msgstr "Einstellungen "
 
-#. Plugin Name of the plugin
-#: advanced-google-recaptcha.php libs/admin.php:156 libs/admin.php:157
-msgid "Advanced Google reCAPTCHA"
-msgstr "Advanced Google reCAPTCHA"
-
-#: libs/functions.php:405 libs/functions.php:425
-msgid "ERROR:"
-msgstr "Fehler:"
-
 #. Description of the plugin
 #: advanced-google-recaptcha.php
 msgid "Advanced Google reCAPTCHA will safeguard your WordPress site from spam comments and brute force attacks. With this plugin, you can easily add Google reCAPTCHA to WordPress comment form, login form and other forms."
 msgstr "Advanced Google reCAPTCHA schützt deine WordPress-Seite vor Spam-Kommentaren und Brute-Force-Angriffen. Mit diesem Plugin kannst du ganz einfach Google reCAPTCHA zu WordPress-Kommentarformularen, Anmeldeformularen und anderen Formularen hinzufügen."
+
+#. Plugin Name of the plugin
+#: advanced-google-recaptcha.php libs/admin.php:156 libs/admin.php:157
+msgid "Advanced Google reCAPTCHA"
+msgstr "Advanced Google reCAPTCHA"

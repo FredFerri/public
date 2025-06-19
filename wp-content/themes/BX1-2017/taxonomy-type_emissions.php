@@ -117,7 +117,6 @@ get_header('v2');
 
             <article class="news__article <?php echo $even_odd_class; ?>">
               <a href="<?php the_permalink(); ?>" title="Voir l'émission <?php the_title(); ?>">
-                <h3><?php the_title(); ?> <span class="date"><?php echo $heure; ?> ..</span></h3>
                  <figure>
                    <?php
                       $terms = get_the_terms( $post->ID, 'type_emissions' );
@@ -138,6 +137,7 @@ get_header('v2');
                       }*/
                     ?>
                  </figure>
+                 <h3><?php the_title(); ?> <span class="date"><?php echo $heure; ?> ..</span></h3>
                </a>
             </article>
 

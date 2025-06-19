@@ -6,7 +6,13 @@
  */
 
 
-get_header();
+get_header('v2');
+
+$category = array();
+if ($_GET['category']) {
+	$category = $_GET['category'];
+}
+
 ?>
 
   <section class="sideFil sideFil--big sideFil--big--search">
@@ -20,31 +26,31 @@ get_header();
 	         <div class="filterForm__select" data-placeholder="Toutes les communes">
            <label for="selectCat">Commune</label>
            <select name="category[]" id="selectCat" class="postform" multiple="multiple">
-				<option class="level-0" value="anderlecht" <?php if(in_array('anderlecht',$_GET['category'])){echo 'selected';} ?>>Anderlecht</option>
-				<option class="level-0" value="auderghem" <?php if(in_array('auderghem',$_GET['category'])){echo 'selected';} ?>>Auderghem</option>
-				<option class="level-0" value="berchem-sainte-agathe" <?php if(in_array('berchem-sainte-agathe',$_GET['category'])){echo 'selected';} ?>>Berchem-Sainte-Agathe</option>
-				<option class="level-0" value="bruxelles-ville" <?php if(in_array('bruxelles-ville',$_GET['category'])){echo 'selected';} ?>>Bruxelles-ville</option>
-				<option class="level-0" value="drogenbos" <?php if(in_array('drogenbos',$_GET['category'])){echo 'selected';} ?>>Drogenbos</option>
-				<option class="level-0" value="etterbeek" <?php if(in_array('etterbeek',$_GET['category'])){echo 'selected';} ?>>Etterbeek</option>
-				<option class="level-0" value="evere" <?php if(in_array('evere',$_GET['category'])){echo 'selected';} ?>>Evere</option>
-				<option class="level-0" value="forest" <?php if(in_array('forest',$_GET['category'])){echo 'selected';} ?>>Forest</option>
-				<option class="level-0" value="ganshoren" <?php if(in_array('ganshoren',$_GET['category'])){echo 'selected';} ?>>Ganshoren</option>
-				<option class="level-0" value="ixelles" <?php if(in_array('ixelles',$_GET['category'])){echo 'selected';} ?>>Ixelles</option>
-				<option class="level-0" value="jette" <?php if(in_array('jette',$_GET['category'])){echo 'selected';} ?>>Jette</option>
-				<option class="level-0" value="koekelberg" <?php if(in_array('koekelberg',$_GET['category'])){echo 'selected';} ?>>Koekelberg</option>
-				<option class="level-0" value="crainhem" <?php if(in_array('crainhem',$_GET['category'])){echo 'selected';} ?>>Crainhem</option>
-				<option class="level-0" value="linkebeek" <?php if(in_array('linkebeek',$_GET['category'])){echo 'selected';} ?>>Linkebeek</option>
-				<option class="level-0" value="molenbeek-saint-jean" <?php if(in_array('molenbeek-saint-jean',$_GET['category'])){echo 'selected';} ?>>Molenbeek-Saint-Jean</option>
-				<option class="level-0" value="rhode-saint-genese" <?php if(in_array('rhode-saint-genese',$_GET['category'])){echo 'selected';} ?>>Rhode-Saint-Genèse</option>
-				<option class="level-0" value="saint-gilles" <?php if(in_array('saint-gilles',$_GET['category'])){echo 'selected';} ?>>Saint-Gilles</option>
-				<option class="level-0" value="saint-josse-ten-noode" <?php if(in_array('saint-josse-ten-noode',$_GET['category'])){echo 'selected';} ?>>Saint-Josse-ten-Noode</option>
-				<option class="level-0" value="schaerbeek" <?php if(in_array('schaerbeek',$_GET['category'])){echo 'selected';} ?>>Schaerbeek</option>
-				<option class="level-0" value="uccle" <?php if(in_array('uccle',$_GET['category'])){echo 'selected';} ?>>Uccle</option>
-				<option class="level-0" value="watermael-boitsfort" <?php if(in_array('watermael-boitsfort',$_GET['category'])){echo 'selected';} ?>>Watermael-Boitsfort</option>
-				<option class="level-0" value="wemmel" <?php if(in_array('wemmel',$_GET['category'])){echo 'selected';} ?>>Wemmel</option>
-				<option class="level-0" value="wezembeek-oppem" <?php if(in_array('wezembeek-oppem',$_GET['category'])){echo 'selected';} ?>>Wezembeek-Oppem</option>
-				<option class="level-0" value="woluwe-saint-lambert" <?php if(in_array('woluwe-saint-lambert',$_GET['category'])){echo 'selected';} ?>>Woluwe-Saint-Lambert</option>
-				<option class="level-0" value="woluwe-saint-pierre" <?php if(in_array('woluwe-saint-pierre',$_GET['category'])){echo 'selected';} ?>>Woluwe-Saint-Pierre</option>
+				<option class="level-0" value="anderlecht" <?php if(in_array('anderlecht',$category)){echo 'selected';} ?>>Anderlecht</option>
+				<option class="level-0" value="auderghem" <?php if(in_array('auderghem',$category)){echo 'selected';} ?>>Auderghem</option>
+				<option class="level-0" value="berchem-sainte-agathe" <?php if(in_array('berchem-sainte-agathe',$category)){echo 'selected';} ?>>Berchem-Sainte-Agathe</option>
+				<option class="level-0" value="bruxelles-ville" <?php if(in_array('bruxelles-ville',$category)){echo 'selected';} ?>>Bruxelles-ville</option>
+				<option class="level-0" value="drogenbos" <?php if(in_array('drogenbos',$category)){echo 'selected';} ?>>Drogenbos</option>
+				<option class="level-0" value="etterbeek" <?php if(in_array('etterbeek',$category)){echo 'selected';} ?>>Etterbeek</option>
+				<option class="level-0" value="evere" <?php if(in_array('evere',$category)){echo 'selected';} ?>>Evere</option>
+				<option class="level-0" value="forest" <?php if(in_array('forest',$category)){echo 'selected';} ?>>Forest</option>
+				<option class="level-0" value="ganshoren" <?php if(in_array('ganshoren',$category)){echo 'selected';} ?>>Ganshoren</option>
+				<option class="level-0" value="ixelles" <?php if(in_array('ixelles',$category)){echo 'selected';} ?>>Ixelles</option>
+				<option class="level-0" value="jette" <?php if(in_array('jette',$category)){echo 'selected';} ?>>Jette</option>
+				<option class="level-0" value="koekelberg" <?php if(in_array('koekelberg',$category)){echo 'selected';} ?>>Koekelberg</option>
+				<option class="level-0" value="crainhem" <?php if(in_array('crainhem',$category)){echo 'selected';} ?>>Crainhem</option>
+				<option class="level-0" value="linkebeek" <?php if(in_array('linkebeek',$category)){echo 'selected';} ?>>Linkebeek</option>
+				<option class="level-0" value="molenbeek-saint-jean" <?php if(in_array('molenbeek-saint-jean',$category)){echo 'selected';} ?>>Molenbeek-Saint-Jean</option>
+				<option class="level-0" value="rhode-saint-genese" <?php if(in_array('rhode-saint-genese',$category)){echo 'selected';} ?>>Rhode-Saint-Genèse</option>
+				<option class="level-0" value="saint-gilles" <?php if(in_array('saint-gilles',$category)){echo 'selected';} ?>>Saint-Gilles</option>
+				<option class="level-0" value="saint-josse-ten-noode" <?php if(in_array('saint-josse-ten-noode',$category)){echo 'selected';} ?>>Saint-Josse-ten-Noode</option>
+				<option class="level-0" value="schaerbeek" <?php if(in_array('schaerbeek',$category)){echo 'selected';} ?>>Schaerbeek</option>
+				<option class="level-0" value="uccle" <?php if(in_array('uccle',$category)){echo 'selected';} ?>>Uccle</option>
+				<option class="level-0" value="watermael-boitsfort" <?php if(in_array('watermael-boitsfort',$category)){echo 'selected';} ?>>Watermael-Boitsfort</option>
+				<option class="level-0" value="wemmel" <?php if(in_array('wemmel',$category)){echo 'selected';} ?>>Wemmel</option>
+				<option class="level-0" value="wezembeek-oppem" <?php if(in_array('wezembeek-oppem',$category)){echo 'selected';} ?>>Wezembeek-Oppem</option>
+				<option class="level-0" value="woluwe-saint-lambert" <?php if(in_array('woluwe-saint-lambert',$category)){echo 'selected';} ?>>Woluwe-Saint-Lambert</option>
+				<option class="level-0" value="woluwe-saint-pierre" <?php if(in_array('woluwe-saint-pierre',$category)){echo 'selected';} ?>>Woluwe-Saint-Pierre</option>
 			</select>
          </div>
          <div class="filterForm__select" data-placeholder="Tous les formats">
@@ -55,7 +61,9 @@ get_header();
                   'id'=>'selectFormat',
                   'name'=>'format-du-contenu',
                   'value_field'=>'slug',
-                  'selected'=>implode(',',$_GET['format-du-contenu']),
+				  'selected'     => (!empty($_GET['format-du-contenu']) && is_array($_GET['format-du-contenu']))
+				                    ? implode(',', $_GET['format-du-contenu'])
+				                    : '',
                   'orderby'=>'name',
                   'multiple'=>true
                )
@@ -96,8 +104,8 @@ get_header();
 	</section>
 
 	<section class="sideFil">
-      <?php dynamic_sidebar('filinfo'); ?>
-      <?php get_sidebar('sidebar-1'); ?>
+      <?php dynamic_sidebar('filinfo2'); ?>
+      <?php dynamic_sidebar('sidebar-3'); ?>
     </section>
 
-<?php get_footer(); ?>
+<?php get_footer('v2'); ?>

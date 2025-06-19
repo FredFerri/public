@@ -74,12 +74,12 @@ get_header('v2'); ?>
         ?>
           <article class="news__article <?php if($videoFileName != ''){echo 'news__article--video ';} echo $even_odd_class; ?>">
             <a href="<?php the_permalink(); ?>" title="Lire l'article <?php the_title(); ?>">
-            <h3><?php the_title(); ?> <span class="date"><?php echo get_the_date('d F Y'); ?></span></h3>
               <figure>
                 <?php if($flash == '1'): ?><span class="flash">Flash info</span><?php endif; ?>
                 <?php if($sport == '1'): ?><span class="flash flash--sport">Sport</span><?php endif; ?>
                 <?php the_post_thumbnail('medium'); ?>
               </figure>
+              <h3><?php the_title(); ?> <span class="date"><?php echo get_the_date('d F Y'); ?></span></h3>
             </a>
           </article>
         <?php endwhile; ?>

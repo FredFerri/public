@@ -81,3 +81,10 @@ wp-config.php
 
 
 # End of https://www.toptal.com/developers/gitignore/api/wordpress,macos
+wp-content/themes/BX1-2017/cache/cache.calendar.cur.json
+wp-content/themes/BX1-2017/cache/cache.meteo.json
+wp-content/themes/BX1-2017/cache/prgtv/Semaine_23_2025.xml
+wp-content/themes/BX1-2017/cache/prgtv/Semaine_24_2025.xml
+wp-content/themes/BX1-2017/cache/prgtv/Semaine_24_2025(1).xml
+wp-content/themes/BX1-2017/cache/prgtv/Semaine_25_2025.xml
+wp-content/themes/BX1-2017/cache/prgtv/Semaine_26_2025(1).xml

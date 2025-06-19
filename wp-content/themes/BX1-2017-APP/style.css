@@ -508,7 +508,7 @@ a {
   float: left; }
   /* line 125, sass/style.scss */
   .menuPrincipal #openMenu {
-    width: 21px;
+    width: 35%;
     height: 17px;
     background-image: url(img/menu.png);
     background-size: cover;

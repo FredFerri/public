@@ -37,6 +37,7 @@
   <link rel="manifest" href="<?php bloginfo('url'); ?>/manifest.json">
   <link rel="mask-icon" href="<?php bloginfo('url'); ?>/safari-pinned-tab.svg" color="#ec217d">
   <link rel="shortcut icon" href="<?php bloginfo('url'); ?>/favicon.ico">
+  <script src="https://code.jquery.com/jquery-latest.min.js"></script>
   <meta name="msapplication-config" content="<?php bloginfo('url'); ?>/browserconfig.xml">
   <meta name="theme-color" content="#ffffff" />
   <?php if (is_page('mon-actu') || is_search()): ?>
@@ -250,6 +251,7 @@
           <a href="<?php echo home_url('/'); ?>alertez-nous" class="siteHeader__iReporter" title="Formulaire Alertez-nous"></a> -->
       </div>
     </div>
+
   </header>
 
   <header class="siteHeader siteHeader--fixed">

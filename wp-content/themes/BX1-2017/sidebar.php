@@ -5,7 +5,9 @@
  * @package TeleBruxelles
  */
 
-if ( ! is_active_sidebar( 'sidebar-1' ) ) {
+echo "YAYYYYYYYYYYYYYYYYYY";
+
+if ( ! is_active_sidebar( 'sidebar-3' ) ) {
    return;
 }
 ?>
@@ -19,5 +21,5 @@ if ( ! is_active_sidebar( 'sidebar-1' ) ) {
 	 <div id="gestcom_56"></div>
   <?php endif; ?>
 
-  <?php dynamic_sidebar( 'sidebar-1' ); ?>
+  <?php dynamic_sidebar( 'sidebar-3' ); ?>
 </div>

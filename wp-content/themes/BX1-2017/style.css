@@ -275,7 +275,6 @@ th {
     font-family: 'fontello';
     font-style: normal;
     font-weight: normal;
-    font-display: swap;
     src: url("./font/fontello.eot?51848376");
     src: url("./font/fontello.eot?51848376#iefix") format("embedded-opentype"), url("./font/fontello.woff2?51848376") format("woff2"), url("./font/fontello.woff?51848376") format("woff"), url("./font/fontello.ttf?51848376") format("truetype"), url("./font/fontello.svg?51848376#fontello") format("svg");
 }
@@ -2439,10 +2438,25 @@ width: 215px;
 }
 
 #menu-home-v2_menu > li:nth-child(6) .sub-menu > li:hover {
-background-color: #D51C70;
+    background-color: #D51C70;
 }
 
 #menu-home-v2_menu > li:nth-child(6) .sub-menu > li a {
+color: #fff;
+}   
+
+#menu-home-v2_menu > li:nth-child(1) .sub-menu > li {
+    background-color: #EC1F7C;
+    padding: 2px 5px;
+    border-bottom: 2px solid #fff;
+    width: 215px;
+}
+
+#menu-home-v2_menu > li:nth-child(1) .sub-menu > li:hover {
+    background-color: #B1125C;
+}
+
+#menu-home-v2_menu > li:nth-child(1) .sub-menu > li a {
 color: #fff;
 }   
 
@@ -2463,6 +2477,10 @@ color: #fff;
     margin-bottom: 1px;
     list-style: none;
     width: auto !important;
+}
+
+#menu-home-v2_menu_dossiers li:hover {
+    background-color: #B1125C;
 }
 
 #menu-home-v2_menu_dossiers li a {
@@ -2517,6 +2535,10 @@ color: #fff;
     position: absolute;
     right: -55px;
     width: 25px;
+}
+
+.sidebar-socials li a:hover {
+    opacity: 0.7;
 }
 
 .sidebar-socials li img {
@@ -3492,7 +3514,7 @@ color: #fff;
 }
 
 .news__article h3 {
-    margin-top: 0;
+    margin-top: 8px;
     margin-bottom: 0.5em;
     font-size: 20px;
     color: #000;
@@ -4296,7 +4318,13 @@ form#services input[type="submit"] {
     cursor: pointer;
 }
 
+
 @media screen and (max-width:1560px) {
+
+    .header-bottom {
+      width: 1020px;
+    }
+
     .inside, .nav-menu-v2 {
         width: 1020px;
     }
@@ -4325,6 +4353,10 @@ form#services input[type="submit"] {
         width: 675px;
     }
 
+    .news {
+      width: 650px !important;
+    }    
+
     .news--big {
         width: 100%;
     }
@@ -4347,7 +4379,7 @@ form#services input[type="submit"] {
 
     .header-bottom { width: 1020px; }
     .siteHeader .inside { width: 1020px !important; }
-    .pubTop { left: 30px; }
+    .pubTop { left: 0px; }
     .news, .single-article  { width: 650px !important; }
     .single-article {padding: 0px;}
     .single-content-block .news,
@@ -4409,7 +4441,7 @@ form#services input[type="submit"] {
     }
 
     .siteHeader .inside { 
-        width: auto !important; 
+        width: 85% !important; 
     }
 
     /* Homepage */
@@ -4532,6 +4564,16 @@ form#services input[type="submit"] {
         width: 85% !important; 
         padding: 0; 
     }    
+
+    .search-results #page .inside {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .search-results #page .inside section {
+        width: 80%;
+    }
+
 }
 
 
@@ -4580,6 +4622,12 @@ form#services input[type="submit"] {
 
 @media screen and (max-width:680px) {
     /* Header */
+
+    .header-btn-alert, .header-btn-whatsapp, .header-btn-directradio, .header-btn-directtv,
+    .openMenu, .openSearch, .menuPrincipal, .logo {
+        width: 60px !important;
+    }
+
     .openSearch { 
         width: 35px; 
         height: 35px; 
@@ -4596,12 +4644,10 @@ form#services input[type="submit"] {
     .logo { 
         overflow: initial !important; 
         display: inline-block;
-        width: 46px;
-        height: 39px;
     }
 
     .logo img { 
-        width: 100%; 
+        width: 45px !important;
         height: auto; 
         margin-top: 0; 
     }
@@ -4671,7 +4717,7 @@ form#services input[type="submit"] {
 
     /* Homepage */
     .news, .single-article { 
-        width: 90% !important; 
+        width: 100% !important; 
         margin-left: 0;
         padding: 0 !important;
     }
@@ -4882,6 +4928,10 @@ form#services input[type="submit"] {
         gap: 20px;
     }
 
+    .search-results .inside .sideFil {
+        display: flex !important;
+    }
+
 
 }
 
@@ -4893,7 +4943,7 @@ form#services input[type="submit"] {
     }
 
     .news .articles .news__article, .news-top-block .news__article {
-        flex: 0 0 47% !important;
+        flex: 90% !important;
     }
 
     #cookie-law-info-bar {

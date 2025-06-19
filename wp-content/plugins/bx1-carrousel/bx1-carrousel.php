@@ -1,7 +1,12 @@
 <?php
-/**
- * Plugin Name: bx1_carrousel
- */
+/*
+Plugin Name: BX1 - Carrousel
+Description: Système d'ajout de carrousel développé pour la V2 du site web (en particulier pour la homepage)
+Version: 0.1
+Author: Frédéric FERRI
+Author URI: https://webmaster-montpellier.com
+License: GPL2
+*/
 
 define('MCAROUSEL_PATH', plugin_dir_path(__FILE__));
 

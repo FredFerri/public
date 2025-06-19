@@ -1,5 +1,6 @@
 var $ = jQuery.noConflict();
 
+
 /*!
  * Datepicker v@VERSION
  * https://github.com/fengyuanchen/datepicker

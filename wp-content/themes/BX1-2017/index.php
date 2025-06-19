@@ -93,6 +93,15 @@ get_header('v2'); ?>
 
    <section class="sideFil">
       <?php dynamic_sidebar('filinfo2'); ?>
+      <div id="pubAside">
+
+        <?php if(is_user_logged_in() && $_COOKIE['nopub'] == 'on'): ?>
+          <!-- Nopub activé -->
+        <?php else: ?>
+           <!-- ads - zone images publicitaires bannering_imu -->
+         <div id="gestcom_56"></div>
+        <?php endif; ?>
+      </div>      
       <?php dynamic_sidebar('sidebar-3'); ?>
    </section>
 

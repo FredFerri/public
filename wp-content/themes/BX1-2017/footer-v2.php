@@ -441,6 +441,47 @@
         </div>
       <?php endwhile;wp_reset_postdata(); endif; endif; ?>
 
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+    function bindMenuHover(menuText) {
+        var timeout;
+
+        // Cibler les <a> DANS #menu-home-v2_menu
+        var $menuItem = $("#menu-home-v2_menu a").filter(function() {
+            return $(this).text().trim() === menuText;
+        }).parent();
+
+        var $subMenu = $menuItem.find(".sub-menu");
+
+        $menuItem.on("mouseenter", function() {
+            clearTimeout(timeout);
+            $subMenu.stop(true, true).css("display", "block");
+        });
+
+        $menuItem.on("mouseleave", function() {
+            timeout = setTimeout(function() {
+                $subMenu.stop(true, true).css("display", "none");
+            }, 300);
+        });
+
+        $subMenu.on("mouseenter", function() {
+            clearTimeout(timeout);
+        });
+
+        $subMenu.on("mouseleave", function() {
+            timeout = setTimeout(function() {
+                $subMenu.stop(true, true).css("display", "none");
+            }, 300);
+        });
+    }
+
+    // Appliquer le comportement aux deux onglets
+    bindMenuHover("Ma commune");
+    bindMenuHover("Info");
+});
+</script>
+  
+
 
    <script src="<?php echo get_template_directory_uri();?>/js/main.js"></script>
    <?php if(is_user_logged_in()): ?>

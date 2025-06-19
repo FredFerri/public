@@ -88,7 +88,6 @@ get_header('v2'); ?>
         ?>
           <article class="news__article <?php if($videoFileName != ''){echo 'news__article--video ';} ?>">
           <a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
-            <h3><?php the_title(); ?> <span class="date"><?php echo get_the_date('d F Y'); ?></span></h3>
               <figure>
                 <?php if($flash == '1'): ?><span class="flash">Flash info</span><?php endif; ?>
               	<?php if($sport == '1'): ?><span class="flash flash--sport">Sport</span><?php endif; ?>
@@ -97,6 +96,7 @@ get_header('v2'); ?>
                 <?php if($exclusif == '1'): ?><span class="flash exclusif">Info BX1</span><?php endif; ?>
                 <?php the_post_thumbnail('medium'); ?>
               </figure>
+              <h3><?php the_title(); ?> <span class="date"><?php echo get_the_date('d F Y'); ?></span></h3>
             </a>
           </article>
         <?php endif;endwhile; ?>

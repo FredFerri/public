@@ -147,44 +147,10 @@ require get_template_directory() . '/inc/extras.php';
  * @link http://codex.wordpress.org/Function_Reference/register_sidebar
  */
 function bx1_widgets_init() {
-    register_sidebar(array(
-        'id'            => 'sidebar-1',
-        'name'          => __('Sidebar', 'teleBruxelles'),
-        'description'   => __('Sidebar 1', 'teleBruxelles'),
-        'before_widget' => '<aside id="%1$s" class="widget %2$s">',
-        'after_widget'  => '</aside>',
-        'before_title'  => '<h2 class="section-title section-title--sidebar">',
-        'after_title'   => '</h2>',
-    ));
     $twitter = 'twitterUnder';
     if (get_option('twitter_pos') == 'inside') {
         $twitter = 'twitterInside';
     }
-    register_sidebar(array(
-        'id'            => 'filinfo',
-        'name'          => __('Fil info', 'teleBruxelles'),
-        'description'   => __('Fil info', 'teleBruxelles'),
-        'before_widget' => '<div class="filinfo ' . $twitter . '">',
-        'after_widget'  => '</div>',
-        'before_title'  => '<h2>',
-        'after_title'   => '</h2>'
-    ));
-    register_sidebar(array(
-        'id'            => 'footer',
-        'name'          => __('Footer', 'teleBruxelles'),
-        'description'   => __('Footer', 'teleBruxelles'),
-        'before_widget' => '',
-        'after_widget'  => '',
-    ));
-    register_sidebar(array(
-        'id'            => 'footer2',
-        'name'          => __('Footer 2', 'teleBruxelles'),
-        'description'   => __('Footer 2', 'teleBruxelles'),
-        'before_widget' => '',
-        'after_widget'  => '',
-    ));
-
-
     register_sidebar(array(
         'id'            => 'filinfo2',
         'name'          => __('Fil info 2', 'teleBruxelles'),
@@ -1104,27 +1070,44 @@ class Video_Widget extends WP_Widget {
         if ($queryNews->have_posts()) :
             while ($queryNews->have_posts()) : $queryNews->the_post();
     ?>
-                <div onmouseover="if(typeof alreadyHover === 'undefined'){jwplayer().setVolume(100);alreadyHover=1;}">
+                <div style="position: relative;">
                     <div id="dernierJT"></div>
+
+                    <!-- Couche transparente cliquable -->
+                    <a id="overlay-link"
+                       href="https://bx1.be/dernier-jt/?theme=classic"
+                       style="
+                           position: absolute;
+                           top: 0;
+                           left: 0;
+                           width: 100%;
+                           height: 100%;
+                           z-index: 10;
+                           display: block;
+                           cursor: pointer;">
+                    </a>
                 </div>
+
                 <script>
                     document.addEventListener("gestcomVideo", function(e) {
                         jwplayer("dernierJT").setup({
                             playlist: [{
+                                image: "https://bx1.be/wp-content/uploads/2025/06/image-videoplayer-web-18H.png",
                                 sources: [{
                                     file: "https://59959724487e3.streamlock.net:443/vod/mp4:" + "<?php echo types_render_field('nom-du-fichier-video'); ?>" + "/playlist.m3u8"
                                 }, {
                                     file: "rtmps://59959724487e3.streamlock.net:443/vod/mp4:" + "<?php echo types_render_field('nom-du-fichier-video'); ?>" + ".mp4"
                                 }]
-                            }],
+                            }],                            
                             primary: 'html5',
                             width: '100%',
                             aspectratio: '16:9',
-                            autostart: true,
+                            autostart: false,
                             mute: true
                         });
                     });
                 </script>
+
             <?php
             endwhile;
             wp_reset_postdata();
@@ -1178,13 +1161,29 @@ class Emission_Widget extends WP_Widget {
         if ($queryNews->have_posts()) :
             while ($queryNews->have_posts()) : $queryNews->the_post();
             ?>
-                <div onmouseover="if(typeof alreadyHover === 'undefined'){jwplayer().setVolume(100);alreadyHover=1;}">
+                <div style="position: relative;">
                     <div id="derniereEmission"></div>
+
+                    <!-- Couche transparente cliquable -->
+                    <a id="overlay-link"
+                       href="https://bx1.be/emission?theme=classic"
+                       style="
+                           position: absolute;
+                           top: 0;
+                           left: 0;
+                           width: 100%;
+                           height: 100%;
+                           z-index: 10;
+                           display: block;
+                           cursor: pointer;">
+                    </a>
                 </div>
+
                 <script>
                     document.addEventListener("gestcomVideo", function(e) {
                         jwplayer("derniereEmission").setup({
                             playlist: [{
+                                image: "https://bx1.be/wp-content/uploads/2025/06/vignette-emissions.png",
                                 sources: [{
                                     file: "https://59959724487e3.streamlock.net:443/vod/mp4:" + "<?php echo types_render_field('nom-du-fichier-video'); ?>" + "/playlist.m3u8"
                                 }, {
@@ -1194,7 +1193,7 @@ class Emission_Widget extends WP_Widget {
                             primary: 'html5',
                             width: '100%',
                             aspectratio: '16:9',
-                            autostart: true,
+                            autostart: false,
                             mute: true
                         });
                     });

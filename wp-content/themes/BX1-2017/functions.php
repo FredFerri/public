@@ -679,15 +679,17 @@ function shortcode_video_insert($args) {
                         file: file
                     }],
                     <?php
-                    $subtitle_file = "/data/sites/bx1.be/httpdocs/videofiles/" . $video_subtitle . ".vtt";
-                    if (($value_show_subtitles == true && file_exists($subtitle_file)) || ($_GET["showvtt"] == 1 && file_exists($subtitle_file))) { ?>
-                        tracks: [{
-                            file: "/videofiles/" + video_title + ".vtt",
-                            label: "Français",
-                            kind: "captions",
-                            "default": true
-                        }],
-                    <?php } ?>
+                    // $subtitle_file = "/data/sites/bx1.be/httpdocs/videofiles/" . $video_subtitle . ".vtt";
+                    // if (($value_show_subtitles == true && file_exists($subtitle_file)) || ($_GET["showvtt"] == 1 && file_exists($subtitle_file))) {
+                    ?>
+                    // tracks: [{
+                    //     file: "/videofiles/" + video_title + ".vtt",
+                    //     label: "Français",
+                    //     kind: "captions",
+                    //     "default": true
+                    // }],
+                    <?php // } 
+                    ?>
                     primary: 'html5',
                     flashplayer: '<?php echo get_template_directory_uri(); ?>/js/jwplayer/jwplayer.flash.swf',
                     width: '100%',

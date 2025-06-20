@@ -27,18 +27,7 @@
             }, {
               file: "rtmps://59959724487e3.streamlock.net:443/vod/mp4:" + "<?php echo types_render_field('video-name-news'); ?>" + ".mp4"
             }],
-            <?php
-            // $subtitle_file = "/data/sites/bx1.be/httpdocs/videofiles/".types_render_field('nom-du-fichier-video').".vtt";
-            // if (($value_show_subtitles == true && file_exists($subtitle_file)) || ($_GET["showvtt"] == 1 && file_exists($subtitle_file))):
-            ?>
-            // tracks: [{
-            //   file: "/videofiles/" + "<?php echo types_render_field('nom-du-fichier-video'); ?>" + ".vtt",
-            //   label: "Français",
-            //   kind: "captions",
-            //   "default": true
-            // }],
-            <?php // endif; 
-            ?>
+            <?= get_subtitle_track(types_render_field('video-name-news')); ?>
             primary: 'html5',
             flashplayer: '<?php echo get_template_directory_uri(); ?>/js/jwplayer/jwplayer.flash.swf',
             width: '100%',

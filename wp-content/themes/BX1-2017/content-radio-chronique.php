@@ -54,19 +54,7 @@
               }, {
                 file: "rtmps://59959724487e3.streamlock.net:443/vod/mp4:" + "<?php echo types_render_field('video-chronique'); ?>" + ".mp4"
               }],
-              <?php
-              // $subtitle_file = "/data/sites/bx1.be/httpdocs/videofiles/".types_render_field('nom-du-fichier-video').".vtt";
-              // if (($value_show_subtitles == true && file_exists($subtitle_file)) || ($_GET["showvtt"] == 1 && file_exists($subtitle_file)))
-              // {
-              ?>
-              // tracks: [{
-              //   file: "/videofiles/" + "<?php echo types_render_field('nom-du-fichier-video'); ?>" + ".vtt",
-              //   label: "Français",
-              //   kind: "captions",
-              //   "default": true
-              // }],
-              <?php //}
-              ?>
+              <?= get_subtitle_track(types_render_field('video-chronique')); ?>
               androidhls: true,
               hlshtml: true,
               width: "100%",
@@ -137,7 +125,7 @@
               $date = get_post_meta($post->ID, 'wpcf-date-chronique', true);
               //$date = create_date(get_post_meta ($post->ID, 'wpcf-date-chronique', true));
               ?>
-              <?php echo date("d/m/Y à H:i", $date); ?>
+              <?= $date ? date("d/m/Y à H:i", $date) : "" ?>
             </span>
           </td>
         </tr>

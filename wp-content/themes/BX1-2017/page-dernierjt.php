@@ -37,6 +37,7 @@ get_header('v2'); ?>
       <div onmouseover="if(typeof alreadyHover === 'undefined'){jwplayer().setVolume(100);alreadyHover=1;}">
         <div id="dernierJT"></div>
       </div>
+
       <script>
         document.addEventListener("gestcomVideo", function(e) {
           jwplayer("dernierJT").setup({
@@ -45,23 +46,8 @@ get_header('v2'); ?>
                 file: "https://59959724487e3.streamlock.net:443/vod/mp4:" + "<?php echo types_render_field('nom-du-fichier-video'); ?>" + "/playlist.m3u8"
               }, {
                 file: "rtmps://59959724487e3.streamlock.net:443/vod/mp4:" + "<?php echo types_render_field('nom-du-fichier-video'); ?>" + ".mp4"
-              }]
-
-              <?php
-              // $value_show_subtitles = get_option('show_subtitles');
-              // $subtitle_file = "/data/sites/bx1.be/httpdocs/videofiles/".types_render_field('nom-du-fichier-video').".vtt";
-              // if (($value_show_subtitles == true && file_exists($subtitle_file)) || ($_GET["showvtt"] == 1 && file_exists($subtitle_file)))
-              // {
-              ?>
-              //  ,
-              //  tracks: [{
-              //       file: "https://bx1.be/videofiles/" + "<?php echo types_render_field('nom-du-fichier-video'); ?>" + ".vtt",
-              //       label: "Français",
-              //       kind: "captions",
-              //       "default": false
-              //  }]
-              <?php // } 
-              ?>
+              }],
+              <?= get_subtitle_track(types_render_field('nom-du-fichier-video')); ?>
             }],
             primary: 'html5',
             width: '100%',

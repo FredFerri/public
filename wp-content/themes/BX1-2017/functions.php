@@ -1075,8 +1075,8 @@ class Video_Widget extends WP_Widget {
 
                     <!-- Couche transparente cliquable -->
                     <a id="overlay-link"
-                       href="https://bx1.be/dernier-jt/?theme=classic"
-                       style="
+                        href="https://bx1.be/dernier-jt/?theme=classic"
+                        style="
                            position: absolute;
                            top: 0;
                            left: 0;
@@ -1098,7 +1098,7 @@ class Video_Widget extends WP_Widget {
                                 }, {
                                     file: "rtmps://59959724487e3.streamlock.net:443/vod/mp4:" + "<?php echo types_render_field('nom-du-fichier-video'); ?>" + ".mp4"
                                 }]
-                            }],                            
+                            }],
                             primary: 'html5',
                             width: '100%',
                             aspectratio: '16:9',
@@ -1166,8 +1166,8 @@ class Emission_Widget extends WP_Widget {
 
                     <!-- Couche transparente cliquable -->
                     <a id="overlay-link"
-                       href="https://bx1.be/emission?theme=classic"
-                       style="
+                        href="https://bx1.be/emission?theme=classic"
+                        style="
                            position: absolute;
                            top: 0;
                            left: 0;
@@ -1220,3 +1220,27 @@ function register_emission_widget() {
     register_widget('Emission_Widget');
 }
 add_action('widgets_init', 'register_emission_widget');
+
+function check_if_video_exists($file_id) {
+    $VIDEOFILES = 'http://videos.bx1.be/vod/mp4';
+    // Temporary set default wowza url before SSL certificate is set up
+    $VIDEOFILES = 'https://59959724487e3.streamlock.net:443/vod/mp4';
+
+    // Make a CURL to check if the playlist.m3u8 file exists
+    $file = $VIDEOFILES . ":" . $file_id . ".mp4/playlist.m3u8";
+
+    $ch = curl_init($file);
+    curl_setopt($ch, CURLOPT_NOBODY, true);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_TIMEOUT, 10);
+
+    curl_exec($ch);
+    $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    curl_close($ch);
+
+    if ($httpCode == 200) {
+        return true; // File exists
+    } else {
+        return false; // File does not exist
+    }
+}

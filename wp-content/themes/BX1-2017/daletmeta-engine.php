@@ -1,27 +1,26 @@
 <?php
 date_default_timezone_set('Europe/Brussels');
 
-$section = "prod";
-switch ($section){
-	case 'staging':
-		$WPDIR 		= '/data/sites/bx1.be/staging.bx1.be';
-		$WPURL 		= 'staging.bx1.be';
-		$DALETMETA	= '/data/sites/bx1.be/daletmeta/staging';
-		$VIDEOFILES	= '/data/sites/bx1.be/httpdocs/videofiles';
-		break;
-	case 'prod':
-		$WPDIR 		= '/data/sites/bx1.be/httpdocs';	
-		$WPURL 		= 'bx1.be';
-		$DALETMETA	= '/data/sites/bx1.be/daletmeta/prod';
-		$VIDEOFILES	= '/data/sites/bx1.be/httpdocs/videofiles';
-		break;
-}
-include_once($WPDIR."/wp-load.php");
+// Load the wp-load.php file to access the WordPress environment
+require_once(__DIR__ . '/../../../wp-load.php');
+
+// Define the root directory of the website
+$WPDIR = $_SERVER['DOCUMENT_ROOT'];
+$WPURL = get_site_url();
+
+// Determine the current environment (staging or prod), default is 'staging'
+$section = (defined('WP_ENV') && WP_ENV) ? WP_ENV : 'staging';
+
+// Set the path to the daletmeta folder based on the environment
+$DALETMETA = $WPDIR . "/daletmeta/" . $section;
+
+$THEME_DIR = get_stylesheet_directory_uri();
+
 $version 			= "1.13";
-if(!isset($_GET["DEBUG"]) || $_GET["DEBUG"] != 1)
-	{
-		$_GET["DEBUG"] = 0;
-	}
+
+if (!isset($_GET["DEBUG"]) || $_GET["DEBUG"] != 1) {
+	$_GET["DEBUG"] = 0;
+}
 //echo $version;
 $listeemissions 	= array();
 $logcontent			= '';
@@ -30,7 +29,7 @@ $wpdb = new wpdb(DB_USER, DB_PASSWORD, DB_NAME, DB_HOST);
 
 // Vérifier si la connexion à la base de données a réussi
 if ($wpdb->ready) {
-//	echo 'Connexion à la base de données réussie !';
+	//	echo 'Connexion à la base de données réussie !';
 } else {
 	echo 'Erreur lors de la connexion à la base de données : ' . $wpdb->last_error;
 	exit;
@@ -46,10 +45,9 @@ $results = $wpdb->get_results($query);
 if ($results) {
 	foreach ($results as $result) {
 		$terme	=	$result->meta_value;
-		if ($terme != '' || empty($terme)){
+		if ($terme != '' || empty($terme)) {
 			array_push($listeemissions, array($result->meta_value, $result->term_id));
-		}
-		else{
+		} else {
 			continue;
 		}
 	}
@@ -59,10 +57,10 @@ if ($results) {
 //print_r($listeemissions);
 $daletdir 	= "";
 $videodir	= "";
-$wpdirectory="";
-$wpsiteurl="";
+$wpdirectory = "";
+$wpsiteurl = "";
 
-function SetDirectory($dalet,$video,$wpdirtory, $wpsiturl,$stagingprod){
+function SetDirectory($dalet, $video, $wpdirtory, $wpsiturl, $stagingprod) {
 	global  $daletdir;
 	global 	$videodir;
 	global 	$wpdirectory;
@@ -74,21 +72,21 @@ function SetDirectory($dalet,$video,$wpdirtory, $wpsiturl,$stagingprod){
 	$wpsiteurl		= $wpsiturl;
 	$stage 			= $stagingprod;
 }
-SetDirectory($DALETMETA, $VIDEOFILES, $WPDIR, $WPURL,$section);
-function checkemission($emission_file, $emissionarray,$XML)
-{
+SetDirectory($DALETMETA, "", $WPDIR, $WPURL, $section);
+function checkemission($emission_file, $emissionarray, $XML) {
 	global  $daletdir;
-	global 	$videodir;
 	global 	$wpdirectory;
 	global 	$wpsiteurl;
 	global 	$stage;
-	//global  $wpdb;
+
 	$traitementemission = FALSE;
-	$i=0;
-	require_once($wpdirectory."/wp-load.php");
-	require_once($wpdirectory."/wp-admin/includes/image.php");
-	require_once($wpdirectory."/wp-admin/includes/file.php");
-	require_once($wpdirectory."/wp-admin/includes/media.php");
+	$i = 0;
+
+	require_once(__DIR__ . '/../../../wp-load.php');
+	require_once(__DIR__ . '/../../../wp-admin/includes/image.php');
+	require_once(__DIR__ . '/../../../wp-admin/includes/file.php');
+	require_once(__DIR__ . '/../../../wp-admin/includes/media.php');
+
 	$xmlfilename	= basename($XML);
 	$xmldata 		= simplexml_load_file($XML) or die("Failed to load");
 	$Emission   	= (string) $xmldata->Emission;
@@ -99,276 +97,258 @@ function checkemission($emission_file, $emissionarray,$XML)
 	$wpdb 			= new wpdb(DB_USER, DB_PASSWORD, DB_NAME, DB_HOST);
 	$checkifpexist	= "SELECT COUNT(*) FROM bx1_daletmeta WHERE ItemCode = '" . $ItemCde . "'";
 	$ifpostexist	= $wpdb->get_var($checkifpexist);
-	if($ifpostexist == 1)
-		{
-			$checkpost 			= new wpdb(DB_USER, DB_PASSWORD, DB_NAME, DB_HOST);
-			$checkifpexist		= "SELECT * FROM bx1_daletmeta WHERE ItemCode = '" . $ItemCde . "'";
-			$postexist 			= $checkpost->get_results($checkifpexist);
-			
-			//print_r("Retour : ".$postexist.PHP_EOL);
-			foreach ( $postexist as $page )
-				{
-					$MediaID 			= $page->ImageID;
-					$PostID				= $page->PostID;
-					$OriginalContent	= $page->TexteArticleSum;
-					
-				//Delete Picture
-					$ch = curl_init();
-					if (empty($difdate) || $difdate == '')
-						{
-							$difdate = 0;
-						}
-					else
-						{
-							$difdate = 1;
-						}
-					try {
-						curl_setopt($ch, CURLOPT_URL, "https://".$wpsiteurl."/wp-content/themes/BX1-2017/daletmeta-actions.php?section=".$stage."&action=deletemedia&mediaid=" . $MediaID);
-						curl_setopt($ch, CURLOPT_HEADER, false);
-						curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-						curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 5);   
-						curl_setopt($ch, CURLOPT_TIMEOUT, 5);         
-						curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
-						curl_setopt($ch, CURLOPT_MAXREDIRS, 1);
-						curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, true);
-						$response = curl_exec($ch);
-						if (curl_errno($ch)) {
-							echo curl_error($ch);
-							die();
-						}
-						$http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-						if($http_code == intval(200)){
-							$postcreation = $response;
-						}
-						else{
-							echo "Ressource introuvable : " . $http_code;
-						}
-					} catch (\Throwable $th) {
-						throw $th;
-					} finally {
-						curl_close($ch);
-					}
-				//Upload New picture
-					$ch = curl_init();
-					try {
-						curl_setopt($ch, CURLOPT_URL, "https://".$wpsiteurl."/wp-content/themes/BX1-2017/daletmeta-upload-picture.php?action=update&postid=".$PostID."&section=".$stage."&file=".$emission_file);
-						curl_setopt($ch, CURLOPT_HEADER, false);
-						curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-						curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 5);   
-						curl_setopt($ch, CURLOPT_TIMEOUT, 5);         
-						curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
-						curl_setopt($ch, CURLOPT_MAXREDIRS, 1);
-						curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, true);
-						$response = curl_exec($ch);
-						if (curl_errno($ch)) {
-							echo curl_error($ch);
-							die();
-						}
-						$http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-						if($http_code == intval(200)){
-							$attach_id = $response;
-							$query 		= "UPDATE bx1_daletmeta SET ImageID = " . $attach_id . " WHERE PostID = " . $PostID;
-							$wpdb->get_results($query);
-							
-						}
-						else{
-							echo "Ressource introuvable : " . $http_code;
-						}
-					} catch (\Throwable $th) {
-						throw $th;
-					} finally {
-						curl_close($ch);
-					}
-				// Vérification du contenu du post	
-				$checkcontent		= "SELECT * FROM `wp_posts` WHERE ID = " . $PostID;
-				$postcontent		= $wpdb->get_results($checkcontent);
-				foreach ( $postcontent as $content )
-					{
-						$CurrentContent = md5($content->post_content);
-					}
 
-				if ( $CurrentContent == $OriginalContent)
-					{
-						if (md5($Contenu) != $CurrentContent){
-							$ch = curl_init();
-							if (empty($difdate) || $difdate == '')
-								{
-									$difdate = 0;
-								}
-							else
-								{
-									$difdate = 1;
-								}
-							try {
-								curl_setopt($ch, CURLOPT_URL, "https://".$wpsiteurl."/wp-content/themes/BX1-2017/daletmeta-actions.php?section=".$stage."&action=updatepost&postid=" . $PostID."&file=".$XML);
-								curl_setopt($ch, CURLOPT_HEADER, false);
-								curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-								curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 5);   
-								curl_setopt($ch, CURLOPT_TIMEOUT, 5);         
-								curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
-								curl_setopt($ch, CURLOPT_MAXREDIRS, 1);
-								curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, true);
-								$response = curl_exec($ch);
-								if (curl_errno($ch)) {
-									echo curl_error($ch);
-									die();
-								}
-								$http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-								if($http_code == intval(200)){
-									$postcreation = $response;
-									print_r($postcreation);
-								}
-								else{
-									echo "Ressource introuvable : " . $http_code;
-								}
-							} catch (\Throwable $th) {
-								throw $th;
-							} finally {
-								curl_close($ch);
-							}
-						}
-						else{}
-					}
-					$traitementemission = TRUE;
+	if ($ifpostexist == 1) {
+		$checkpost 			= new wpdb(DB_USER, DB_PASSWORD, DB_NAME, DB_HOST);
+		$checkifpexist		= "SELECT * FROM bx1_daletmeta WHERE ItemCode = '" . $ItemCde . "'";
+		$postexist 			= $checkpost->get_results($checkifpexist);
+
+		//print_r("Retour : ".$postexist.PHP_EOL);
+		foreach ($postexist as $page) {
+			$MediaID 			= $page->ImageID;
+			$PostID				= $page->PostID;
+			$OriginalContent	= $page->TexteArticleSum;
+
+			//Delete Picture
+			$ch = curl_init();
+			if (empty($difdate) || $difdate == '') {
+				$difdate = 0;
+			} else {
+				$difdate = 1;
+			}
+			try {
+
+
+				curl_setopt($ch, CURLOPT_URL, $wpsiteurl . "/wp-content/themes/BX1-2017/daletmeta-actions.php?section=" . $stage . "&action=deletemedia&mediaid=" . $MediaID);
+				curl_setopt($ch, CURLOPT_HEADER, false);
+				curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+				curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 5);
+				curl_setopt($ch, CURLOPT_TIMEOUT, 5);
+				curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+				curl_setopt($ch, CURLOPT_MAXREDIRS, 1);
+				curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, true);
+				$response = curl_exec($ch);
+				if (curl_errno($ch)) {
+					echo curl_error($ch);
+					die();
 				}
+				$http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+				if ($http_code == intval(200)) {
+					$postcreation = $response;
+				} else {
+					echo "Ressource introuvable : " . $http_code;
+				}
+			} catch (\Throwable $th) {
+				throw $th;
+			} finally {
+				curl_close($ch);
+			}
+			//Upload New picture
+			$ch = curl_init();
+			try {
+				curl_setopt($ch, CURLOPT_URL, $wpsiteurl . "/wp-content/themes/BX1-2017/daletmeta-upload-picture.php?action=update&postid=" . $PostID . "&section=" . $stage . "&file=" . $emission_file);
+				curl_setopt($ch, CURLOPT_HEADER, false);
+				curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+				curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 5);
+				curl_setopt($ch, CURLOPT_TIMEOUT, 5);
+				curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+				curl_setopt($ch, CURLOPT_MAXREDIRS, 1);
+				curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, true);
+				$response = curl_exec($ch);
+				if (curl_errno($ch)) {
+					echo curl_error($ch);
+					die();
+				}
+				$http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+				if ($http_code == intval(200)) {
+					$attach_id = $response;
+					$query 		= "UPDATE bx1_daletmeta SET ImageID = " . $attach_id . " WHERE PostID = " . $PostID;
+					$wpdb->get_results($query);
+				} else {
+					echo "Ressource introuvable : " . $http_code;
+				}
+			} catch (\Throwable $th) {
+				throw $th;
+			} finally {
+				curl_close($ch);
+			}
+			// Vérification du contenu du post	
+			$checkcontent		= "SELECT * FROM `wp_posts` WHERE ID = " . $PostID;
+			$postcontent		= $wpdb->get_results($checkcontent);
+			foreach ($postcontent as $content) {
+				$CurrentContent = md5($content->post_content);
+			}
+
+			if ($CurrentContent == $OriginalContent) {
+				if (md5($Contenu) != $CurrentContent) {
+					$ch = curl_init();
+					if (empty($difdate) || $difdate == '') {
+						$difdate = 0;
+					} else {
+						$difdate = 1;
+					}
+					try {
+						curl_setopt($ch, CURLOPT_URL, $wpsiteurl . "/wp-content/themes/BX1-2017/daletmeta-actions.php?section=" . $stage . "&action=updatepost&postid=" . $PostID . "&file=" . $XML);
+						curl_setopt($ch, CURLOPT_HEADER, false);
+						curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+						curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 5);
+						curl_setopt($ch, CURLOPT_TIMEOUT, 5);
+						curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+						curl_setopt($ch, CURLOPT_MAXREDIRS, 1);
+						curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, true);
+						$response = curl_exec($ch);
+						if (curl_errno($ch)) {
+							echo curl_error($ch);
+							die();
+						}
+						$http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+						if ($http_code == intval(200)) {
+							$postcreation = $response;
+							print_r($postcreation);
+						} else {
+							echo "Ressource introuvable : " . $http_code;
+						}
+					} catch (\Throwable $th) {
+						throw $th;
+					} finally {
+						curl_close($ch);
+					}
+				} else {
+				}
+			}
+			$traitementemission = TRUE;
 		}
-	else
-		{
-			$code_emission 	= 0;
-			$image_exist	= 0;
-			$video_exist	= 0;
-			if(file_exists($daletdir."/".$emission_file."_codeemission.txt"))
-				{
-					$contentfile = fopen($daletdir."/".$emission_file."_codeemission.txt","r");
-					while ($line = fgets($contentfile)) {
-					  $code_emission = $line;
-					} 
-					fclose($contentfile);
-				}
-			else {
-				foreach($emissionarray as $codeemission)
-					{
-						if(strpos($emission_file, $codeemission[0]) !== false){
-							$code_emission = $codeemission[1];
-							
-						}
-						else{
-							}
-						$i++;
-					}
-			}
-			
-			if(file_exists($daletdir."/".$emission_file.".JPG"))
-				{
+	} else {
+		$code_emission 	= 0;
+		$image_exist	= 0;
+		$video_exist	= 0;
 
-					copy($daletdir."/".$emission_file.".JPG",$wpdirectory."/wp-content/uploads/DaletMetaImg/".$emission_file.".JPG");
-					$image_exist = 1;
-				}
-			if(file_exists($videodir."/".$emission_file.".mp4"))
-				{
-					$video_exist = 1;
-				}
-			if ($code_emission != 0 && $image_exist == 1 && $video_exist == 1)
-				{
-					$post_id 	= '';
-					$desc 		= $Emission;
-					$ch = curl_init();
-					try {
-						curl_setopt($ch, CURLOPT_URL, "https://".$wpsiteurl."/wp-content/themes/BX1-2017/daletmeta-upload-picture.php?section=".$stage."&file=".$emission_file);
-						curl_setopt($ch, CURLOPT_HEADER, false);
-						curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-						curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 5);   
-						curl_setopt($ch, CURLOPT_TIMEOUT, 5);         
-						curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
-						curl_setopt($ch, CURLOPT_MAXREDIRS, 1);
-						curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, true);
-						
-						$response = curl_exec($ch);
-
-						var_dump($response);
-						
-						if (curl_errno($ch)) {
-							echo curl_error($ch);
-							die();
-						}
-						
-						$http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-						if($http_code == intval(200)){
-							$attach_id = $response;
-							echo "ATTACH ID = ".$attach_id;
-						}
-						else{
-							echo "Ressource introuvable : " . $http_code;
-						}
-					} catch (\Throwable $th) {
-						throw $th;
-					} finally {
-						curl_close($ch);
-					}
-					$ch = curl_init();
-					
-		
-					if (empty($difdate) || $difdate == '')
-						{
-							$difdate = 0;
-						}
-					else
-						{
-							$difdate = 1;
-						}
-					try {
-						//echo "https://".$wpsiteurl."/wp-content/themes/BX1-2017/daletmeta-create-post.php?section=".$stage."&action=" . $action . "&codeemission=" . $code_emission . "&difdate=" . $difdate . "&attachid=". $attach_id . "&file=".$xmlfilename;
-						curl_setopt($ch, CURLOPT_URL, "https://".$wpsiteurl."/wp-content/themes/BX1-2017/daletmeta-create-post.php?section=".$stage."&action=" . $action . "&codeemission=" . $code_emission . "&difdate=" . $difdate . "&attachid=". $attach_id . "&file=".$xmlfilename);
-						curl_setopt($ch, CURLOPT_HEADER, false);
-						curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-						curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 5);   
-						curl_setopt($ch, CURLOPT_TIMEOUT, 5);         
-						curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
-						curl_setopt($ch, CURLOPT_MAXREDIRS, 1);
-						curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, true);
-						
-						$response = curl_exec($ch);
-						
-						if (curl_errno($ch)) {
-							echo curl_error($ch);
-							die();
-						}
-						
-						$http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-						if($http_code == intval(200)){
-							$postcreation = $response;
-							echo $postcreation;
-						}
-						else{
-							echo "Ressource introuvable : " . $http_code;
-						}
-					} catch (\Throwable $th) {
-						throw $th;
-					} finally {
-						curl_close($ch);
-					}
-					$traitementemission = TRUE;	
-				}
+		if (file_exists($daletdir . "/" . $emission_file . "_codeemission.txt")) {
+			$contentfile = fopen($daletdir . "/" . $emission_file . "_codeemission.txt", "r");
+			while ($line = fgets($contentfile)) {
+				$code_emission = $line;
 			}
-			return $traitementemission;
+			fclose($contentfile);
+		} else {
+			foreach ($emissionarray as $codeemission) {
+				if (strpos($emission_file, $codeemission[0]) !== false) {
+					$code_emission = $codeemission[1];
+				} else {
+				}
+				$i++;
+			}
+		}
+
+
+		if (file_exists($daletdir . "/" . $emission_file . ".JPG")) {
+
+			// IF folder "DaletMetaImg" does not exist, create it
+			if (!file_exists($wpdirectory . "/wp-content/uploads/DaletMetaImg/"))
+				mkdir($wpdirectory . "/wp-content/uploads/DaletMetaImg/", 0777, true);
+
+
+			copy($daletdir . "/" . $emission_file . ".JPG", $wpdirectory . "/wp-content/uploads/DaletMetaImg/" . $emission_file . ".JPG");
+
+			$image_exist = 1;
+		}
+		if (check_if_video_exists($emission_file)) {
+			$video_exist = 1;
+		}
+		if ($code_emission != 0 && $image_exist == 1 && $video_exist == 1) {
+			$post_id 	= '';
+			$desc 		= $Emission;
+			$ch = curl_init();
+			try {
+				curl_setopt($ch, CURLOPT_URL, $wpsiteurl . "/wp-content/themes/BX1-2017/daletmeta-upload-picture.php?section=" . $stage . "&file=" . $emission_file);
+				curl_setopt($ch, CURLOPT_HEADER, false);
+				curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+				curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 5);
+				curl_setopt($ch, CURLOPT_TIMEOUT, 5);
+				curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+				curl_setopt($ch, CURLOPT_MAXREDIRS, 1);
+				curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, true);
+
+				$response = curl_exec($ch);
+
+				if (curl_errno($ch)) {
+					echo curl_error($ch);
+					die();
+				}
+
+				$http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+				if ($http_code == intval(200)) {
+					$attach_id = $response;
+					echo "ATTACH ID = " . $attach_id;
+				} else {
+					echo "Ressource introuvable : " . $http_code;
+				}
+			} catch (\Throwable $th) {
+				throw $th;
+			} finally {
+				curl_close($ch);
+			}
+			$ch = curl_init();
+
+
+			if (empty($difdate) || $difdate == '') {
+				$difdate = 0;
+			} else {
+				$difdate = 1;
+			}
+			try {
+				//echo "https://".$wpsiteurl."/wp-content/themes/BX1-2017/daletmeta-create-post.php?section=".$stage."&action=" . $action . "&codeemission=" . $code_emission . "&difdate=" . $difdate . "&attachid=". $attach_id . "&file=".$xmlfilename;
+				curl_setopt($ch, CURLOPT_URL, $wpsiteurl . "/wp-content/themes/BX1-2017/daletmeta-create-post.php?section=" . $stage . "&action=" . $action . "&codeemission=" . $code_emission . "&difdate=" . $difdate . "&attachid=" . $attach_id . "&file=" . $xmlfilename);
+				curl_setopt($ch, CURLOPT_HEADER, false);
+				curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+				curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 5);
+				curl_setopt($ch, CURLOPT_TIMEOUT, 5);
+				curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+				curl_setopt($ch, CURLOPT_MAXREDIRS, 1);
+				curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, true);
+
+				$response = curl_exec($ch);
+
+				if (curl_errno($ch)) {
+					echo curl_error($ch);
+					die();
+				}
+
+				$http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+				if ($http_code == intval(200)) {
+					$postcreation = $response;
+					echo $postcreation;
+				} else {
+					echo "Ressource introuvable : " . $http_code;
+				}
+			} catch (\Throwable $th) {
+				throw $th;
+			} finally {
+				curl_close($ch);
+			}
+			$traitementemission = TRUE;
+		}
+	}
+
+	return $traitementemission;
 }
+
 $XMLFiles = array_merge(
 	glob($DALETMETA . '/*.xml'),
 	glob($DALETMETA . '/*.XML')
 );
-var_dump($XMLFiles);
+
 foreach ($XMLFiles as $XML) {
 	$tmpxml		= explode('/', $XML);
 	$Filename   = end($tmpxml);
 	$logcontent .= "\n Reading file : " . $Filename;
 	$filename 	= basename($XML, ".xml");
-	$filename 	= basename($filename, ".XML");	
-	$emissionvalide = checkemission($filename, $listeemissions,$XML);
-	if ($emissionvalide == TRUE){
-		@rename ($XML, $DALETMETA . "/../archive/" . $section . "/" . $filename . ".xml");
-		@rename ($DALETMETA . "/" . $filename . ".JPG", $DALETMETA . "/../archive/" . $section . "/" . $filename . ".JPG");
-		@rename ($DALETMETA . "/" . $filename . "_codeemission.txt", $DALETMETA . "/../archive/" . $section . "/" . $filename . "_codeemission.txt");
+	$filename 	= basename($filename, ".XML");
+	$emissionvalide = checkemission($filename, $listeemissions, $XML);
 
+	if ($emissionvalide == TRUE) {
+
+		@rename($XML, $DALETMETA . "/../archive/" . $section . "/" . $filename . ".xml");
+		@rename($DALETMETA . "/" . $filename . ".JPG", $DALETMETA . "/../archive/" . $section . "/" . $filename . ".JPG");
+		@rename($DALETMETA . "/" . $filename . "_codeemission.txt", $DALETMETA . "/../archive/" . $section . "/" . $filename . "_codeemission.txt");
 	}
 }
-?>

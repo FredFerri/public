@@ -6,8 +6,6 @@
  * @package TeleBruxelles
  */
 
-// echo "YAYYYYYYYYYYYYYYYYYY";
-
 if (! is_active_sidebar('sidebar-3')) {
   return;
 }
@@ -15,7 +13,7 @@ if (! is_active_sidebar('sidebar-3')) {
 
 <div id="pubAside">
 
-  <?php if (is_user_logged_in() && $_COOKIE['nopub'] == 'on'): ?>
+  <?php if (is_user_logged_in() && array_key_exists('nopub', $_COOKIE) && $_COOKIE['nopub'] == 'on'): ?>
     <!-- Nopub activé -->
   <?php else: ?>
     <!-- ads - zone images publicitaires bannering_imu -->

@@ -21,7 +21,7 @@
       $termDSC[] = $term->description;
     }
     $the_term_id = $termID[0];
-    if ($_GET["debug"] == 1) {
+    if (isset($_GET) && array_key_exists('debug', $_GET) && $_GET["debug"] == 1) {
       echo $the_term_id;
     }
     ?>
@@ -31,16 +31,12 @@
     </div>
   </div>
 
-
-  <?php
-
-  ?>
-
   <div class="content">
 
     <div class="content">
       <?php
       $videoName = types_render_field('video-chronique', array('raw' => 'true'));
+
       if (!empty($videoName)) { ?>
         <div onmouseover="if(typeof alreadyHover === 'undefined'){jwplayer().setVolume(100);alreadyHover=1;}">
           <div id="videoLive"></div>
@@ -64,7 +60,7 @@
               mute: false,
               <?php
               //$PUB = 'off';
-              if ((is_user_logged_in() && $_COOKIE['nopub'] == 'on' || types_render_field('no-pre-roll') == '1') ||  $PUB == 'off'): //nopub 
+              if ((is_user_logged_in() && (array_key_exists('nopub', $_COOKIE) && $_COOKIE['nopub'] == 'on') || types_render_field('no-pre-roll') == '1') || (isset($PUB) && $PUB == 'off')): //nopub 
               ?>
                 advertising: false
               <?php else: ?>

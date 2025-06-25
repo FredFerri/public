@@ -15,7 +15,7 @@
       $termDSC[] = $term->description;
     }
     $the_term_id = $termID[0];
-    if ($_GET["debug"] == 1) {
+    if (array_key_exists('debug', $_GET) && $_GET["debug"] == 1) {
       echo "<pre>";
       echo "Cookie NoPub : " . $_COOKIE['nopub'] . "<br>";
       echo "Value Pub : " . $PUB . "<br>";
@@ -61,7 +61,7 @@
             mute: false,
             <?php
             $PUB = 'off';
-            if ((is_user_logged_in() && $_COOKIE['nopub'] == 'on' || types_render_field('no-pre-roll') == '1') ||  $PUB == 'off'): //nopub 
+            if ((is_user_logged_in() && (array_key_exists('nopub', $_COOKIE) && $_COOKIE['nopub'] == 'on') || types_render_field('no-pre-roll') == '1') || (isset($PUB) && $PUB == 'off')): //nopub 
             ?>
               advertising: false
             <?php else: ?>

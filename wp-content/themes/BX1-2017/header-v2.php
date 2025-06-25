@@ -200,7 +200,9 @@
           $pagename = $post->post_name;
         }
         $pagetype = types_render_field('bx1-content-type');
-        if ($pagetype == "Radio (BX1+)" || $_GET["testradio"] == 1) {
+
+        $radio = false;
+        if ($pagetype == "Radio (BX1+)" || (array_key_exists('testradio', $_GET) && $_GET["testradio"] == 1)) {
           $radio  = true;
         }
         //echo "\" NOM DE LA PAGE : ". $pagename . "\""; 
@@ -281,7 +283,7 @@
 
   <div class="header-bottom">
     <div class="pubTop">
-      <?php if (is_user_logged_in() && $_COOKIE['nopub'] == 'on'): ?>
+      <?php if (is_user_logged_in() && (array_key_exists('nopub', $_COOKIE) && $_COOKIE['nopub'] == 'on')): ?>
         <div class="pubTop__ad">
           <span>Publicités désactivées pour cet utilisateur</span>
         </div>

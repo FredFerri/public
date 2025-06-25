@@ -44,7 +44,7 @@ $presentation = get_option('home_pres');
 
     $post_thumbnail_id = get_post_thumbnail_id($post->ID);
 
-    ?>
+  ?>
     <article class="news__article <?php echo esc_attr("$video_class $even_odd_class $classes"); ?>">
       <a href="<?php echo get_permalink($post->ID); ?>" title="Lire l'article <?php echo esc_attr(get_the_title($post->ID)); ?>">
         <figure>
@@ -58,7 +58,7 @@ $presentation = get_option('home_pres');
         <h3 class="articletitre"><?php echo get_the_title($post->ID); ?> <span class="date"><?php echo get_the_date('d F Y', $post->ID); ?></span></h3>
       </a>
     </article>
-    <?php
+  <?php
     wp_reset_postdata();
   }
 
@@ -154,17 +154,17 @@ $presentation = get_option('home_pres');
 
 
 <section class="sideFil">
-	<?php dynamic_sidebar('filinfo2'); ?>
-	<div id="pubAside">
+  <?php dynamic_sidebar('filinfo2'); ?>
+  <div id="pubAside">
 
-	  <?php if(is_user_logged_in() && $_COOKIE['nopub'] == 'on'): ?>
-	    <!-- Nopub activé -->
-	  <?php else: ?>
-	     <!-- ads - zone images publicitaires bannering_imu -->
-		 <div id="gestcom_56"></div>
-	  <?php endif; ?>
-	</div>
-	<?php dynamic_sidebar('sidebar-3'); ?>
+    <?php if (is_user_logged_in() && array_key_exists('nopub', $_COOKIE) && $_COOKIE['nopub'] == 'on'): ?>
+      <!-- Nopub activé -->
+    <?php else: ?>
+      <!-- ads - zone images publicitaires bannering_imu -->
+      <div id="gestcom_56"></div>
+    <?php endif; ?>
+  </div>
+  <?php dynamic_sidebar('sidebar-3'); ?>
 </section>
 
 

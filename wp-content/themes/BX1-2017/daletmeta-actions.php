@@ -13,7 +13,6 @@ $WPDIR = $_SERVER['DOCUMENT_ROOT'];
 
 // Set the path to the daletmeta folder based on the environment
 $DALETMETA = $WPDIR . "/daletmeta/" . $section;
-$VIDEOFILES = '/data/sites/bx1.be/httpdocs/videofiles';
 $THEME_DIR = get_stylesheet_directory_uri();
 
 if ($_GET["action"] == "deletemedia" && !empty($_GET["mediaid"])) {

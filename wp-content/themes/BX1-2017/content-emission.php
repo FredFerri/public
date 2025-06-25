@@ -115,14 +115,14 @@
 										'value'   => $videoName,
 										'compare' => '!='
 									),
-									$diffusion_new
+									isset($diffusion_new) ? $diffusion_new : array()
 								),
 								'tax_query' => array(
 									$type_emissions
 								),
 								'orderby' => array('date' => 'DESC'),
 								'paged' => get_query_var('paged'),
-								'date_query' => $diffusion_old
+								'date_query' => isset($diffusion_old) ? $diffusion_old : array()
 							);
 							$queryNews = new WP_Query($argsNews);
 							if ($queryNews->have_posts()) : ?>
@@ -185,7 +185,7 @@
 						?>
 						<?php
 						//$PUB = 'off';
-						if ((is_user_logged_in() && $_COOKIE['nopub'] == 'on' || types_render_field('no-pre-roll') == '1') ||  $PUB == 'off'): //nopub 
+						if ((is_user_logged_in() && (array_key_exists('nopub', $_COOKIE) && $_COOKIE['nopub'] == 'on') || types_render_field('no-pre-roll') == '1') ||  (isset($PUB) && $PUB == 'off')): //nopub 
 						?>
 							advertising: false
 						<?php else: ?>

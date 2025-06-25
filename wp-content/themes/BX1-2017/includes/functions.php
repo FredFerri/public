@@ -31,6 +31,11 @@ function callAPI($method, $url, $data, $zone, $cache = false, $timeout = 3600) {
 	date_default_timezone_set("Europe/Brussels");
 	// Define logs name and directory
 	$logdir     = '../cache/logs/';
+
+	if (!is_dir($logdir)) {
+		mkdir($logdir, 0755, true);
+	}
+
 	$retention  = 7;
 	$logfile    = 'log_' . $zone  . '_' . date("Y-m-d_H-i") . '.log';
 	// Create document header

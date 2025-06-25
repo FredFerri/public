@@ -1,4 +1,5 @@
 <?php
+
 /**
  * The template for displaying archive pages.
  *
@@ -9,12 +10,10 @@
 
 get_header(); ?>
 
-  <script>
-  
-    jQuery(function(){
-      window.location.replace("<?php bloginfo('url'); ?>/emissions");
-    });
-
-  </script>
+<script>
+  jQuery(function() {
+    window.location.replace("<?php bloginfo('url'); ?>/emissions");
+  });
+</script>
 
 <?php get_footer(); ?>

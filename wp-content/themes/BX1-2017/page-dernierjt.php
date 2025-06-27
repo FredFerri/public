@@ -98,7 +98,7 @@ get_header('v2'); ?>
 
   <div class="dernierjt-buttons">
     <div class="button">
-      <a class="one" href="https://bx1.be/lives/direct-tv/?theme=classic">Suivez BX1 en direct</a>
+      <a class="one" href="https://bx1.be/lives/direct-tv/?theme=<?= isset($_GET['theme']) ? esc_attr($_GET['theme']) : 'classic' ?>">Suivez BX1 en direct</a>
     </div>
 
     <link href="https://fonts.googleapis.com/css?family=Asap+Condensed&display=swap" rel="stylesheet">

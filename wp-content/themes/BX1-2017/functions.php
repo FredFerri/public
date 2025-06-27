@@ -1070,7 +1070,7 @@ class Video_Widget extends WP_Widget {
 
 					<!-- Couche transparente cliquable -->
 					<a id="overlay-link"
-						href="https://bx1.be/dernier-jt/?theme=classic"
+						href="https://bx1.be/dernier-jt/?theme=<?= isset($_GET['theme']) ? esc_attr($_GET['theme']) : 'classic' ?>"
 						style="
                            position: absolute;
                            top: 0;
@@ -1161,7 +1161,7 @@ class Emission_Widget extends WP_Widget {
 
 					<!-- Couche transparente cliquable -->
 					<a id="overlay-link"
-						href="https://bx1.be/emission?theme=classic"
+						href="https://bx1.be/emission?theme=<?= isset($_GET['theme']) ? esc_attr($_GET['theme']) : 'classic' ?>"
 						style="
                            position: absolute;
                            top: 0;

@@ -316,11 +316,15 @@
 
   <div class="sidebar-socials_responsive">
     <ul>
-      <li><a href="https://www.instagram.com/bx1_officiel/"><img src="https://bx1.be/wp-content/uploads/2025/03/logo-instagram-1.png" /></a></li>
-      <li><a href="https://www.facebook.com/BX1officiel/"><img src="https://bx1.be/wp-content/uploads/2025/03/logo-facebook-1.png" /></a></li>
-      <li><a href="https://www.youtube.com/user/TeleBruxelles"><img src="https://bx1.be/wp-content/uploads/2025/03/logo-youtube-1.png" /></a></li>
-      <li><a href="https://bsky.app/profile/bx1.be"><img src="https://bx1.be/wp-content/uploads/2025/03/logo-bluesky-1.png" /></a></li>
-      <li><a href="#"><img src="https://bx1.be/wp-content/uploads/2025/03/enveloppe-1.png" /></a></li>
+      <li><a href="https://www.instagram.com/bx1_officiel/"><img
+            src="https://bx1.be/wp-content/uploads/2025/03/logo-instagram-1.png" alt="Logo Instagram" /></a></li>
+      <li><a href="https://www.facebook.com/BX1officiel/"><img
+            src="https://bx1.be/wp-content/uploads/2025/03/logo-facebook-1.png" alt="Logo Facebook" /></a></li>
+      <li><a href="https://www.youtube.com/user/TeleBruxelles"><img
+            src="https://bx1.be/wp-content/uploads/2025/03/logo-youtube-1.png" alt="Logo YouTube" /></a></li>
+      <li><a href="https://bsky.app/profile/bx1.be"><img
+            src="https://bx1.be/wp-content/uploads/2025/03/logo-bluesky-1.png" alt="Logo BlueSky" /></a></li>
+      <li><a href="#"><img src="https://bx1.be/wp-content/uploads/2025/03/enveloppe-1.png" alt="Logo e-mail" /></a></li>
     </ul>
   </div>
 

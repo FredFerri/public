@@ -208,10 +208,10 @@
         //echo "\" NOM DE LA PAGE : ". $pagename . "\""; 
         ?>
         <?php if ($radio == true) { ?>
-          <a href="<?php echo esc_url(home_url('/radio/')); ?>" title="Retour à l'accueil" rel="home" class="logo"><img style="margin-top:7px!important;" id="logoimg" src="https://bx1.be/wp-content/uploads/2025/04/Logo-BX1-2025_Baseline-NEW-min.png" alt="BX1 - Médias de Bruxelles" width="115" height="107" /></a>
+          <a href="<?php echo esc_url(home_url('/radio/')); ?>" title="Retour à l'accueil" rel="home" class="logo"><img style="margin-top:7px!important;" id="logoimg" src="/wp-content/themes/BX1-2017/images/Logo-BX1-2025_Baseline-NEW-min.png" alt="BX1 - Médias de Bruxelles" width="115" height="107" /></a>
         <?php } else {
         ?>
-          <a href="<?php echo esc_url(home_url('/')); ?>" title="Retour à l'accueil" rel="home" class="logo"><img id="logoimg" src="https://bx1.be/wp-content/uploads/2025/04/Logo-BX1-2025_Baseline-NEW-min.png" width="115" height="107" alt="BX1 - Médias de Bruxelles" loading="eager" /></a>
+          <a href="<?php echo esc_url(home_url('/')); ?>" title="Retour à l'accueil" rel="home" class="logo"><img id="logoimg" src="/wp-content/themes/BX1-2017/images/Logo-BX1-2025_Baseline-NEW-min.png" width="115" height="107" alt="BX1 - Médias de Bruxelles" loading="eager" /></a>
         <?php } ?>
         <a href="#page" class="visuallyhidden">Passer la navigation</a>
         <form role="search" method="get" class="searchForm" action="<?php echo home_url('/'); ?>">
@@ -226,28 +226,28 @@
       <div class="header-center">
         <div class="header-btn-directtv">
           <a href="https://bx1.be/lives/direct-tv/?theme=<?= isset($_GET['theme']) ? esc_attr($_GET['theme']) : 'classic' ?>" title="Accéder au direct radio">
-            <img src="https://bx1.be/wp-content/uploads/2025/03/direct-tv.png" width="110" height="94" alt="" loading="eager" />
+            <img src="/wp-content/themes/BX1-2017/images/direct-tv.png" width="110" height="94" alt="" loading="eager" />
           </a>
         </div>
         <div class="header-btn-directradio">
           <a href="https://player.bx1.be/player.php" title="Accéder au direct radio">
-            <img src="https://bx1.be/wp-content/uploads/2025/03/direct-radio.png" width="106" height="93" alt="" loading="eager" />
+            <img src="/wp-content/themes/BX1-2017/images/direct-radio.png" width="106" height="93" alt="" loading="eager" />
           </a>
         </div>
       </div>
       <div class="header-right">
         <div class="header-btn-whatsapp">
           <a href="https://bx1.be/whatsapp/?theme=<?= isset($_GET['theme']) ? esc_attr($_GET['theme']) : 'classic' ?>" title="Contactez-nous via WhatsApp">
-            <img src="https://bx1.be/wp-content/uploads/2025/03/whatsapp.png" width="110" height="102" alt="" loading="eager" />
+            <img src="/wp-content/themes/BX1-2017/images/whatsapp.png" width="110" height="102" alt="" loading="eager" />
           </a>
         </div>
         <div class="header-btn-alert">
           <a href="https://bx1.be/alertez-nous?theme=<?= isset($_GET['theme']) ? esc_attr($_GET['theme']) : 'classic' ?>" title="Alertez-nous">
-            <img src="https://bx1.be/wp-content/uploads/2025/03/alertez-nous.png" width="114" height="98" alt="" loading="eager" />
+            <img src="/wp-content/themes/BX1-2017/images/alertez-nous.png" width="114" height="98" alt="" loading="eager" />
           </a>
         </div>
         <div class="header-btn-monbx1">
-          <a href="" title="Mon BX1"><img src="https://bx1.be/wp-content/uploads/2025/03/mon-bx1.png" width="96" height="93" alt="" /></a>
+          <a href="" title="Mon BX1"><img src="/wp-content/themes/BX1-2017/images/mon-bx1.png" width="96" height="93" alt="" /></a>
         </div>
         <!--           <a href="<?php echo home_url('/'); ?>alertez-nous" class="siteHeader__whatsapp" title="whatsapp"></a>
           <a href="<?php echo home_url('/'); ?>alertez-nous" class="siteHeader__iReporter" title="Formulaire Alertez-nous"></a> -->
@@ -317,14 +317,14 @@
   <div class="sidebar-socials_responsive">
     <ul>
       <li><a href="https://www.instagram.com/bx1_officiel/"><img
-            src="https://bx1.be/wp-content/uploads/2025/03/logo-instagram-1.png" alt="Logo Instagram" /></a></li>
+            src="/wp-content/themes/BX1-2017/images/logo-instagram-1.png" alt="Logo Instagram" /></a></li>
       <li><a href="https://www.facebook.com/BX1officiel/"><img
-            src="https://bx1.be/wp-content/uploads/2025/03/logo-facebook-1.png" alt="Logo Facebook" /></a></li>
+            src="/wp-content/themes/BX1-2017/images/logo-facebook-1.png" alt="Logo Facebook" /></a></li>
       <li><a href="https://www.youtube.com/user/TeleBruxelles"><img
-            src="https://bx1.be/wp-content/uploads/2025/03/logo-youtube-1.png" alt="Logo YouTube" /></a></li>
+            src="/wp-content/themes/BX1-2017/images/logo-youtube-1.png" alt="Logo YouTube" /></a></li>
       <li><a href="https://bsky.app/profile/bx1.be"><img
-            src="https://bx1.be/wp-content/uploads/2025/03/logo-bluesky-1.png" alt="Logo BlueSky" /></a></li>
-      <li><a href="#"><img src="https://bx1.be/wp-content/uploads/2025/03/enveloppe-1.png" alt="Logo e-mail" /></a></li>
+            src="/wp-content/themes/BX1-2017/images/logo-bluesky-1.png" alt="Logo BlueSky" /></a></li>
+      <li><a href="#"><img src="/wp-content/themes/BX1-2017/images/enveloppe-1.png" alt="Logo e-mail" /></a></li>
     </ul>
   </div>
 

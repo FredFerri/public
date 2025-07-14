@@ -239,6 +239,17 @@ function checkemission($emission_file, $emissionarray, $XML) {
 			}
 		}
 
+		if (file_exists($daletdir . "/" . $emission_file . ".jpg")) {
+
+			// IF folder "DaletMetaImg" does not exist, create it
+			if (!file_exists($wpdirectory . "/wp-content/uploads/DaletMetaImg/"))
+				mkdir($wpdirectory . "/wp-content/uploads/DaletMetaImg/", 0777, true);
+
+
+			copy($daletdir . "/" . $emission_file . ".jpg", $wpdirectory . "/wp-content/uploads/DaletMetaImg/" . $emission_file . ".jpg");
+
+			$image_exist = 1;
+		}
 
 		if (file_exists($daletdir . "/" . $emission_file . ".JPG")) {
 
@@ -251,6 +262,7 @@ function checkemission($emission_file, $emissionarray, $XML) {
 
 			$image_exist = 1;
 		}
+
 		if (check_if_video_exists($emission_file)) {
 			$video_exist = 1;
 		}

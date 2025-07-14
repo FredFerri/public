@@ -94,14 +94,24 @@ $XMLFiles = array_merge(
 		$emission_file 	= basename($XML, ".xml");
 		$emission_file 	= basename($emission_file, ".xml");
 
+		$has_image = false;
+
 		if (file_exists($DALETMETA . "/" . $emission_file . ".jpg")) {
-			$path = $DALETMETA . "/" . $emission_file . ".jpg";
+			// Rename if to have .JPG
+			rename($DALETMETA . "/" . $emission_file . ".jpg", $DALETMETA . "/" . $emission_file . ".JPG");
+		}
+
+		if (file_exists($DALETMETA . "/" . $emission_file . ".JPG")) {
+			$path = $DALETMETA . "/" . $emission_file . ".JPG";
 			$type = pathinfo($path, PATHINFO_EXTENSION);
 			$data = file_get_contents($path);
 			$base64 = 'data:image/' . $type . ';base64,' . base64_encode($data);
 			$image_exist = '<img src="' . $base64 . '" width=150px;>&nbsp;&nbsp;&nbsp;&nbsp;';
 			$enable_action = $enable_action + 1;
-		} else {
+			$has_image = true;
+		}
+
+		if (!$has_image) {
 			$image_exist = '<i class="fas fa-minus-circle fa-lg" style="color:red">&nbsp;&nbsp;&nbsp;Fichier image manquant</i>';
 		}
 

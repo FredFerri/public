@@ -92,12 +92,10 @@ $XMLFiles = array_merge(
 		$tmpxml			= explode('/', $XML);
 		$Filename   	= end($tmpxml);
 		$emission_file 	= basename($XML, ".xml");
-		$emission_file 	= basename($emission_file, ".XML");
+		$emission_file 	= basename($emission_file, ".xml");
 
-		// echo $DALETMETA . "/" . $emission_file . ".JPG\r\n";
-
-		if (file_exists($DALETMETA . "/" . $emission_file . ".JPG")) {
-			$path = $DALETMETA . "/" . $emission_file . ".JPG";
+		if (file_exists($DALETMETA . "/" . $emission_file . ".jpg")) {
+			$path = $DALETMETA . "/" . $emission_file . ".jpg";
 			$type = pathinfo($path, PATHINFO_EXTENSION);
 			$data = file_get_contents($path);
 			$base64 = 'data:image/' . $type . ';base64,' . base64_encode($data);
@@ -115,7 +113,7 @@ $XMLFiles = array_merge(
 		}
 
 		$filename 	= basename($Filename, ".xml");
-		$filename 	= basename($filename, ".XML");
+		$filename 	= basename($filename, ".xml");
 		echo "<tr>";
 		echo "<td style=\"padding: 10px; font-size:24px; font-weight:bolder;\">" . $Filename . "</td>" . PHP_EOL;
 		echo "<td style=\"padding: 10px;text-align:center;\">" . $image_exist . "</td>" . PHP_EOL;

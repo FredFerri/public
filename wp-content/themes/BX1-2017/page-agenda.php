@@ -170,14 +170,6 @@ $currenttheme = strtolower($_GET["theme"]);
     transition: opacity 0.3s ease;
   }
 
-  .siteHeader {
-    background-image: url('/wp-content/themes/BX1-2017/images/barre-menu-navigation.png');
-    background-size: cover;
-  }
-
-  .siteHeader--fixed {
-    border-bottom: none;
-  }
 
   .siteHeader__iReporter {
     background: url('/wp-content/themes/BX1-2017/images/alertez-nous.png');

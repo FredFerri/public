@@ -1087,7 +1087,7 @@ class Video_Widget extends WP_Widget {
 					document.addEventListener("gestcomVideo", function(e) {
 						jwplayer("dernierJT").setup({
 							playlist: [{
-								image: "https://bx1.be/wp-content/uploads/2025/06/image-videoplayer-web-18H.png",
+								image: "<?= get_stylesheet_directory_uri() ?>/images/image-videoplayer-web-18H.jpg",
 								sources: [{
 									file: "https://59959724487e3.streamlock.net:443/vod/mp4:" + "<?php echo types_render_field('nom-du-fichier-video'); ?>" + "/playlist.m3u8"
 								}, {
@@ -1178,7 +1178,7 @@ class Emission_Widget extends WP_Widget {
 					document.addEventListener("gestcomVideo", function(e) {
 						jwplayer("derniereEmission").setup({
 							playlist: [{
-								image: "https://bx1.be/wp-content/uploads/2025/06/vignette-emissions.png",
+								image: "<?= get_stylesheet_directory_uri() ?>/images/vignette-emissions.jpg",
 								sources: [{
 									file: "https://59959724487e3.streamlock.net:443/vod/mp4:" + "<?php echo types_render_field('nom-du-fichier-video'); ?>" + "/playlist.m3u8"
 								}, {

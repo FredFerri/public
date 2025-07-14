@@ -23,7 +23,15 @@ if (isset($_GET["section"]) && isset($_GET["file"])) {
 
 	$post_id 	= '';
 	//$desc 		= $description;
+
+	// Check if file exists in ".jpg", if yes, rename it to ".JPG"
+	if (file_exists($DALETMETA . "/" . $section . "/" . $filename . ".jpg")) {
+		// rename the file to ".JPG"
+		rename($DALETMETA . "/" . $section . "/" . $filename . ".jpg", $DALETMETA . "/" . $section . "/" . $filename . ".JPG");
+	}
+
 	$url 		= $WPURL . "/wp-content/uploads/DaletMetaImg/" . $filename . ".JPG";
+
 	//$url = "https://staging.bx1.be/wp-content/uploads/DaletMetaImg/EJL999998.JPG";
 
 

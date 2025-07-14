@@ -12,19 +12,23 @@
     <title><?php wp_title('|', true, 'right'); ?></title>
   <?php endif; ?>
   <?php
-  $tags = wp_get_post_tags($post->ID);
-  echo PHP_EOL;
-  foreach ($tags as $tag) {
-    echo  "\t<meta property='article:tag' content='" . strtoupper($tag->name) . "' />" . PHP_EOL;
-    echo  "\t<meta property='article:tag' content='" . $tag->name . "' />" . PHP_EOL;
-    echo  "\t<meta property='article:tag' content='" . strtolower($tag->name) . "' />" . PHP_EOL;
-  }
-  $cats = wp_get_post_categories($post->ID);
-  foreach ($cats as $cat) {
-    $catdetails =   get_the_category_by_ID($cat);
-    echo  "\t<meta property='article:tag' content='" . strtoupper($catdetails) . "' />" . PHP_EOL;
-    echo  "\t<meta property='article:tag' content='" . $catdetails . "' />" . PHP_EOL;
-    echo  "\t<meta property='article:tag' content='" . strtolower($catdetails) . "' />" . PHP_EOL;
+
+  if (isset($post)) {
+    $tags = wp_get_post_tags($post->ID);
+    echo PHP_EOL;
+    foreach ($tags as $tag) {
+      echo  "\t<meta property='article:tag' content='" . strtoupper($tag->name) . "' />" . PHP_EOL;
+      echo  "\t<meta property='article:tag' content='" . $tag->name . "' />" . PHP_EOL;
+      echo  "\t<meta property='article:tag' content='" . strtolower($tag->name) . "' />" . PHP_EOL;
+    }
+
+    $cats = wp_get_post_categories($post->ID);
+    foreach ($cats as $cat) {
+      $catdetails =   get_the_category_by_ID($cat);
+      echo  "\t<meta property='article:tag' content='" . strtoupper($catdetails) . "' />" . PHP_EOL;
+      echo  "\t<meta property='article:tag' content='" . $catdetails . "' />" . PHP_EOL;
+      echo  "\t<meta property='article:tag' content='" . strtolower($catdetails) . "' />" . PHP_EOL;
+    }
   }
   //print_r();
   //echo get_the_category_by_ID(3);

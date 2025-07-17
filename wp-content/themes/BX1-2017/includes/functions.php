@@ -342,10 +342,12 @@ function GenerateXMLPodcast() {
 				xmlwriter_text($xw, "https://bx1.be/?p=" . get_the_ID());
 				xmlwriter_end_element($xw); // link
 
-				// Attribute element 'pubDate'
-				xmlwriter_start_element($xw, 'pubDate');
-				xmlwriter_text($xw, date(DATE_RFC1123, get_post_meta(get_the_ID(), 'wpcf-date-chronique', true)));
-				xmlwriter_end_element($xw); // pubDate
+				if ($date_chronique = get_post_meta(get_the_ID(), 'wpcf-date-chronique', true)):
+					// Attribute element 'pubDate'
+					xmlwriter_start_element($xw, 'pubDate');
+					xmlwriter_text($xw, date(DATE_RFC1123, $date_chronique));
+					xmlwriter_end_element($xw); // pubDate
+				endif;
 
 				// Attribute element 'itunes:explicit'
 				xmlwriter_start_element($xw, 'itunes:explicit');

@@ -7,8 +7,8 @@
   <itunes:summary>Bonjour Bruxelles, c'est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00.</itunes:summary>
   <copyright>BX1 - 2025. Tous droits réservés.</copyright>
   <image>
-   <url>https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png</url>
-   <title>https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png</title>
+   <url>http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png</url>
+   <title>http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png</title>
   </image>
   <itunes:author>BX1</itunes:author>
   <itunes:owner>
@@ -18,15 +18,94 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="News"/>
   <language>fr</language>
-  <lastBuildDate>Fri, 23 May 2025 10:00:04 +0200</lastBuildDate>
-  <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+  <lastBuildDate>Thu, 17 Jul 2025 09:52:44 +0200</lastBuildDate>
+  <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+  <item>
+   <title>Bonjour Bruxelles &amp;#8211; 26/06/2025</title>
+   <guid>762405</guid>
+   <link>https://bx1.be/?p=762405</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00619.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>Bonjour Bruxelles - 26/06/2025</itunes:summary>
+   <description>Bonjour Bruxelles - 26/06/2025</description>
+  </item>
+  <item>
+   <title>Bonjour Bruxelles &amp;#8211; 11/06/2025</title>
+   <guid>759670</guid>
+   <link>https://bx1.be/?p=759670</link>
+   <pubDate>Wed, 11 Jun 2025 08:55:00 +0200</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00608.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>Bonjour Bruxelles - 11/06/2025</itunes:summary>
+   <description>Bonjour Bruxelles - 11/06/2025</description>
+  </item>
+  <item>
+   <title>Bonjour Bruxelles &amp;#8211; 10/06/2025</title>
+   <guid>759450</guid>
+   <link>https://bx1.be/?p=759450</link>
+   <pubDate>Tue, 10 Jun 2025 08:58:00 +0200</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00607.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>Bonjour Bruxelles - 10/06/2025</itunes:summary>
+   <description>Bonjour Bruxelles - 10/06/2025</description>
+  </item>
+  <item>
+   <title>Bonjour Bruxelles &amp;#8211; 06/06/2025</title>
+   <guid>759018</guid>
+   <link>https://bx1.be/?p=759018</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00605.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>Bonjour Bruxelles - 06/06/2025</itunes:summary>
+   <description>Bonjour Bruxelles - 06/06/2025</description>
+  </item>
+  <item>
+   <title>Bonjour Bruxelles &amp;#8211; 04/06/2025</title>
+   <guid>758425</guid>
+   <link>https://bx1.be/?p=758425</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00603.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>Bonjour Bruxelles - 04/06/2025</itunes:summary>
+   <description>Bonjour Bruxelles - 04/06/2025</description>
+  </item>
+  <item>
+   <title>Bonjour Bruxelles &amp;#8211; 03/06/2025</title>
+   <guid>758175</guid>
+   <link>https://bx1.be/?p=758175</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00602.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>Bonjour Bruxelles - 03/06/2025</itunes:summary>
+   <description>Bonjour Bruxelles - 03/06/2025</description>
+  </item>
+  <item>
+   <title>Bonjour Bruxelles &amp;#8211; 29/05/2025</title>
+   <guid>757570</guid>
+   <link>https://bx1.be/?p=757570</link>
+   <pubDate>Thu, 29 May 2025 08:58:00 +0200</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00599.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>Bonjour Bruxelles - 29/05/2025</itunes:summary>
+   <description>Bonjour Bruxelles - 29/05/2025</description>
+  </item>
   <item>
    <title>Bonjour Bruxelles &amp;#8211; 16/05/2025</title>
    <guid>755138</guid>
    <link>https://bx1.be/?p=755138</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00590.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles - 16/05/2025</itunes:summary>
@@ -36,9 +115,8 @@
    <title>Bonjour Bruxelles &amp;#8211; 15/05/2025</title>
    <guid>754925</guid>
    <link>https://bx1.be/?p=754925</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00589.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles - 15/05/2025</itunes:summary>
@@ -50,7 +128,7 @@
    <link>https://bx1.be/?p=754045</link>
    <pubDate>Fri, 09 May 2025 09:30:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00585.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles - 09/05/2025</itunes:summary>
@@ -62,7 +140,7 @@
    <link>https://bx1.be/?p=753883</link>
    <pubDate>Thu, 08 May 2025 09:30:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00584.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles - 08/05/2025</itunes:summary>
@@ -74,7 +152,7 @@
    <link>https://bx1.be/?p=753758</link>
    <pubDate>Wed, 07 May 2025 09:30:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00583.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles - 07/05/2025</itunes:summary>
@@ -86,7 +164,7 @@
    <link>https://bx1.be/?p=753611</link>
    <pubDate>Tue, 06 May 2025 09:30:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00582.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles - 06/05/2025</itunes:summary>
@@ -98,7 +176,7 @@
    <link>https://bx1.be/?p=753416</link>
    <pubDate>Mon, 05 May 2025 09:30:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00581.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles - 05/05/2025</itunes:summary>
@@ -110,7 +188,7 @@
    <link>https://bx1.be/?p=753105</link>
    <pubDate>Fri, 02 May 2025 09:30:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00580.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles - 02/05/2025</itunes:summary>
@@ -120,9 +198,8 @@
    <title>Bonjour Bruxelles &amp;#8211; 28/04/2025</title>
    <guid>752355</guid>
    <link>https://bx1.be/?p=752355</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00576.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles - 28/04/2025</itunes:summary>
@@ -132,9 +209,8 @@
    <title>Bonjour Bruxelles &amp;#8211; 18/04/2025</title>
    <guid>750956</guid>
    <link>https://bx1.be/?p=750956</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00570.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles - 18/04/2025</itunes:summary>
@@ -144,9 +220,8 @@
    <title>Bonjour Bruxelles &amp;#8211; 03/04/2025</title>
    <guid>748747</guid>
    <link>https://bx1.be/?p=748747</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00559.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles - 03/04/2025</itunes:summary>
@@ -156,9 +231,8 @@
    <title>Bonjour Bruxelles &amp;#8211; 10/03/2025</title>
    <guid>736698</guid>
    <link>https://bx1.be/?p=736698</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00541.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles - 10/03/2025</itunes:summary>
@@ -170,7 +244,7 @@
    <link>https://bx1.be/?p=736504</link>
    <pubDate>Thu, 20 Feb 2025 01:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00529.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles - 20/02/2025</itunes:summary>
@@ -180,9 +254,8 @@
    <title>Bonjour Bruxelles &amp;#8211; 14/02/2025</title>
    <guid>735459</guid>
    <link>https://bx1.be/?p=735459</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00525.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles - 14/02/2025</itunes:summary>
@@ -192,9 +265,8 @@
    <title>Bonjour Bruxelles &amp;#8211; 06/02/2025</title>
    <guid>733566</guid>
    <link>https://bx1.be/?p=733566</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00519.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles - 06/02/2025</itunes:summary>
@@ -204,9 +276,8 @@
    <title>Bonjour Bruxelles &amp;#8211; 18/10/2024</title>
    <guid>710071</guid>
    <link>https://bx1.be/?p=710071</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00440.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles - 18/10/2024</itunes:summary>
@@ -218,7 +289,7 @@
    <link>https://bx1.be/?p=702244</link>
    <pubDate>Wed, 18 Sep 2024 08:58:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00418.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles - 18/09/2024</itunes:summary>
@@ -230,7 +301,7 @@
    <link>https://bx1.be/?p=702040</link>
    <pubDate>Tue, 17 Sep 2024 08:58:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00417.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles - 17/09/2024</itunes:summary>
@@ -242,7 +313,7 @@
    <link>https://bx1.be/?p=701716</link>
    <pubDate>Mon, 16 Sep 2024 08:58:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00416.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles - 16/09/2024</itunes:summary>
@@ -252,9 +323,8 @@
    <title>Une dose d&amp;#8217;humour &amp;#8211; Marine Sergent &amp;#8211; 04/09/2024</title>
    <guid>697442</guid>
    <link>https://bx1.be/?p=697442</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/GLX_1960715_ELM00408_HUMOUR.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Une dose d'humour - Marine Sergent - 04/09/2024</itunes:summary>
@@ -264,9 +334,8 @@
    <title>Bonjour Bruxelles – 26/08/2024</title>
    <guid>695890</guid>
    <link>https://bx1.be/?p=695890</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00401.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles – 26/08/2024</itunes:summary>
@@ -278,7 +347,7 @@
    <link>https://bx1.be/?p=685434</link>
    <pubDate>Thu, 13 Jun 2024 09:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00369.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles - 13/06/2024</itunes:summary>
@@ -290,7 +359,7 @@
    <link>https://bx1.be/?p=656530</link>
    <pubDate>Mon, 08 Jan 2024 08:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00254.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley.</itunes:summary>
@@ -302,7 +371,7 @@
    <link>https://bx1.be/?p=654694</link>
    <pubDate>Fri, 15 Dec 2023 08:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00240.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley.</itunes:summary>
@@ -314,7 +383,7 @@
    <link>https://bx1.be/?p=654564</link>
    <pubDate>Thu, 14 Dec 2023 08:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00239.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley.</itunes:summary>
@@ -326,7 +395,7 @@
    <link>https://bx1.be/?p=653786</link>
    <pubDate>Mon, 11 Dec 2023 08:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00236.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley.</itunes:summary>
@@ -338,7 +407,7 @@
    <link>https://bx1.be/?p=653499</link>
    <pubDate>Fri, 08 Dec 2023 08:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00235.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley.</itunes:summary>
@@ -350,7 +419,7 @@
    <link>https://bx1.be/?p=653279</link>
    <pubDate>Thu, 07 Dec 2023 08:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00234.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley.</itunes:summary>
@@ -362,7 +431,7 @@
    <link>https://bx1.be/?p=652998</link>
    <pubDate>Wed, 06 Dec 2023 08:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00233.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley.</itunes:summary>
@@ -374,7 +443,7 @@
    <link>https://bx1.be/?p=652827</link>
    <pubDate>Tue, 05 Dec 2023 08:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00232.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley.</itunes:summary>
@@ -386,7 +455,7 @@
    <link>https://bx1.be/?p=652635</link>
    <pubDate>Mon, 04 Dec 2023 08:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00231.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley.</itunes:summary>
@@ -398,7 +467,7 @@
    <link>https://bx1.be/?p=652372</link>
    <pubDate>Fri, 01 Dec 2023 08:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00230.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley.</itunes:summary>
@@ -410,7 +479,7 @@
    <link>https://bx1.be/?p=652112</link>
    <pubDate>Thu, 30 Nov 2023 08:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00229.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley.</itunes:summary>
@@ -422,7 +491,7 @@
    <link>https://bx1.be/?p=651944</link>
    <pubDate>Wed, 29 Nov 2023 08:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley..mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>ELM00228</itunes:summary>
@@ -434,7 +503,7 @@
    <link>https://bx1.be/?p=650954</link>
    <pubDate>Thu, 23 Nov 2023 08:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00224.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley.</itunes:summary>
@@ -446,7 +515,7 @@
    <link>https://bx1.be/?p=650459</link>
    <pubDate>Tue, 21 Nov 2023 08:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00222.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley.</itunes:summary>
@@ -458,7 +527,7 @@
    <link>https://bx1.be/?p=650258</link>
    <pubDate>Mon, 20 Nov 2023 08:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00221.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley.</itunes:summary>
@@ -470,7 +539,7 @@
    <link>https://bx1.be/?p=649862</link>
    <pubDate>Fri, 17 Nov 2023 08:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00220.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley.</itunes:summary>
@@ -482,7 +551,7 @@
    <link>https://bx1.be/?p=649712</link>
    <pubDate>Thu, 16 Nov 2023 08:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00219.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley.</itunes:summary>
@@ -494,7 +563,7 @@
    <link>https://bx1.be/?p=649498</link>
    <pubDate>Wed, 15 Nov 2023 08:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00218.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley.</itunes:summary>
@@ -506,7 +575,7 @@
    <link>https://bx1.be/?p=649116</link>
    <pubDate>Mon, 13 Nov 2023 08:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00216.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley.</itunes:summary>
@@ -518,7 +587,7 @@
    <link>https://bx1.be/?p=648149</link>
    <pubDate>Tue, 07 Nov 2023 08:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00212.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>02:02:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley.</itunes:summary>
@@ -530,7 +599,7 @@
    <link>https://bx1.be/?p=647960</link>
    <pubDate>Mon, 06 Nov 2023 08:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00211.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>02:02:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley.</itunes:summary>
@@ -542,7 +611,7 @@
    <link>https://bx1.be/?p=646296</link>
    <pubDate>Fri, 20 Oct 2023 09:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00200.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley.</itunes:summary>
@@ -554,7 +623,7 @@
    <link>https://bx1.be/?p=646010</link>
    <pubDate>Wed, 18 Oct 2023 09:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00198.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley.</itunes:summary>
@@ -566,7 +635,7 @@
    <link>https://bx1.be/?p=645457</link>
    <pubDate>Mon, 16 Oct 2023 09:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00196.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley.</itunes:summary>
@@ -578,7 +647,7 @@
    <link>https://bx1.be/?p=639009</link>
    <pubDate>Thu, 31 Aug 2023 09:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00164.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du jeudi 31 août 2023.</itunes:summary>
@@ -590,7 +659,7 @@
    <link>https://bx1.be/?p=638836</link>
    <pubDate>Wed, 30 Aug 2023 09:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00163.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>02:00:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mercredi 30 août 2023.</itunes:summary>
@@ -602,7 +671,7 @@
    <link>https://bx1.be/?p=638678</link>
    <pubDate>Tue, 29 Aug 2023 09:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00162.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>02:00:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mardi 29 août 2023.</itunes:summary>
@@ -614,7 +683,7 @@
    <link>https://bx1.be/?p=638506</link>
    <pubDate>Mon, 28 Aug 2023 09:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00161.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>02:00:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h00 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du lundi 28 août 2023.</itunes:summary>
@@ -626,7 +695,7 @@
    <link>https://bx1.be/?p=633506</link>
    <pubDate>Fri, 30 Jun 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00120.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du vendredi 30 juin 2023.</itunes:summary>
@@ -638,7 +707,7 @@
    <link>https://bx1.be/?p=633391</link>
    <pubDate>Thu, 29 Jun 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00119.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du jeudi 29 juin 2023.</itunes:summary>
@@ -650,7 +719,7 @@
    <link>https://bx1.be/?p=633177</link>
    <pubDate>Wed, 28 Jun 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00118.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>01:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mercredi 28 juin 2023.</itunes:summary>
@@ -662,7 +731,7 @@
    <link>https://bx1.be/?p=633170</link>
    <pubDate>Wed, 28 Jun 2023 10:15:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM_ITW_280623.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>00:11:19</itunes:duration>
    <itunes:summary>Caroline Désir (PS), la ministre de l’Éducation en Fédération Wallonie-Bruxelles a répondu aux questions de Fabrice Grosfilley dans la matinale de BX1, Bonjour Bruxelles.</itunes:summary>
@@ -674,7 +743,7 @@
    <link>https://bx1.be/?p=633013</link>
    <pubDate>Tue, 27 Jun 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00117.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mardi 27 juin 2023.</itunes:summary>
@@ -686,7 +755,7 @@
    <link>https://bx1.be/?p=632860</link>
    <pubDate>Mon, 26 Jun 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00116.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>01:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du lundi 26 juin 2023.</itunes:summary>
@@ -698,7 +767,7 @@
    <link>https://bx1.be/?p=632473</link>
    <pubDate>Fri, 23 Jun 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00115.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du vendredi 23 juin 2023.</itunes:summary>
@@ -710,7 +779,7 @@
    <link>https://bx1.be/?p=632296</link>
    <pubDate>Thu, 22 Jun 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00114.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du jeudi 22 juin 2023.</itunes:summary>
@@ -722,7 +791,7 @@
    <link>https://bx1.be/?p=632166</link>
    <pubDate>Wed, 21 Jun 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00113.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mercredi 21 juin 2023.</itunes:summary>
@@ -734,7 +803,7 @@
    <link>https://bx1.be/?p=631977</link>
    <pubDate>Tue, 20 Jun 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00112.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mardi 20 juin 2023.</itunes:summary>
@@ -746,7 +815,7 @@
    <link>https://bx1.be/?p=631637</link>
    <pubDate>Mon, 19 Jun 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00111.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du lundi 19 juin 2023.</itunes:summary>
@@ -758,7 +827,7 @@
    <link>https://bx1.be/?p=631404</link>
    <pubDate>Fri, 16 Jun 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00110.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du vendredi 16 juin 2023.</itunes:summary>
@@ -770,7 +839,7 @@
    <link>https://bx1.be/?p=631144</link>
    <pubDate>Thu, 15 Jun 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00109.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du jeudi 15 juin 2023.</itunes:summary>
@@ -782,7 +851,7 @@
    <link>https://bx1.be/?p=631014</link>
    <pubDate>Wed, 14 Jun 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00108.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mercredi 14 juin 2023.</itunes:summary>
@@ -794,7 +863,7 @@
    <link>https://bx1.be/?p=630785</link>
    <pubDate>Tue, 13 Jun 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00107_ELM00107.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>01:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mardi 13 juin 2023.</itunes:summary>
@@ -806,7 +875,7 @@
    <link>https://bx1.be/?p=630590</link>
    <pubDate>Mon, 12 Jun 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00106.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>01:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du lundi 12 juin 2023.</itunes:summary>
@@ -818,7 +887,7 @@
    <link>https://bx1.be/?p=630258</link>
    <pubDate>Fri, 09 Jun 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00105.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du vendredi 9 juin 2023.</itunes:summary>
@@ -830,7 +899,7 @@
    <link>https://bx1.be/?p=630074</link>
    <pubDate>Thu, 08 Jun 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00104.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>01:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du jeudi 8 juin 2023.</itunes:summary>
@@ -842,7 +911,7 @@
    <link>https://bx1.be/?p=629893</link>
    <pubDate>Wed, 07 Jun 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00103.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mercredi 7 juin 2023</itunes:summary>
@@ -854,7 +923,7 @@
    <link>https://bx1.be/?p=629644</link>
    <pubDate>Tue, 06 Jun 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00102.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du lundi 6 juin 2023</itunes:summary>
@@ -866,7 +935,7 @@
    <link>https://bx1.be/?p=629474</link>
    <pubDate>Mon, 05 Jun 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00101.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du lundi 6 juin 2023</itunes:summary>
@@ -878,7 +947,7 @@
    <link>https://bx1.be/?p=629256</link>
    <pubDate>Fri, 02 Jun 2023 10:30:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM_HAOUACH_02062023.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La consultante en management et ancienne commissaire du gouvernement auprès de l’Institut pour l’égalité entre les femmes et les hommes, Ihsane Haouach, est venue parler d'intégration et de diversité dans le monde du travail au micro de Fabrice Grosfilley ce vendredi 02 juin 2023 dans Bonjour Bruxelles. </itunes:summary>
@@ -890,7 +959,7 @@
    <link>https://bx1.be/?p=629237</link>
    <pubDate>Fri, 02 Jun 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00100.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du vendredi 02 juin 2023.</itunes:summary>
@@ -902,7 +971,7 @@
    <link>https://bx1.be/?p=629039</link>
    <pubDate>Thu, 01 Jun 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM_EDITO_01062023.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Comment venir en aide aux sans-abris ? C'est la question que se pose Fabrice Grosfilley dans son édito du 1er juin 2023.</itunes:summary>
@@ -914,7 +983,7 @@
    <link>https://bx1.be/?p=629089</link>
    <pubDate>Thu, 01 Jun 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00099.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du jeudi 01 juin 2023.</itunes:summary>
@@ -926,7 +995,7 @@
    <link>https://bx1.be/?p=628922</link>
    <pubDate>Wed, 31 May 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00097.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mercredi 31 mai 2023.</itunes:summary>
@@ -938,7 +1007,7 @@
    <link>https://bx1.be/?p=628724</link>
    <pubDate>Tue, 30 May 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00096.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>01:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mardi 30 mai 2023.</itunes:summary>
@@ -950,7 +1019,7 @@
    <link>https://bx1.be/?p=628392</link>
    <pubDate>Fri, 26 May 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00095.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du vendredi 26 mai 2023.</itunes:summary>
@@ -962,7 +1031,7 @@
    <link>https://bx1.be/?p=628265</link>
    <pubDate>Thu, 25 May 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00094.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du jeudi 25 mai 2023.</itunes:summary>
@@ -974,7 +1043,7 @@
    <link>https://bx1.be/?p=627985</link>
    <pubDate>Wed, 24 May 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00093.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mercredi 24 mai 2023.</itunes:summary>
@@ -986,7 +1055,7 @@
    <link>https://bx1.be/?p=627789</link>
    <pubDate>Tue, 23 May 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00092.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mardi 23 mai 2023.</itunes:summary>
@@ -998,7 +1067,7 @@
    <link>https://bx1.be/?p=627627</link>
    <pubDate>Mon, 22 May 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00091.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du lundi 22 mai 2023.</itunes:summary>
@@ -1010,7 +1079,7 @@
    <link>https://bx1.be/?p=627326</link>
    <pubDate>Fri, 19 May 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00090.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du vendredi 19 mai 2023.</itunes:summary>
@@ -1022,7 +1091,7 @@
    <link>https://bx1.be/?p=627205</link>
    <pubDate>Thu, 18 May 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00089.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du jeudi 18 mai 2023.</itunes:summary>
@@ -1034,7 +1103,7 @@
    <link>https://bx1.be/?p=627020</link>
    <pubDate>Wed, 17 May 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00088.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mercredi 17 mai 2023.</itunes:summary>
@@ -1046,7 +1115,7 @@
    <link>https://bx1.be/?p=626822</link>
    <pubDate>Tue, 16 May 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00087.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mardi 16 mai 2023.</itunes:summary>
@@ -1058,7 +1127,7 @@
    <link>https://bx1.be/?p=626667</link>
    <pubDate>Mon, 15 May 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00086.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du lundi 15 mai 2023.</itunes:summary>
@@ -1070,7 +1139,7 @@
    <link>https://bx1.be/?p=625240</link>
    <pubDate>Fri, 28 Apr 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00075.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>01:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du vendredi 28 avril 2023.</itunes:summary>
@@ -1082,7 +1151,7 @@
    <link>https://bx1.be/?p=625082</link>
    <pubDate>Thu, 27 Apr 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00074.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du jeudi 27 avril 2023.</itunes:summary>
@@ -1094,7 +1163,7 @@
    <link>https://bx1.be/?p=624907</link>
    <pubDate>Wed, 26 Apr 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00073.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mercredi 26 avril 2023.</itunes:summary>
@@ -1106,7 +1175,7 @@
    <link>https://bx1.be/?p=624629</link>
    <pubDate>Tue, 25 Apr 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00072.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mardi 25 avril 2023.</itunes:summary>
@@ -1118,7 +1187,7 @@
    <link>https://bx1.be/?p=624452</link>
    <pubDate>Mon, 24 Apr 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00071.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du lundi 24 avril 2023.</itunes:summary>
@@ -1130,7 +1199,7 @@
    <link>https://bx1.be/?p=624231</link>
    <pubDate>Fri, 21 Apr 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00070.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du vendredi 21 avril 2023.</itunes:summary>
@@ -1142,7 +1211,7 @@
    <link>https://bx1.be/?p=624041</link>
    <pubDate>Thu, 20 Apr 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00069.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du jeudi 20 avril 2023.</itunes:summary>
@@ -1154,7 +1223,7 @@
    <link>https://bx1.be/?p=623808</link>
    <pubDate>Wed, 19 Apr 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00068.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mercredi 19 avril 2023.</itunes:summary>
@@ -1166,7 +1235,7 @@
    <link>https://bx1.be/?p=623611</link>
    <pubDate>Tue, 18 Apr 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00067.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mardi 18 avril 2023.</itunes:summary>
@@ -1178,7 +1247,7 @@
    <link>https://bx1.be/?p=623467</link>
    <pubDate>Mon, 17 Apr 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00066.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du lundi 17 avril 2023.</itunes:summary>
@@ -1190,7 +1259,7 @@
    <link>https://bx1.be/?p=623212</link>
    <pubDate>Fri, 14 Apr 2023 14:30:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EDZ00293.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>01:00:00</itunes:duration>
    <itunes:summary>Le 12h30, votre rendez-vous d’informations bruxelloises de la mi-journée, est présenté ce vendredi 14 avril 2023 par Vanessa Lhuillier et Fanny Rochez.</itunes:summary>
@@ -1202,7 +1271,7 @@
    <link>https://bx1.be/?p=623167</link>
    <pubDate>Fri, 14 Apr 2023 10:15:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/GLX_1393357_ELM_ITW_140423.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>00:12:35</itunes:duration>
    <itunes:summary>Laurence Bovy, directrice générale de Vivaqua a répondu aux questions de Fabrice Grosfilley dans Bonjour Bruxelles, ce jeudi 13 avril 2023.</itunes:summary>
@@ -1214,7 +1283,7 @@
    <link>https://bx1.be/?p=623168</link>
    <pubDate>Fri, 14 Apr 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00064.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>00:01:35</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du 14 avril 2023.</itunes:summary>
@@ -1226,7 +1295,7 @@
    <link>https://bx1.be/?p=623160</link>
    <pubDate>Fri, 14 Apr 2023 10:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM_8H_140423.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>00:10:33</itunes:duration>
    <itunes:summary>Marie Charette vous présente le journal de 8h, dans Bonjour Bruxelles : votre journal quotidien d’informations bruxelloises pour bien lancer votre journée ! Réécoutez le journal du vendredi 14 avril 2023.</itunes:summary>
@@ -1238,7 +1307,7 @@
    <link>https://bx1.be/?p=622941</link>
    <pubDate>Thu, 13 Apr 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00063.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du jeudi 13 avril 2023.</itunes:summary>
@@ -1250,7 +1319,7 @@
    <link>https://bx1.be/?p=622718</link>
    <pubDate>Wed, 12 Apr 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00062.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mercredi 12 avril 2023.</itunes:summary>
@@ -1262,7 +1331,7 @@
    <link>https://bx1.be/?p=622518</link>
    <pubDate>Tue, 11 Apr 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00061.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mardi 11 avril 2023.</itunes:summary>
@@ -1274,7 +1343,7 @@
    <link>https://bx1.be/?p=622278</link>
    <pubDate>Fri, 07 Apr 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00060.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du vendredi 7 avril 2023.</itunes:summary>
@@ -1286,7 +1355,7 @@
    <link>https://bx1.be/?p=622042</link>
    <pubDate>Thu, 06 Apr 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00059.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du jeudi 6 avril 2023.</itunes:summary>
@@ -1298,7 +1367,7 @@
    <link>https://bx1.be/?p=621852</link>
    <pubDate>Wed, 05 Apr 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00058.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mercredi 5 avril 2023.</itunes:summary>
@@ -1310,7 +1379,7 @@
    <link>https://bx1.be/?p=621650</link>
    <pubDate>Tue, 04 Apr 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00057.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mardi 4 avril 2023.</itunes:summary>
@@ -1322,7 +1391,7 @@
    <link>https://bx1.be/?p=621531</link>
    <pubDate>Mon, 03 Apr 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00056.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du lundi 3 avril 2023.</itunes:summary>
@@ -1334,7 +1403,7 @@
    <link>https://bx1.be/?p=621290</link>
    <pubDate>Fri, 31 Mar 2023 14:30:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00055.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>01:30:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du vendredi 31 mars 2023.</itunes:summary>
@@ -1346,7 +1415,7 @@
    <link>https://bx1.be/?p=621071</link>
    <pubDate>Thu, 30 Mar 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00054.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du jeudi 30 mars 2023.</itunes:summary>
@@ -1358,7 +1427,7 @@
    <link>https://bx1.be/?p=620864</link>
    <pubDate>Wed, 29 Mar 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00053.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mercredi 29 mars 2023.</itunes:summary>
@@ -1370,7 +1439,7 @@
    <link>https://bx1.be/?p=620639</link>
    <pubDate>Tue, 28 Mar 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00052.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mardi 28 mars 2023.</itunes:summary>
@@ -1382,7 +1451,7 @@
    <link>https://bx1.be/?p=620413</link>
    <pubDate>Mon, 27 Mar 2023 09:25:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00051.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du lundi 27 mars 2023.</itunes:summary>
@@ -1394,7 +1463,7 @@
    <link>https://bx1.be/?p=620098</link>
    <pubDate>Fri, 24 Mar 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00050.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du vendredi 24 mars 2023.</itunes:summary>
@@ -1406,7 +1475,7 @@
    <link>https://bx1.be/?p=619824</link>
    <pubDate>Wed, 22 Mar 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00048.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>0:01:35</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mercredi 22 mars 2023.</itunes:summary>
@@ -1418,7 +1487,7 @@
    <link>https://bx1.be/?p=619637</link>
    <pubDate>Tue, 21 Mar 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00047.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mardi 21 mars 2023.</itunes:summary>
@@ -1430,7 +1499,7 @@
    <link>https://bx1.be/?p=619428</link>
    <pubDate>Mon, 20 Mar 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00046.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:30:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du lundi 20 mars 2023.</itunes:summary>
@@ -1442,7 +1511,7 @@
    <link>https://bx1.be/?p=619121</link>
    <pubDate>Fri, 17 Mar 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00045.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du vendredi 17 mars 2023.</itunes:summary>
@@ -1454,7 +1523,7 @@
    <link>https://bx1.be/?p=618925</link>
    <pubDate>Thu, 16 Mar 2023 09:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/GLX_1359382_ELM_8H_160323.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>00:12:50</itunes:duration>
    <itunes:summary>Marie Charette vous présente le journal de 8h, dans Bonjour Bruxelles : votre journal quotidien d’informations bruxelloises pour bien lancer votre journée ! Réécoutez le journal du jeudi 16 mars 2023.</itunes:summary>
@@ -1466,7 +1535,7 @@
    <link>https://bx1.be/?p=618799</link>
    <pubDate>Wed, 15 Mar 2023 13:30:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00043.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mercredi 15 mars 2023.</itunes:summary>
@@ -1478,7 +1547,7 @@
    <link>https://bx1.be/?p=618563</link>
    <pubDate>Tue, 14 Mar 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00042.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mardi 14 mars 2023.</itunes:summary>
@@ -1490,7 +1559,7 @@
    <link>https://bx1.be/?p=618562</link>
    <pubDate>Mon, 13 Mar 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00041.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du lundi 13 mars 2023.</itunes:summary>
@@ -1502,7 +1571,7 @@
    <link>https://bx1.be/?p=618194</link>
    <pubDate>Fri, 10 Mar 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00040.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du vendredi 10 mars 2023.</itunes:summary>
@@ -1514,7 +1583,7 @@
    <link>https://bx1.be/?p=618003</link>
    <pubDate>Thu, 09 Mar 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00039.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>01:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du jeudi 9 mars 2023.</itunes:summary>
@@ -1526,7 +1595,7 @@
    <link>https://bx1.be/?p=617849</link>
    <pubDate>Wed, 08 Mar 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00038.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>01:30:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mercredi 8 mars 2023.</itunes:summary>
@@ -1538,7 +1607,7 @@
    <link>https://bx1.be/?p=617856</link>
    <pubDate>Wed, 08 Mar 2023 09:15:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/BRJ_MAOUANE.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>00:10:33</itunes:duration>
    <itunes:summary>La coprésidente d'Ecolo Rajae Maouane a répondu aux questions de Fabrice Grosfilley dans Bonjour Bruxelles, ce mercredi 8 février 2023.</itunes:summary>
@@ -1550,7 +1619,7 @@
    <link>https://bx1.be/?p=617643</link>
    <pubDate>Tue, 07 Mar 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00037.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mardi 7 mars 2023.</itunes:summary>
@@ -1562,7 +1631,7 @@
    <link>https://bx1.be/?p=617504</link>
    <pubDate>Mon, 06 Mar 2023 08:30:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00036.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:30:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du lundi 6 mars 2023.</itunes:summary>
@@ -1574,7 +1643,7 @@
    <link>https://bx1.be/?p=615835</link>
    <pubDate>Fri, 17 Feb 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00025.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du vendredi 17 février 2023.</itunes:summary>
@@ -1586,7 +1655,7 @@
    <link>https://bx1.be/?p=615591</link>
    <pubDate>Thu, 16 Feb 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00024.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du jeudi 16 février 2023.</itunes:summary>
@@ -1598,7 +1667,7 @@
    <link>https://bx1.be/?p=615406</link>
    <pubDate>Wed, 15 Feb 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00023.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mercredi 15 février 2023.</itunes:summary>
@@ -1610,7 +1679,7 @@
    <link>https://bx1.be/?p=615158</link>
    <pubDate>Tue, 14 Feb 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00022.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mardi 14 février 2023.</itunes:summary>
@@ -1622,7 +1691,7 @@
    <link>https://bx1.be/?p=615068</link>
    <pubDate>Mon, 13 Feb 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00021.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:30:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du lundi 13 février 2023.</itunes:summary>
@@ -1634,7 +1703,7 @@
    <link>https://bx1.be/?p=615023</link>
    <pubDate>Mon, 13 Feb 2023 09:52:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM_DOSEDHUMOUR_13022023.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Chaque jour, Bonjour Bruxelles vous propose une dose d’humour avec des humoristes bruxellois au micro de Fabrice Grosfilley : ce lundi 13 février 2023, place à Jimmy Vandael.</itunes:summary>
@@ -1646,7 +1715,7 @@
    <link>https://bx1.be/?p=615014</link>
    <pubDate>Mon, 13 Feb 2023 09:15:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM_ITWPOL_13022023.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La députée bruxelloise Isabelle Pauthier (Ecolo) a répondu aux questions de Fabrice Grosfilley dans Bonjour Bruxelles, ce lundi 13 février 2023.</itunes:summary>
@@ -1658,7 +1727,7 @@
    <link>https://bx1.be/?p=615021</link>
    <pubDate>Mon, 13 Feb 2023 09:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM_LE8H_13022023.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Marie Charette vous présente le journal de 8h, dans Bonjour Bruxelles : votre journal quotidien d’informations bruxelloises pour bien lancer votre journée ! Réécoutez le journal du lundi 13 février 2023.</itunes:summary>
@@ -1670,7 +1739,7 @@
    <link>https://bx1.be/?p=615011</link>
    <pubDate>Mon, 13 Feb 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM_EDITO_13022023.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Dans son édito de ce lundi 13 février 2023, dans Bonjour Bruxelles, Fabrice Grosfilley revient sur les tensions concernant la mobilité au sein de la majorité bruxelloise. </itunes:summary>
@@ -1682,7 +1751,7 @@
    <link>https://bx1.be/?p=614664</link>
    <pubDate>Fri, 10 Feb 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00020.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du vendredi 10 février 2023.</itunes:summary>
@@ -1694,7 +1763,7 @@
    <link>https://bx1.be/?p=614415</link>
    <pubDate>Thu, 09 Feb 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00019.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du jeudi 9 février 2023.</itunes:summary>
@@ -1706,7 +1775,7 @@
    <link>https://bx1.be/?p=614232</link>
    <pubDate>Wed, 08 Feb 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00018.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mercredi 8 février 2023.</itunes:summary>
@@ -1718,7 +1787,7 @@
    <link>https://bx1.be/?p=614029</link>
    <pubDate>Tue, 07 Feb 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00017.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mardi 7 février 2023.</itunes:summary>
@@ -1730,7 +1799,7 @@
    <link>https://bx1.be/?p=613855</link>
    <pubDate>Mon, 06 Feb 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00016.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du lundi 6 février 2023.</itunes:summary>
@@ -1742,7 +1811,7 @@
    <link>https://bx1.be/?p=613682</link>
    <pubDate>Fri, 03 Feb 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00015.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:30:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du vendredi 3 février 2023.</itunes:summary>
@@ -1754,7 +1823,7 @@
    <link>https://bx1.be/?p=613390</link>
    <pubDate>Thu, 02 Feb 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00014.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du jeudi 2 février 2023.</itunes:summary>
@@ -1766,7 +1835,7 @@
    <link>https://bx1.be/?p=613207</link>
    <pubDate>Wed, 01 Feb 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00013.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mercredi 1er février 2023.</itunes:summary>
@@ -1778,7 +1847,7 @@
    <link>https://bx1.be/?p=612989</link>
    <pubDate>Tue, 31 Jan 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00012.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mardi 31 janvier 2023.</itunes:summary>
@@ -1790,7 +1859,7 @@
    <link>https://bx1.be/?p=612775</link>
    <pubDate>Mon, 30 Jan 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00011.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du lundi 30 janvier 2023.</itunes:summary>
@@ -1802,7 +1871,7 @@
    <link>https://bx1.be/?p=612465</link>
    <pubDate>Fri, 27 Jan 2023 08:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00010.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du vendredi 27 janvier 2023.</itunes:summary>
@@ -1814,7 +1883,7 @@
    <link>https://bx1.be/?p=612211</link>
    <pubDate>Thu, 26 Jan 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00009.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du jeudi 26 janvier 2023.</itunes:summary>
@@ -1826,7 +1895,7 @@
    <link>https://bx1.be/?p=612050</link>
    <pubDate>Wed, 25 Jan 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00008.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mercredi 25 janvier 2023.</itunes:summary>
@@ -1838,7 +1907,7 @@
    <link>https://bx1.be/?p=611786</link>
    <pubDate>Tue, 24 Jan 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00007.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du mardi 24 janvier 2023.</itunes:summary>
@@ -1850,7 +1919,7 @@
    <link>https://bx1.be/?p=611614</link>
    <pubDate>Mon, 23 Jan 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00006.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du lundi 23 janvier 2023.</itunes:summary>
@@ -1862,7 +1931,7 @@
    <link>https://bx1.be/?p=611344</link>
    <pubDate>Fri, 20 Jan 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00005.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c’est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l’émission du vendredi 20 janvier 2023.</itunes:summary>
@@ -1874,7 +1943,7 @@
    <link>https://bx1.be/?p=611068</link>
    <pubDate>Thu, 19 Jan 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00004.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c'est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l'émission du jeudi 19 janvier 2023.</itunes:summary>
@@ -1886,7 +1955,7 @@
    <link>https://bx1.be/?p=610880</link>
    <pubDate>Wed, 18 Jan 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00003.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c'est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l'émission du mercredi 18 janvier 2023.</itunes:summary>
@@ -1898,7 +1967,7 @@
    <link>https://bx1.be/?p=610631</link>
    <pubDate>Tue, 17 Jan 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00002.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c'est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l'émission du mardi 17 janvier 2023.</itunes:summary>
@@ -1910,7 +1979,7 @@
    <link>https://bx1.be/?p=610617</link>
    <pubDate>Tue, 17 Jan 2023 09:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM_JOURNAL_17012023.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>0:10:10</itunes:duration>
    <itunes:summary>Marie Charette vous présente le journal de 8h, dans Bonjour Bruxelles : votre journal quotidien d'informations bruxelloises pour bien lancer votre journée !</itunes:summary>
@@ -1922,7 +1991,7 @@
    <link>https://bx1.be/?p=610616</link>
    <pubDate>Tue, 17 Jan 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM_EDITO_17012023.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>0:03:10</itunes:duration>
    <itunes:summary>Dans son édito de ce mardi 17 janvier 2023, dans Bonjour Bruxelles, Fabrice Grosfilley revient sur le décès de Sourour A. dans une cellule du commissariat de la zone de police Bruxelles Capitale Ixelles et les suites de cette affaire.</itunes:summary>
@@ -1934,7 +2003,7 @@
    <link>https://bx1.be/?p=610472</link>
    <pubDate>Mon, 16 Jan 2023 08:25:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2023/01/Bonjour-Bruxelles-Logo-Podcast-Grand.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/ELM00001.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration>1:35:00</itunes:duration>
    <itunes:summary>Bonjour Bruxelles, c'est votre émission matinale de BX1, radio de Bruxelles, présentée du lundi au vendredi de 7h25 à 9h00 par Fabrice Grosfilley : réécoutez l'émission du lundi 16 janvier 2023.</itunes:summary>

@@ -7,8 +7,8 @@
   <itunes:summary>Une heure de culture</itunes:summary>
   <copyright>BX1 - 2025. Tous droits réservés.</copyright>
   <image>
-   <url>https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png</url>
-   <title>https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png</title>
+   <url>http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png</url>
+   <title>http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png</title>
   </image>
   <itunes:author>BX1</itunes:author>
   <itunes:owner>
@@ -18,15 +18,333 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="News"/>
   <language>fr</language>
-  <lastBuildDate>Fri, 23 May 2025 10:00:13 +0200</lastBuildDate>
-  <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+  <lastBuildDate>Thu, 17 Jul 2025 09:52:50 +0200</lastBuildDate>
+  <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+  <item>
+   <title>La Voix est libre, la dernière avec Pierre Solot</title>
+   <guid>764086</guid>
+   <link>https://bx1.be/?p=764086</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00215.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre, la dernière avec Pierre Solot</itunes:summary>
+   <description>La Voix est libre, la dernière avec Pierre Solot</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Boris Gronemberger &amp;#8211; 03/07/2025</title>
+   <guid>763901</guid>
+   <link>https://bx1.be/?p=763901</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00214.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Boris Gronemberger - 03/07/2025</itunes:summary>
+   <description>La Voix est libre avec Boris Gronemberger - 03/07/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Alice George Perez &amp;#8211; 02/07/2025</title>
+   <guid>763895</guid>
+   <link>https://bx1.be/?p=763895</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/LVEL_AGP_OK.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Alice Georges Perez - 02/07/2025</itunes:summary>
+   <description>La Voix est libre avec Alice Georges Perez - 02/07/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Sébastien Schmit &amp;#8211; 01/07/2025</title>
+   <guid>763449</guid>
+   <link>https://bx1.be/?p=763449</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00212.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Sébastien Schmit - 01/07/2025</itunes:summary>
+   <description>La Voix est libre avec Sébastien Schmit - 01/07/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Sammy Baloji &amp;#8211; 30/06/2025</title>
+   <guid>763160</guid>
+   <link>https://bx1.be/?p=763160</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00211.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Sammy Baloji - 30/06/2025</itunes:summary>
+   <description>La Voix est libre avec Sammy Baloji - 30/06/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Pipou &amp;#8211; 27/06/2025</title>
+   <guid>762700</guid>
+   <link>https://bx1.be/?p=762700</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00210.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Pipou - 27/06/2025</itunes:summary>
+   <description>La Voix est libre avec Pipou - 27/06/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Sista Mika &amp;#8211; 26/06/2025</title>
+   <guid>762514</guid>
+   <link>https://bx1.be/?p=762514</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00209.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Sista Mika - 26/06/2025</itunes:summary>
+   <description>La Voix est libre avec Sista Mika - 26/06/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Sara Lammens &amp;#8211; 25/06/2025</title>
+   <guid>762309</guid>
+   <link>https://bx1.be/?p=762309</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00208.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Sara Lammens - 25/06/2025</itunes:summary>
+   <description>La Voix est libre avec Sara Lammens - 25/06/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Dan &amp;#8220;Danovitch&amp;#8221; Klein &amp;#8211; 24/06/2025</title>
+   <guid>761955</guid>
+   <link>https://bx1.be/?p=761955</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00207.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Dan &quot;Danovitch&quot; Klein - 24/06/2025</itunes:summary>
+   <description>La Voix est libre avec Dan &quot;Danovitch&quot; Klein - 24/06/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Greg Noël &amp;#8211; 23/06/2025</title>
+   <guid>761781</guid>
+   <link>https://bx1.be/?p=761781</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00206.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Greg Noël - 23/06/2025</itunes:summary>
+   <description>La Voix est libre avec Greg Noël - 23/06/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Lise Bruyneel &amp;#8211; 20/06/2025</title>
+   <guid>761762</guid>
+   <link>https://bx1.be/?p=761762</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00205.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Lise Bruyneel - 20/06/2025</itunes:summary>
+   <description>La Voix est libre avec Lise Bruyneel - 20/06/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Anne-Catherine Gillet &amp;#8211; 19/06/2025</title>
+   <guid>761213</guid>
+   <link>https://bx1.be/?p=761213</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00204.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Anne-Catherine Gillet - 19/06/2025</itunes:summary>
+   <description>La Voix est libre avec Anne-Catherine Gillet - 19/06/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Sophie Muselle &amp;#8211; 18/06/2025</title>
+   <guid>760999</guid>
+   <link>https://bx1.be/?p=760999</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVXOO203_V2.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Sophie Muselle - 18/06/2025</itunes:summary>
+   <description>La Voix est libre avec Sophie Muselle - 18/06/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Jonathan Fournel &amp;#8211; 16/06/2025</title>
+   <guid>760540</guid>
+   <link>https://bx1.be/?p=760540</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00201.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Jonathan Fournel - 16/06/2025</itunes:summary>
+   <description>La Voix est libre avec Jonathan Fournel - 16/06/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Ilyas Mettioui &amp;#8211; 13/06/2025</title>
+   <guid>760262</guid>
+   <link>https://bx1.be/?p=760262</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00200.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Ilyas Mettioui - 13/06/2025</itunes:summary>
+   <description>La Voix est libre avec Ilyas Mettioui - 13/06/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Raphaële Germser &amp;#8211; 12/06/2025</title>
+   <guid>759997</guid>
+   <link>https://bx1.be/?p=759997</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00199.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Raphaële Germser - 12/06/2025</itunes:summary>
+   <description>La Voix est libre avec Raphaële Germser - 12/06/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Fabio Allibrio &amp;#8211; 11/06/2025</title>
+   <guid>759778</guid>
+   <link>https://bx1.be/?p=759778</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00198.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Fabio Allibrio - 11/06/2025</itunes:summary>
+   <description>La Voix est libre avec Fabio Allibrio - 11/06/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Gil Mortio &amp;#8211; 10/06/2025</title>
+   <guid>759553</guid>
+   <link>https://bx1.be/?p=759553</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00197.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Gil Mortio - 10/06/2025</itunes:summary>
+   <description>La Voix est libre avec Gil Mortio - 10/06/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Sarah Devaux &amp;#8211; 06/06/2025</title>
+   <guid>759144</guid>
+   <link>https://bx1.be/?p=759144</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00195.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Sarah Devaux - 06/06/2025</itunes:summary>
+   <description>La Voix est libre avec Sarah Devaux - 06/06/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Kaito Winse &amp;#8211; 05/06/2025</title>
+   <guid>758872</guid>
+   <link>https://bx1.be/?p=758872</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00194.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Kaito Winse - 05/06/2025</itunes:summary>
+   <description>La Voix est libre avec Kaito Winse - 05/06/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Hervé Charles &amp;#8211; 04/06/2025</title>
+   <guid>758521</guid>
+   <link>https://bx1.be/?p=758521</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00193.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Hervé Charles - 04/06/2025</itunes:summary>
+   <description>La Voix est libre avec Hervé Charles - 04/06/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Gaspard Sicx &amp;#8211; 03/06/2025</title>
+   <guid>758330</guid>
+   <link>https://bx1.be/?p=758330</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00192.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Gaspard Sicx - 03/06/2025</itunes:summary>
+   <description>La Voix est libre avec Gaspard Sicx - 03/06/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Marc Melià &amp;#8211; 02/06/2025</title>
+   <guid>758086</guid>
+   <link>https://bx1.be/?p=758086</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00191.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Marc Melià - 02/06/2025</itunes:summary>
+   <description>La Voix est libre avec Marc Melià - 02/06/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Roza &amp;#8211; 30/05/2025</title>
+   <guid>757799</guid>
+   <link>https://bx1.be/?p=757799</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00190.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Roza - 30/05/2025</itunes:summary>
+   <description>La Voix est libre avec Roza - 30/05/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Tania Garbarski &amp;#8211; 29/05/2025</title>
+   <guid>757811</guid>
+   <link>https://bx1.be/?p=757811</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00189.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Tania Garbarski</itunes:summary>
+   <description>La Voix est libre avec Tania Garbarski</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Magali Pinglaut &amp;#8211; 28/05/2025</title>
+   <guid>757734</guid>
+   <link>https://bx1.be/?p=757734</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00188.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Magali Pinglaut - 28/05/2025</itunes:summary>
+   <description>La Voix est libre avec Magali Pinglaut - 28/05/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Grégoire Gerstmans &amp;#8211; 27/05/2025</title>
+   <guid>757276</guid>
+   <link>https://bx1.be/?p=757276</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00187.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Grégoire Gerstmans - 27/05/2025</itunes:summary>
+   <description>La Voix est libre avec Grégoire Gerstmans - 27/05/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec PE &amp;#8211; 26/05/2025</title>
+   <guid>757010</guid>
+   <link>https://bx1.be/?p=757010</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00186.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec PE - 26/05/2025</itunes:summary>
+   <description>La Voix est libre avec PE - 26/05/2025</description>
+  </item>
+  <item>
+   <title>La Voix est libre avec Jean-Luc Cornette &amp;#8211; 23/05/025</title>
+   <guid>757031</guid>
+   <link>https://bx1.be/?p=757031</link>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00185.mp3" type="audio/mpeg" length="1"/>
+   <itunes:duration></itunes:duration>
+   <itunes:summary>La Voix est libre avec Jean-Luc Cornette - 23/05/025</itunes:summary>
+   <description>La Voix est libre avec Jean-Luc Cornette - 23/05/025</description>
+  </item>
   <item>
    <title>La Voix est libre avec Géraldine David &amp;#8211; 22/05/2025</title>
    <guid>756369</guid>
    <link>https://bx1.be/?p=756369</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00184.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La Voix est libre avec Géraldine David - 22/05/2025</itunes:summary>
@@ -36,9 +354,8 @@
    <title>La Voix est libre avec Clément Dechambre &amp;#8211; 21/05/2025</title>
    <guid>756106</guid>
    <link>https://bx1.be/?p=756106</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00183.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La Voix est libre avec Clément Dechambre - 21/05/2025</itunes:summary>
@@ -48,9 +365,8 @@
    <title>La Voix est libre avec Fabienne Pigière &amp;#8211; 20/05/2025</title>
    <guid>756022</guid>
    <link>https://bx1.be/?p=756022</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00182.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La Voix est libre avec Fabienne Pigière - 20/05/2025</itunes:summary>
@@ -60,9 +376,8 @@
    <title>La Voix est libre avec David Giannoni &amp;#8211; 19/05/2025</title>
    <guid>755573</guid>
    <link>https://bx1.be/?p=755573</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00181.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La Voix est libre avec David Giannoni - 19/05/2025</itunes:summary>
@@ -72,9 +387,8 @@
    <title>La Voix est libre avec Laetitia Mampaka &amp;#8211; 16/05/2025</title>
    <guid>755223</guid>
    <link>https://bx1.be/?p=755223</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00180.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La Voix est libre avec Laetitia Mampaka - 16/05/2025</itunes:summary>
@@ -84,9 +398,8 @@
    <title>La Voix est libre avec Maëlle Dufour &amp;#8211; 15/05/2025</title>
    <guid>755064</guid>
    <link>https://bx1.be/?p=755064</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00179.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La Voix est libre avec Maëlle Dufour - 15/05/2025</itunes:summary>
@@ -96,9 +409,8 @@
    <title>La Voix est libre avec Vincent Taloche &amp;#8211; 14/05/2025</title>
    <guid>754974</guid>
    <link>https://bx1.be/?p=754974</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00178.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La Voix est libre avec Vincent Taloche - 15/05/2025</itunes:summary>
@@ -108,9 +420,8 @@
    <title>La voix est libre avec Elisa VDK &amp;#8211; 13/05/2025</title>
    <guid>754534</guid>
    <link>https://bx1.be/?p=754534</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00177.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Elisa VDK - 13/05/2025</itunes:summary>
@@ -120,9 +431,8 @@
    <title>La voix est libre avec Bruno Tracq &amp;#8211; 12/05/2025</title>
    <guid>754346</guid>
    <link>https://bx1.be/?p=754346</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00176.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Bruno Tracq - 12/05/2025</itunes:summary>
@@ -132,9 +442,8 @@
    <title>La voix est libre avec Isabelle Collard &amp;#8211; 25/04/2025</title>
    <guid>752110</guid>
    <link>https://bx1.be/?p=752110</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00165.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Isabelle Collard - 25/04/2025</itunes:summary>
@@ -144,9 +453,8 @@
    <title>La voix est libre avec Half Asleep &amp;#8211; 24/04/2025</title>
    <guid>751914</guid>
    <link>https://bx1.be/?p=751914</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00164.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Half Asleep - 24/04/2025</itunes:summary>
@@ -156,9 +464,8 @@
    <title>La voix est libre avec Céline Masset &amp;#8211; 24/04/2025</title>
    <guid>751822</guid>
    <link>https://bx1.be/?p=751822</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00163.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Céline Masset - 24/04/2025</itunes:summary>
@@ -168,9 +475,8 @@
    <title>La voix est libre avec Stéphane Vuillet &amp;#8211; 22/04/2025</title>
    <guid>751514</guid>
    <link>https://bx1.be/?p=751514</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00162.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Stéphane Vuillet</itunes:summary>
@@ -180,9 +486,8 @@
    <title>La voix est libre avec Maria Cavalier-Bazan &amp;#8211; 18/04/2025</title>
    <guid>751074</guid>
    <link>https://bx1.be/?p=751074</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00160.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Maria Cavalier-Bazan - 18/04/2025</itunes:summary>
@@ -192,9 +497,8 @@
    <title>La voix est libre avec Harold Noben &amp;#8211; 17/04/2025</title>
    <guid>750994</guid>
    <link>https://bx1.be/?p=750994</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00159.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Harold Noben - 17/04/2025</itunes:summary>
@@ -204,9 +508,8 @@
    <title>La voix est libre avec Tom Bourgeois &amp;#8211; 16/04/2025</title>
    <guid>750689</guid>
    <link>https://bx1.be/?p=750689</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00158.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Tom Bourgeois - 16/04/2025</itunes:summary>
@@ -216,9 +519,8 @@
    <title>La voix est libre avec Daniel Blanga Gubbay &amp;#8211; 15/04/2025</title>
    <guid>750555</guid>
    <link>https://bx1.be/?p=750555</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00157.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Gabriel Blanga Gubbay - 15/04/2025</itunes:summary>
@@ -228,9 +530,8 @@
    <title>La voix est libre avec Fred Lani (Fred And The Healers) &amp;#8211; 14/04/2025</title>
    <guid>750551</guid>
    <link>https://bx1.be/?p=750551</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00156.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Fred Lani (Fred And The Healers) - 14/04/2025</itunes:summary>
@@ -240,9 +541,8 @@
    <title>La voix est libre avec Mitja Tusek &amp;#8211; 11/04/2025</title>
    <guid>750093</guid>
    <link>https://bx1.be/?p=750093</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00155.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Mitja Tusek - 11/04/2025</itunes:summary>
@@ -252,9 +552,8 @@
    <title>La voix est libre avec Philippe Braquerier &amp;#8211; 10/04/2025</title>
    <guid>749964</guid>
    <link>https://bx1.be/?p=749964</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00154.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Philippe Braquerier - 10/04/2025</itunes:summary>
@@ -264,9 +563,8 @@
    <title>La voix est libre avec Arthur Oudar &amp;#8211; 09/04/2025</title>
    <guid>749748</guid>
    <link>https://bx1.be/?p=749748</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00153.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Arthur Oudar - 09/04/2025</itunes:summary>
@@ -276,9 +574,8 @@
    <title>La voix est libre avec Esinam &amp;#8211; 08/04/2025</title>
    <guid>749664</guid>
    <link>https://bx1.be/?p=749664</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00152.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Esinam - 08/04/2025</itunes:summary>
@@ -288,9 +585,8 @@
    <title>La voix est libre avec Rafael Espinel (La Chiva Gantiva) &amp;#8211; 07/04/2025</title>
    <guid>749628</guid>
    <link>https://bx1.be/?p=749628</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00151.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Rafael Espinel (La Chiva Gantiva) - 07/04/2025</itunes:summary>
@@ -300,9 +596,8 @@
    <title>La Voix est libre avec Antoine Roméo &amp;#8211; 04/04/2025</title>
    <guid>749395</guid>
    <link>https://bx1.be/?p=749395</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00150.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La Voix est libre avec Antoine Roméo - 04/04/2025</itunes:summary>
@@ -312,9 +607,8 @@
    <title>La voix est libre avec Jean-Michel D’Hoop &amp;#8211; 03/04/2025</title>
    <guid>748915</guid>
    <link>https://bx1.be/?p=748915</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00149.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Jean-Michel D’Hoop - 03/04/2025</itunes:summary>
@@ -324,9 +618,8 @@
    <title>La voix est libre avec Mathieu Catala &amp;#8211; 02/04/2025</title>
    <guid>748656</guid>
    <link>https://bx1.be/?p=748656</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00148.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Mathieu Catala - 02/04/2025</itunes:summary>
@@ -336,9 +629,8 @@
    <title>La voix est libre avec Geoffrey Claustriaux &amp;#8211; 01/04/2025</title>
    <guid>748644</guid>
    <link>https://bx1.be/?p=748644</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00147.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Geoffrey Claustriaux - 01/04/2025</itunes:summary>
@@ -348,9 +640,8 @@
    <title>La voix est libre avec Mary Jimenez &amp;#8211; 31/03/2025</title>
    <guid>748213</guid>
    <link>https://bx1.be/?p=748213</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00146.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Mary Jimenez - 31/03/2025</itunes:summary>
@@ -360,9 +651,8 @@
    <title>La voix est libre avec Annick Gijzelings &amp;#8211; 28/03/2025</title>
    <guid>747359</guid>
    <link>https://bx1.be/?p=747359</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00145.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Annick Gijzelings - 28/03/2025</itunes:summary>
@@ -372,9 +662,8 @@
    <title>La voix est libre avec Guilhem Chatir &amp;#8211; 27/03/2025</title>
    <guid>745879</guid>
    <link>https://bx1.be/?p=745879</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00144.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Guilhem Chatir - 27/03/2025</itunes:summary>
@@ -384,9 +673,8 @@
    <title>La voix est libre avec Caroline Dumalin &amp;#8211; 26/03/2025</title>
    <guid>745594</guid>
    <link>https://bx1.be/?p=745594</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00143.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Caroline Dumalin - 26/03/2025</itunes:summary>
@@ -396,9 +684,8 @@
    <title>La voix est libre avec Sylvain Debaisieux &amp;#8211; 25/03/2025</title>
    <guid>745379</guid>
    <link>https://bx1.be/?p=745379</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00142.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Sylvain Debaisieux - 25/03/2025</itunes:summary>
@@ -408,9 +695,8 @@
    <title>La voix est libre avec Joost Fonteyne &amp;#8211; 24/03/2025</title>
    <guid>744862</guid>
    <link>https://bx1.be/?p=744862</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00141_V2 EDL.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Joost Fonteyne - 24/03/2025</itunes:summary>
@@ -420,9 +706,8 @@
    <title>La voix est libre avec Louise Vanneste &amp;#8211; 20/03/25</title>
    <guid>742903</guid>
    <link>https://bx1.be/?p=742903</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00139.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Louise Vanneste - 20/03/25</itunes:summary>
@@ -432,9 +717,8 @@
    <title>La voix est libre avec Sihame Haddioui &amp;#8211; 20/03/2025</title>
    <guid>742887</guid>
    <link>https://bx1.be/?p=742887</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00138.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Sihame Haddioui - 20/03/2025</itunes:summary>
@@ -444,9 +728,8 @@
    <title>La voix est libre avec Alek Boff (Alek et les Japonaises)</title>
    <guid>742425</guid>
    <link>https://bx1.be/?p=742425</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00137.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Alek Boff (Alek et les Japonaises)</itunes:summary>
@@ -456,9 +739,8 @@
    <title>La voix est libre avec Michiko Van de Velde &amp;#8211; 17/03/2025</title>
    <guid>742417</guid>
    <link>https://bx1.be/?p=742417</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00136.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Michiko Van de Velde - 17/03/2025</itunes:summary>
@@ -470,7 +752,7 @@
    <link>https://bx1.be/?p=742450</link>
    <pubDate>Fri, 14 Mar 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00125.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Layla Nabulsi - 14/03/2025</itunes:summary>
@@ -482,7 +764,7 @@
    <link>https://bx1.be/?p=740186</link>
    <pubDate>Thu, 13 Mar 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00124.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Marin Driguez - 13/03/2025</itunes:summary>
@@ -494,7 +776,7 @@
    <link>https://bx1.be/?p=739685</link>
    <pubDate>Wed, 12 Mar 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00123.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Ève Beuvens - 12/03/2025</itunes:summary>
@@ -506,7 +788,7 @@
    <link>https://bx1.be/?p=739601</link>
    <pubDate>Tue, 11 Mar 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00122_V2_PODCAST.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Agnes Quackels – 12/03/2025</itunes:summary>
@@ -518,7 +800,7 @@
    <link>https://bx1.be/?p=739625</link>
    <pubDate>Tue, 11 Mar 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00121_OK.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Manele Labidi - 11/03/2025</itunes:summary>
@@ -530,7 +812,7 @@
    <link>https://bx1.be/?p=736851</link>
    <pubDate>Fri, 21 Feb 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00120.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Dominique Seutin - 21/02/2025</itunes:summary>
@@ -542,7 +824,7 @@
    <link>https://bx1.be/?p=736743</link>
    <pubDate>Thu, 20 Feb 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00119.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Grandgeorge - 20/02/2025</itunes:summary>
@@ -554,7 +836,7 @@
    <link>https://bx1.be/?p=736418</link>
    <pubDate>Wed, 19 Feb 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00118.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Geneviève Lemal - 19/02/2025</itunes:summary>
@@ -566,7 +848,7 @@
    <link>https://bx1.be/?p=736163</link>
    <pubDate>Tue, 18 Feb 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00117.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Boris Tilquin - 18/02/2025</itunes:summary>
@@ -578,7 +860,7 @@
    <link>https://bx1.be/?p=736075</link>
    <pubDate>Mon, 17 Feb 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00116.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Pablo Fleury - 17/02/2025</itunes:summary>
@@ -590,7 +872,7 @@
    <link>https://bx1.be/?p=735623</link>
    <pubDate>Fri, 14 Feb 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00115.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Florian Noack - 14/02/2025</itunes:summary>
@@ -602,7 +884,7 @@
    <link>https://bx1.be/?p=735330</link>
    <pubDate>Thu, 13 Feb 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00114.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Vincent Peal - 13/02/2025</itunes:summary>
@@ -614,7 +896,7 @@
    <link>https://bx1.be/?p=734842</link>
    <pubDate>Wed, 12 Feb 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00113.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Zora Snake - 12/02/2025</itunes:summary>
@@ -626,7 +908,7 @@
    <link>https://bx1.be/?p=734623</link>
    <pubDate>Tue, 11 Feb 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00112.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Elsa Poisot - 11/02/2025</itunes:summary>
@@ -638,7 +920,7 @@
    <link>https://bx1.be/?p=734456</link>
    <pubDate>Mon, 10 Feb 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00111.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Gregory Zalcman - 10/02/2025</itunes:summary>
@@ -650,7 +932,7 @@
    <link>https://bx1.be/?p=734391</link>
    <pubDate>Fri, 07 Feb 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00110.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Charlotte de Schutter</itunes:summary>
@@ -662,7 +944,7 @@
    <link>https://bx1.be/?p=733903</link>
    <pubDate>Thu, 06 Feb 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00109.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Séverine Cayron</itunes:summary>
@@ -674,7 +956,7 @@
    <link>https://bx1.be/?p=733612</link>
    <pubDate>Wed, 05 Feb 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00108.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Fabrice Detry - 05/02/2025</itunes:summary>
@@ -686,7 +968,7 @@
    <link>https://bx1.be/?p=733413</link>
    <pubDate>Tue, 04 Feb 2025 18:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00107.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La Voix est libre avec Christine Delmotte-Weber - 04/02/2025</itunes:summary>
@@ -698,7 +980,7 @@
    <link>https://bx1.be/?p=733215</link>
    <pubDate>Mon, 03 Feb 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00106.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Antoine Guillaume - 03/02/2025</itunes:summary>
@@ -710,7 +992,7 @@
    <link>https://bx1.be/?p=732673</link>
    <pubDate>Fri, 31 Jan 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00105.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Patrick Leterme - 31/01/2025</itunes:summary>
@@ -722,7 +1004,7 @@
    <link>https://bx1.be/?p=732408</link>
    <pubDate>Thu, 30 Jan 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00104.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Michèle Noiret - 30/01/2025</itunes:summary>
@@ -734,7 +1016,7 @@
    <link>https://bx1.be/?p=732155</link>
    <pubDate>Wed, 29 Jan 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00103.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Christine Verschorren - 29/01/2025</itunes:summary>
@@ -744,9 +1026,8 @@
    <title>La voix est libre avec Lara Humbert &amp;#8211; 28/01/2025</title>
    <guid>731834</guid>
    <link>https://bx1.be/?p=731834</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00102.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Lara Humbert</itunes:summary>
@@ -758,7 +1039,7 @@
    <link>https://bx1.be/?p=731831</link>
    <pubDate>Fri, 24 Jan 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00100.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Vincent Liben</itunes:summary>
@@ -770,7 +1051,7 @@
    <link>https://bx1.be/?p=731828</link>
    <pubDate>Thu, 23 Jan 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00099.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Bruno Coppens</itunes:summary>
@@ -782,7 +1063,7 @@
    <link>https://bx1.be/?p=730705</link>
    <pubDate>Wed, 22 Jan 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00098.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Dynamic</itunes:summary>
@@ -794,7 +1075,7 @@
    <link>https://bx1.be/?p=730277</link>
    <pubDate>Tue, 21 Jan 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00097.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Richard Ruben</itunes:summary>
@@ -806,7 +1087,7 @@
    <link>https://bx1.be/?p=730273</link>
    <pubDate>Mon, 20 Jan 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00096.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Myriem Akheddiou</itunes:summary>
@@ -818,7 +1099,7 @@
    <link>https://bx1.be/?p=729372</link>
    <pubDate>Fri, 17 Jan 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00095.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Edoxi Gnoula  - 17/01/2025</itunes:summary>
@@ -830,7 +1111,7 @@
    <link>https://bx1.be/?p=729264</link>
    <pubDate>Thu, 16 Jan 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00094.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Renato Baccarat - 16/01/2025</itunes:summary>
@@ -842,7 +1123,7 @@
    <link>https://bx1.be/?p=728945</link>
    <pubDate>Wed, 15 Jan 2025 17:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00093.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Thierry Michel - 15/01/2025</itunes:summary>
@@ -854,7 +1135,7 @@
    <link>https://bx1.be/?p=728591</link>
    <pubDate>Tue, 14 Jan 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00092.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La Voix est libre avec Manon Magotteaux</itunes:summary>
@@ -866,7 +1147,7 @@
    <link>https://bx1.be/?p=728303</link>
    <pubDate>Mon, 13 Jan 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00091.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>L'invitée du Brunch avec Alejandra Borzyk</itunes:summary>
@@ -878,7 +1159,7 @@
    <link>https://bx1.be/?p=728366</link>
    <pubDate>Fri, 10 Jan 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00090.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La Voix est libre avec Benoît “Léon” Leclercq - 10/01/2025</itunes:summary>
@@ -890,7 +1171,7 @@
    <link>https://bx1.be/?p=727065</link>
    <pubDate>Wed, 08 Jan 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00088.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Julien Tanghe – 08/01/2025</itunes:summary>
@@ -902,7 +1183,7 @@
    <link>https://bx1.be/?p=726757</link>
    <pubDate>Tue, 07 Jan 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00087.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Joske Maelbeek  – 07/01/2025</itunes:summary>
@@ -914,7 +1195,7 @@
    <link>https://bx1.be/?p=726361</link>
    <pubDate>Mon, 06 Jan 2025 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00086.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Patrick Codenys (Front 242) – 06/01/2025</itunes:summary>
@@ -926,7 +1207,7 @@
    <link>https://bx1.be/?p=724920</link>
    <pubDate>Fri, 20 Dec 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00075_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Sabine Ringelheim reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec le musicien de jazz Michel Massot.</itunes:summary>
@@ -938,7 +1219,7 @@
    <link>https://bx1.be/?p=724621</link>
    <pubDate>Thu, 19 Dec 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00074_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Sabine Ringelheim reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec le pianiste, compositeur et arrangeur Jean Jadin.</itunes:summary>
@@ -950,7 +1231,7 @@
    <link>https://bx1.be/?p=724392</link>
    <pubDate>Wed, 18 Dec 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00073_Podcast_OK.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Sabine Ringelheim reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec la photographe et cinéaste Stéfanne Prijot.</itunes:summary>
@@ -962,7 +1243,7 @@
    <link>https://bx1.be/?p=724196</link>
    <pubDate>Tue, 17 Dec 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00072_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec le dramaturge et metteur en scène Patrick Bonté.</itunes:summary>
@@ -974,7 +1255,7 @@
    <link>https://bx1.be/?p=724009</link>
    <pubDate>Mon, 16 Dec 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00071_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec l'artiste multi-instrumentiste Quentin Maquet.</itunes:summary>
@@ -986,7 +1267,7 @@
    <link>https://bx1.be/?p=723631</link>
    <pubDate>Fri, 13 Dec 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00070_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec la comédienne Stéphane Bissot.</itunes:summary>
@@ -998,7 +1279,7 @@
    <link>https://bx1.be/?p=723363</link>
    <pubDate>Thu, 12 Dec 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00069_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec la chorégraphe Leslie Mannès.</itunes:summary>
@@ -1010,7 +1291,7 @@
    <link>https://bx1.be/?p=723127</link>
    <pubDate>Wed, 11 Dec 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00068_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec la réalisatrice Michèle Jacob.</itunes:summary>
@@ -1022,7 +1303,7 @@
    <link>https://bx1.be/?p=722906</link>
    <pubDate>Tue, 10 Dec 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00067_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre le duo post-punk ULTRA SUNN.</itunes:summary>
@@ -1034,7 +1315,7 @@
    <link>https://bx1.be/?p=722616</link>
    <pubDate>Mon, 09 Dec 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00066_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec l'actrice, réalisatrice et scénariste Anne Coesens.</itunes:summary>
@@ -1046,7 +1327,7 @@
    <link>https://bx1.be/?p=722208</link>
    <pubDate>Fri, 06 Dec 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00065_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Sabine Ringelheim reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec le guitariste Julien Tassin.</itunes:summary>
@@ -1058,7 +1339,7 @@
    <link>https://bx1.be/?p=721951</link>
    <pubDate>Thu, 05 Dec 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00064_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Sabine Ringelheim reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec la chorégraphe, danseuse, metteuse en scène et réalisatrice Isabella Soupart.</itunes:summary>
@@ -1070,7 +1351,7 @@
    <link>https://bx1.be/?p=721742</link>
    <pubDate>Wed, 04 Dec 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00063_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Sabine Ringelheim reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec la photographe et cinéaste Alex Poukine.</itunes:summary>
@@ -1082,7 +1363,7 @@
    <link>https://bx1.be/?p=721193</link>
    <pubDate>Tue, 03 Dec 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00062_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Sabine Ringelheim reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec la comédienne, autrice, metteuse en scène, productrice, scénariste et réalisatrice Selma Alaoui.</itunes:summary>
@@ -1094,7 +1375,7 @@
    <link>https://bx1.be/?p=720983</link>
    <pubDate>Mon, 02 Dec 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00061_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Sabine Ringelheim reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec Tania Nasielski, curatrice, critique d'art, professeur et directrice artistique du Centre d'art contemporain.</itunes:summary>
@@ -1106,7 +1387,7 @@
    <link>https://bx1.be/?p=720526</link>
    <pubDate>Fri, 29 Nov 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00060_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec le comédien Thierry Hellin.</itunes:summary>
@@ -1118,7 +1399,7 @@
    <link>https://bx1.be/?p=719930</link>
    <pubDate>Wed, 27 Nov 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00058_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec la réalisatrice Marie Mandy.</itunes:summary>
@@ -1130,7 +1411,7 @@
    <link>https://bx1.be/?p=719598</link>
    <pubDate>Tue, 26 Nov 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00057_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec le journaliste et historien de l'art Patrick Weber.</itunes:summary>
@@ -1142,7 +1423,7 @@
    <link>https://bx1.be/?p=719375</link>
    <pubDate>Mon, 25 Nov 2024 16:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00056_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec la musicienne Marcella Di Troia, membre du groupe Black Mirrors.</itunes:summary>
@@ -1154,7 +1435,7 @@
    <link>https://bx1.be/?p=718859</link>
    <pubDate>Fri, 22 Nov 2024 15:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00055_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Sabine Ringelheim reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec l'écrivain, scénariste et réalisateur Stefan Liberski.</itunes:summary>
@@ -1166,7 +1447,7 @@
    <link>https://bx1.be/?p=718448</link>
    <pubDate>Thu, 21 Nov 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00054_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Sabine Ringelheim reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec le cartographe et typographe Pierre Huyghebaert.</itunes:summary>
@@ -1176,9 +1457,8 @@
    <title>La voix est libre avec Lucie Lefauconnier &amp;#8211; 20/11/2024</title>
    <guid>717312</guid>
    <link>https://bx1.be/?p=717312</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00053_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Sabine Ringelheim reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec la musicienne, parolière, chanteuse et guitariste Lucie Lefauconnier.</itunes:summary>
@@ -1190,7 +1470,7 @@
    <link>https://bx1.be/?p=716974</link>
    <pubDate>Tue, 19 Nov 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00052_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Sabine Ringelheim reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec l'autrice, actrice, slammeuse, éducatrice spécialisée et animatrice radio Yousra Dahry.</itunes:summary>
@@ -1202,7 +1482,7 @@
    <link>https://bx1.be/?p=716775</link>
    <pubDate>Mon, 18 Nov 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00051_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Sabine Ringelheim reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec le chanteur, compositeur, guitariste et producteur Bai Kamara Jr.</itunes:summary>
@@ -1214,7 +1494,7 @@
    <link>https://bx1.be/?p=716387</link>
    <pubDate>Fri, 15 Nov 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00050_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec l'autrice Isabelle Schmidt.</itunes:summary>
@@ -1226,7 +1506,7 @@
    <link>https://bx1.be/?p=716354</link>
    <pubDate>Thu, 14 Nov 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00049_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec l'acteur et comédien Erico Salamone.</itunes:summary>
@@ -1238,7 +1518,7 @@
    <link>https://bx1.be/?p=715724</link>
    <pubDate>Wed, 13 Nov 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00048_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec l'auteur-compositeur-interprète Benjamin Schoos.</itunes:summary>
@@ -1250,7 +1530,7 @@
    <link>https://bx1.be/?p=715434</link>
    <pubDate>Tue, 12 Nov 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00047_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec la journaliste, photographe et cinéaste Pauline Beugnies.</itunes:summary>
@@ -1262,7 +1542,7 @@
    <link>https://bx1.be/?p=715003</link>
    <pubDate>Fri, 08 Nov 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00045_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Sabine Ringelheim reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec le musicien jazz Martin Salemi.</itunes:summary>
@@ -1274,7 +1554,7 @@
    <link>https://bx1.be/?p=714686</link>
    <pubDate>Thu, 07 Nov 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00044_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Sabine Ringelheim reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec le guitariste Clément Nourry.</itunes:summary>
@@ -1286,7 +1566,7 @@
    <link>https://bx1.be/?p=714114</link>
    <pubDate>Tue, 05 Nov 2024 14:00:00 +0100</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00042_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Sabine Ringelheim reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec l'auteur, metteur en scène et comédien Emmanuel de Candido.</itunes:summary>
@@ -1298,7 +1578,7 @@
    <link>https://bx1.be/?p=710162</link>
    <pubDate>Fri, 18 Oct 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00040_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec la photographe et réalisatrice Alice Khol.</itunes:summary>
@@ -1310,7 +1590,7 @@
    <link>https://bx1.be/?p=709731</link>
    <pubDate>Thu, 17 Oct 2024 16:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00039_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec Michel Sordinia, bassiste, chanteur et parolier du groupe The Names.</itunes:summary>
@@ -1322,7 +1602,7 @@
    <link>https://bx1.be/?p=709480</link>
    <pubDate>Wed, 16 Oct 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00038_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec Jessica Gazon, cocréatrice de la pièce &quot;Marcel·le&quot;, à retrouver jusqu'au 9 novembre 2024 au Théâtre de la Toison d'Or.</itunes:summary>
@@ -1334,7 +1614,7 @@
    <link>https://bx1.be/?p=709119</link>
    <pubDate>Tue, 15 Oct 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00037_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec Alain Baran, le dernier secrétaire particulier d'Hergé.</itunes:summary>
@@ -1346,7 +1626,7 @@
    <link>https://bx1.be/?p=708912</link>
    <pubDate>Mon, 14 Oct 2024 16:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00036_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec l'auteur-compositeur-interprète Nicolas Michaux.</itunes:summary>
@@ -1358,7 +1638,7 @@
    <link>https://bx1.be/?p=708126</link>
    <pubDate>Fri, 11 Oct 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00035_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Sabine Ringelheim reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec le metteur en scène, comédien et écrivain Dorcy Ruygamba.</itunes:summary>
@@ -1370,7 +1650,7 @@
    <link>https://bx1.be/?p=707842</link>
    <pubDate>Thu, 10 Oct 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00034_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Sabine Ringelheim reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec la compositrice, chanteuse, guitariste et pianiste Claire Vailler.</itunes:summary>
@@ -1382,7 +1662,7 @@
    <link>https://bx1.be/?p=707565</link>
    <pubDate>Wed, 09 Oct 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00033_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Sabine Ringelheim reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec le danseur et chorégraphe Mohamed Toukabri.</itunes:summary>
@@ -1394,7 +1674,7 @@
    <link>https://bx1.be/?p=707135</link>
    <pubDate>Tue, 08 Oct 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00032_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Sabine Ringelheim reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec la cinéaste Samira Et Mouzghibati.</itunes:summary>
@@ -1406,7 +1686,7 @@
    <link>https://bx1.be/?p=706889</link>
    <pubDate>Mon, 07 Oct 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00031_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Sabine Ringelheim reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec le pianiste et compositeur Kris Defoort.</itunes:summary>
@@ -1418,7 +1698,7 @@
    <link>https://bx1.be/?p=706423</link>
    <pubDate>Fri, 04 Oct 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00030_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec le chanteur, compositeur et producteur Giacomo Panarisi.</itunes:summary>
@@ -1430,7 +1710,7 @@
    <link>https://bx1.be/?p=706034</link>
    <pubDate>Thu, 03 Oct 2024 16:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00029_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec l'autrice Karine Lambert.</itunes:summary>
@@ -1442,7 +1722,7 @@
    <link>https://bx1.be/?p=705716</link>
    <pubDate>Wed, 02 Oct 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00028_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec l'artiste, illustratrice et animatrice Marion Sellenet.</itunes:summary>
@@ -1454,7 +1734,7 @@
    <link>https://bx1.be/?p=705401</link>
    <pubDate>Tue, 01 Oct 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00027_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec l'acteur Michaël Erpelding.</itunes:summary>
@@ -1466,7 +1746,7 @@
    <link>https://bx1.be/?p=705136</link>
    <pubDate>Mon, 30 Sep 2024 02:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00026_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec l'auteur-compositeur-interprète Saule.</itunes:summary>
@@ -1478,7 +1758,7 @@
    <link>https://bx1.be/?p=704677</link>
    <pubDate>Fri, 27 Sep 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00025_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Sabine Ringelheim reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec la chanteuse lyrique Clara Inglese.</itunes:summary>
@@ -1490,7 +1770,7 @@
    <link>https://bx1.be/?p=704069</link>
    <pubDate>Wed, 25 Sep 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00023_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Sabine Ringelheim reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec le peintre et dessinateur Jean-François Octave.</itunes:summary>
@@ -1502,7 +1782,7 @@
    <link>https://bx1.be/?p=703738</link>
    <pubDate>Tue, 24 Sep 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00022_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Sabine Ringelheim reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec l'autrice Daphné Tamage pour son nouveau roman &quot;Le Retour de Saturne&quot;.</itunes:summary>
@@ -1514,7 +1794,7 @@
    <link>https://bx1.be/?p=703317</link>
    <pubDate>Mon, 23 Sep 2024 16:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00021_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Sabine Ringelheim reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec le danseur et chorégraphe Jan Martens pour son spectacle &quot;VOICE NOISE&quot;.</itunes:summary>
@@ -1524,9 +1804,8 @@
    <title>La voix est libre avec Florence Minder &amp;#8211; 20/09/2024</title>
    <guid>702901</guid>
    <link>https://bx1.be/?p=702901</link>
-   <pubDate></pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00020_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec l'autrice, metteuse en scène et comédienne Florence Minder.</itunes:summary>
@@ -1538,7 +1817,7 @@
    <link>https://bx1.be/?p=702611</link>
    <pubDate>Thu, 19 Sep 2024 16:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00019_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec le producteur et scénariste Ben Stassen.</itunes:summary>
@@ -1550,7 +1829,7 @@
    <link>https://bx1.be/?p=702371</link>
    <pubDate>Wed, 18 Sep 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00018_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture de Fédération Wallonie-Bruxelles. Aujourd'hui, rencontre avec la comédienne Isabelle Paternotte.</itunes:summary>
@@ -1562,7 +1841,7 @@
    <link>https://bx1.be/?p=702084</link>
    <pubDate>Tue, 17 Sep 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00017_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Pierre Guyaut-Genon - 17/09/2024</itunes:summary>
@@ -1574,7 +1853,7 @@
    <link>https://bx1.be/?p=701784</link>
    <pubDate>Mon, 16 Sep 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00016_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Piet Maris de Jaune Toujours - 16/09/2024</itunes:summary>
@@ -1586,7 +1865,7 @@
    <link>https://bx1.be/?p=700820</link>
    <pubDate>Fri, 13 Sep 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/GLX_1974092_EVXOO15_PODCAST_V2 EDL.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Jorge Leon - 13/09/2024</itunes:summary>
@@ -1598,7 +1877,7 @@
    <link>https://bx1.be/?p=700545</link>
    <pubDate>Thu, 12 Sep 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00014_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Olivier Grasser - 12/09/2024</itunes:summary>
@@ -1610,7 +1889,7 @@
    <link>https://bx1.be/?p=700289</link>
    <pubDate>Wed, 11 Sep 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00013_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Eléonore Saintagnan - 11/09/2024</itunes:summary>
@@ -1622,7 +1901,7 @@
    <link>https://bx1.be/?p=699973</link>
    <pubDate>Tue, 10 Sep 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00012_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Stephan Vanfleteren - 10/09/2024</itunes:summary>
@@ -1634,7 +1913,7 @@
    <link>https://bx1.be/?p=699681</link>
    <pubDate>Mon, 09 Sep 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00011_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Michiel Blanchart - 09/09/2024</itunes:summary>
@@ -1646,7 +1925,7 @@
    <link>https://bx1.be/?p=697945</link>
    <pubDate>Fri, 06 Sep 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00010_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Fabrizio Rongione - 06/09/2024</itunes:summary>
@@ -1658,7 +1937,7 @@
    <link>https://bx1.be/?p=697738</link>
    <pubDate>Thu, 05 Sep 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00009_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>La voix est libre avec Julie Rens - 05/09/2024</itunes:summary>
@@ -1670,7 +1949,7 @@
    <link>https://bx1.be/?p=697508</link>
    <pubDate>Wed, 04 Sep 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00008_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur ou une actrice du monde de la culture. Aujourd'hui, rencontre avec Bérengère de Laveleye, la conservatrice responsable des musées de la ville de Bruxelles.</itunes:summary>
@@ -1682,7 +1961,7 @@
    <link>https://bx1.be/?p=697314</link>
    <pubDate>Tue, 03 Sep 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00007_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Tous les jours de 13h à 14h, Pierre Beaudot reçoit un acteur du monde de la culture. Aujourd'hui, rencontre avec le graffeur HMI.</itunes:summary>
@@ -1694,7 +1973,7 @@
    <link>https://bx1.be/?p=697179</link>
    <pubDate>Mon, 02 Sep 2024 02:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00006_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Pierre Beaudot reçoit Frédéric Sojcher, réalisateur et écrivain.</itunes:summary>
@@ -1706,7 +1985,7 @@
    <link>https://bx1.be/?p=696777</link>
    <pubDate>Fri, 30 Aug 2024 02:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00005_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Sabine Ringelheim reçoit Manuel Roland, musicien et compositeur de musique de films.</itunes:summary>
@@ -1718,7 +1997,7 @@
    <link>https://bx1.be/?p=696552</link>
    <pubDate>Thu, 29 Aug 2024 02:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00004_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Sabine Ringelheim reçoit Ariane Van Dievoet, une designer et sculptrice exposée au Brussels Design September.</itunes:summary>
@@ -1730,7 +2009,7 @@
    <link>https://bx1.be/?p=696333</link>
    <pubDate>Wed, 28 Aug 2024 02:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00003_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Sabine Ringelheim reçoit Alexandre Caputo, le directeur artistique et codirecteur général du Théâtre des Tanneurs.</itunes:summary>
@@ -1742,7 +2021,7 @@
    <link>https://bx1.be/?p=696165</link>
    <pubDate>Tue, 27 Aug 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00002_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Sabine Ringelheim reçoit Nathalie Borlée, nouvelle directrice technique du Théâtre Varia.</itunes:summary>
@@ -1754,7 +2033,7 @@
    <link>https://bx1.be/?p=695976</link>
    <pubDate>Mon, 26 Aug 2024 15:00:00 +0200</pubDate>
    <itunes:explicit>false</itunes:explicit>
-   <itunes:image href="https://bx1.be/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
+   <itunes:image href="http://bx1.local/wp-content/uploads/2024/09/REDAC_TEST-2.png"/>
    <enclosure url="https://dts.podtrac.com/redirect.mp3/bx1.be/videofiles/EVX00001_Podcast.mp3" type="audio/mpeg" length="1"/>
    <itunes:duration></itunes:duration>
    <itunes:summary>Pierre Beaudot reçoit l'actrice et chanteuse Stéphanie Crayencour.</itunes:summary>

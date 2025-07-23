@@ -48,9 +48,16 @@
     set_transient($transient_name, $queryNews, 2 * MINUTE_IN_SECONDS);
   }
 
+  // Variable pour stocker l'ID du premier article
+  $first_article_id = null;
+
   // Vérifier s'il y a des articles
   if ($queryNews->have_posts()) :
     while ($queryNews->have_posts()) : $queryNews->the_post();
+      // Stocker l'ID du premier article
+      if ($first_article_id === null) {
+        $first_article_id = get_the_ID();
+      }
       $videoFileName = get_post_meta($post->ID, 'wpcf-video-name-news', true);
       $flash_terms = wp_get_post_terms(get_the_ID(), 'flash_news', array('fields' => 'slugs'));
       $is_flash_news = in_array('oui', $flash_terms);
@@ -111,6 +118,11 @@
       // Activer le tri personnalisé pour afficher les articles mis en avant en premier
       // 'featured_news_order' => true,
     );
+
+    // Exclure le premier article s'il existe
+    if ($first_article_id) {
+      $argsNews['post__not_in'] = array($first_article_id);
+    }
 
     $queryNews = new WP_Query($argsNews);
 

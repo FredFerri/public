@@ -921,26 +921,26 @@ add_filter('intermediate_image_sizes_advanced', 'disable_specific_image_sizes');
 
 
 // Ajout automatique du paramètre theme=classic en fin d'URL sur l'ensemble du site
-function add_theme_param_to_url() {
-	// Vérifiez si le paramètre 'theme' est déjà présent dans l'URL.
-	if (!isset($_GET['theme'])) {
+// function add_theme_param_to_url() {
+// 	// Vérifiez si le paramètre 'theme' est déjà présent dans l'URL.
+// 	if (!isset($_GET['theme'])) {
 
-		$theme = isset($_COOKIE['theme']) ? $_COOKIE['theme'] : 'classic';
+// 		$theme = isset($_COOKIE['theme']) ? $_COOKIE['theme'] : 'classic';
 
-		// Récupérez l'URL actuelle.
-		$current_url = home_url(add_query_arg([], $_SERVER['REQUEST_URI']));
+// 		// Récupérez l'URL actuelle.
+// 		$current_url = home_url(add_query_arg([], $_SERVER['REQUEST_URI']));
 
-		if ($current_url != 'https://bx1.be/wp-content/themes/BX1-2017/font/FuturaStdBook.otf') {
-			// Ajoutez le paramètre 'theme=classic' à l'URL.
-			$new_url = add_query_arg('theme', $theme, $current_url);
+// 		if ($current_url != 'https://bx1.be/wp-content/themes/BX1-2017/font/FuturaStdBook.otf') {
+// 			// Ajoutez le paramètre 'theme=classic' à l'URL.
+// 			$new_url = add_query_arg('theme', $theme, $current_url);
 
-			// Redirigez vers la nouvelle URL avec le paramètre ajouté.
-			wp_redirect($new_url);
-			exit;
-		}
-	}
-}
-add_action('template_redirect', 'add_theme_param_to_url');
+// 			// Redirigez vers la nouvelle URL avec le paramètre ajouté.
+// 			wp_redirect($new_url);
+// 			exit;
+// 		}
+// 	}
+// }
+// add_action('template_redirect', 'add_theme_param_to_url');
 
 
 // Création d'un flux RSS

@@ -256,7 +256,7 @@
       </div>
       <div class="header-center">
         <div class="header-btn-directtv">
-          <a href="https://bx1.be/lives/direct-tv/?theme=<?= isset($_GET['theme']) ? esc_attr($_GET['theme']) : 'classic' ?>" title="Accéder au direct radio">
+          <a href="https://bx1.be/lives/direct-tv" title="Accéder au direct radio">
             <img src="/wp-content/themes/BX1-2017/images/direct-tv.png" width="110" height="94" alt="" loading="eager" />
           </a>
         </div>
@@ -268,12 +268,12 @@
       </div>
       <div class="header-right">
         <div class="header-btn-whatsapp">
-          <a href="https://bx1.be/whatsapp/?theme=<?= isset($_GET['theme']) ? esc_attr($_GET['theme']) : 'classic' ?>" title="Contactez-nous via WhatsApp">
+          <a href="https://bx1.be/whatsapp" title="Contactez-nous via WhatsApp">
             <img src="/wp-content/themes/BX1-2017/images/whatsapp.png" width="110" height="102" alt="" loading="eager" />
           </a>
         </div>
         <div class="header-btn-alert">
-          <a href="https://bx1.be/alertez-nous?theme=<?= isset($_GET['theme']) ? esc_attr($_GET['theme']) : 'classic' ?>" title="Alertez-nous">
+          <a href="https://bx1.be/alertez-nous" title="Alertez-nous">
             <img src="/wp-content/themes/BX1-2017/images/alertez-nous.png" width="114" height="98" alt="" loading="eager" />
           </a>
         </div>
